@@ -1,9 +1,8 @@
-title: Ethan's documentation
+title: Ethan documentation
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: babyworm DOCS
-baseurl: "/"
-url: https://babyworm.github.io
-
+baseurl: ""
+url: "https://babyworm.github.io"
 repository: babyworm/babyworm.github.io
 
 permalink: pretty
