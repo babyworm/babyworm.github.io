@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>babyworm Hugo Site</title>
-    <link>https://babyworm.github.io/index.html</link>
+    <link>http://localhost:8080/index.html</link>
     <description>This is a new home page.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2024 23:06:53 +0900</lastBuildDate>
-    <atom:link href="https://babyworm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basics</title>
-      <link>https://babyworm.github.io/basics/index.html</link>
+      <link>http://localhost:8080/basics/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://babyworm.github.io/basics/index.html</guid>
+      <guid>http://localhost:8080/basics/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://babyworm.github.io/posts/index.html</link>
+      <link>http://localhost:8080/posts/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://babyworm.github.io/posts/index.html</guid>
+      <guid>http://localhost:8080/posts/index.html</guid>
       <description></description>
     </item>
   </channel>
