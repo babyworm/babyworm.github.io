@@ -9,24 +9,24 @@
     <lastBuildDate>Mon, 06 May 2024 11:07:23 +0900</lastBuildDate>
     <atom:link href="http://localhost:8080/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Third Content</title>
-      <link>http://localhost:8080/basics/third-content/index.html</link>
-      <pubDate>Mon, 06 May 2024 11:07:23 +0900</pubDate>
-      <guid>http://localhost:8080/basics/third-content/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>First Content</title>
       <link>http://localhost:8080/basics/first-content/index.html</link>
       <pubDate>Mon, 06 May 2024 11:07:21 +0900</pubDate>
       <guid>http://localhost:8080/basics/first-content/index.html</guid>
-      <description>First Content</description>
+      <description>First Content test on the way of first content</description>
     </item>
     <item>
       <title>Second Content</title>
       <link>http://localhost:8080/basics/second-content/index.html</link>
       <pubDate>Mon, 06 May 2024 11:07:21 +0900</pubDate>
       <guid>http://localhost:8080/basics/second-content/index.html</guid>
+      <description>You can use the second content</description>
+    </item>
+    <item>
+      <title>Third Content</title>
+      <link>http://localhost:8080/basics/third-content/index.html</link>
+      <pubDate>Mon, 06 May 2024 11:07:23 +0900</pubDate>
+      <guid>http://localhost:8080/basics/third-content/index.html</guid>
       <description></description>
     </item>
   </channel>

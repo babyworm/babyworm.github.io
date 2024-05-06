@@ -9,27 +9,27 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Basics",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Third Content",
-    "uri": "/basics/third-content/index.html"
-  },
-  {
-    "breadcrumb": "Basics",
-    "content": "First Content",
-    "description": "First Content",
+    "content": " First Content test on the way of first content",
+    "description": "First Content test on the way of first content",
     "tags": [],
     "title": "First Content",
     "uri": "/basics/first-content/index.html"
   },
   {
     "breadcrumb": "Basics",
-    "content": "",
-    "description": "",
+    "content": "You can use the second content",
+    "description": "You can use the second content",
     "tags": [],
     "title": "Second Content",
     "uri": "/basics/second-content/index.html"
+  },
+  {
+    "breadcrumb": "Basics",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Third Content",
+    "uri": "/basics/third-content/index.html"
   },
   {
     "breadcrumb": "",

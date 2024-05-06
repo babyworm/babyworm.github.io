@@ -3,7 +3,7 @@
   <channel>
     <title>First Content :: Babyworm Hugo Site</title>
     <link>http://localhost:8080/basics/first-content/index.html</link>
-    <description>First Content</description>
+    <description>First Content test on the way of first content</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
