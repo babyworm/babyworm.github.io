@@ -1,0 +1,8 @@
+baseURL: https://babyworm.github.io/
+languageCode: en-us
+params:
+  contact:
+    email: babyworm@gmail.com
+    phone: 
+  subtitle: The Best Widgets on Earth
+title: Test
