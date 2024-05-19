@@ -167,13 +167,10 @@ defaultContentLanguage = "en"           # Default language to use
 
   [params.social]
     a-email = "mailto:babyworm@gmail.com"
-    b-linkedin = "http://localhost:1313"
-    c-facebook = "http://localhost:1313"
-    d-stack-overflow = "http://localhost:1313"
-    e-google = "http://localhost:1313"
-    f-github = "http://localhost:1313"
-    g-instagram = "http://localhost:1313"
-    h-youtube = "http://localhost:1313"
+    b-linkedin = "https://www.linkedin.com/in/hyungyu-ethan-kim/"
+    c-facebook = "https://www.facebook.com/ethan.hyungyu"
+    d-stack-overflow = "https://stackoverflow.com/users/4914704/babyworm"
+    f-github = "https://github.com/babyworm"
 
 
 
