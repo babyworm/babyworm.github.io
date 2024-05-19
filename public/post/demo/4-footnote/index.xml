@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo: Footnote :: Babyworm Hugo Site</title>
+    <link>http://localhost:8080/post/demo/4-footnote/index.html</link>
+    <description>Hugo-theme-jane optimized for footnote. When you mouse hover the footnote1 , footnote content will be displayed.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved, Babyworm</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:8080/post/demo/4-footnote/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

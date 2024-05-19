@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/__posts/basics/</link>
+    <description>Recent content in Basics on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (Hyun-Gyu Kim)</managingEditor>
+    <webMaster>babyworm@gmail.com (Hyun-Gyu Kim)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 06 May 2024 11:07:23 +0900</lastBuildDate>
+    <atom:link href="http://localhost:8080/__posts/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Content</title>
+      <link>http://localhost:8080/__posts/basics/second-content/</link>
+      <pubDate>Mon, 06 May 2024 11:07:21 +0900</pubDate><author>babyworm@gmail.com (Hyun-Gyu Kim)</author>
+      <guid>http://localhost:8080/__posts/basics/second-content/</guid>
+      <description>You can use the second content</description>
+    </item>
+    <item>
+      <title>Third Content</title>
+      <link>http://localhost:8080/__posts/basics/third-content/</link>
+      <pubDate>Mon, 06 May 2024 11:07:23 +0900</pubDate><author>babyworm@gmail.com (Hyun-Gyu Kim)</author>
+      <guid>http://localhost:8080/__posts/basics/third-content/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

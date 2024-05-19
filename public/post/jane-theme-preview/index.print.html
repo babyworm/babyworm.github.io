@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=8080&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.125.6">
+    <meta name="generator" content="Relearn 6.0.0+tip">
+    <meta name="description" content="Markdown is created by Daring Fireball, the original guideline is here. Its syntax, however, varies between different parsers or editors.
+Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.">
+    <meta name="author" content="Hyun-Gyu Kim">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Jane Theme Preview :: Babyworm Hugo Site">
+    <meta name="twitter:description" content="Markdown is created by Daring Fireball, the original guideline is here. Its syntax, however, varies between different parsers or editors.
+Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.">
+    <meta property="og:url" content="http://localhost:8080/post/jane-theme-preview/index.html">
+    <meta property="og:site_name" content="Babyworm Hugo Site">
+    <meta property="og:title" content="Jane Theme Preview :: Babyworm Hugo Site">
+    <meta property="og:description" content="Markdown is created by Daring Fireball, the original guideline is here. Its syntax, however, varies between different parsers or editors.
+Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.">
+    <meta property="og:locale" content="en">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Posts">
+    <meta property="article:published_time" content="2018-01-01T16:01:23+08:00">
+    <meta property="article:modified_time" content="2018-03-07T16:01:23+08:00">
+    <meta property="article:tag" content="Preview">
+    <meta property="article:tag" content="Shortcodes">
+    <meta property="article:tag" content="Tag-6">
+    <meta itemprop="name" content="Jane Theme Preview :: Babyworm Hugo Site">
+    <meta itemprop="description" content="Markdown is created by Daring Fireball, the original guideline is here. Its syntax, however, varies between different parsers or editors.
+Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.">
+    <meta itemprop="datePublished" content="2018-01-01T16:01:23+08:00">
+    <meta itemprop="dateModified" content="2018-03-07T16:01:23+08:00">
+    <meta itemprop="wordCount" content="1583">
+    <meta itemprop="keywords" content="Preview,Shortcodes,Tag-6">
+    <title>Jane Theme Preview :: Babyworm Hugo Site</title>
+    <link href="http://localhost:8080/post/jane-theme-preview/index.html" rel="canonical" type="text/html" title="Jane Theme Preview :: Babyworm Hugo Site">
+    <link href="/post/jane-theme-preview/index.xml" rel="alternate" type="application/rss+xml" title="Jane Theme Preview :: Babyworm Hugo Site">
+    <link href="/images/favicon.ico?1716105645" rel="icon" type="image/x-icon" sizes="any">
+    <link href="/css/fontawesome-all.min.css?1716105645" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1716105645" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1716105645" rel="stylesheet">
+    <link href="/css/auto-complete.css?1716105645" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1716105645" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1716105645" rel="stylesheet">
+    <link href="/css/fonts.css?1716105645" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1716105645" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1716105645" rel="stylesheet">
+    <link href="/css/theme-auto.css?1716105645" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-auto.css?1716105645" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1716105645" rel="stylesheet">
+    <link href="/css/print.css?1716105645" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1716105645" rel="stylesheet">
+    <script src="/js/variant.js?1716105645"></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.relBasePath='..\/..';
+      window.relearn.relBaseUri='..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:8080';
+      window.index_js_url="/index.search.js";
+      // variant stuff
+      window.variants && variants.init( [ 'auto' ] );
+      // translations
+      window.T_Copy_to_clipboard = `Copy to clipboard`;
+      window.T_Copied_to_clipboard = `Copied to clipboard!`;
+      window.T_Copy_link_to_clipboard = `Copy link to clipboard`;
+      window.T_Link_copied_to_clipboard = `Copied link to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+    </script>
+  </head>
+  <body class="mobile-support print" data-url="/post/jane-theme-preview/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/post/index.html"><span itemprop="name">Posts</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Jane Theme Preview</span><meta itemprop="position" content="2"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/post/jane-theme-preview.zh-cn/index.html" title="Jane 主题预览 (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/post/docs/how-to-contribute/index.html" title="How to Contribute (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable default" tabindex="-1">
+        <div class="flex-block-wrapper">
+          <article class="default">
+            <header class="headline">
+<div class=" taxonomy-tags term-list cstyle  tags" title="Tags" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <ul>
+    <li><a class="term-link" href="/tags/preview/index.html">Preview</a></li>
+    <li><a class="term-link" href="/tags/shortcodes/index.html">Shortcodes</a></li>
+    <li><a class="term-link" href="/tags/tag-6/index.html">Tag-6</a></li>
+  </ul>
+</div>
+            </header>
+
+<h1 id="jane-theme-preview">Jane Theme Preview</h1>
+
+<p><strong>Markdown</strong> is created by <a href="http://daringfireball.net/" rel="external" target="_blank">Daring Fireball</a>, the original guideline is <a href="http://daringfireball.net/projects/markdown/syntax" rel="external" target="_blank">here</a>. Its syntax, however, varies between different parsers or editors.</p>
+<p>Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.</p>
+<h2 id="paragraph-and-line-breaks">Paragraph and line breaks</h2>
+<p>A paragraph is simply one or more consecutive lines of text. In markdown source code, paragraphs are separated by more than one blank lines. In Typora, you only need to press <code>Return</code> to create a new paragraph.</p>
+<p>Press <code>Shift</code> + <code>Return</code> to create a single line break. However, most markdown parser will ignore single line break, to make other markdown parsers recognize your line break, you can leave two whitespace at the end of the line, or insert <code>&lt;br/&gt;</code>.</p>
+<h2 id="headers">Headers</h2>
+<p>Headers use 1-6 hash characters at the start of the line, corresponding to header levels 1-6. For example:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><span class="gh"># This is an H1
+</span></span></span><span class="line"><span class="cl"><span class="gh"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">## This is an H2
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl">###### This is an H6</span></span></code></pre></td></tr></table>
+</div>
+</div><p>In typora, input ‘#’s followed by title content, and press <code>Return</code> key will create a header.</p>
+<h2 id="blockquotes">Blockquotes</h2>
+<p>Markdown uses email-style &gt; characters for block quoting. They are presented as:</p>
+<blockquote>
+<p>This is a blockquote with two paragraphs. This is first paragraph.</p>
+<p>This is second paragraph. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
+<p>This is another blockquote with one paragraph. There is three empty line to separate two blockquote.</p>
+<p>这是一段中文测试。</p>
+</blockquote>
+<p>In typora, just input ‘&gt;’ followed by quote contents a block quote is  generated. Typora will insert proper ‘&gt;’ or line break for you. Block quote inside anther block quote is allowed by adding additional levels of ‘&gt;’.</p>
+<h2 id="lists">Lists</h2>
+<p>Input <code>* list item 1</code> will create an un-ordered list, the <code>*</code> symbol can be replace with <code>+</code> or <code>-</code>.</p>
+<p>Input <code>1. list item 1</code> will create an ordered list, their markdown source code is like:</p>
+<ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+<ol>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ol>
+<h2 id="task-list">Task List</h2>
+<p>Task lists are lists with items marked as either <code>[ ]</code> or <code>[x]</code> (incomplete or complete). For example:</p>
+<ul>
+<li><input disabled="" type="checkbox" /> a task list item</li>
+<li><input disabled="" type="checkbox" /> list syntax required</li>
+<li><input disabled="" type="checkbox" /> normal <strong>formatting</strong>, @mentions, #1234 refs</li>
+<li><input disabled="" type="checkbox" /> incomplete</li>
+<li><input checked="" disabled="" type="checkbox" /> completed</li>
+</ul>
+<p>You can change the complete/incomplete state by click the checkbox before the item.</p>
+<h2 id="syntax-highlighting">Syntax Highlighting</h2>
+<p>unset language:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">function</span> <span class="nx">helloWorld</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">alert</span><span class="p">(</span><span class="s2">&#34;Hello, World!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">plain text
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">first line
+</span></span><span class="line"><span class="cl">second line</span></span></code></pre></td></tr></table>
+</div>
+</div><p><strong>choose different style:</strong></p>
+<div class="highlight wrap-code" style="github"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">HelloWorld</span><span class="w"> </span><span class="p">{</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">&#34;Hello, World!&#34;</span><span class="p">);</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="p">}</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="p">}</span></span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight wrap-code" style="vim"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">HelloWorld</span><span class="w"> </span><span class="p">{</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="n">String</span><span class="o">[]</span><span class="w"> </span><span class="n">args</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="s">&#34;Hello, World!&#34;</span><span class="p">);</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="p">}</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="p">}</span></span></span></code></pre></td></tr></table>
+</div>
+</div>
+<h2 id="math-blocks">Math Blocks</h2>
+<p>You can render <em>LaTeX</em> mathematical expressions using <strong>MathJax</strong>.</p>
+<p>Input <code>$$</code>, then press &lsquo;Return&rsquo; key will trigger an input field which accept <em>Tex/LaTex</em> source. Following is an example:<br />
+$$<br />
+\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}<br />
+\mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \<br />
+\frac{\partial X}{\partial u} &amp;  \frac{\partial Y}{\partial u} &amp; 0 \<br />
+\frac{\partial X}{\partial v} &amp;  \frac{\partial Y}{\partial v} &amp; 0 \<br />
+\end{vmatrix}<br />
+$$</p>
+<p>In markdown source file, math block is <em>LaTeX</em> expression wrapped by ‘$$’ mark:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">$$
+</span></span><span class="line"><span class="cl">\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+</span></span><span class="line"><span class="cl">\mathbf{i} <span class="err">&amp;</span> \mathbf{j} <span class="err">&amp;</span> \mathbf{k} \\
+</span></span><span class="line"><span class="cl">\frac{\partial X}{\partial u} <span class="err">&amp;</span>  \frac{\partial Y}{\partial u} <span class="err">&amp;</span> 0 \\
+</span></span><span class="line"><span class="cl">\frac{\partial X}{\partial v} <span class="err">&amp;</span>  \frac{\partial Y}{\partial v} <span class="err">&amp;</span> 0 \\
+</span></span><span class="line"><span class="cl">\end{vmatrix}
+</span></span><span class="line"><span class="cl">$$</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="tables">Tables</h2>
+<p>Input <code>| First Header  | Second Header |</code> and press <code>return</code> key will create a table with two column.</p>
+<p>After table is created, focus on that table will pop up a toolbar for table, where you can resize, align, or delete table. You can also use context menu to copy and add/delete column/row.</p>
+<p>Following descriptions can be skipped, as markdown source code for tables are generated by typora automatically.</p>
+<p>In markdown source code, they look like:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">| Name              | Markdown            | HTML tag             |
+</span></span><span class="line"><span class="cl">| ----------------- | ------------------- | -------------------- |
+</span></span><span class="line"><span class="cl">| <span class="ge">*Emphasis*</span>        | <span class="sb">`*Emphasis*`</span>        | <span class="sb">`&lt;em&gt;&lt;/em&gt;`</span>          |
+</span></span><span class="line"><span class="cl">| <span class="gs">**Strong**</span>        | <span class="sb">`**Strong**`</span>        | <span class="sb">`&lt;strong&gt;&lt;/strong&gt;`</span> |
+</span></span><span class="line"><span class="cl">| <span class="sb">`code`</span>            | ``code``            | <span class="sb">`&lt;code&gt;&lt;/code&gt;`</span>      |
+</span></span><span class="line"><span class="cl">| <span class="gd">~~Strikethrough~~</span> | <span class="sb">`~~Strikethrough~~`</span> | <span class="sb">`&lt;del&gt;&lt;/del`</span>         |
+</span></span><span class="line"><span class="cl">| <span class="p">&lt;</span><span class="nt">u</span><span class="p">&gt;</span>Underline<span class="p">&lt;/</span><span class="nt">u</span><span class="p">&gt;</span>  | <span class="sb">`&lt;u&gt;underline&lt;/u&gt;`</span>  | <span class="sb">`&lt;u&gt;&lt;/u&gt;`</span>            |</span></span></code></pre></td></tr></table>
+</div>
+</div><table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Markdown</th>
+<th>HTML tag</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Emphasis</em></td>
+<td><code>*Emphasis*</code></td>
+<td><code>&lt;em&gt;&lt;/em&gt;</code></td>
+</tr>
+<tr>
+<td><strong>Strong</strong></td>
+<td><code>**Strong**</code></td>
+<td><code> &lt;strong&gt;&lt;/strong&gt;</code></td>
+</tr>
+<tr>
+<td><code>code</code></td>
+<td><code>`code`</code></td>
+<td><code>&lt;code&gt;&lt;/code&gt;</code></td>
+</tr>
+<tr>
+<td><del>Strikethrough</del></td>
+<td><code>~~Strikethrough~~</code></td>
+<td><code>&lt;del&gt;&lt;/del</code></td>
+</tr>
+<tr>
+<td><u>Underline</u></td>
+<td><code>&lt;u&gt;underline&lt;/u&gt;</code></td>
+<td><code>&lt;u&gt;&lt;/u&gt;</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="footnotes">Footnotes</h2>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">You can create footnotes like this[^footnote].
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">[^footnote]: Here is the <span class="ge">*text*</span> of the <span class="gs">**footnote**</span>.</span></span></code></pre></td></tr></table>
+</div>
+</div><p>will produce:</p>
+<p>You can create footnotes like this<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<p>This is another footnote<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</p>
+<p>Mouse on the ‘footnote’ superscript to see content of the footnote.</p>
+<h2 id="horizontal-rules--horizontal-rules-horizontal-rules-horizontal-rules-horizontal-rules-horizontal-rules-horizontal-rules">Horizontal Rules  Horizontal Rules Horizontal Rules Horizontal Rules Horizontal Rules Horizontal Rules Horizontal Rules</h2>
+<p>Input <code>***</code> or <code>---</code> on a blank line and press <code>return</code> will draw a horizontal line.</p>
+<hr />
+<h2 id="links">Links</h2>
+<p>Markdown supports two style of links: inline and reference.</p>
+<p>In both styles, the link text is delimited by [square brackets].</p>
+<p>To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes. For example:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">This is [<span class="nt">an example</span>](<span class="na">http://example.com/ &#34;Title&#34;</span>) inline link.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">[<span class="nt">This link</span>](<span class="na">http://example.net/</span>) has no title attribute.</span></span></code></pre></td></tr></table>
+</div>
+</div><p>will produce:</p>
+<p>This is <a href="http://example.com/%22Title%22" rel="external" target="_blank">an example</a> inline link. (<code>&lt;p&gt;This is &lt;a href=&quot;http://example.com/&quot; title=&quot;Title&quot;&gt;</code>)</p>
+<p><a href="http://example.net/" rel="external" target="_blank">This link</a> has no title attribute. (<code>&lt;p&gt;&lt;a href=&quot;http://example.net/&quot;&gt;This link&lt;/a&gt; has no</code>)</p>
+<h3 id="internal-links">Internal Links</h3>
+<p><strong>You can set the href to headers</strong>, which will create a bookmark that allow you to jump to that section after clicking. For example:</p>
+<p>Command(on Windows: Ctrl) + Click <a href="/post/jane-theme-preview/index.html#block-elements">This link</a> will jump to header <code>Block Elements</code>. To see how to write that, please move cursor or click that link with <code>⌘</code> key pressed to expand the element into markdown source.</p>
+<h3 id="reference-links">Reference Links</h3>
+<p>Reference-style links use a second set of square brackets, inside which you place a label of your choosing to identify the link:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">This is [an example][id] reference-style link.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Then, anywhere in the document, you define your link label like this, on a line by itself:
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">[id]: http://example.com/  &#34;Optional Title Here&#34;</span></span></code></pre></td></tr></table>
+</div>
+</div><p>In typora, they will be rendered like:</p>
+<p>This is <a href="http://example.com/" rel="external" target="_blank" title="Optional Title Here">an example</a> reference-style link.</p>
+<p>The implicit link name shortcut allows you to omit the name of the link, in which case the link text itself is used as the name. Just use an empty set of square brackets — e.g., to link the word “Google” to the google.com web site, you could simply write:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">[Google][]
+</span></span><span class="line"><span class="cl">And then define the link:
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">[Google]: http://google.com/</span></span></code></pre></td></tr></table>
+</div>
+</div><p>In typora click link will expand it for editing, command+click will open the hyperlink in web browser.</p>
+<h2 id="urls">URLs</h2>
+<p>Typora allows you to insert urls as links, wrapped by <code>&lt;</code>brackets<code>&gt;</code>.</p>
+<p><code>&lt;i@typora.io&gt;</code> becomes <a href="mailto:i@typora.io" rel="external" target="_blank">i@typora.io</a>.</p>
+<p>Typora will also auto link standard URLs. e.g: <a href="https://www.google.com" rel="external" target="_blank">www.google.com</a>.</p>
+<h2 id="images">Images</h2>
+<p>Image looks similar with links, but it requires an additional <code>!</code> char before the start of link. Image syntax looks like this:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">![<span class="nt">Alt text</span>](<span class="na">/path/to/img.jpg</span>)
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">![<span class="nt">Alt text</span>](<span class="na">/path/to/img.jpg &#34;Optional title&#34;</span>)</span></span></code></pre></td></tr></table>
+</div>
+</div><p>You are able to use drag &amp; drop to insert image from image file or we browser. And modify the markdown source code by clicking on the image. Relative path will be used if image is in same directory or sub-directory with current editing document when drag &amp; drop.</p>
+<p>For more tips on images, please read <a href="http://support.typora.io//Images/" rel="external" target="_blank">http://support.typora.io//Images/</a></p>
+<h2 id="emphasis">Emphasis</h2>
+<p>Markdown treats asterisks (<code>*</code>) and underscores (<code>_</code>) as indicators of emphasis. Text wrapped with one <code>*</code> or <code>_</code> will be wrapped with an HTML <code>&lt;em&gt;</code> tag. E.g:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">*single asterisks*
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">_single underscores_</span></span></code></pre></td></tr></table>
+</div>
+</div><p>output:</p>
+<p><em>single asterisks</em></p>
+<p><em>single underscores</em></p>
+<p>GFM will ignores underscores in words, which is commonly used in code and names, like this:</p>
+<blockquote>
+<p>wow_great_stuff</p>
+<p>do_this_and_do_that_and_another_thing.</p>
+</blockquote>
+<p>To produce a literal asterisk or underscore at a position where it would otherwise be used as an emphasis delimiter, you can backslash escape it:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">\*this text is surrounded by literal asterisks\*</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Typora recommends to use <code>*</code> symbol.</p>
+<h2 id="strong">Strong</h2>
+<p>double *’s or _’s will be wrapped with an HTML <code>&lt;strong&gt;</code> tag, e.g:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">**double asterisks**
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">__double underscores__</span></span></code></pre></td></tr></table>
+</div>
+</div><p>output:</p>
+<p><strong>double asterisks</strong></p>
+<p><strong>double underscores</strong></p>
+<p>Typora recommends to use <code>**</code> symbol.</p>
+<h2 id="code">Code</h2>
+<p>To indicate a span of code, wrap it with backtick quotes (`). Unlike a pre-formatted code block, a code span indicates code within a normal paragraph. For example:</p>
+<div class="highlight wrap-code"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">Use the <span class="sb">`printf()`</span> function.</span></span></code></pre></td></tr></table>
+</div>
+</div><p>will produce:</p>
+<p>Use the <code>printf()</code> function.</p>
+<h2 id="strikethrough">Strikethrough</h2>
+<p>GFM adds syntax to create strikethrough text, which is missing from standard Markdown.</p>
+<p><code>~~Mistaken text.~~</code> becomes <del>Mistaken text.</del></p>
+<h2 id="underline">Underline</h2>
+<p>Underline is powered by raw HTML.</p>
+<p><code>&lt;u&gt;Underline&lt;/u&gt;</code> becomes <u>Underline</u>.</p>
+<h2 id="emoji-happy">Emoji :happy:</h2>
+<p>Input emoji with syntax <code>:smile:</code>.</p>
+<p>User can trigger auto-complete suggestions for emoji by pressing <code>ESC</code> key, or trigger it automatically after enable it on preference panel. Also, input UTF8 emoji char directly from <code>Edit</code> -&gt; <code>Emoji &amp; Symbols</code> from menu bar is also supported.</p>
+<h2 id="inline-math">Inline Math</h2>
+<p>To use this feature, first, please enable it in <code>Preference</code> Panel -&gt; <code>Markdown</code> Tab. Then use <code>$</code> to wrap TeX command, for example: <code>$\lim_{x \to \infty} \exp(-x) = 0$</code> will be rendered as LaTeX command.</p>
+<p>To trigger inline preview for inline math: input “$”, then press <code>ESC</code> key, then input TeX command, a preview tooltip will be visible like below:</p>
+<img src="https://typora.io/img/inline-math.gif" style="zoom:50%;" />
+<div class="footnotes" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Here is the <em>text</em> of the <strong>footnote</strong>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>second footnote is here.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+            <footer class="footline">
+<div class=" taxonomy-categories term-list cstyle  " title="Categories" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/categories/docs/index.html">Docs</a></li>
+    <li><a class="term-link" href="/categories/index/index.html">Index</a></li>
+    <li><a class="term-link" href="/categories/shortcodes/index.html">Shortcodes</a></li>
+  </ul>
+</div>
+            </footer>
+          </article>
+
+        </div>
+      </main>
+    </div>
+    <script src="/js/clipboard.min.js?1716105645" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1716105645" defer></script>
+    <script src="/js/theme.js?1716105645" defer></script>
+  </body>
+</html>
+<script src="https://utteranc.es/client.js"
+        repo="babyworm/babyworm.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
+

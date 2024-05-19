@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>마이크로 프로세서 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</link>
+    <description>Recent content in 마이크로 프로세서 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 30 Jan 2010 14:40:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>생존 보고</title>
+      <link>http://localhost:8080/archives/1519/</link>
+      <pubDate>Sat, 30 Jan 2010 14:40:15 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1519/</guid>
+      <description>사실 여러가지 이유로 2010년에는 2월 설날이 올때까지 신년이 아니라 생각하기로 하고 잠수탈 생각이었습니다. 🙂 결심~! 이런것은 아니고 (글 안쓰는 것도 결심인가.. 쯧쯧..), 새로운 일에 적응하는 과정과 정신 없는 육아와 졸업을 위해 노력하고 있는 안사람의 바쁨과 책 번역 와중에 정신의 여유를 가지고 글을 쓸 수 있다는 것이 어느 순간 호사스러운</description>
+    </item>
+    <item>
+      <title>완벽 잡담..</title>
+      <link>http://localhost:8080/archives/1498/</link>
+      <pubDate>Tue, 28 Jul 2009 00:55:15 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1498/</guid>
+      <description>네이밍이라는 것이 아주 중요하다고 생각합니다. 회사에서도 학교에서도 네이밍이란 것이 중요하다고 생각하고 있는데, 이건 저만 그런것이 아니고 H&amp;P 책의 저자이기도 한 David Patterson교수의 주장이기도 합니다. 좋은 이름, 부르기 좋은 이름을 만들고 좋은 뜻을 만드는 것이 중요하다는 거죠. 오늘의 완벽 잡담은 이 네이밍에 대한 이야기입니다. ^^; 자</description>
+    </item>
+    <item>
+      <title>마이크로 프로세서에 관심 있으신 분을 위한 글.</title>
+      <link>http://localhost:8080/archives/1495/</link>
+      <pubDate>Thu, 23 Jul 2009 06:38:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1495/</guid>
+      <description>이 글은 예전에 쓴 &amp;#8220;프로세서/비메모리 반도체 설계를 희망하시는 분들께&amp;#8220;라는 글과 연관성이 있습니다. 단지 프로세서 설계를 희망하시는 분들께 유용할 수도(?) 있는 내용 위주로 쓰여졌다는 것만 다르겠습니다. 일단 마이크로 프로세서라는 분야에 대해서 설명이 필요할 것으로 봅니다. 학교에서 마이크로 프로세서 구현에 대</description>
+    </item>
+    <item>
+      <title>개소식 정보</title>
+      <link>http://localhost:8080/archives/1488/</link>
+      <pubDate>Fri, 26 Jun 2009 09:22:05 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1488/</guid>
+      <description>2009년 6월 29일 12시 부터 서울 그랜드 인터컨티낸탈 호텔 2층 오키트 룸 &amp;#8212; 국산 프로세서 지원 센터에 대한 글을 하나 올렸었는데요. 정작 중요한 장소를 안 썼더군요. 🙂 위와 같습니다. 별다른 행사는 없고, 간단한 소개와 식사 정도랄까요. 저의 넓대대한 얼굴을 보시고 싶으신 분은 오세요 ㅋㅋ &amp;#8212; 사실 이 글은 매우 길게 적었었습니다. (제목도 길었었</description>
+    </item>
+    <item>
+      <title>AE32000C-Lucida 프로세서 기반의 첫 상용칩. CANTUS</title>
+      <link>http://localhost:8080/archives/1487/</link>
+      <pubDate>Tue, 23 Jun 2009 15:07:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1487/</guid>
+      <description>이번에 회사에서 CANTUS라는 저가 MCU가 공식적으로 론칭했고, 론칭하자마자 양산 오더가 들어와서 양산에 들어갔습니다. 이 MCU는 저희 팀이 개발한 AE32000C-Lucida 프로세서라는 것이 처음 적용된 상용화 칩이지요. EISC 프로세서로 저희가 주로 개발하는 프로세서는 에너지 효율과 DSP 연산 처리가 강화된 AE32000C 라는 ISA를 위주로 하고 있습니다. 대부분의 개발 방향</description>
+    </item>
+    <item>
+      <title>국산 프로세서 지원 센터</title>
+      <link>http://localhost:8080/archives/1484/</link>
+      <pubDate>Thu, 18 Jun 2009 23:46:08 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1484/</guid>
+      <description>특허청의 Core-A라는 프로세서에 대한 상용화 지원을 도와달라는 부탁을 받은 것은 작년 말의 일인 것 같습니다. 개인적으로는 블로그에서 몇번 밝혔듯이 이 바닥 자체가 넓어지는 것이 제가 바라는 것입니다만, 프로세서 만들어 파는 회사에서 잠재적인 경쟁상대가 될 수 있는 프로세서에 대한 상용화 지원을 한다는 건 쉽지 않은 노릇이지요. 각 프로세서에 대한</description>
+    </item>
+    <item>
+      <title>새로운 EISC 기반 제품.. 출장</title>
+      <link>http://localhost:8080/archives/1472/</link>
+      <pubDate>Mon, 13 Apr 2009 10:13:55 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1472/</guid>
+      <description>1. 그전에도 보안 카메라 쪽에서 나름 인지도가 있는 S 계열사의 Winner3, Winner4 시리즈에 EISC가 채택되었었는데, 이번에는 S사의 보안 카메라 부분의 A1이라는 칩에 채택되어 양산되었습니다. (http://www.dt.co.kr/contents.html?article_no=2009040802011232718001) 이 제품들에 대한 라이센스가 몇 년전의 일인데, 이제야 성과물이 나오는군요. EISC 프로세서의 경우 그 동안 이것 이외에도 이쪽 저쪽에 라이센스가 좀 있는데, 작년부터 미</description>
+    </item>
+    <item>
+      <title>상당히 괜찮은 microprocessor report deal</title>
+      <link>http://localhost:8080/archives/1470/</link>
+      <pubDate>Wed, 08 Apr 2009 04:27:44 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1470/</guid>
+      <description>제가 즐겨보는 microprocessor report가 이번에 행사(?)를 하는군요. 신규 가입만 가능하다니 ㅠㅠ; (기존 가입자를 위한 deal도 만들어라~) 저희 회사는 2년 짜리를 구매해 둔 상태라 관계 없는 상태입니다만, microprocessor report를 구매하시고자 하는 분들께는 좋은 소식이겠네요. 4월 30일까지구요. Processor watch라는 e-mail news letter에 가입자 대상</description>
+    </item>
+    <item>
+      <title>새로운 EISC processor</title>
+      <link>http://localhost:8080/archives/1325/</link>
+      <pubDate>Sat, 06 Dec 2008 07:31:19 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1325/</guid>
+      <description>저희 팀에서 이번에 새로 만든 EISC processor인 Empress에 대한 기사가 많이 나오고 있습니다. 단신을 제외하고도 꽤 많이 나왔군요. 에이디칩스, 32비트 프로세서 코어 개발 [디지털 타임즈:12/5] 에이디칩스, 모바일용 프로세서 코어 개발 [전자신문:12/5] 에이디칩스,32비트 EISC 마이크로 프로세서코어 개발 [전자신문</description>
+    </item>
+    <item>
+      <title>Asynchronous는 어려워</title>
+      <link>http://localhost:8080/archives/1292/</link>
+      <pubDate>Wed, 22 Oct 2008 08:28:36 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1292/</guid>
+      <description>요즘 MPSoC쪽 버스 문제 때문에 GALS(Globally asynchronous Locally synchronous)를 다시 들여다보고 있는데, circuit design을 배제하고 verilog netlist 수준에서 기존의 합성 툴을 이용할 수 있도록 생각하다 보니 자꾸만 생각이 제한됩니다. 조막만한 아이디어가 있긴 한데, 이게 구현 가능한 것인지 생각해 보는 것 자체가 고역인걸 보니 그간 머리를 안 돌리긴 안 돌렸나봐요. GAL</description>
+    </item>
+    <item>
+      <title>ARM의 Cortex-A9 프로세서.</title>
+      <link>http://localhost:8080/archives/318/</link>
+      <pubDate>Fri, 05 Oct 2007 04:32:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/318/</guid>
+      <description>[wp]ARM[/wp]에서 Cortex-A9을 발표하였다고 합니다 [ZDNet 기사]. 일단 저에게 있어서는 한숨 쉬어지는 일이고(ARM의 행보가 점차 빨라지니, 저희같은 업체가 따라잡을 수 있는 여지가 줄어들고 있는 것이 사실이니 말입니다.), 업계에 있어서는 환영할 만한 일이겠습니다. Cortex-A9의 경우 4개 까지 MP로 구성이 가능</description>
+    </item>
+    <item>
+      <title>Tilera Processor.. 병렬성을 통한 성능 향상</title>
+      <link>http://localhost:8080/archives/315/</link>
+      <pubDate>Thu, 13 Sep 2007 12:13:42 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/315/</guid>
+      <description>ISSCC’07에서 Intel에서 80개의 core를 집적한 Tera-FLOPS급 프로세서를 발표했었지요. 이번 HOT Chips 19에서는 Tilera라는 회사에서 TILE64 프로세서를 발표한 것이 화제가 되었습니다. 약간 비스므리한 과제를 기획하고 있어서 관심있게 몇 가지 프로젝트를 지켜보고 있었는데, TILE64는 사실 제가 알고 있던 프로세서</description>
+    </item>
+    <item>
+      <title>2×2나 Quad나..</title>
+      <link>http://localhost:8080/archives/314/</link>
+      <pubDate>Tue, 11 Sep 2007 00:10:39 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/314/</guid>
+      <description>프로세서 하는 사람으로 할 소리는 아닌듯 하지만, 사용자 입장에선 dual core 2개를 MCP하던, true quad core나 밥 적게 먹고, 일 잘하는 프로세서가 좋은 프로세서입니다. 예전에 포스팅에서 적은 적도 있지만, Intel의 전략은 일견 영악한 구석이 없잖아 있는 것이 사실이지만 사용자의 입장에서 그런 걸 따질 필요도 없으니, AMD가 굳이 “우린 true quad</description>
+    </item>
+    <item>
+      <title>인터넷 연결..</title>
+      <link>http://localhost:8080/archives/298/</link>
+      <pubDate>Sun, 15 Jul 2007 12:37:12 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/298/</guid>
+      <description>용인으로 이사왔습니다. 이사 뒷치닥거리로 바쁘기도 하거니와 결정적으로 인터넷이 연결되지 못한 열약한 환경이어서 글을 올리지 못했습니다. L모사 선후배를 통하여 언제나 권유받는 P 광랜을 연결했습니다. 인사고과에 반영된다는 말에 도저히 다른 것을 선택할 수 없더군요. 쩝.. 아무리 전쟁이라지만, 아군의 사기를 이렇게 꺾으면서까지 사업을 해야</description>
+    </item>
+    <item>
+      <title>속도악마 대 머리괴물…</title>
+      <link>http://localhost:8080/archives/294/</link>
+      <pubDate>Thu, 05 Jul 2007 12:26:47 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/294/</guid>
+      <description>착찹한 마음에 적은 글에 많은 분들이 격려해 주셔서 진심으로 감사드립니다. 착찹한 마음을 걷어내고 다시 나아기기 시작했습니다. 몇 번 적었듯이 쉽지 않은 길을 가는 것을 지지해 주고, 지원해 주는 회사에도 감사드리고 있습니다. 저희 프로세서에 부족했던 부분을 채울 수 있었던 좋은 기회였으므로, 너무나도 아쉽지만 EISC는 쉬운 길을 갈 운명은 아닌가 봅</description>
+    </item>
+    <item>
+      <title>참 파란만장합니다.</title>
+      <link>http://localhost:8080/archives/293/</link>
+      <pubDate>Mon, 02 Jul 2007 13:56:01 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/293/</guid>
+      <description>음.. 원래 잉걸에는 손을 대지 않는 것이 정답이긴 한데.. 답답하긴 답답하네요. 몇번 쓴적이 있습니다만.. 개인적으로 프로세서를 만들어 봐야겠다는 생각에 이 일에 전념해 온지도 상당한 시간이 흘렀고, 어느 정도 가시적인 성과를 거둔 것도 있습니다. 아직은 마케팅력에 문제와 ARM의 거대함을 절감하고 있는 중이라는 것이 정답이겠지만.. 작은 회사</description>
+    </item>
+    <item>
+      <title>마이크로 프로세서가 나아가야 할 방향…</title>
+      <link>http://localhost:8080/archives/288/</link>
+      <pubDate>Sat, 23 Jun 2007 04:28:26 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/288/</guid>
+      <description>쓰고보니 상당히 거창한 제목입니다. 요즘 프로세서 로드맵 작성중이라는 말씀을 드렸는데, 회사에 중대한 일이 생겨서 전면적으로 홀드 상태입니다. 가용 자원이나 target이 약간 수정되어야 하니 말입니다. 그래도, 마이크로 프로세서가 나아가야 할 방향성은 크게 달라지지 않겠지요. 단지, 현재 상황에서는 targeting하기 어려울 것이라</description>
+    </item>
+    <item>
+      <title>가상화 기술.. 왜 각광 받는가?</title>
+      <link>http://localhost:8080/archives/269/</link>
+      <pubDate>Wed, 11 Apr 2007 13:31:16 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/269/</guid>
+      <description>이 글은 MPR의 &amp;#8220;gHOST in the machine&amp;#8221;이라는 3주간의 연재 기사를 읽고 이를 토대로 &amp;#8220;제 기억 남은 내용과 그 간의 어설픈 지식을 버무려&amp;#8221; 쓴 글입니다. 관심 있으신 분은 microprocessor report를 보시는 것이 더 좋은 글을 읽으실 수 있습니다. 요즘 마이크로 프로세서에서는 “가상화(virtualization)</description>
+    </item>
+    <item>
+      <title>Metal Gate로 더 빠르게..</title>
+      <link>http://localhost:8080/archives/246/</link>
+      <pubDate>Sat, 03 Feb 2007 12:58:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/246/</guid>
+      <description>ZDnet의 기사를 보니 메탈 게이트를 사용하는 트렌지스터가 상용화된다는 이야기가 써 있군요. 이 이야기는 하드웨어 리뷰 사이트들을 통해서 개략적으로 접하고 있었는데, ZDnet의 기사를 통해서 좀더 자세히 알게 되었습니다. (이번 MPR에도 잘 나와 있습니다만, 한글로 읽는 것이 더 편해서 ^^;) 사실 저는 반도체 물성과 같은 부분은 전공이 아니라 잘</description>
+    </item>
+    <item>
+      <title>마이크로 프로세서 탄생 35주년..</title>
+      <link>http://localhost:8080/archives/223/</link>
+      <pubDate>Mon, 25 Dec 2006 11:40:22 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/223/</guid>
+      <description>들어가기전에: 이 포스팅은 MPR 12월 11일자 내용을 읽고나서 감상 비슷하게 적은 것입니다. 1971년 11월 15일에 최초의 상용 마이크로 프로세서인 intel 4004가 발표되었으니, 올해로 마이크로 프로세서가 발표된지 35주년입니다. 마이크로프로세서 아키텍트를 하고 있는 사람에게는 어느정도 의미가 있는 해라 할 수 있겠지요. (4004를 최</description>
+    </item>
+  </channel>
+</rss>

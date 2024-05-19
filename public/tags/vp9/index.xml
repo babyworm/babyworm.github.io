@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VP9 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/vp9/</link>
+    <description>Recent content in VP9 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 03 Feb 2020 16:51:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/vp9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WAVE517: Video Decoder for UHD Era</title>
+      <link>http://localhost:8080/archives/2160/</link>
+      <pubDate>Mon, 03 Feb 2020 16:51:10 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/2160/</guid>
+      <description>대충 이렇게 쓰면 될 것 같습니다만, 작년부터 작업하던 것이 마무리 단계입니다. 작업 도중에 WAVE510A라는 spin-off 제품이 ‘industry first AV1 decoder IP’라는 이름으로 의외로 많은 기회를 주었습니다. 오늘 Design&amp;amp;Reuse에 “Chips&amp;amp;Media Pioneering With The World’s First Real-time Multi-Standard Decoder, including AV1, HW IP, WAVE517“라</description>
+    </item>
+  </channel>
+</rss>

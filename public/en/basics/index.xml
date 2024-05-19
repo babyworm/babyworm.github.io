@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics :: Babyworm Hugo Site</title>
+    <link>http://localhost:8080/en/basics/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 06 May 2024 11:07:23 +0900</lastBuildDate>
+    <atom:link href="http://localhost:8080/en/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Content</title>
+      <link>http://localhost:8080/en/basics/first-content/index.html</link>
+      <pubDate>Mon, 06 May 2024 11:07:21 +0900</pubDate>
+      <guid>http://localhost:8080/en/basics/first-content/index.html</guid>
+      <description>First Content test on the way of first content</description>
+    </item>
+    <item>
+      <title>Second Content</title>
+      <link>http://localhost:8080/en/basics/second-content/index.html</link>
+      <pubDate>Mon, 06 May 2024 11:07:21 +0900</pubDate>
+      <guid>http://localhost:8080/en/basics/second-content/index.html</guid>
+      <description>You can use the second content</description>
+    </item>
+    <item>
+      <title>Third Content</title>
+      <link>http://localhost:8080/en/basics/third-content/index.html</link>
+      <pubDate>Mon, 06 May 2024 11:07:23 +0900</pubDate>
+      <guid>http://localhost:8080/en/basics/third-content/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

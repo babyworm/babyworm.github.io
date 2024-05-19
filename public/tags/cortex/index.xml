@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cortex on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/cortex/</link>
+    <description>Recent content in Cortex on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 05 Oct 2007 04:32:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/cortex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARM의 Cortex-A9 프로세서.</title>
+      <link>http://localhost:8080/archives/318/</link>
+      <pubDate>Fri, 05 Oct 2007 04:32:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/318/</guid>
+      <description>[wp]ARM[/wp]에서 Cortex-A9을 발표하였다고 합니다 [ZDNet 기사]. 일단 저에게 있어서는 한숨 쉬어지는 일이고(ARM의 행보가 점차 빨라지니, 저희같은 업체가 따라잡을 수 있는 여지가 줄어들고 있는 것이 사실이니 말입니다.), 업계에 있어서는 환영할 만한 일이겠습니다. Cortex-A9의 경우 4개 까지 MP로 구성이 가능</description>
+    </item>
+  </channel>
+</rss>

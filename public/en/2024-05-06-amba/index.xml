@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMBA :: Babyworm Hugo Site</title>
+    <link>http://localhost:8080/en/2024-05-06-amba/index.html</link>
+    <description> AMBA의 대략적인 내용을 기술합니다.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <atom:link href="http://localhost:8080/en/2024-05-06-amba/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

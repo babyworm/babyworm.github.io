@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulator on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/simulator/</link>
+    <description>Recent content in Simulator on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 11 Jun 2007 14:45:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/simulator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PLI와 Simulator의 연결(I)</title>
+      <link>http://localhost:8080/archives/284/</link>
+      <pubDate>Mon, 11 Jun 2007 14:45:03 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/284/</guid>
+      <description>Automated Functional Verification 방법에는 여러 가지가 있지만, testvector 발생 유닛(보통 Directed Random방식을 사용하지요?)과 golden model을 이용한 checker model을 만들어서 DUV(Design Under Verification)의 결과와 비교하는 것이 가장 편한 방법 중에 하나임은 부정할 수 없습니다. (여담입니다만, 국내에서는 많은 경우 golden model없이 설계하는 경우가 많아서 검증을 위하여</description>
+    </item>
+  </channel>
+</rss>

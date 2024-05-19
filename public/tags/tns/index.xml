@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TnS on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/tns/</link>
+    <description>Recent content in TnS on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 08 Nov 2006 11:09:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/tns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Compiler의 TNS, WNS..</title>
+      <link>http://localhost:8080/archives/170/</link>
+      <pubDate>Wed, 08 Nov 2006 11:09:31 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/170/</guid>
+      <description>오늘은 지난번 posting에 이어서 front-end 설계 엔지니어에게 있어서 주요 설계 도구중의 하나인 Design Compiler의 constraint 주는 방법에 대해서 Total negative slack과 Worst Negative slack의 관점에서 간략히 설명해 보겠습니다. Design compiler는 잘 아시다시피 constraint 기반으로 optimization을 진행합니다. 즉, 설계를 어떤 방식으로 합성하여 최적화시</description>
+    </item>
+  </channel>
+</rss>

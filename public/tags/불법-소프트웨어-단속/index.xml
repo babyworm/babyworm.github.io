@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>불법 소프트웨어 단속 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%B6%88%EB%B2%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%8B%A8%EC%86%8D/</link>
+    <description>Recent content in 불법 소프트웨어 단속 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 23 Aug 2006 11:00:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%B6%88%EB%B2%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%8B%A8%EC%86%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>웃기는 소프트웨어 검열</title>
+      <link>http://localhost:8080/archives/44/</link>
+      <pubDate>Wed, 23 Aug 2006 11:00:58 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/44/</guid>
+      <description>Adobe 사의 국내 법률 대행하는 곳에서 회사로 연락이 왔다. &amp;#8220;**불법 소프트웨어 사용을 중단해라. 그렇지 않음 고소하겠다**&amp;#8221; 우리회사는 블로그상에서 몇번 쓴 적이 있지만, 반도체 설계하는 회사다. 특히 프로세서 만드는 회사고.. 처음엔 뭔가 불법 소프트웨어를 깔고 쓰는 사람이 있나보다하고, 내부적으로 조사했는데….</description>
+    </item>
+  </channel>
+</rss>

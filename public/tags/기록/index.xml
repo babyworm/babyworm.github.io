@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>기록 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EA%B8%B0%EB%A1%9D/</link>
+    <description>Recent content in 기록 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 17 May 2006 14:16:19 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EA%B8%B0%EB%A1%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2004년 3월 3일</title>
+      <link>http://localhost:8080/archives/15/</link>
+      <pubDate>Wed, 17 May 2006 14:16:19 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/15/</guid>
+      <description>2004년 3월 3일… 프로젝트로 한창 바쁘고, 한창 머리 아프고.. 웍은 미친듯이 돌아가고, 밤은 깊어가고.. 집에는 못가고.. 정리안된 모듈의 인터페이스들마냥 정리안된 책상.. 덕지덕지 붙어있는 포스트잇… 식어버린 커피.. 2004년 3월 3일 밤 10시 10분. 지금은 회사도 이사했고, 개인 PC도 바뀌었고.. 가습기도, 스탠드도 바</description>
+    </item>
+  </channel>
+</rss>

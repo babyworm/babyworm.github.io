@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABV on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/abv/</link>
+    <description>Recent content in ABV on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 04 Aug 2009 00:22:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/abv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mentor의 Verification Academy</title>
+      <link>http://localhost:8080/archives/1501/</link>
+      <pubDate>Tue, 04 Aug 2009 00:22:37 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1501/</guid>
+      <description>OVM과 AVM을 밀고 있는 mentor에서 verification academy를 열었습니다. [여기] 현재는 아래의 세개 모듈로 구성되어 있으며, Flash 기반으로 구성되어 있어서 왠만한 웹브라우저에서는 모두 접근 가능하다는 장점이 있습니다. 단, 현재는 회사 메일로만 가입을 받고 있다고 적혀 있는데, 학생들도 가능할지는 모르겠습니다. Evolving Capabilities Module (전반적인 overview) Assertion-Based Verification</description>
+    </item>
+    <item>
+      <title>책 몇가지</title>
+      <link>http://localhost:8080/archives/1365/</link>
+      <pubDate>Thu, 22 Jan 2009 15:52:40 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1365/</guid>
+      <description>ASIC/processor 관련 책을 많이 보시라는 이야기를 해 드리고 있습니다만, 책이 워낙에 비싸죠. 모모 사이트와 당나귀를 적절히 이용하면 왠만한 책은 pdf로 구할 수도 있습니다만.. 클리앙에서 http://www.scribd.com/&amp;nbsp;라는 곳에 대한 소개가 있어서 가 봤는데, 괜찮은 책이 많군요. Google 검색을 통해서 갔을때는 그냥 단순히 리포트같</description>
+    </item>
+    <item>
+      <title>Coverage와 Assertion</title>
+      <link>http://localhost:8080/archives/262/</link>
+      <pubDate>Mon, 02 Apr 2007 11:51:35 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/262/</guid>
+      <description>검증에 있어서 고려되어야 하는 사항중에 하나는 “언제 검증을 그만 둘 것인가”입니다. 너무나도 쉬운 질문이지요? 뭐, 검증할 부분을 다하면 검증을 그만 두면 되죠. 그럼 질문을 바꿔보겠습니다. “검증할 부분에 대하여 모두 검증했는지는 어떻게 알지요?” 그것이 오늘 말씀드릴 coverage에 대한 부분입니다. 사실 이쪽 계통에서 coverag</description>
+    </item>
+  </channel>
+</rss>

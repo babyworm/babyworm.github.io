@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBM PC on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/ibm-pc/</link>
+    <description>Recent content in IBM PC on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 17 Oct 2006 14:14:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/ibm-pc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hooked on microprocessor</title>
+      <link>http://localhost:8080/archives/124/</link>
+      <pubDate>Tue, 17 Oct 2006 14:14:15 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/124/</guid>
+      <description>제가 마이크로 프로세서에 맛을 들이게 된 직접적인 계기는 초등학교 시절 집에 있던[[MSX]]였던 것 같습니다. 제가 초등학교 5학년 정도 되던해(1984년인듯 한데..)는 아마도 국내에 본격적으로 컴퓨터 교육이라는 말이 퍼지고, TV에서도 퍼스널 컴퓨터라는 말이 광고로 나오던 시기였던것 같습니다. Apple ][ 컴퓨터는 당시 컴퓨터 학원을 평정하</description>
+    </item>
+  </channel>
+</rss>

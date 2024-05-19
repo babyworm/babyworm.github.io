@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HEVC-SCC on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/hevc-scc/</link>
+    <description>Recent content in HEVC-SCC on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 19 Feb 2015 21:20:02 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/hevc-scc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20차 JCTVC meeting</title>
+      <link>http://localhost:8080/archives/1872/</link>
+      <pubDate>Thu, 19 Feb 2015 21:20:02 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1872/</guid>
+      <description>20차 JCTVC meeting / 111차 MPEG meeting. 잊기 전에 몇가지 적어놔야지.. 항상 나중에 정리하려고 하다가 회사일하면서 까먹어서.. JCTVC / SCC Screen contents(말하자면.. 컴퓨터 화면..)를 잘 coding하기 위한 HEVC의 확장판을 만들고 있는데, 지난번에 갔던 삿포로 미팅에서 WD(working draft)가 나왔고, 이번에 PDAM(proposed draft amendment; 말하자면 표준화를 위한 초안)</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo: Shortcodes Notice :: Babyworm Hugo Site</title>
+    <link>http://localhost:8080/post/demo/6-shortcode-notice/index.html</link>
+    <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}}Result: Note A notice disclaimer You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} 笔记 A notice disclaimer tip {{% notice tip %}} A tip disclaimer {{% /tip %}} Tip A tip disclaimer info {{% notice info %}} A info disclaimer {{% /notice %}} Info An information disclaimer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved, Babyworm</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:8080/post/demo/6-shortcode-notice/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

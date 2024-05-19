@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>뽀모도로 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%BD%80%EB%AA%A8%EB%8F%84%EB%A1%9C/</link>
+    <description>Recent content in 뽀모도로 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 27 Jan 2011 15:57:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%BD%80%EB%AA%A8%EB%8F%84%EB%A1%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>개인 애자일. 뽀모도로 테크닉.</title>
+      <link>http://localhost:8080/archives/1544/</link>
+      <pubDate>Thu, 27 Jan 2011 15:57:13 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1544/</guid>
+      <description>회사에서 애자일(agile) 기법을 도입해서 적용한지 1년이 살짝 넘어가는군요. 아직 정착이 완전히 되지는 않았지만, 나름 성과는 있다고 생각하고 있습니다. 애자일 기간동안 외부의 방해를 이겨낼 수 있는 힘이 생기고 있고(다음 sprint에 반영할께요.. 같은..), 예상의 정확도가 약간은 높아지고 있고 (그래도 많이 틀리지만..), 항</description>
+    </item>
+  </channel>
+</rss>

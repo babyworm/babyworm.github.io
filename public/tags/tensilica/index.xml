@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensilica on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/tensilica/</link>
+    <description>Recent content in Tensilica on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 08 Jun 2007 03:48:09 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/tensilica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>이런 저런 뉴스 모음</title>
+      <link>http://localhost:8080/archives/283/</link>
+      <pubDate>Fri, 08 Jun 2007 03:48:09 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/283/</guid>
+      <description>전자 엔지니어 뉴스 중 흥미 있는 뉴스 몇 가지.. **시높시스, 스웨덴의 ASIC 프로토타이핑 회사 인수 ** (&amp;lt;A title=http://www.eetkorea.com/ART_8800467221_839575_NT_77236ec4.HTM?click_from=RSS href=&amp;ldquo;http://www.eetkorea.com/ART_8800467221_839575_NT_77236ec4.HTM?click_from=RSS&amp;rdquo;&amp;gt;http://www.eetkorea.com/ART_8800467221_839575_NT_77236ec4.HTM?click_from=RSS) FPGA기반의 ASIC 프로토타이핑 회사란 거의 emulation이 아닌가 싶은데.. 여하튼 빠른 coverage를 위해서 도움이 될 것이라 생각합니다. 지난번 synopsys-verification seminar때 emulator관련 회사가 참석한 것도 이런 맥락이 아닌</description>
+    </item>
+  </channel>
+</rss>

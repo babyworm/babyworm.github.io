@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPGPU on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/gpgpu/</link>
+    <description>Recent content in GPGPU on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 17 Oct 2008 08:50:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/gpgpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel의 새로운 GPU</title>
+      <link>http://localhost:8080/archives/1278/</link>
+      <pubDate>Fri, 17 Oct 2008 08:50:39 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1278/</guid>
+      <description>제가 자주 그렇게 하고 있습니다만, 이 글은 MPR의 기사와 몇몇 논문을 기반으로 하고 있습니다. 읽고 제 맘대로 쓰는 글이라 항상 그렇듯 모두 맞는 내용을 쓰고 있다는 보장은 없어요. Intel이 새로운 UFO를 주워서 새로운 장난감을 만들었습니다 ^^; 사실 인텔에게 GPU는 생소한 분야가 아닙니다. 이미 GPU 분야에서 상당한 – 실제적으로는 모든 마켓을 고</description>
+    </item>
+  </channel>
+</rss>

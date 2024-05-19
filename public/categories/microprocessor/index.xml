@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microprocessor on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/categories/microprocessor/</link>
+    <description>Recent content in Microprocessor on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 23 Feb 2022 16:35:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/categories/microprocessor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACM learning center</title>
+      <link>http://localhost:8080/archives/2341/</link>
+      <pubDate>Wed, 23 Feb 2022 16:35:37 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/2341/</guid>
+      <description>아시는 분들도 많을텐데, computer society 중에 ACM(Association for Computing Machinery)이 있습니다. 프로그래밍 좋아하시는 분들께는 ACM-ICPC (국제 대학생 프로그래밍 대회)로 조금 더 알려져 있을 수 있겠습니다. (참고로 한국 사이트도 있네요.) 여하튼, 저는 컴퓨터 학회 관련 논문을 볼 생각으로 ACM professional member로 몇 년 째 가입되어 있었는데요(참고로 학생때는 훨씬 더 저렴했</description>
+    </item>
+    <item>
+      <title>Embedded Processor Market; 2012 review</title>
+      <link>http://localhost:8080/archives/1733/</link>
+      <pubDate>Sun, 27 Jan 2013 16:43:44 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1733/</guid>
+      <description>주말에 시간이 좀 있어서 오랫만에 미뤄둔 MPR(Microprocessor report; 이전에 이 블로그의 주요 소재가 되어주었던 report인데… 요즘에 읽어도 별로 글을 안써서.. 여하튼 잡설은 끝내고..)을 읽고 있는 중인데…몇 가지 재미있는 부분이 있어서 오랫만에 글을 쓰게 되었습니다.. MPR에 있는 내용의 순서와는 약간 차이가 있네요. 실질적인 내용은 fact를 제외하면 내 의</description>
+    </item>
+    <item>
+      <title>Sandy Bridge Architecture</title>
+      <link>http://localhost:8080/archives/1536/</link>
+      <pubDate>Tue, 28 Sep 2010 18:11:24 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1536/</guid>
+      <description>사실 최근에 나온 Intel의 Sandy Bridge를 제대로 살펴본 적이 없었고, 그냥 mega trend인 GPU 통합 정도만 생각했었는데, 생각보다 변한 것이 많은 architecture군요. 아래 기사를 쭉 읽어 보았는데, 오랫만의 intel의 새로운 microarchitecture라는 표현까지 있네요. 사실 P4에서 speed-daemon approach로 밀</description>
+    </item>
+    <item>
+      <title>마이크로 프로세서에 관심 있으신 분을 위한 글.</title>
+      <link>http://localhost:8080/archives/1495/</link>
+      <pubDate>Thu, 23 Jul 2009 06:38:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1495/</guid>
+      <description>이 글은 예전에 쓴 &amp;#8220;프로세서/비메모리 반도체 설계를 희망하시는 분들께&amp;#8220;라는 글과 연관성이 있습니다. 단지 프로세서 설계를 희망하시는 분들께 유용할 수도(?) 있는 내용 위주로 쓰여졌다는 것만 다르겠습니다. 일단 마이크로 프로세서라는 분야에 대해서 설명이 필요할 것으로 봅니다. 학교에서 마이크로 프로세서 구현에 대</description>
+    </item>
+    <item>
+      <title>새로운 EISC processor</title>
+      <link>http://localhost:8080/archives/1325/</link>
+      <pubDate>Sat, 06 Dec 2008 07:31:19 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1325/</guid>
+      <description>저희 팀에서 이번에 새로 만든 EISC processor인 Empress에 대한 기사가 많이 나오고 있습니다. 단신을 제외하고도 꽤 많이 나왔군요. 에이디칩스, 32비트 프로세서 코어 개발 [디지털 타임즈:12/5] 에이디칩스, 모바일용 프로세서 코어 개발 [전자신문:12/5] 에이디칩스,32비트 EISC 마이크로 프로세서코어 개발 [전자신문</description>
+    </item>
+    <item>
+      <title>Intel의 새로운 GPU</title>
+      <link>http://localhost:8080/archives/1278/</link>
+      <pubDate>Fri, 17 Oct 2008 08:50:39 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1278/</guid>
+      <description>제가 자주 그렇게 하고 있습니다만, 이 글은 MPR의 기사와 몇몇 논문을 기반으로 하고 있습니다. 읽고 제 맘대로 쓰는 글이라 항상 그렇듯 모두 맞는 내용을 쓰고 있다는 보장은 없어요. Intel이 새로운 UFO를 주워서 새로운 장난감을 만들었습니다 ^^; 사실 인텔에게 GPU는 생소한 분야가 아닙니다. 이미 GPU 분야에서 상당한 – 실제적으로는 모든 마켓을 고</description>
+    </item>
+    <item>
+      <title>via nano와 Intel atom간의 벤치마크가 화제라는데..</title>
+      <link>http://localhost:8080/archives/1180/</link>
+      <pubDate>Fri, 08 Aug 2008 01:26:49 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1180/</guid>
+      <description>오랫만에 올블을 보다보니, VIA nano와 Intel ATOM간의 벤치 마크 결과 VIA가 앞섰다는 이야기가 있어서 좀 찾아봤습니다. 지난 글에서 간단히 썼듯이 ATOM의 경우 전력 성능을 위하여 speculation을 최대한 자제한 프로세서라 할 수 있지요. 따라서 in-order issue pipeline을 사용하고 있습니다. MPFJ 2008에서 Belli Kuttanna의 발</description>
+    </item>
+    <item>
+      <title>ARM의 Cortex-A9 프로세서.</title>
+      <link>http://localhost:8080/archives/318/</link>
+      <pubDate>Fri, 05 Oct 2007 04:32:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/318/</guid>
+      <description>[wp]ARM[/wp]에서 Cortex-A9을 발표하였다고 합니다 [ZDNet 기사]. 일단 저에게 있어서는 한숨 쉬어지는 일이고(ARM의 행보가 점차 빨라지니, 저희같은 업체가 따라잡을 수 있는 여지가 줄어들고 있는 것이 사실이니 말입니다.), 업계에 있어서는 환영할 만한 일이겠습니다. Cortex-A9의 경우 4개 까지 MP로 구성이 가능</description>
+    </item>
+    <item>
+      <title>Tilera Processor.. 병렬성을 통한 성능 향상</title>
+      <link>http://localhost:8080/archives/315/</link>
+      <pubDate>Thu, 13 Sep 2007 12:13:42 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/315/</guid>
+      <description>ISSCC’07에서 Intel에서 80개의 core를 집적한 Tera-FLOPS급 프로세서를 발표했었지요. 이번 HOT Chips 19에서는 Tilera라는 회사에서 TILE64 프로세서를 발표한 것이 화제가 되었습니다. 약간 비스므리한 과제를 기획하고 있어서 관심있게 몇 가지 프로젝트를 지켜보고 있었는데, TILE64는 사실 제가 알고 있던 프로세서</description>
+    </item>
+    <item>
+      <title>2×2나 Quad나..</title>
+      <link>http://localhost:8080/archives/314/</link>
+      <pubDate>Tue, 11 Sep 2007 00:10:39 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/314/</guid>
+      <description>프로세서 하는 사람으로 할 소리는 아닌듯 하지만, 사용자 입장에선 dual core 2개를 MCP하던, true quad core나 밥 적게 먹고, 일 잘하는 프로세서가 좋은 프로세서입니다. 예전에 포스팅에서 적은 적도 있지만, Intel의 전략은 일견 영악한 구석이 없잖아 있는 것이 사실이지만 사용자의 입장에서 그런 걸 따질 필요도 없으니, AMD가 굳이 “우린 true quad</description>
+    </item>
+    <item>
+      <title>잘하는 짓들이다..</title>
+      <link>http://localhost:8080/archives/311/</link>
+      <pubDate>Tue, 28 Aug 2007 02:38:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/311/</guid>
+      <description>어떤 것을 하던지 방법론이라는 것이 중요합니다. 잘 짜여진 방법론은 이후의 모든 일에 영향을 주기 때문이지요. SystemVerilog 기반의 검증은 현재 VMM, AVM 등 여러가지 방법론을 지니고 있습니다(사실 방법론이라기보다 verification library라는 표현이 맞을 지 모르겠습니다만..). 그런데, 문제는 이러한 verification library들이 tool dependent할 요소가 거의 없음</description>
+    </item>
+    <item>
+      <title>속도악마 대 머리괴물…</title>
+      <link>http://localhost:8080/archives/294/</link>
+      <pubDate>Thu, 05 Jul 2007 12:26:47 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/294/</guid>
+      <description>착찹한 마음에 적은 글에 많은 분들이 격려해 주셔서 진심으로 감사드립니다. 착찹한 마음을 걷어내고 다시 나아기기 시작했습니다. 몇 번 적었듯이 쉽지 않은 길을 가는 것을 지지해 주고, 지원해 주는 회사에도 감사드리고 있습니다. 저희 프로세서에 부족했던 부분을 채울 수 있었던 좋은 기회였으므로, 너무나도 아쉽지만 EISC는 쉬운 길을 갈 운명은 아닌가 봅</description>
+    </item>
+    <item>
+      <title>마이크로 프로세서가 나아가야 할 방향…</title>
+      <link>http://localhost:8080/archives/288/</link>
+      <pubDate>Sat, 23 Jun 2007 04:28:26 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/288/</guid>
+      <description>쓰고보니 상당히 거창한 제목입니다. 요즘 프로세서 로드맵 작성중이라는 말씀을 드렸는데, 회사에 중대한 일이 생겨서 전면적으로 홀드 상태입니다. 가용 자원이나 target이 약간 수정되어야 하니 말입니다. 그래도, 마이크로 프로세서가 나아가야 할 방향성은 크게 달라지지 않겠지요. 단지, 현재 상황에서는 targeting하기 어려울 것이라</description>
+    </item>
+    <item>
+      <title>가상화 기술.. 왜 각광 받는가?</title>
+      <link>http://localhost:8080/archives/269/</link>
+      <pubDate>Wed, 11 Apr 2007 13:31:16 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/269/</guid>
+      <description>이 글은 MPR의 &amp;#8220;gHOST in the machine&amp;#8221;이라는 3주간의 연재 기사를 읽고 이를 토대로 &amp;#8220;제 기억 남은 내용과 그 간의 어설픈 지식을 버무려&amp;#8221; 쓴 글입니다. 관심 있으신 분은 microprocessor report를 보시는 것이 더 좋은 글을 읽으실 수 있습니다. 요즘 마이크로 프로세서에서는 “가상화(virtualization)</description>
+    </item>
+    <item>
+      <title>마이크로 프로세서 탄생 35주년..</title>
+      <link>http://localhost:8080/archives/223/</link>
+      <pubDate>Mon, 25 Dec 2006 11:40:22 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/223/</guid>
+      <description>들어가기전에: 이 포스팅은 MPR 12월 11일자 내용을 읽고나서 감상 비슷하게 적은 것입니다. 1971년 11월 15일에 최초의 상용 마이크로 프로세서인 intel 4004가 발표되었으니, 올해로 마이크로 프로세서가 발표된지 35주년입니다. 마이크로프로세서 아키텍트를 하고 있는 사람에게는 어느정도 의미가 있는 해라 할 수 있겠지요. (4004를 최</description>
+    </item>
+    <item>
+      <title>In-Stat의 2007년 전망…</title>
+      <link>http://localhost:8080/archives/219/</link>
+      <pubDate>Mon, 18 Dec 2006 14:26:33 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/219/</guid>
+      <description>아… 좌절입니다. 요즘 블로그 글을 Windows live writer를 이용하여 작성하고, draft로 올린 이후에 tatter에서 편집하는 형식을 사용하고 있는데요.. 회사에서 저녁 먹고, In-Stat 2007년 전망을 한번보고 재미있는 내용을 추려서 상당한 분량을 적었는데.. 컴퓨터가 피육~하고 꺼지더니만 글이 날라갔습니다. 날라 갔습니다… 글을 다시 쓸 엄두</description>
+    </item>
+    <item>
+      <title>Cell의 VPU, AMD의 ATi GPU 통합</title>
+      <link>http://localhost:8080/archives/211/</link>
+      <pubDate>Sat, 02 Dec 2006 07:31:02 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/211/</guid>
+      <description>Cell 프로세서의 초기 형태를 지닌 PS3가 출시 되었습니다. 이미 여러 블로그에서, PS3와 XBOX360에 대해서 여러 측면에서 분석을 하여주셨는데요.. 저는 나름대로 프로세서 만드는 사람이니 프로세서의 입장에서 설명을 드려볼까 합니다. Cell에 대한 초기 논문과 기사만을 보고 “감”만 잡고 있는 상태이니 그리 좋은 글은 아닐 것입니다만..</description>
+    </item>
+    <item>
+      <title>EISC 관련 기사 하나.. TMA2560-RFID/USN용 센서 노드 칩</title>
+      <link>http://localhost:8080/archives/169/</link>
+      <pubDate>Tue, 07 Nov 2006 14:15:18 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/169/</guid>
+      <description>제가 설계한 건 아니고, 회사의 simple 32비트 [wp]EISC[/wp]가 들어간 칩인데.. ETRI와 다목적 [wp]RFID[/wp]/USN 과 같은 [wp]wireless sensor network[/wp]의 node및 bridge용으로 만들고 있는 칩입니다. 뭐, 사실상 직접적인 target은 센서 노드쪽에서 가장 많이 사용되는 ATMEGA128L을 노리고 있는 칩이지요. 최종적으로는 RF</description>
+    </item>
+    <item>
+      <title>EISC 프로세서 관련 신문 기사 하나</title>
+      <link>http://localhost:8080/archives/141/</link>
+      <pubDate>Mon, 23 Oct 2006 02:56:56 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/141/</guid>
+      <description>오늘자 전자신문에 제가 개발하고 있는 [wp]EISC[/wp] 프로세서 관련 기사가 전자신문에 나왔네요.. 사실 이 컴파일러 최적화 작업은 회사내(적어도 프로세서팀)에서는 숙원사업과 같은건데.. 아쉽게도 국내 컴파일러 전공 교수님들께서는 “논문 주제가 되기 힘들기 때문에” 연구를 잘 맏아주시지 않았습니다. 저희 내부 컴파일러 팀은 자체적으로 스트레스를 엄청 받고</description>
+    </item>
+    <item>
+      <title>자동차 시장을 겨냥한 Cortex-R4F</title>
+      <link>http://localhost:8080/archives/132/</link>
+      <pubDate>Fri, 20 Oct 2006 04:38:21 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/132/</guid>
+      <description>ZD net을 보니 [wp]ARM[/wp]이 MPR fall에서 [wp]Cortex-R4F[/wp]라는 프로세서를 발표했다고 하네요. (기사 원문은 여기에 있습니다.[기사 출처] http://www.zdnet.co.kr/itbiz/press/network/etc/0,39032102,39152022,00.htm) Cortex-R4는 제가 이전 posting에서도 간략히 올린 적이 있습니다만, IPC(instruction per cycle) matric의 관점에서 이전의 프로세서에 비하여 많은 향상이</description>
+    </item>
+  </channel>
+</rss>

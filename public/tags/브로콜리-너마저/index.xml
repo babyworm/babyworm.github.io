@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>브로콜리 너마저 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%B8%8C%EB%A1%9C%EC%BD%9C%EB%A6%AC-%EB%84%88%EB%A7%88%EC%A0%80/</link>
+    <description>Recent content in 브로콜리 너마저 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 05 Mar 2009 01:50:51 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%B8%8C%EB%A1%9C%EC%BD%9C%EB%A6%AC-%EB%84%88%EB%A7%88%EC%A0%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>잡담.. Vim Color Scheme</title>
+      <link>http://localhost:8080/archives/1394/</link>
+      <pubDate>Thu, 05 Mar 2009 01:50:51 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1394/</guid>
+      <description>구글 크롬을 주력 브라우저로 사용하는 건 좋은데, Textcube 글쓰기가 이상하게 되어 불편하더군요. Textcube 업데이트를 할 시점이 온 것 같은데.. 트래픽 문제로 그림 한장 제대로 못 올리는 신세이다보니 ,그냥 Tistory로 이전할까. .하는 생각도 듭니다. (요즘엔 메타 블로그쪽으로 feed를 잘 보내지 않아서 뭐 트래픽이 그렇게 많지는 않습니다만, 그래도 매</description>
+    </item>
+  </channel>
+</rss>

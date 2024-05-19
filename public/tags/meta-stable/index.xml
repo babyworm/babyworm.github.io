@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta Stable on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/meta-stable/</link>
+    <description>Recent content in Meta Stable on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 29 Dec 2008 02:07:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/meta-stable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synchronizer 시뮬레이션 문제</title>
+      <link>http://localhost:8080/archives/1345/</link>
+      <pubDate>Mon, 29 Dec 2008 02:07:29 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1345/</guid>
+      <description>디지털 로직하는 사람들한테 타이밍 관련된 문제에서 가장 골치 아픈 것이 metastable 문제이라고 말씀 드렸었습니다. 사실, metastable을 피하는 방법은 예전에 한번 posting한 적이 있는데요. 요즘 IT-SoC의 온라인 강의를 듣다 보니 관련 내용이 있어서 간단한 팁을 하나 올립니다. Metastable을 피하는 가장 머리가 편한 방법은 2개</description>
+    </item>
+  </channel>
+</rss>

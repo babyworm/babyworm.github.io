@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arm9 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/arm9/</link>
+    <description>Recent content in Arm9 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 23 Oct 2006 02:56:56 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/arm9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EISC 프로세서 관련 신문 기사 하나</title>
+      <link>http://localhost:8080/archives/141/</link>
+      <pubDate>Mon, 23 Oct 2006 02:56:56 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/141/</guid>
+      <description>오늘자 전자신문에 제가 개발하고 있는 [wp]EISC[/wp] 프로세서 관련 기사가 전자신문에 나왔네요.. 사실 이 컴파일러 최적화 작업은 회사내(적어도 프로세서팀)에서는 숙원사업과 같은건데.. 아쉽게도 국내 컴파일러 전공 교수님들께서는 “논문 주제가 되기 힘들기 때문에” 연구를 잘 맏아주시지 않았습니다. 저희 내부 컴파일러 팀은 자체적으로 스트레스를 엄청 받고</description>
+    </item>
+  </channel>
+</rss>

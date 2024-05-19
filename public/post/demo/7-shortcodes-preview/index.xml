@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo: more Shortcodes :: Babyworm Hugo Site</title>
+    <link>http://localhost:8080/post/demo/7-shortcodes-preview/index.html</link>
+    <description>What a Shortcode is Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video &lt;iframes&gt;) to Markdown content. We think this contradicts the beautiful simplicity of Markdown’s syntax.&#xA;Hugo created shortcodes to circumvent these limitations.&#xA;A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.&#xA;In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.&#xA;More details: https://gohugo.io/content-management/shortcodes/</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved, Babyworm</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:8080/post/demo/7-shortcodes-preview/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

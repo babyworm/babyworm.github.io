@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC-FPGA on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/dc-fpga/</link>
+    <description>Recent content in DC-FPGA on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 13 Nov 2006 09:55:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/dc-fpga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPGA 합성 도구..  삼파전?</title>
+      <link>http://localhost:8080/archives/193/</link>
+      <pubDate>Mon, 13 Nov 2006 09:55:10 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/193/</guid>
+      <description>[wp]FPGA[/wp]의 사용이 늘어나면서 이쪽 합성 분야에 눈독을 들이는 회사들이 늘어나고 있군요.. 사실 FPGA 설계/합성 도구는 무료로 제공되는 경우가 많아서.. ([wp]xilinx[/wp] webpack이나 [wp]altera[/wp]의 quartus II web version과 같이 말입니다.)비교적 돈이 덜 됩니다만.. 무료로 제공되는 설계도구가 비교적 약한 편이</description>
+    </item>
+  </channel>
+</rss>

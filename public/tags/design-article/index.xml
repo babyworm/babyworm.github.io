@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Article on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/design-article/</link>
+    <description>Recent content in Design Article on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 27 Dec 2008 14:33:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/design-article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EDA Designline 선정 2008년 인기 설계 article들과 babyworm 선정 개인사</title>
+      <link>http://localhost:8080/archives/1344/</link>
+      <pubDate>Sat, 27 Dec 2008 14:33:23 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1344/</guid>
+      <description>EDA design line에서 선정한 2008년 가장 인기 있었던 설계 관련 article들 Algorithmic synthesis for video post-processor design Understanding Clock Domain Crossing Issues Unified Verification for Hardware and Embedded Software Developers Planning, adopting and implementing adaptive reuse A SystemC/TLM based methodology for IP development and FPGA prototyping Opportunities in Analog Verification Topology Planning and Routing Low power design for analog/mixed signal IP Utilizing Clock-Gating Efficiency to Reduce Power Software-Defined Radio Platforms EDA Vendors Reference Charts 읽어 본 Article 이 3개 밖에 없는 걸 보니 올해는 놀았군요. 그나마 기사의 내용이 제대로 기억나는 건 한편에 불과해요. 참 수고 많았</description>
+    </item>
+  </channel>
+</rss>

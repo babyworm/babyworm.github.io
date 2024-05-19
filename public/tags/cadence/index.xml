@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cadence on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/cadence/</link>
+    <description>Recent content in Cadence on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 28 Apr 2007 16:04:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/cadence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verilog와 VHDL.. Simulator/Verfication 툴 점유율</title>
+      <link>http://localhost:8080/archives/275/</link>
+      <pubDate>Sat, 28 Apr 2007 16:04:15 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/275/</guid>
+      <description>이 포스팅은 DVCon07에서 ESNUG의 John Cooley가 참석자 800여명을 대상으로 조사한 내용을 바탕으로 하고 있으므로, 전체 시장 점유율이나 비중을 반영한다고 이야기할 수는 없습니다. 하지만, DVCon에 참석하는 사람들이 각 사의 funcational verification을 담당하고 있는 사람이 대부분이라는 점에서 이쪽 분야의 &amp;#8220</description>
+    </item>
+    <item>
+      <title>EDA, Foundary 모두 성장한 한해 2006년</title>
+      <link>http://localhost:8080/archives/274/</link>
+      <pubDate>Tue, 24 Apr 2007 14:10:41 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/274/</guid>
+      <description>관련 새소식은 아닙니다만.. 2006년에는 전반적으로 EDA 업체나 foundary 업체나 매출이 대략 15%이상씩 증가한 것으로 보고되었습니다. 그런데, 실제로 돈을 벌었냐.. 라는 말로 넘어가면 좀 이야기가 달라지는데요.. 소위 EDA업계의 big 3라고 이야기되는 Cadence, Synopsys, Mentor의 경우 상당한 수익이 난 반면.. 소위 Foundary big 3라고 이야기되는 TSMC, UMC, Char</description>
+    </item>
+    <item>
+      <title>Cadence Technology on Tour</title>
+      <link>http://localhost:8080/archives/270/</link>
+      <pubDate>Thu, 12 Apr 2007 09:32:42 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/270/</guid>
+      <description>오늘 있었던 시납시스 세미나에 이어, 케이던스 세미나 공고 입니다. Synopsys 세미나는 회사 업무때문에 부득이하게 못갔습니다. UDF에 대한 이야기가 있었다고 하던데, 회사 후배들이 가서 자료만 좀 봤습니다. 케이던스도 역시 저전력에 힘을 기울이고 있죠? (format 전쟁중이기도 하구요 ^^; 아쉽게도 행정적인 문제로 IEEE 표준에서 약간 밀린 느낌이 있습니다만..) 관</description>
+    </item>
+    <item>
+      <title>Fab과 EDA 업체들.. Fab은 울고.. EDA는 웃고?</title>
+      <link>http://localhost:8080/archives/155/</link>
+      <pubDate>Tue, 31 Oct 2006 10:47:36 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/155/</guid>
+      <description>EETimes의 RSS newsfeed를 보고 있노라면, 때가 때인지라 요즘 3/4분기 매출현황들이 이곳 저곳에서 발표되고 있습니다. 뭐, 공돌이라 사실 매출에 별 관심 없기에 별로 신경 안쓰고 제목정도만 보고 있는데요.. 재미있게도 파운드리 회사들은 대부분 매출 실적이 별로인데 반해서, EDA는 실적이 나쁘지 않더군요.. 그래서 좀 봤습니다.</description>
+    </item>
+  </channel>
+</rss>

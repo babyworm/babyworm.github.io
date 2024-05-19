@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/hugo/</link>
+    <description>Recent content in Hugo on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Contribute</title>
+      <link>http://localhost:8080/post/docs/how-to-contribute/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/post/docs/how-to-contribute/</guid>
+      <description>Contributing to Jane There are many ways to contribute to the Jane theme: submitting pull requests, reporting issues, providing new translations, and creating suggestions.&#xA;Build and Run If you want to understand how Jane works, you&amp;rsquo;ll want to get the source, build it, and run locally.&#xA;Getting the sources 1 git clone https://github.com/xianmin/hugo-theme-jane.git Prerequisites You need install the Hugo_extended version to use Hugo Pipes.&#xA;We recommend that you use VSCode. And if you edit .html files, recommend you install prettier and prettier-plugin-go-template globally . And open Prettier: Resolve Global Modules in your VSCode Settings.&#xA;1 npm install -g prettier prettier-plugin-go-template Watch example Site 1 hugo server --contentDir=&amp;#39;./exampleSite/content&amp;#39; --config=&amp;#39;dev-config.toml&amp;#39; Directory Structure layouts/ Stores templates in the form of .html files that specify how views of your content will be rendered into a static website. assets/ stores all the scss &amp;amp; js source files, Hugo Pipes will bundle them to resources/ folder. </description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://localhost:8080/post/other/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/post/other/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the&#xA;appropriate version for your os and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at installing hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&#xA;Follow the following steps:&#xA;Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:&#xA;git clone https://github.com/gohugoio/hugo cd hugo /path/to/where/you/installed/hugo server --source=./docs &amp;gt; 29 pages created &amp;gt; 0 tags index created &amp;gt; in 27 ms &amp;gt; Web Server is available at http://localhost:1313 &amp;gt; Press ctrl+c to stop Once you&amp;rsquo;ve gotten here, follow along the rest of this page on your local build.&#xA;Step 3. Change the docs site Stop the Hugo process by hitting ctrl+c.</description>
+    </item>
+  </channel>
+</rss>

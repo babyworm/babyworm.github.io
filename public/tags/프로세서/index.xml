@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>프로세서 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</link>
+    <description>Recent content in 프로세서 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 10 Nov 2006 08:26:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verilog 관련 검색에 대한 친절한(?) 답변과 리퍼러 로그..</title>
+      <link>http://localhost:8080/archives/173/</link>
+      <pubDate>Fri, 10 Nov 2006 08:26:03 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/173/</guid>
+      <description>요즘에 리퍼러 로그를 보니, 검색을 통하여 들어오시는 분들이 상당하시군요.. (덕분에 gzip 플러그인을 통해 전송량을 절반으로 줄여놨었지만, 다시 트래픽이 차오르고 있습니다. ㅠㅠ; 물론, 많은 분들이 찾아주시는 건 좋은 일이지요.. 이 분야에 관심 있는 분들이 많다는 것이니까요..) 이 포스팅은 리퍼러 로그에 남은 검색어를 통하여 살펴본, 제 블로</description>
+    </item>
+    <item>
+      <title>프로세서/비메모리 반도체 설계를 희망하시는 분들께..</title>
+      <link>http://localhost:8080/archives/80/</link>
+      <pubDate>Sat, 16 Sep 2006 16:10:17 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/80/</guid>
+      <description>간혹, 학부의 후배들이 반도체 설계쪽 일을 하려면 어떻게 해야 하냐고 물어보더군요. 뭐, 저같은 경우는 해당 연구실에 들어가라고 하지만.. 참 추상적인가 봅니다. 비메모리 반도체라는 것은 사실 상당히 넓은 범위를 의미하므로, 제가 하는 쪽 분야 즉, 로직 설계 부분(소위 front-end라고 하는..)에 대해서만 이야기를 하고자 합니다. 학부때</description>
+    </item>
+    <item>
+      <title>똑똑한 프로세서가 늘어난다.</title>
+      <link>http://localhost:8080/archives/33/</link>
+      <pubDate>Thu, 10 Aug 2006 13:04:30 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/33/</guid>
+      <description>ARM에서 기존의 시리즈 번호를 접고 새롭게 cortex시리즈를 시작한지도 일년정도 된것 같다. 저가, 저전력 컨트롤러 시장을 타겟으로하는 M시리즈와 고성능, 고속 내장형 마이크로 프로세서 시장을 타겟으로 하는 A시리즈에 이어, 메인 스트림 시장을 타겟으로 하는 R시리즈가 선보였다. ”] 8단 파이프라인(실제적으로는 9단 파이프라고 생각</description>
+    </item>
+    <item>
+      <title>프로세서 설계자?</title>
+      <link>http://localhost:8080/archives/20/</link>
+      <pubDate>Mon, 29 May 2006 15:24:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/20/</guid>
+      <description>우리나라에서 마이크로 프로세서를 설계하는 직종을 선택한 것이 간혹 미친짓이 아닌가 생각되는 경우가 있다. 국내에 프로세서를 하는 랩이 몇개나 있을까? 그 졸업생들중에 프로세서관련 일을 하는 사람은 몇명이나 될까? 많은 사람들은 꿈을 버릴수밖에 없다. 우리나라에는 프로세서를 만드는 회사가 거의 없으니까.. 프로세서를 만드는 것은 프로세서 자체를</description>
+    </item>
+  </channel>
+</rss>

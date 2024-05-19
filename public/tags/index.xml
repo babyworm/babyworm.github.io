@@ -1,11 +1,155 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags :: Babyworm Hugo Site</title>
-    <link>http://localhost:8080/tags/index.html</link>
-    <description></description>
+    <title>Tags on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/</link>
+    <description>Recent content in Tags on Babyworm Hugo Site</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 31 Mar 2024 17:14:17 +0000</lastBuildDate>
     <atom:link href="http://localhost:8080/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>번역</title>
+      <link>http://localhost:8080/tags/%EB%B2%88%EC%97%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/%EB%B2%88%EC%97%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>읽기 쉬운 코드</title>
+      <link>http://localhost:8080/tags/%EC%9D%BD%EA%B8%B0-%EC%89%AC%EC%9A%B4-%EC%BD%94%EB%93%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/%EC%9D%BD%EA%B8%B0-%EC%89%AC%EC%9A%B4-%EC%BD%94%EB%93%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contribute</title>
+      <link>http://localhost:8080/tags/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/contribute/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:8080/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:8080/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:8080/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:8080/tags/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Templates</title>
+      <link>http://localhost:8080/tags/templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/templates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:8080/tags/themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Toc</title>
+      <link>http://localhost:8080/tags/toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/toc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulcast</title>
+      <link>http://localhost:8080/tags/simulcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/simulcast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Videoshare</title>
+      <link>http://localhost:8080/tags/videoshare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/videoshare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube</title>
+      <link>http://localhost:8080/tags/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/youtube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>게임</title>
+      <link>http://localhost:8080/tags/%EA%B2%8C%EC%9E%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/%EA%B2%8C%EC%9E%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>리마스터</title>
+      <link>http://localhost:8080/tags/%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>일상</title>
+      <link>http://localhost:8080/tags/%EC%9D%BC%EC%83%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/%EC%9D%BC%EC%83%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud Gaming</title>
+      <link>http://localhost:8080/tags/cloud-gaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/cloud-gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Pass</title>
+      <link>http://localhost:8080/tags/game-pass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/game-pass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xbox</title>
+      <link>http://localhost:8080/tags/xbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/xbox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AV1</title>
+      <link>http://localhost:8080/tags/av1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/tags/av1/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

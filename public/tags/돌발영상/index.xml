@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>돌발영상 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%8F%8C%EB%B0%9C%EC%98%81%EC%83%81/</link>
+    <description>Recent content in 돌발영상 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 14 Oct 2006 05:15:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%8F%8C%EB%B0%9C%EC%98%81%EC%83%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>돌발영상을 볼때..</title>
+      <link>http://localhost:8080/archives/119/</link>
+      <pubDate>Sat, 14 Oct 2006 05:15:38 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/119/</guid>
+      <description>반드시 심호흡하고, 고혈압이 있는 사람은 시청하지 말아야 할 것 같습니다. 이런 프로그램에는 최소한 경고문이라도 보여줘야 하는 것 아닌가요.. 지난주에 이런 저런 돌발영상을 모아보여주는 YTN의 주간 돌발영상을 아무 생각없이 보고 있다가, 미쳐 죽는 줄 알았습니다. 도대체 왜 이렇게 흘러가고 있는건지 원.. 국회의원은 국무위원을 죄인취급합니다</description>
+    </item>
+  </channel>
+</rss>

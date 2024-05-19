@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>아름다운 동행 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EB%8F%99%ED%96%89/</link>
+    <description>Recent content in 아름다운 동행 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 09 Oct 2009 16:50:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EB%8F%99%ED%96%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>아름다운 동행</title>
+      <link>http://localhost:8080/archives/1510/</link>
+      <pubDate>Fri, 09 Oct 2009 16:50:28 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1510/</guid>
+      <description>인터넷을 돌아다니다보면 필력만으로 놀라게 만드시는 분들이 있습니다. 사서이시면서 역사 관련된 해박한 지식으로 항상 놀라운 글을 써주시는 cliomedia님과 균형 잡힌 견해와 사람의 심금을 가볍게도 쥐었다 폈다하시는 시골의사님이 이런 분들이죠. 시골 의사님은 사실 몇권의 책으로도 유명한데, 제가 소개해 드리는 이 책과 더불어 주식투자에 관한</description>
+    </item>
+  </channel>
+</rss>

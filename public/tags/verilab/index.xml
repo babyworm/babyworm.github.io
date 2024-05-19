@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verilab on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/verilab/</link>
+    <description>Recent content in Verilab on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 09 May 2017 15:10:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/verilab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with UVM</title>
+      <link>http://localhost:8080/archives/1975/</link>
+      <pubDate>Tue, 09 May 2017 15:10:13 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1975/</guid>
+      <description>오랜만에 책 소개입니다. https://www.amazon.com/Getting-Started-UVM-Beginners-Guide/dp/0615819974 지난 연휴때 읽어볼 요량으로 샀는데, 이곳 저곳 다니다가 이번 연휴 때 읽게 되었습니다. 특이하게 스타벅스에서 읽었네요. (음.. 제 생활 패턴으로 봤을 때 안 특이한건가.. 싶기도 하네요..) 이 책은 사진을 보시면 아시겠지만 엄청나게 얇습니다. 솔직하게 이야기하면, 받고나서 좀 아까웠습니다. (뭐 두꺼운게 좋은 책이</description>
+    </item>
+  </channel>
+</rss>

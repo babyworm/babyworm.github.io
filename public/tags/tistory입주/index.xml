@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tistory입주 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/tistory%EC%9E%85%EC%A3%BC/</link>
+    <description>Recent content in Tistory입주 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 11 Sep 2006 10:24:55 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/tistory%EC%9E%85%EC%A3%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TiStory 입주?</title>
+      <link>http://localhost:8080/archives/66/</link>
+      <pubDate>Mon, 11 Sep 2006 10:24:55 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/66/</guid>
+      <description>사실 개인적으로 웹 호스팅을 받는지라 Tistory의 필요성을 잘못느끼고 있었는데, 얼마전에 올블로그 best에 한번 오르고, 트래픽이 70%에 육박하는 꼴을 본지라.. 두려움이 엄습했습니다. 사실, blog이외의 것도 많이 쓰는 호스팅인지라.. 걸리는 것도 많고.. 이쪽으로의 이전은 테스트해보면서 천천히 진행할 예정입니다. 어짜피</description>
+    </item>
+  </channel>
+</rss>

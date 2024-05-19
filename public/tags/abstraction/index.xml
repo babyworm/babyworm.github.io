@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abstraction on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/abstraction/</link>
+    <description>Recent content in Abstraction on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 27 Mar 2007 11:56:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/abstraction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Level of abstraction</title>
+      <link>http://localhost:8080/archives/258/</link>
+      <pubDate>Tue, 27 Mar 2007 11:56:05 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/258/</guid>
+      <description>“추상화 수준”, “추상화 단계”라 불리는 용어이지요. 아마도 C++를 다루실 때 많이 접하셨을 것이라 생각합니다. ^^; 추상화 수준이라는 것은 말 그대로 추상화의 정도입니다. 추상화의 반대가 구체화라는 것은 아실 것이고, 추상화는 생각에, 구체화는 사물에 가깝다는 것도 아실 것이라 생각합니다. 모든 작품(?)이 다들 그렇지만, 머리 속의 관념이</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>버그 트래킹 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%B2%84%EA%B7%B8-%ED%8A%B8%EB%9E%98%ED%82%B9/</link>
+    <description>Recent content in 버그 트래킹 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 19 Feb 2007 13:54:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%B2%84%EA%B7%B8-%ED%8A%B8%EB%9E%98%ED%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>변화가 싫다?</title>
+      <link>http://localhost:8080/archives/249/</link>
+      <pubDate>Mon, 19 Feb 2007 13:54:15 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/249/</guid>
+      <description>이 이야기는 설계 회사에 들어가실 분들에게 유용할 수도 있는 글이라 생각하여 써봤습니다. ^^; —– 차라리 백지가 좋은데, 그렇지 않은 경우가 있습니다. 학교에서 배워온 코딩 스타일(사실 학교에서 코딩 스타일을 가르쳐주지는 않지요?)과 회사의 코딩 스타일이 다를때 자기 자신이 납득할 때까지 바꾸기도 쉽지 않지요 (그게 바로 엔지니어니까요!) 회사에</description>
+    </item>
+  </channel>
+</rss>

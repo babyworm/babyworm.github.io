@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>장단점 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EC%9E%A5%EB%8B%A8%EC%A0%90/</link>
+    <description>Recent content in 장단점 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 04 Apr 2007 14:15:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EC%9E%A5%EB%8B%A8%EC%A0%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaTeX을 이용한 문서 작업</title>
+      <link>http://localhost:8080/archives/264/</link>
+      <pubDate>Wed, 04 Apr 2007 14:15:08 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/264/</guid>
+      <description>대부분의 회사에서 MS office를 기반으로 문서 작업을 하실텐데요. 저희 회사도 별다르지 않습니다. 그런데, 회사에서 “워드”로 문서 작업할 때 고생을 많이 하는 것이, 그림이 많아지면 열 때 한참 시간이 걸린다거나, 다른 부분의 내용을 갖다 붙이면 열심히 붙여둔 제목 순서가 어긋나 버린다던지.. 그런 일이 빈번합니다. 개인적으로 CVS의 열성적</description>
+    </item>
+  </channel>
+</rss>

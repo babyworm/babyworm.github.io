@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verification on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/verification/</link>
+    <description>Recent content in Verification on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 09 May 2017 15:10:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/verification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with UVM</title>
+      <link>http://localhost:8080/archives/1975/</link>
+      <pubDate>Tue, 09 May 2017 15:10:13 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1975/</guid>
+      <description>오랜만에 책 소개입니다. https://www.amazon.com/Getting-Started-UVM-Beginners-Guide/dp/0615819974 지난 연휴때 읽어볼 요량으로 샀는데, 이곳 저곳 다니다가 이번 연휴 때 읽게 되었습니다. 특이하게 스타벅스에서 읽었네요. (음.. 제 생활 패턴으로 봤을 때 안 특이한건가.. 싶기도 하네요..) 이 책은 사진을 보시면 아시겠지만 엄청나게 얇습니다. 솔직하게 이야기하면, 받고나서 좀 아까웠습니다. (뭐 두꺼운게 좋은 책이</description>
+    </item>
+    <item>
+      <title>DVCON 2017 간략 리뷰</title>
+      <link>http://localhost:8080/archives/1944/</link>
+      <pubDate>Sun, 05 Mar 2017 16:15:57 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1944/</guid>
+      <description>바로 밑에 DVCON 2016리뷰가 있는 걸 보니, blog에 얼마나 무관심했는지 약간 죄책감이 듭니다만 꺼리가 생겼으니 써야겠죠. DVCON(Design &amp;amp; Verification Conference)은 산업계에서 주도해서 열고 있는 회의로, DVCON을 주최하고 있는 Accellra(http://accellera.org/)가 SystemC, VHDL, SystemVerilog, UVM, IP-XACT, UPF등의 굵직굵직한 산업계의 주</description>
+    </item>
+    <item>
+      <title>SystemVerilog for Verification</title>
+      <link>http://localhost:8080/archives/1502/</link>
+      <pubDate>Wed, 05 Aug 2009 02:25:16 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1502/</guid>
+      <description>이 책은 얼마전에 새로 사서 요즘에 읽기 시작한 책인데요, 여기에도 있네요. 온라인 상에서 찾을 수 있을 줄은 생각도 못했습니다. 🙂 대단한 scribd.com.. SystemVerilog의 경우 설계용 언어라기 보다는, 또한, 모델링용 언어라기 보다는(C/C++에 기반을 둔 SystemC가 있기 때문에), 검증용 확장이라 생각하고 있는데, SystemVerilog for Design에</description>
+    </item>
+    <item>
+      <title>Mentor의 Verification Academy</title>
+      <link>http://localhost:8080/archives/1501/</link>
+      <pubDate>Tue, 04 Aug 2009 00:22:37 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1501/</guid>
+      <description>OVM과 AVM을 밀고 있는 mentor에서 verification academy를 열었습니다. [여기] 현재는 아래의 세개 모듈로 구성되어 있으며, Flash 기반으로 구성되어 있어서 왠만한 웹브라우저에서는 모두 접근 가능하다는 장점이 있습니다. 단, 현재는 회사 메일로만 가입을 받고 있다고 적혀 있는데, 학생들도 가능할지는 모르겠습니다. Evolving Capabilities Module (전반적인 overview) Assertion-Based Verification</description>
+    </item>
+    <item>
+      <title>Project Veripage etc…</title>
+      <link>http://localhost:8080/archives/1395/</link>
+      <pubDate>Mon, 09 Mar 2009 05:14:33 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1395/</guid>
+      <description>Veripage 라는 곳에서 느닷 없이 뉴스레터를 보내왔는데(그동안 왔을 텐데, 스팸 처리 되었을 가능성이 더 높지만..), 거기에 아래와 같은 문제가 있습니다. 다음에서 Z의 값은 어떻게 될까요? bit c, e, o, r, t; bit [2:0] v, w; bit [5:0] x, y; bit [6:0] z; v = {&amp;laquo;{c,e,r}}; w = {&amp;laquo;{r,o,c}}; x = {&amp;raquo;{v,w}}; y = {&amp;laquo;3{x}}; z = {&amp;raquo;{y,t}}; SystemVerilog를 써 보신 분들은 보신 적이 있으실 streaming concatenation 연산입니다. 간단히 설</description>
+    </item>
+    <item>
+      <title>Low Power VMM 공개</title>
+      <link>http://localhost:8080/archives/1370/</link>
+      <pubDate>Thu, 26 Feb 2009 06:55:37 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1370/</guid>
+      <description>가끔 올리는 짧은 소식 몇 가지. Synopsys에서 Low Power Verification Methodology Manual을 공개하였습니다 Solvnet ID가 있으시다면 누구라도 여기(http://www.vmmcentral.org/vmmlp)에서 다운 받으실 수 있습니다. 저는 다운만 받고 아직 훓어보지도 못해서 no comment입니다. ^^; Mentor가 OVM을 기반으로 VMM co</description>
+    </item>
+    <item>
+      <title>집중이 안되는 여름</title>
+      <link>http://localhost:8080/archives/286/</link>
+      <pubDate>Tue, 19 Jun 2007 12:22:05 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/286/</guid>
+      <description>연일 30도를 넘나드는 더위가 계속되고 있습니다. 이럴때 항상 문제가 되는 것이 집중력이 떨어진다는 건데요.. 저도 마찬가지 입니다. (실은 개인적으로 좋은 일이 생겨서 그럴지도 모르겠습니다만 ^^;) 오늘만해도 gcc-MinGW에서 mti vpi 연결시키는 거 때문에 잠깐 modelsim userguide를 보다가, 딴짓을 하기 시작해서 대략한 5시간동안 딴짓을 했</description>
+    </item>
+    <item>
+      <title>PLI와 Simulator의 연결(I)</title>
+      <link>http://localhost:8080/archives/284/</link>
+      <pubDate>Mon, 11 Jun 2007 14:45:03 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/284/</guid>
+      <description>Automated Functional Verification 방법에는 여러 가지가 있지만, testvector 발생 유닛(보통 Directed Random방식을 사용하지요?)과 golden model을 이용한 checker model을 만들어서 DUV(Design Under Verification)의 결과와 비교하는 것이 가장 편한 방법 중에 하나임은 부정할 수 없습니다. (여담입니다만, 국내에서는 많은 경우 golden model없이 설계하는 경우가 많아서 검증을 위하여</description>
+    </item>
+    <item>
+      <title>Perl을 이용해서 검증할때 유용한 팁</title>
+      <link>http://localhost:8080/archives/282/</link>
+      <pubDate>Mon, 04 Jun 2007 14:46:20 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/282/</guid>
+      <description>뭐랄까요.. 요즘 이런 저런 일로 바쁘다보니, 사람이 좀 얇팍하게 글을 쓰게되네요. 🙂 (퇴고 없이 그냥 온라인에서 쓰는 글이라 앞뒤가 없을지도 모르겠습니다.) 오늘은 여러분들께서 perl을 이용해서 Verilog HDL을 위한 testbench를 작성할 때 간단히 명령어 해석기를 만들어 사용하는 방법을 알려드리죠. 이 방법은 제가 JTAG을 위한 pro</description>
+    </item>
+    <item>
+      <title>Level of abstraction</title>
+      <link>http://localhost:8080/archives/258/</link>
+      <pubDate>Tue, 27 Mar 2007 11:56:05 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/258/</guid>
+      <description>“추상화 수준”, “추상화 단계”라 불리는 용어이지요. 아마도 C++를 다루실 때 많이 접하셨을 것이라 생각합니다. ^^; 추상화 수준이라는 것은 말 그대로 추상화의 정도입니다. 추상화의 반대가 구체화라는 것은 아실 것이고, 추상화는 생각에, 구체화는 사물에 가깝다는 것도 아실 것이라 생각합니다. 모든 작품(?)이 다들 그렇지만, 머리 속의 관념이</description>
+    </item>
+    <item>
+      <title>일단 정리되었습니다.</title>
+      <link>http://localhost:8080/archives/255/</link>
+      <pubDate>Mon, 19 Mar 2007 14:41:20 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/255/</guid>
+      <description>Tapeout 직전에 발생한 여러가지 문제들이 좋은 방향으로 해결되었습니다. 칩쟁이들한테 칩이란 항상 엔지니어의 피와 땀을 요구한다더니만, 별거 아닌 칩이라고 피와 땀까지는 아니더라도 잠과 자유시간을 요구하더군요. 결과적으로 책임감을 가지고 매단계에서 좀더 꼼꼼하게 챙기지 못한 저에게 일차적인 책임이 있다는 것이 사실이겠지요. 같이 일하는 친구들이 처</description>
+    </item>
+    <item>
+      <title>Designer, Verification Engineer를 위한 책들..</title>
+      <link>http://localhost:8080/archives/226/</link>
+      <pubDate>Wed, 27 Dec 2006 15:12:47 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/226/</guid>
+      <description>사실 원래 제목은 Springer의 DVCon06, DAC06, ICCAD06의 best selling book이라 지어야 정상이겠죠. 이 글은 Deepchip의 글을 바탕으로 적습니다. DVCon이라는 것이 Design verification engineer들에게 최대의 축제라는 것은 아실테고.. 거기서 많이 팔린 책은 다음과 같습니다. [#M_DVCon Best Seller 10 보기|닫기| 1. Writing Testbenches Using System Verilog by Janick Bergeron, Feb 2006, ISBN: 0-387-29221-7 2. Verification Methodology Manual for System</description>
+    </item>
+    <item>
+      <title>포스팅이 적어진 이유</title>
+      <link>http://localhost:8080/archives/213/</link>
+      <pubDate>Sun, 10 Dec 2006 10:10:09 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/213/</guid>
+      <description>이번달 들어서면서 포스팅이 갑자기 적어졌습니다. 직접적인 이유는 검증 일을 시작하면서, 배경 지식을 쌓아두기 위해서 보는 책과 기사들이 너무 늘어나서 머리속에서 정리가 되기 전에 이 부분에 대하여 포스팅 할 엄두가 안나구요..게다가, 검증 작업을 flow에 맞추어 한번 제대로 해 보려고 시작했는데, 일이 끝나기 전에 어설픈 것을 올리기도 뭐해서 그냥</description>
+    </item>
+    <item>
+      <title>검증의 대세는 system verilog?</title>
+      <link>http://localhost:8080/archives/207/</link>
+      <pubDate>Tue, 28 Nov 2006 14:29:08 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/207/</guid>
+      <description>검증 작업을 시작했다는 포스팅을 얼마전에 했었습니다. 뭐, 일단 검증 시나리오 짜고, function coverage 전략 세우고.. 이런것 부터 시작했습니다만.. verilog로 약간 검증 마인드로 이런 저런 것을 작성하다보니, synthesizable subset의 틀이 얼마나 옭죄고 있었나라는 생각이 심각히 들더군요.. verilog 표준에서 정의된 동작에 대해서 어느정도는 알고 있다고 자부하고</description>
+    </item>
+    <item>
+      <title>PSL을 포함한 새로운 VHDL 표준.. Verilog를 넘을수 있을까?</title>
+      <link>http://localhost:8080/archives/197/</link>
+      <pubDate>Thu, 16 Nov 2006 11:38:27 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/197/</guid>
+      <description>EEtimes를 보니 VHDL 2006 표준이 Accellera에서 승인되어서 IEEE standard 승인을 기다리게 되었다고 합니다. [wp]VHDL[/wp]은 제 블로그에서도 몇번 다루었듯이, 초반의 열광적인 지지와는 반대로 설계 언어로서는 Verilog에 비하여 점유율을 높이지 못하고 있었지요. (Gartner Dataquest의 EDA 분석책임자인 Gary Smith 씨에 의하면 오</description>
+    </item>
+    <item>
+      <title>verification 시작..</title>
+      <link>http://localhost:8080/archives/175/</link>
+      <pubDate>Sat, 11 Nov 2006 14:37:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/175/</guid>
+      <description>예전에 99년에 학교에서 첫 버젼의 [wp]EISC[/wp]를 만들때는 검증에 별 생각이 없었습니다. 뭐, 프로그램 몇개 돌리면 되겠지.. 이런 느낌이랄까요.. 생각해보면, 학교에서 만드는 것은 “학술적으로” 의미가 있는 부분에 대해서는 뭔가 이런 저런 시도를 해 보는데, 실제 중요한 동작 자체는 “벤치 마크 프로그램이 돌아가는” 정도로 그치</description>
+    </item>
+  </channel>
+</rss>

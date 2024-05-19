@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISSCC on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/isscc/</link>
+    <description>Recent content in ISSCC on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 04 Jan 2007 14:06:51 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/isscc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2007 ISSCC가 기대됩니다.</title>
+      <link>http://localhost:8080/archives/233/</link>
+      <pubDate>Thu, 04 Jan 2007 14:06:51 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/233/</guid>
+      <description>ISSCC(International Soild State Circuits Conference)에서 여러 마이크로 프로세서가 한판 대결을 벌리는군요. 다음은 CNet의 기사중 일부 IBM은 5GHz Power-6를 선보인다. IBM의 대표 프로세서 아키텍쳐인 만큼 지속적으로 발전할 것으로 보입니다. 새로운 Power 아키텍쳐에 대한 정비도 끝난듯 하고요. IBM, Toshiba, Sony의 합작품인 Cell processor의 2세대 프</description>
+    </item>
+  </channel>
+</rss>

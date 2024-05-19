@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDA Playground on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/eda-playground/</link>
+    <description>Recent content in EDA Playground on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 20 Jun 2014 07:56:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/eda-playground/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EDA playground</title>
+      <link>http://localhost:8080/archives/1815/</link>
+      <pubDate>Fri, 20 Jun 2014 07:56:38 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1815/</guid>
+      <description>오랫만에 포스팅하네요. 사실 그동안 심신을 지치게 했던 project를 마무리했기 때문에 비교적 가벼운 마음이 되었습니다. 오늘 소개할 것은 EDA playground 라는 사이트입니다. http://www.edaplayground.com/home 그 동안 UVM이니 뭐니 이야기를 많이 했는데, 직장인 분들은 회사 밖에서는 뭔가를 할 수 없는 환경이라서 집에서는 간단한 공부하기도 쉽지 않았을 것입니다. (물론 능력 되시는 분들</description>
+    </item>
+  </channel>
+</rss>

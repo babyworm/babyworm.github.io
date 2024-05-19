@@ -1,0 +1,16 @@
+{{ define "main" }}
+    <div class="container">
+        {{ range .Paginator.Pages }}
+            <article class="post">
+                <header class="post-header">
+                    <h1 class="post-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h1>
+                </header>
+                <section class="post-content">
+                    {{ .Content | safeHTML }}
+                </section>
+            </article>
+        {{ end }}
+    </div>
+{{ end }}

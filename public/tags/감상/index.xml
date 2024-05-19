@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>감상 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EA%B0%90%EC%83%81/</link>
+    <description>Recent content in 감상 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 12 Nov 2006 12:36:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EA%B0%90%EC%83%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>모네… 빛의 마법…</title>
+      <link>http://localhost:8080/archives/176/</link>
+      <pubDate>Sun, 12 Nov 2006 12:36:24 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/176/</guid>
+      <description>그림에 대해서는 별다른 감상이 없었던 나에게 있어서 모네는 각별합니다. 물론, 지금 그림도 이 그림이 어떤 그림인지 잘 모르고, 화가가 어떤 사람인지도 잘 모릅니다만.. 그림이 돈내고 볼만한 가치가 있다는 것을 알려준 계기가 모네라고 해도 과언이 아니겠습니다. 학교에서 배웠던 인상파.. 마네 모네 드가.. 외우지 못하면 험악하셨던 미술담당 여선생께</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PERL on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/perl/</link>
+    <description>Recent content in PERL on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 04 Jun 2007 14:46:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/perl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perl을 이용해서 검증할때 유용한 팁</title>
+      <link>http://localhost:8080/archives/282/</link>
+      <pubDate>Mon, 04 Jun 2007 14:46:20 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/282/</guid>
+      <description>뭐랄까요.. 요즘 이런 저런 일로 바쁘다보니, 사람이 좀 얇팍하게 글을 쓰게되네요. 🙂 (퇴고 없이 그냥 온라인에서 쓰는 글이라 앞뒤가 없을지도 모르겠습니다.) 오늘은 여러분들께서 perl을 이용해서 Verilog HDL을 위한 testbench를 작성할 때 간단히 명령어 해석기를 만들어 사용하는 방법을 알려드리죠. 이 방법은 제가 JTAG을 위한 pro</description>
+    </item>
+    <item>
+      <title>오라일리의 perl책 세권.</title>
+      <link>http://localhost:8080/archives/107/</link>
+      <pubDate>Tue, 10 Oct 2006 14:48:33 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/107/</guid>
+      <description>perl을 잘 지원해주는 출판사인 오라일리(perl.com과 같은 사이트도 운영하죠)의 perl책 세권이 있습니다. (저는 개인적으로 낙타 대가리들이라고 부르곤하죠.. ^^; 근데, 왜 쿡북에는 산양이지요? ) perl을 주된 언어가 아닌 스크립팅 언어로 사용하는 엔지니어의 입장에서 각각을 리뷰해보도록 하겠습니다. PERL 프로그래밍 이 책은</description>
+    </item>
+    <item>
+      <title>perl 과 tcl.. 개인적인 느낌..</title>
+      <link>http://localhost:8080/archives/69/</link>
+      <pubDate>Tue, 12 Sep 2006 10:15:53 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/69/</guid>
+      <description>아마도 ASIC 엔지니어,그리고 경력이 좀 된다면 다들 간단한 쉘 프로그래밍이나, perl이나 tcl 정도는 다룰줄 아시리라 생각합니다. 부끄럽게도 저는 정말 간단한 정도의 할 줄 알다가, 1~2년 전부터 TCL을.. 1년전부터 perl을 좀 제대로 쓰고 있습니다. 예전에 했던 TCL은 사실 TK때문에 했던 것이라 상당히 간단한 수준이었고, 요즘에는 sy</description>
+    </item>
+  </channel>
+</rss>

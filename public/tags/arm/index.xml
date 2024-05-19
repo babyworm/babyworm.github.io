@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arm on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/arm/</link>
+    <description>Recent content in Arm on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 16 Jan 2011 09:10:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft의 ARM지원</title>
+      <link>http://localhost:8080/archives/1542/</link>
+      <pubDate>Sun, 16 Jan 2011 09:10:01 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1542/</guid>
+      <description>마이크로 소프트 windows에서 ARM을 지원한다는 소식이 지면을 장식한 것으로 이런 저런 이야기가 많은데요. 저는 별로 새로울 것도 없네.. 정도의 느낌입니다. 물론 한 걸음 갔다는 정도의 의미는 있습니다. 일단 windows의 속성상 binary compatibility를 가지고 있지 않은 두 아키텍쳐를 지원하는 것은 어차피 applicati</description>
+    </item>
+    <item>
+      <title>그러게 진작에 잘하지</title>
+      <link>http://localhost:8080/archives/1521/</link>
+      <pubDate>Sun, 28 Feb 2010 20:00:18 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1521/</guid>
+      <description>얼마 전에(워낙에 요즘에 업데이트를 안하고 있어서 좀 그렇지요?) VMM과 OVM의 interoperation kit이 나왔지요. Accellera에서 추가적인 자료가 나왔다고도 하지요 (여기). 결국 이렇게 될 것을 진작에 합쳐서 잘 만들지, Synopsys가 주도하는 VMM과 Mentor와 Cadence가 주도하는 OVM 진영으로 나뉠 때부터 좀 그랬어요 J 그</description>
+    </item>
+    <item>
+      <title>티맥스 윈도우</title>
+      <link>http://localhost:8080/archives/1489/</link>
+      <pubDate>Wed, 01 Jul 2009 02:31:15 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1489/</guid>
+      <description>티맥스라는 회사에서 티맥스 윈도우를 만들었고, 7월 7일에 공개한다고 합니다. 제가 자주 가는 커뮤니티인 클리앙이나 자바월드, 그리고 블로그 스피어에서도 위작 논란이 심하죠. 윈도우 XP 티맥스 테마냐.. 라는 이야기 까지 있으니까요. 약간 앞서 나가는 것 같습니다. 7월 7일까지 기다리면 될 일이겠지요. O/S를 만드는 것의 어려움 쉬움, 리누스</description>
+    </item>
+    <item>
+      <title>책 몇가지</title>
+      <link>http://localhost:8080/archives/1365/</link>
+      <pubDate>Thu, 22 Jan 2009 15:52:40 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1365/</guid>
+      <description>ASIC/processor 관련 책을 많이 보시라는 이야기를 해 드리고 있습니다만, 책이 워낙에 비싸죠. 모모 사이트와 당나귀를 적절히 이용하면 왠만한 책은 pdf로 구할 수도 있습니다만.. 클리앙에서 http://www.scribd.com/&amp;nbsp;라는 곳에 대한 소개가 있어서 가 봤는데, 괜찮은 책이 많군요. Google 검색을 통해서 갔을때는 그냥 단순히 리포트같</description>
+    </item>
+    <item>
+      <title>ARM의 Cortex-A9 프로세서.</title>
+      <link>http://localhost:8080/archives/318/</link>
+      <pubDate>Fri, 05 Oct 2007 04:32:11 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/318/</guid>
+      <description>[wp]ARM[/wp]에서 Cortex-A9을 발표하였다고 합니다 [ZDNet 기사]. 일단 저에게 있어서는 한숨 쉬어지는 일이고(ARM의 행보가 점차 빨라지니, 저희같은 업체가 따라잡을 수 있는 여지가 줄어들고 있는 것이 사실이니 말입니다.), 업계에 있어서는 환영할 만한 일이겠습니다. Cortex-A9의 경우 4개 까지 MP로 구성이 가능</description>
+    </item>
+    <item>
+      <title>이런 저런 뉴스 모음</title>
+      <link>http://localhost:8080/archives/283/</link>
+      <pubDate>Fri, 08 Jun 2007 03:48:09 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/283/</guid>
+      <description>전자 엔지니어 뉴스 중 흥미 있는 뉴스 몇 가지.. **시높시스, 스웨덴의 ASIC 프로토타이핑 회사 인수 ** (&amp;lt;A title=http://www.eetkorea.com/ART_8800467221_839575_NT_77236ec4.HTM?click_from=RSS href=&amp;ldquo;http://www.eetkorea.com/ART_8800467221_839575_NT_77236ec4.HTM?click_from=RSS&amp;rdquo;&amp;gt;http://www.eetkorea.com/ART_8800467221_839575_NT_77236ec4.HTM?click_from=RSS) FPGA기반의 ASIC 프로토타이핑 회사란 거의 emulation이 아닌가 싶은데.. 여하튼 빠른 coverage를 위해서 도움이 될 것이라 생각합니다. 지난번 synopsys-verification seminar때 emulator관련 회사가 참석한 것도 이런 맥락이 아닌</description>
+    </item>
+    <item>
+      <title>Verilog 관련 검색에 대한 친절한(?) 답변과 리퍼러 로그..</title>
+      <link>http://localhost:8080/archives/173/</link>
+      <pubDate>Fri, 10 Nov 2006 08:26:03 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/173/</guid>
+      <description>요즘에 리퍼러 로그를 보니, 검색을 통하여 들어오시는 분들이 상당하시군요.. (덕분에 gzip 플러그인을 통해 전송량을 절반으로 줄여놨었지만, 다시 트래픽이 차오르고 있습니다. ㅠㅠ; 물론, 많은 분들이 찾아주시는 건 좋은 일이지요.. 이 분야에 관심 있는 분들이 많다는 것이니까요..) 이 포스팅은 리퍼러 로그에 남은 검색어를 통하여 살펴본, 제 블로</description>
+    </item>
+    <item>
+      <title>자동차 시장을 겨냥한 Cortex-R4F</title>
+      <link>http://localhost:8080/archives/132/</link>
+      <pubDate>Fri, 20 Oct 2006 04:38:21 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/132/</guid>
+      <description>ZD net을 보니 [wp]ARM[/wp]이 MPR fall에서 [wp]Cortex-R4F[/wp]라는 프로세서를 발표했다고 하네요. (기사 원문은 여기에 있습니다.[기사 출처] http://www.zdnet.co.kr/itbiz/press/network/etc/0,39032102,39152022,00.htm) Cortex-R4는 제가 이전 posting에서도 간략히 올린 적이 있습니다만, IPC(instruction per cycle) matric의 관점에서 이전의 프로세서에 비하여 많은 향상이</description>
+    </item>
+    <item>
+      <title>똑똑한 프로세서가 늘어난다.</title>
+      <link>http://localhost:8080/archives/33/</link>
+      <pubDate>Thu, 10 Aug 2006 13:04:30 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/33/</guid>
+      <description>ARM에서 기존의 시리즈 번호를 접고 새롭게 cortex시리즈를 시작한지도 일년정도 된것 같다. 저가, 저전력 컨트롤러 시장을 타겟으로하는 M시리즈와 고성능, 고속 내장형 마이크로 프로세서 시장을 타겟으로 하는 A시리즈에 이어, 메인 스트림 시장을 타겟으로 하는 R시리즈가 선보였다. ”] 8단 파이프라인(실제적으로는 9단 파이프라고 생각</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slack on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/slack/</link>
+    <description>Recent content in Slack on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 14 Aug 2010 19:55:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/slack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>합리적인 작업량이란?</title>
+      <link>http://localhost:8080/archives/1534/</link>
+      <pubDate>Sat, 14 Aug 2010 19:55:01 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1534/</guid>
+      <description>요즘에 많이 읽고 있는 이런 저런 책들에서 공통적으로 이야기하는 것을 요약하자면 다음과 같습니다. (톰 드마르코의 책들이 특히 많습니다만..) &amp;#8220;지식 노동자의 경우 기존의 과학적인 관리 방법과는 다른 성향을 보인다. 예전 방식으로 뭔가 짜내려고 하지 마라&amp;#8221; 그런데 내가 예전에 존경하던 교수님들(무려 교수님들이다..)</description>
+    </item>
+    <item>
+      <title>창조를 위해서 필수적으로 필요한 시간 – Slack</title>
+      <link>http://localhost:8080/archives/1528/</link>
+      <pubDate>Sun, 06 Jun 2010 16:51:41 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1528/</guid>
+      <description>그동안 오랫동안 블로그에 글을 안쓰면서 비교적 독서량을 늘린 기간이었습니다. 그렇다고 뭐 전공 관련된 서적을 많이 읽은 것이 아니라 이 블로그에 소개할 만한 책은 별로 없구요.. (문학과 인문학쪽을 읽어보고 싶었다고 할까요… ^^; ) 그 중에 최근에 읽은 책 한권을 소개시켜 드리려 합니다. 바로 이곳 저곳에서 화제의 책인 “Slack: 변화와 재창조를 이끄</description>
+    </item>
+  </channel>
+</rss>

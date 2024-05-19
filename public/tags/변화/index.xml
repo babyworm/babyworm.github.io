@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>변화 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%B3%80%ED%99%94/</link>
+    <description>Recent content in 변화 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 13 Sep 2009 08:01:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%B3%80%ED%99%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>변화는 즐거운가?</title>
+      <link>http://localhost:8080/archives/1507/</link>
+      <pubDate>Sun, 13 Sep 2009 08:01:26 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1507/</guid>
+      <description>같은 길이의 길을 걷더라도 처음 가는 길은 훨씬 더 길게 느껴진다고 합니다. 그리고, 시간이 지남에 따라 그 길의 심리적인 길이는 점점 줄어든다고 하지요. 뇌가 처음보는 것에 대하여 다양한 자극을 처리하다보니 받아들인 정보의 양 만큼 길이 길게 느껴지는 것이라고 합니다. 그리고, 점점 새로운 정보가 없다보니 자극을 적게 받게되고 길도 짧게 느껴지게 되는 것이</description>
+    </item>
+  </channel>
+</rss>

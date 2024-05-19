@@ -5,7 +5,8 @@
     <link>http://localhost:8080/basics/second-content/index.html</link>
     <description>You can use the second content</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved, Babyworm</copyright>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:8080/basics/second-content/index.xml" rel="self" type="application/rss+xml" />
   </channel>

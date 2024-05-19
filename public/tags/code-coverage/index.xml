@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Coverage on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/code-coverage/</link>
+    <description>Recent content in Code Coverage on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 05 Dec 2008 05:34:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/code-coverage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelsim에서의 Code Coverage</title>
+      <link>http://localhost:8080/archives/1320/</link>
+      <pubDate>Fri, 05 Dec 2008 05:34:35 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1320/</guid>
+      <description>예전에 후배가 한 세미나 자료에서 그림을 많이 발췌합니다. 항상 검증을 언제 끝낼 것인가 하는 문제는 어렵습니다. 그래서, 검증할 때 coverage를 측정하여 검증을 언제 마칠것이냐 하는 것을 참고하게 됩니다. Functional verification때 고려하는 coverage로는 code coverage와 function coverage라는 것이 있는데, code cov</description>
+    </item>
+  </channel>
+</rss>

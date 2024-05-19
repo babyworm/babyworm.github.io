@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>대화법 on Babyworm Hugo Site</title>
+    <link>http://localhost:8080/tags/%EB%8C%80%ED%99%94%EB%B2%95/</link>
+    <description>Recent content in 대화법 on Babyworm Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>babyworm@gmail.com (babyworm)</managingEditor>
+    <webMaster>babyworm@gmail.com (babyworm)</webMaster>
+    <copyright>© Babyworm, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 18 Aug 2009 02:58:33 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/tags/%EB%8C%80%ED%99%94%EB%B2%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>흠.. 드라마 중독?</title>
+      <link>http://localhost:8080/archives/1505/</link>
+      <pubDate>Tue, 18 Aug 2009 02:58:33 +0000</pubDate><author>babyworm@gmail.com (babyworm)</author>
+      <guid>http://localhost:8080/archives/1505/</guid>
+      <description>babyworm은 엔지니어에게 있어서 표현의 기술이라는 것이 매우 중요하다고 생각합니다. 그런데 아쉽게도 제가 말을 그다지 잘 못해요 🙂 대화도 잘 못하구요. (좌절이구만요.. orz) 엔지니어가 자신이 만든것을 잘 표현하는 것은 매우 중요하지요. 그런데, 저는 어느정도 저와 비슷한 수준의 분들과는 이야기를 쉽게 나누는데, 그렇지 않은 경우에는 말을</description>
+    </item>
+  </channel>
+</rss>
