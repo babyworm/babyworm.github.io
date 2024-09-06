@@ -13,58 +13,24 @@ tags:
   - 마이크로 프로세서
 
 ---
-<div>
-  이번에 회사에서 <a href="http://blog.gyongsu.com/133" target="_blank">CANTUS</a>라는 저가 MCU가 공식적으로 론칭했고, 론칭하자마자 양산 오더가 들어와서 양산에 들어갔습니다. 이 MCU는 저희 팀이 개발한 AE32000C-Lucida 프로세서라는 것이 처음 적용된 상용화 칩이지요.
-</div>
 
-<div>
-</div>
+이번에 회사에서 <a href="http://blog.gyongsu.com/133" target="_blank">CANTUS</a>라는 저가 MCU가 공식적으로 론칭했고, 론칭하자마자 양산 오더가 들어와서 양산에 들어갔습니다. 이 MCU는 저희 팀이 개발한 AE32000C-Lucida 프로세서라는 것이 처음 적용된 상용화 칩이지요.
 
 EISC 프로세서로 저희가 주로 개발하는 프로세서는 에너지 효율과 DSP 연산 처리가 강화된 AE32000C 라는 ISA를 위주로 하고 있습니다. 대부분의 개발 방향이 비용 효율성과 에너지 효율성이라는 부분에 초점이 맞추어지지요. 분기 예측 기능도, 파이프라인도, 캐시 구조도 이쪽에 방향성을 두고 개발되었습니다.
 
-<div>
-</div>
 
-<div>
-  기존에 AE32000C 시리즈에서 가장 많이 사용된 AE32000C-Lucifer프로세서<span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1487_383('footnote_plugin_reference_1487_383_1');" onkeypress="footnote_moveToReference_1487_383('footnote_plugin_reference_1487_383_1');" ><sup id="footnote_plugin_tooltip_1487_383_1" class="footnote_plugin_tooltip_text">[1]</sup></a><span id="footnote_plugin_tooltip_text_1487_383_1" class="footnote_tooltip">국내 S사를 비롯해서 많은 라이센스가 이 프로세서를 통하여 이루어졌습니다.</span></span>를 기반으로 기반 성능을 10% 이상 높이고 면적은 줄이고, 에너지 효율도 높이고, 디버거 형태나 효율도 높이고.. 이런 형태로 개발된 것이 AE32000C-Lucida 프로세서지요. 사실 내부적으로 개발이 완료가 된 것은 몇년 되었고, 라이센스나 데모 칩등은 몇번 나왔는데, 이제야 첫번째 상용칩이 나왔으니 상용화라는 것이 참 시간이 많이 걸리는 작업이긴 합니다.
-</div>
 
-<div>
-</div>
+기존에 AE32000C 시리즈에서 가장 많이 사용된 AE32000C-Lucifer프로세서[^1]를 기반으로 기반 성능을 10% 이상 높이고 면적은 줄이고, 에너지 효율도 높이고, 디버거 형태나 효율도 높이고.. 이런 형태로 개발된 것이 AE32000C-Lucida 프로세서지요. 사실 내부적으로 개발이 완료가 된 것은 몇년 되었고, 라이센스나 데모 칩등은 몇번 나왔는데, 이제야 첫번째 상용칩이 나왔으니 상용화라는 것이 참 시간이 많이 걸리는 작업이긴 합니다.
 
-<div>
-  이번에 나온 CANTUS는 범용 MCU로 응용에 필요한 수준의 SRAM과 NOR flash가 내장되어 있기 떄문에 3.3V 전원과 크리스탈만 연결하면, 동작시키는데 문제가 없다는 장점이 있죠. 좋은 음질이 필요치 않다면 CODEC이 내장되어 있고, EISC를 위한 MP3 디코딩 프로그램이 제공되니까 간단한 MP3 플레이어를 만드는 건 아~주 간단하죠. (물론, 좋은 음질을 원한다면 audio codec을 붙이는 것이 깨끗하죠.. 이를 위한 인터페이스도 있고요)
-</div>
+이번에 나온 CANTUS는 범용 MCU로 응용에 필요한 수준의 SRAM과 NOR flash가 내장되어 있기 떄문에 3.3V 전원과 크리스탈만 연결하면, 동작시키는데 문제가 없다는 장점이 있죠. 좋은 음질이 필요치 않다면 CODEC이 내장되어 있고, EISC를 위한 MP3 디코딩 프로그램이 제공되니까 간단한 MP3 플레이어를 만드는 건 아~주 간단하죠. (물론, 좋은 음질을 원한다면 audio codec을 붙이는 것이 깨끗하죠.. 이를 위한 인터페이스도 있고요)
 
-<div>
-</div>
 
-<div>
-  여담입니다만, 저는 저희회사에서 이런 MCU를 많이 하는 것이 좋을 것이라 생각해요.
-</div>
+여담입니다만, 저는 저희회사에서 이런 MCU를 많이 하는 것이 좋을 것이라 생각해요.
 
-<div>
-  아키텍쳐를 보급하는데는 수량이 많지 않은 멀티미디어 부분 보다는, 수량을 많이 소화하는 MCU가 더 좋을 것이니까요. (AVR같은 것 봐도 그렇지요 ^^;)
-</div>
 
-<div class="speaker-mute footnotes_reference_container">
-  <div class="footnote_container_prepare">
-    <p>
-      <span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_1487_383();">Notes & References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="display: none;" onclick="footnote_expand_collapse_reference_container_1487_383();">[<a id="footnote_reference_container_collapse_button_1487_383">+</a>]</span>
-    </p>
-  </div>
-  
-  <div id="footnote_references_container_1487_383" style="">
-    <table class="footnotes_table footnote-reference-container">
-      <caption class="accessibility">Notes & References</caption> <tr class="footnotes_plugin_reference_row">
-        <th scope="row" class="footnote_plugin_index_combi pointer"  onclick="footnote_moveToAnchor_1487_383('footnote_plugin_tooltip_1487_383_1');">
-          <a id="footnote_plugin_reference_1487_383_1" class="footnote_backlink"><span class="footnote_index_arrow">&#8593;</span>1</a>
-        </th>
-        
-        <td class="footnote_plugin_text">
-          국내 S사를 비롯해서 많은 라이센스가 이 프로세서를 통하여 이루어졌습니다.
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
+
+아키텍쳐를 보급하는데는 수량이 많지 않은 멀티미디어 부분 보다는, 수량을 많이 소화하는 MCU가 더 좋을 것이니까요. (AVR같은 것 봐도 그렇지요 ^^;)
+
+
+
+[^1]: 국내 S사를 비롯해서 많은 라이센스가 이 프로세서를 통하여 이루어졌습니다.
