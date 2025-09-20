@@ -12,6 +12,7 @@
   <script type="text/javascript">
     var disqus_config = function () {
       this.page.url = {{ .Permalink | jsonify }};
+      this.page.identifier = {{ with .File }}{{ .UniqueID | jsonify }}{{ else }}{{ .RelPermalink | jsonify }}{{ end }};
     };
     function load_disqus() {
       // Guard on localhost unless explicitly allowed
@@ -19,16 +20,18 @@
 
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
       var disqus_shortname = {{ .Site.DisqusShortname | jsonify }};
-      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
       (document.head || document.body).appendChild(dsq);
 
       var btn = document.getElementById('load_disqus');
       if (btn) btn.remove();
     }
     {{ if $auto }}
-    document.addEventListener('DOMContentLoaded', function(){
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', function(){ try { load_disqus(); } catch (e) {} });
+    } else {
       try { load_disqus(); } catch (e) {}
-    });
+    }
     {{ end }}
   </script>
   <noscript>
@@ -36,4 +39,3 @@
     <a href="https://disqus.com/?ref_noscript" rel="nofollow noopener" target="_blank">comments powered by Disqus.</a>
   </noscript>
 </div>
-
