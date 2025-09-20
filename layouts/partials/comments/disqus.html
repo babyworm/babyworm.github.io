@@ -4,9 +4,13 @@
 
 <div class="disqus-comment">
   {{ if not $auto }}
-  <div class="disqus-button" id="load_disqus" onclick="load_disqus()">
-    {{ i18n "loadDisqus" }}
-  </div>
+    <div class="disqus-button" id="load_disqus" onclick="load_disqus()">
+      {{ i18n "loadDisqus" }}
+    </div>
+  {{ else }}
+    <div class="disqus-button" id="load_disqus" style="display:none" onclick="load_disqus()">
+      {{ i18n "loadDisqus" }}
+    </div>
   {{ end }}
   <div id="disqus_thread"></div>
   <script type="text/javascript">
@@ -27,11 +31,23 @@
       if (btn) btn.remove();
     }
     {{ if $auto }}
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', function(){ try { load_disqus(); } catch (e) {} });
-    } else {
-      try { load_disqus(); } catch (e) {}
-    }
+    (function(){
+      function tryAutoLoad(){
+        try { load_disqus(); } catch (e) {}
+        // Fallback: if DISQUS object not present after 5s, reveal manual button
+        setTimeout(function(){
+          if (!window.DISQUS) {
+            var btn = document.getElementById('load_disqus');
+            if (btn) btn.style.display = '';
+          }
+        }, 5000);
+      }
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', tryAutoLoad);
+      } else {
+        tryAutoLoad();
+      }
+    })();
     {{ end }}
   </script>
   <noscript>
