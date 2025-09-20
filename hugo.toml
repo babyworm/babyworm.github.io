@@ -151,7 +151,7 @@ defaultContentLanguage = "en"           # Default language to use
     title = "Search"
 
   [params.disqus]
-    autoLoad = true
+    autoLoad = false  # if true, load disqus when page loaded. Otherwise load disqus when user click the "Load Comments" button.
 
   [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
     enable = false
