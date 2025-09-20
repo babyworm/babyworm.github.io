@@ -1,0 +1,10 @@
+{{- /* {{< expand title="More" open="false" >}} ... {{< /expand >}} */ -}}
+{{- $title := .Get "title" | default "Details" -}}
+{{- $open  := eq (lower (.Get "open")) "true" -}}
+<details class="sc-expand" {{ if $open }}open{{ end }}>
+  <summary class="sc-expand-summary">{{ $title }}</summary>
+  <div class="sc-expand-body">
+    {{- .Inner | markdownify -}}
+  </div>
+</details>
+

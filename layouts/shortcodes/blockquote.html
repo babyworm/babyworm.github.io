@@ -1,0 +1,20 @@
+{{- $author := .Get "author" -}}
+{{- $source := .Get "source" -}}
+{{- $link := .Get "link" -}}
+<figure class="sc-blockquote">
+  <blockquote>
+    {{- .Inner | markdownify -}}
+  </blockquote>
+  {{- if or $author $source -}}
+  <figcaption>
+    {{- with $author -}}— {{ . }}{{ end -}}
+    {{- if and $author $source -}} · {{ end -}}
+    {{- with $source -}}
+      <cite>
+        {{- if $link -}}<a href="{{ $link }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
+      </cite>
+    {{- end -}}
+  </figcaption>
+  {{- end -}}
+</figure>
+

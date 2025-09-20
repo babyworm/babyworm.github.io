@@ -1,0 +1,10 @@
+{{/* usage:
+   {{< notice "info" >}}본문{{< /notice >}}
+   {{< notice "warning" title="주의" >}}본문{{< /notice >}}
+*/}}
+{{- $kind := cond (.IsNamedParams) (.Get "type") (.Get 0) | default "info" -}}
+{{- $title := cond (.IsNamedParams) (.Get "title") ("" ) -}}
+<div class="notice notice-{{$kind}}">
+  {{- with $title -}}<div class="notice-title">{{.}}</div>{{- end -}}
+  <div class="notice-body">{{ .Inner | .Page.RenderString }}</div>
+</div>
