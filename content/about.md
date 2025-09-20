@@ -58,8 +58,8 @@ mathjax: false
 for myself to remind of the site informaton.
 
   * babyworm.net: Registration Expiration Date: 
-      * 2020-04-24 &#8211;> **2030-04-24**
-  * hosting due: <b class="fs14 blue_01">2024.11.04</b>
+      * 2020-04-24 &#8211;> **2029-04-24** 
+  * hosting due: <b class="fs14 blue_01">2025.11.04</b>
 
 <div id="__KO_DIC_LAYER__" style="position: fixed; z-index: 999999999; overflow-x: hidden; overflow-y: hidden; display: none; padding: 0px; border: 2px solid #333377;">
 </div>
