@@ -18,8 +18,8 @@ summaryLength = 150 # The length of a post description on a list page.
 #buildFuture = true # if true, we can use future date for talks pag
 rssLimit = 20
 enableGitInfo = true # When true, the modified date will appear on a summary and single page. Since GitHub info needs to be fetched, this feature will slow down to build depending on a page number you have
-disqusShortname = ""    # disqus_shortname
-googleAnalytics = ""    # UA-XXXXXX-X
+disqusShortname = "babyworm-github-io"  # disqus_shortname
+googleAnalytics = "G-5K5SXHWR3B"        # UA-XXXXXX-X
 copyright = "© Babyworm, All Rights Reserved." # copyright symbol: $copy; current year: {year}
 # timeout = 10000
 
@@ -136,8 +136,9 @@ defaultContentLanguage = "en"           # Default language to use
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = ["css/search.css"]
-  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+  #customCSS = ["css/search.css"]
+  customCSS = []    # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []     # if ['custom.js'], load '/static/js/custom.js' file
 
 
   showRelatedPosts = true
@@ -150,7 +151,7 @@ defaultContentLanguage = "en"           # Default language to use
     title = "Search"
 
   [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
-    enable = true
+    enable = false
     repo = "babyworm/babyworm.github.io"
     repoId = "R_kgDOL3X7Wg"
     category = "Comments"
@@ -163,7 +164,7 @@ defaultContentLanguage = "en"           # Default language to use
     theme = "preferred_color_scheme"
     lang = "en"
     lazyLoading = false
-    crossorigin="anonymous"
+    crossorigin = "anonymous"
 
   [params.social]
     a-email = "mailto:babyworm@gmail.com"
