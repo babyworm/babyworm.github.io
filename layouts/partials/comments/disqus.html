@@ -1,0 +1,39 @@
+{{/* Override: auto-load Disqus without click (configurable) */}}
+{{ $auto := .Site.Params.disqus.autoLoad | default true }}
+{{ $allowLocal := .Site.Params.disqus.allowLocal | default false }}
+
+<div class="disqus-comment">
+  {{ if not $auto }}
+  <div class="disqus-button" id="load_disqus" onclick="load_disqus()">
+    {{ i18n "loadDisqus" }}
+  </div>
+  {{ end }}
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_config = function () {
+      this.page.url = {{ .Permalink | jsonify }};
+    };
+    function load_disqus() {
+      // Guard on localhost unless explicitly allowed
+      if (window.location.hostname === 'localhost' && {{ if $allowLocal }}false{{ else }}true{{ end }}) return;
+
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      var disqus_shortname = {{ .Site.DisqusShortname | jsonify }};
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.head || document.body).appendChild(dsq);
+
+      var btn = document.getElementById('load_disqus');
+      if (btn) btn.remove();
+    }
+    {{ if $auto }}
+    document.addEventListener('DOMContentLoaded', function(){
+      try { load_disqus(); } catch (e) {}
+    });
+    {{ end }}
+  </script>
+  <noscript>
+    Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow noopener" target="_blank">comments powered by Disqus.</a>
+  </noscript>
+</div>
+
