@@ -150,6 +150,9 @@ defaultContentLanguage = "en"           # Default language to use
     id = "c5a0e422652334df5"
     title = "Search"
 
+  [params.disqus]
+    autoLoad = true
+
   [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
     enable = false
     repo = "babyworm/babyworm.github.io"
