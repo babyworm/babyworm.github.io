@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify"
+  command = "npm install && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
@@ -13,4 +13,3 @@
 
 [context.branch-deploy]
   command = "git submodule update --init --recursive --remote && hugo --gc --minify -b $DEPLOY_PRIME_URL"
-

@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "hugo --gc --minify"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.79.4"
+  }
+}
