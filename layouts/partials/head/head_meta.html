@@ -1,0 +1,20 @@
+{{/* Only add hreflang tags if site is multilingual */}}
+{{ $site := .Site }}
+{{ if and $site ($site.IsMultiLingual) }}
+  {{ range .Translations }}
+  <link rel="alternate" hreflang="{{ .Site.LanguageCode }}" href="{{ .Permalink }}" />
+  {{ end }}
+  <link rel="alternate" hreflang="{{ .Site.LanguageCode }}" href="{{ .Permalink }}" />
+{{ end }}
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="applicable-device" content="pc,mobile">
+<meta name="color-scheme" content="light dark" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="generator" content="Hugo {{ hugo.Version }}" />
