@@ -1,9 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "postinstall": "bash scripts/install-dart-sass-embedded.sh",
     "build": "hugo --gc --minify"
-  },
-  "devDependencies": {
-    "sass-embedded": "^1.79.4"
   }
 }

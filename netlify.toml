@@ -1,5 +1,11 @@
 [build]
-  command = "npm install && hugo --gc --minify"
+  command = """
+  curl -sSL https://github.com/sass/dart-sass-embedded/releases/download/1.93.2/sass_embedded-1.93.2-linux-x64.tar.gz \
+    | tar -xz && \
+  mv sass_embedded/dart-sass-embedded /opt/buildhome/bin/ && \
+  npm ci && \
+  PATH=/opt/buildhome/bin:$PATH hugo --gc --minify
+  """
   publish = "public"
 
 [build.environment]
@@ -9,7 +15,8 @@
   TZ = "Asia/Seoul"             # 시간대 지정
 
 [context.deploy-preview]
-  command = "git submodule update --init --recursive --remote && hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "git submodule update --init --recursive --remote && npm ci && hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "git submodule update --init --recursive --remote && hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "git submodule update --init --recursive --remote && npm ci && hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
