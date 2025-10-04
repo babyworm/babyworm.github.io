@@ -28,44 +28,5 @@
     {{ partial "svg/reddit.svg" }}
     <span style="margin-left:.25rem;">Reddit</span>
   </a>
-
-  {{ $kakaoAppKey := .Site.Params.kakao.appKey }}
-  {{ if $kakaoAppKey }}
-    <a class="iconfont post-share-link post-share-kakao" href="#" onclick="return shareKakao();" title="Share on KakaoTalk" aria-label="Share on KakaoTalk">
-      {{ partial "svg/kakao.svg" }}
-      <span style="margin-left:.25rem;">KakaoTalk</span>
-    </a>
-    <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.2/kakao.min.js" crossorigin="anonymous"></script>
-    <script>
-      (function(){
-        try {
-          if (window.Kakao && !window.Kakao.isInitialized()) {
-            window.Kakao.init({{ $.Site.Params.kakao.appKey | jsonify }});
-          }
-        } catch(e) {}
-        window.shareKakao = function(){
-          try {
-            if (!window.Kakao) return false;
-            window.Kakao.Share.sendDefault({
-              objectType: 'feed',
-              content: {
-                title: {{ $.Title | jsonify }},
-                description: '',
-                imageUrl: '',
-                link: { mobileWebUrl: {{ $.Permalink | jsonify }}, webUrl: {{ $.Permalink | jsonify }} }
-              },
-              buttons: [ { title: '보기', link: { mobileWebUrl: {{ $.Permalink | jsonify }}, webUrl: {{ $.Permalink | jsonify }} } } ]
-            });
-          } catch(e) {}
-          return false;
-        }
-      })();
-    </script>
-  {{ else }}
-    <a class="iconfont post-share-link post-share-kakao" href="https://story.kakao.com/share?url={{ $url }}" target="_blank" rel="noopener noreferrer" title="Share on KakaoStory" aria-label="Share on KakaoStory">
-      {{ partial "svg/kakao.svg" }}
-      <span style="margin-left:.25rem;">Kakao</span>
-    </a>
-  {{ end }}
 </div>
 {{ end }}
