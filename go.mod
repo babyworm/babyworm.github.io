@@ -1,5 +1,9 @@
 module babyworm.github.io
 
-go 1.19
+go 1.23
 
-require github.com/McShelby/hugo-theme-relearn v0.0.0-20240503165000-ff35016bcab2 // indirect
+toolchain go1.24.7
+
+require (
+	github.com/xianmin/hugo-theme-jane v0.0.0-20250519002000-b4aac7720efc // indirect
+)
