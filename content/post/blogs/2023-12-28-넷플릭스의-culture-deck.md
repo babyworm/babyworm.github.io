@@ -24,25 +24,16 @@ categories:
 간혹 &#8216;즐겁다&#8217;를 recreation의 관점에서 보시는 경우가 있는데, 회사에서의 즐거움은 &#8216;어려운 목표&#8217;를 같이 도달했을 때 얻는 것이지, 미디어에서 이야기하는 삶을 즐기는 &#8216;즐거움&#8217;과 거리가 있다고 봅니다. 프로스포츠 팀의 즐거움은 &#8216;우승&#8217; 혹은 (적어도) &#8216;향상&#8217;이지 않을까요. 
 
 또 하나.. 회사의 문화란 &#8220;구호&#8221;가 아니라는 생각도 아주 중요할 것 같습니다. 구호와 문화가 일치하지 않는 경우는 너무 많으니까요. &#8216;차카게 살자&#8217;는 조폭도 구호가 없는 것이 아니라 그런 문화가 없는 것일테니까요.  
-<figure class="wp-block-embed is-type-rich is-provider-slideshare wp-block-embed-slideshare">
 
-<div class="wp-block-embed__wrapper">
-  <div style="margin-bottom:5px">
-    <strong> <a href="https://www.slideshare.net/watchncompass/update-180721" title="넷플릭스의 문화: 자유와 책임 (한국어 번역본) Update 180721" target="_blank">넷플릭스의 문화: 자유와 책임 (한국어 번역본) Update 180721</a> </strong> from <strong><a href="https://www.slideshare.net/watchncompass" target="_blank">Doran Hwang</a></strong>
-  </div>
-</div></figure> 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/omGgpCjjTtPqai" width="610" height="515"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/update-180721/106871638" title="update-180721" target="_blank">update-180721</a></strong>from <strong><a href="https://www.slideshare.net/watchncompass" target="_blank">Doran Hwang</a></strong></div>
 
 
 
-10년전에 링크한 원본은 다음과 같습니다. <figure class="wp-block-embed is-type-rich is-provider-slideshare wp-block-embed-slideshare">
-
-<div class="wp-block-embed__wrapper">
-  <div style="margin-bottom:5px">
-    <strong> <a href="https://www.slideshare.net/reed2001/culture-1798664" title="Culture" target="_blank">Culture</a> </strong> from <strong><a href="https://www.slideshare.net/reed2001" target="_blank">Reed Hastings</a></strong>
-  </div>
-</div></figure> 
 
 
+10년전에 링크한 원본은 다음과 같습니다. 
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/vAdYqTSGuIDFig" width="610" height="515"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/culture-1798664/1798664" title="culture-1798664" target="_blank">culture-1798664</a></strong>from <strong><a href="https://www.slideshare.net/reed2001" target="_blank">Reed Hastings</a></strong></div>
 
 
 
