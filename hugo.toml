@@ -60,7 +60,12 @@ defaultContentLanguage = "en"           # Default language to use
   pageref = "/categories/"
 
 
+[mediaTypes]
+  [mediaTypes."text/markdown"]
+    suffixes = ["md", "mmark"]
+
 [markup]
+  defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.renderer]
       hardWraps = true
