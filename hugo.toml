@@ -19,7 +19,6 @@ summaryLength = 150 # The length of a post description on a list page.
 #buildFuture = true # if true, we can use future date for talks pag
 rssLimit = 20
 enableGitInfo = true # When true, the modified date will appear on a summary and single page. Since GitHub info needs to be fetched, this feature will slow down to build depending on a page number you have
-disqusShortname = "babyworm-github-io"  # disqus_shortname
 googleAnalytics = "G-5K5SXHWR3B"        # UA-XXXXXX-X
 copyright = "© Babyworm, All Rights Reserved." # copyright symbol: $copy; current year: {year}
 # timeout = 10000
@@ -30,6 +29,10 @@ copyright = "© Babyworm, All Rights Reserved." # copyright symbol: $copy; curre
 
 [minify]
   minifyOutput = true
+
+[services]
+  [services.disqus]
+    shortname = "babyworm-github-io"
 
 defaultContentLanguage = "en"           # Default language to use
 [languages.en]
@@ -119,7 +122,6 @@ defaultContentLanguage = "en"           # Default language to use
   keywords = ["Hugo", "theme","jane"]
   description = "Babyworm Tech. and Personal Blog."
 
-  # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archive-paginate = 25
 
   # paginate style, default use numbered pagination links

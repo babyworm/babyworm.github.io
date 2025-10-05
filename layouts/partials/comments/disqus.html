@@ -1,26 +1,37 @@
+{{/* Resolve Disqus shortname (services > params fallback) */}}
+{{ $shortname := site.Config.Services.Disqus.Shortname | default site.Params.disqusShortname }}
+
 <div class="disqus-comment">
   <div class="disqus-button" id="load_disqus" onclick="load_disqus()">
     {{ i18n "loadDisqus" }}
   </div>
   <div id="disqus_thread"></div>
+
   <script type="text/javascript">
     var disqus_config = function () {
-      this.page.url = {{ .Permalink }};
+      /* URL/ID는 문자열로 넘겨야 함 */
+      this.page.url = {{ .Permalink | jsonify }};
+      this.page.identifier = {{ with .File.Path }}{{ . | jsonify }}{{ else }}{{ .RelPermalink | jsonify }}{{ end }};
     };
+
     function load_disqus() {
-      // Don't ever inject Disqus on localhost--it creates unwanted
-      // discussions from 'localhost:1313' on your Disqus account...
+      // 로컬 개발 시 주석 유지
       if (window.location.hostname === 'localhost') return;
 
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      var disqus_shortname = '{{ .Site.DisqusShortname }}';
-      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      var disqus_shortname = '{{ $shortname }}';
+      if (!disqus_shortname) { console.warn('Disqus shortname missing'); return; }
+
+      var dsq = document.createElement('script');
+      dsq.type = 'text/javascript';
+      dsq.async = true;
+      dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.head || document.body).appendChild(dsq);
 
       var btn = document.getElementById('load_disqus');
       if (btn) btn.remove();
-    };
-    // Auto-click the button after DOM is ready (production only)
+    }
+
+    // prod에서는 자동 로드
     document.addEventListener('DOMContentLoaded', function() {
       try {
         var btn = document.getElementById('load_disqus');
@@ -28,10 +39,12 @@
       } catch (e) {}
     });
   </script>
+
   <noscript>
     Please enable JavaScript to view the
-    <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
   </noscript>
-  <!-- <a href="http://disqus.com/" class="dsq-brlink" target="_blank">comments powered by <span class="logo-disqus">Disqus</span></a> -->
 </div>
+
+
 
