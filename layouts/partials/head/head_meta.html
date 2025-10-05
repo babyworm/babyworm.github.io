@@ -1,8 +1,8 @@
 {{/* Only add hreflang tags if site is multilingual */}}
 {{ $site := .Site }}
-{{ if and $site ($site.IsMultiLingual) }}
+{{ if and $site (hugo.IsMultiLingual) }}
   {{ range .Translations }}
-  <link rel="alternate" hreflang="{{ .Site.LanguageCode }}" href="{{ .Permalink }}" />
+    <link rel="alternate" hreflang="{{ .Site.LanguageCode }}" href="{{ .Permalink }}" />
   {{ end }}
   <link rel="alternate" hreflang="{{ .Site.LanguageCode }}" href="{{ .Permalink }}" />
 {{ end }}
