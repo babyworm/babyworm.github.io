@@ -13,7 +13,8 @@ theme = 'jane'
 #defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
 #defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
 hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
-paginate = 10  # Number of articles displayed on the homepage
+
+#paginate = 10  # Number of articles displayed on the homepage
 summaryLength = 150 # The length of a post description on a list page.
 #buildFuture = true # if true, we can use future date for talks pag
 rssLimit = 20
@@ -23,6 +24,12 @@ googleAnalytics = "G-5K5SXHWR3B"        # UA-XXXXXX-X
 copyright = "© Babyworm, All Rights Reserved." # copyright symbol: $copy; current year: {year}
 # timeout = 10000
 
+
+[pagination]
+  pagerSize = 10
+
+[minify]
+  minifyOutput = true
 
 defaultContentLanguage = "en"           # Default language to use
 [languages.en]
