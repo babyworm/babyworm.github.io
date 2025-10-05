@@ -1,0 +1,43 @@
+[[main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  pageRef = "/"
+
+
+[[main]]
+  name = "Docs"
+  weight = 12
+  identifier = "docs"
+  pageRef = "/categories/docs/"
+  pre = "bars"
+
+[[main]]
+  name = "Posts"
+  weight = 30
+  identifier = "archives"
+  pageRef = "/post/"
+  pre = "list"
+
+[[main]]
+  name = "About"
+  weight = 35
+  identifier = "About"
+
+[[main]]
+  name = ""
+  weight = 40
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/hyungyu-ethan-kim/"
+
+[[main]]
+  name = ""
+  weight = 50
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/babyworm"
+
+[[footer]]
+  name = "Privacy"
+  url = "https://external-link"

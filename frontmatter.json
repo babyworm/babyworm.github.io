@@ -55,13 +55,12 @@
       "title": "docs"
     },
     {
-      "path": "[[workspace]]/content/post/blogs"
+      "path": "[[workspace]]/content/post/blogs",
+      "title": "blogs"
     },
     {
-      "path": "[[workspace]]/content/post/demo"
-    },
-    {
-      "path": "[[workspace]]/content/post/other"
+      "path": "[[workspace]]/content/post/other",
+      "title": "other"
     }
   ],
   "frontMatter.git.enabled": true

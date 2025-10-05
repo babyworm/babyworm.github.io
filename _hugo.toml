@@ -1,0 +1,43 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/getting-started/
+
+theme = "blowfish"
+baseURL = "https://babyworm.github.io/"
+defaultContentLanguage = "ko"
+
+title = "Babyworm's Tech & Personal Blog"
+copyright = "© Babyworm, All Rights Reserved."
+
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+hasCJKLanguage = true
+summaryLength = 300
+rssLimit = 20
+
+googleAnalytics = "G-5K5SXHWR3B"
+
+[minify]
+  minifyOutput = true
+
+[pagination]
+  pagerSize = 10
+
+[services]
+  [services.disqus]
+    shortname = "babyworm-github-io"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

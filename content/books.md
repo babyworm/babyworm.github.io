@@ -20,7 +20,7 @@ categories: [
     "about",
 ]
 
-comment: false
+showComments: false
 mathjax: false
 ---
 이 페이지에서는 제가 작업한 책들을 소개하려 합니다.

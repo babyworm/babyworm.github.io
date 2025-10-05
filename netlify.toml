@@ -9,7 +9,7 @@
   TZ = "Asia/Seoul"             # 시간대 지정
 
 [context.deploy-preview]
-  command = "git submodule update --init --recursive --remote && npm ci && PATH=\"$(pwd)/node_modules/.bin:$PATH\" HUGO_SASS_EXECUTABLE=dart-sass-embedded hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "npm ci && PATH=\"$(pwd)/node_modules/.bin:$PATH\" HUGO_SASS_EXECUTABLE=dart-sass-embedded hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "git submodule update --init --recursive --remote && npm ci && PATH=\"$(pwd)/node_modules/.bin:$PATH\" HUGO_SASS_EXECUTABLE=dart-sass-embedded hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "npm ci && PATH=\"$(pwd)/node_modules/.bin:$PATH\" HUGO_SASS_EXECUTABLE=dart-sass-embedded hugo --gc --minify -b $DEPLOY_PRIME_URL"

@@ -1,0 +1,20 @@
+defaultMarkdownHandler = "goldmark"
+
+[goldmark.renderer]
+  hardWraps = true
+  unsafe = true
+  xhtml = true
+
+[highlight]
+  anchorLineNos = true
+  codeFences = true
+  guessSyntax = false
+  hlLines = ""
+  hlInline = false
+  lineAnchors = ""
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = true
+  noHl = false
+  style = "friendly"
+  tabWidth = 2

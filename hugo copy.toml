@@ -1,0 +1,192 @@
+baseURL = "https://babyworm.github.io/"
+languageCode = "en"
+theme = "blowfish"
+
+title = "Babyworm's Tech & Personal Blog"
+
+[params.author]
+  name = "babyworm"
+  image = "/images/babyworm.jpg"
+  headline = "Silicon IP Developer"
+  bio = "Lazy, curious, and pragmatic."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/hyungyu-ethan-kim/" },
+    { github = "https://github.com/babyworm" },
+    { email = "mailto:babyworm@gmail.com" },
+    { rss = "/index.xml" }
+  ]
+
+defaultContentLanguage = "ko"
+summaryLength = 300
+rssLimit = 20
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+hasCJKLanguage = true
+googleAnalytics = "G-5K5SXHWR3B"
+copyright = "© Babyworm, All Rights Reserved."
+
+
+[minify]
+  minifyOutput = true
+
+[pagination]
+  pagerSize = 10
+
+[services]
+  [services.disqus]
+    shortname = "babyworm-github-io"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    hardWraps = true
+    unsafe = true
+    xHTML = true
+  [markup.highlight]
+    anchorLineNos = true
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    hl_inline = false
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noHl = false
+    style = "friendly"
+    tabWidth = 4
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  pageref = "/"
+
+[[menu.main]]
+  name = "Docs"
+  weight = 12
+  identifier = "docs"
+  pageref = "/categories/docs/"
+
+[[menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  pageref = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 130
+  identifier = "tags"
+  pageref = "/tags/"
+
+[[menu.main]]
+  name = "Categories"
+  weight = 140
+  identifier = "categories"
+  pageref = "/categories/"
+
+[params]
+  since = "2006"
+  description = "Babyworm Tech. and Personal Blog."
+  keywords = ["Hugo", "theme", "blog", "blowfish"]
+  mainSections = ["post"]
+  colorScheme = "blowfish"
+  defaultAppearance = "system"
+  autoSwitchAppearance = true
+  enableSearch = true
+  enableCodeCopy = true
+  highlightCurrentMenuArea = true
+  smartTOC = true
+  smartTOCHideUnfocusedChildren = false
+
+
+
+[params.header]
+  layout = "fixed"
+
+[params.footer]
+  showMenu = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+  showThemeAttribution = true
+  showCopyright = true
+
+[params.homepage]
+  layout = "background"
+  showRecent = true
+  showRecentItems = 10
+  showMoreLink = true
+  showMoreLinkDest = "post"
+  cardView = false
+  cardViewScreenWidth = false
+
+[params.article]
+  showHero = true
+  heroStyle = "basic"
+  showDate = true
+  showDateUpdated = true
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = true
+  editURL = "https://github.com/babyworm/babyworm.github.io/edit/main/content"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 6
+  showTaxonomies = true
+  showAuthorsBadges = true
+  showWordCount = true
+  sharingLinks = ["linkedin", "twitter", "facebook", "email"]
+  showZenMode = true
+  showComments = true
+
+[params.list]
+  showHero = true
+  heroStyle = "basic"
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showCards = false
+  orderByWeight = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+  constrainItemsWidth = false
+
+[params.taxonomy]
+  showTermCount = true
+  showHero = false
+  heroStyle = "basic"
+  showBreadcrumbs = false
+  showTableOfContents = true
+  cardView = false
+
+[params.term]
+  showHero = true
+  heroStyle = "basic"
+  showBreadcrumbs = true
+  showTableOfContents = true
+  groupByYear = true
+  cardView = false
+  cardViewScreenWidth = false

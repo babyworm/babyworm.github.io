@@ -16,7 +16,7 @@ categories: [
 
 menu:
   main:
-    parent: "demo"
+    parent: "docs"
     weight: 99
 ---
 

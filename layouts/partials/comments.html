@@ -1,0 +1,4 @@
+{{- $shortname := site.Config.Services.Disqus.Shortname -}}
+{{- if $shortname -}}
+  {{ template "_internal/disqus.html" . }}
+{{- end -}}

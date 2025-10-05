@@ -1,0 +1,24 @@
+languageCode = "ko"
+languageName = "한국어"
+weight = 1
+title = "Babyworm's Tech & Personal Blog"
+
+[params]
+  displayName = "한국어"
+  isoCode = "ko"
+  rtl = false
+  dateFormat = "2006년 1월 2일"
+  logo = ""
+  description = "Babyworm Tech. and Personal Blog."
+
+[params.author]
+  name = "babyworm"
+  email = "babyworm@gmail.com"
+  image = "/images/babyworm.jpg"
+  headline = "Silicon IP Developer"
+  bio = "Lazy, curious, and pragmatic."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/hyungyu-ethan-kim/" },
+    { github = "https://github.com/babyworm" },
+    { email = "mailto:babyworm@gmail.com" }
+  ]
