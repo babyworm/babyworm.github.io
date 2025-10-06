@@ -83,7 +83,7 @@ smartTOCHideUnfocusedChildren = false
   showComments = true
   # Missing article parameters
   showViews = false
-  showLikes = false
+  showLikes = true
   # showDateOnlyInArticle = false
   showAuthorBottom = true
   # layoutBackgroundBlur = true
