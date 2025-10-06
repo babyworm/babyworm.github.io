@@ -8,13 +8,16 @@ title = "Babyworm's Tech & Personal Blog"
   isoCode = "ko"
   rtl = false
   dateFormat = "2006년 1월 2일"
-  logo = ""
+  logo = "images/worms.png"
+  #secondaryLogo = "images/babyworm.jpg"
   description = "Babyworm Tech. and Personal Blog."
+  copyright = "© {year} Babyworm, All Rights Reserved."
 
 [params.author]
   name = "babyworm"
   email = "babyworm@gmail.com"
   image = "/images/babyworm.jpg"
+  # imageQuality = 96
   headline = "Silicon IP Developer"
   bio = "Lazy, curious, and pragmatic."
   links = [

@@ -18,6 +18,24 @@ highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
+# Missing global parameters
+# enableA11y = false
+# replyByEmail = false
+# forgejoDefaultServer = ""
+# giteaDefaultServer = ""
+# showViews = false
+# showLikes = false
+# robots = ""
+# disableImageZoom = false
+# disableImageOptimization = false
+# disableImageOptimizationMD = false
+# backgroundImageWidth = 1200
+# disableTextInHeader = false
+# defaultBackgroundImage = ""
+# defaultFeaturedImage = ""
+# defaultSocialImage = ""
+# fingerprintAlgorithm = "sha512"
+
 [header]
   layout = "fixed"
 
@@ -36,6 +54,10 @@ smartTOCHideUnfocusedChildren = false
   showMoreLinkDest = "post"
   cardView = false
   cardViewScreenWidth = true
+  # Missing homepage parameters
+  # homepageImage = ""
+  # layoutBackgroundBlur = false
+  # disableHeroImageFilter = false
 
 [article]
   showHero = false
@@ -61,6 +83,15 @@ smartTOCHideUnfocusedChildren = false
   sharingLinks = ["linkedin", "twitter", "facebook", "email"]
   showZenMode = true
   showComments = true
+  # Missing article parameters
+  # showViews = false
+  # showLikes = false
+  # showDateOnlyInArticle = false
+  # showAuthorBottom = false
+  # layoutBackgroundBlur = true
+  # layoutBackgroundHeaderSpace = true
+  # seriesOpened = false
+  # showCategoryOnly = false
 
 [list]
   showHero = true
@@ -74,6 +105,9 @@ smartTOCHideUnfocusedChildren = false
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
+  # Missing list parameters
+  # showViews = false
+  # showLikes = false
 
 [taxonomy]
   showTermCount = true
@@ -82,6 +116,9 @@ smartTOCHideUnfocusedChildren = false
   showBreadcrumbs = false
   showTableOfContents = true
   cardView = false
+  # Missing taxonomy parameters
+  # showViews = false
+  # showLikes = false
 
 [term]
   showHero = false
@@ -91,3 +128,53 @@ smartTOCHideUnfocusedChildren = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
+  # Missing term parameters
+  # showViews = false
+  # showLikes = false
+
+# --- New sections from documentation ---
+
+# [firebase]
+#   apiKey = ""
+#   authDomain = ""
+#   projectId = ""
+#   storageBucket = ""
+#   messagingSenderId = ""
+#   appId = ""
+#   measurementId = ""
+
+# [fathomAnalytics]
+#   site = ""
+#   domain = ""
+
+# [umamiAnalytics]
+#   websiteid = ""
+#   domain = ""
+#   dataDomains = ""
+#   scriptName = "script.js"
+#   enableTrackEvent = true
+
+# [selineAnalytics]
+#   token = ""
+#   enableTrackEvent = true
+
+# [buymeacoffee]
+#   identifier = ""
+#   globalWidget = false
+#   globalWidgetMessage = ""
+#   globalWidgetColor = ""
+#   globalWidgetPosition = ""
+
+# [verification]
+#   google = ""
+#   bing = ""
+#   pinterest = ""
+#   yandex = ""
+#   fediverse = ""
+
+# [rssnext]
+#   feedId = ""
+#   userId = ""
+
+# [advertisement]
+#   adsense = ""
