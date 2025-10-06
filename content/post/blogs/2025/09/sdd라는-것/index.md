@@ -23,6 +23,8 @@ categories: [개인적인]
 
 그런데, Claude Code와 Gemini에게 작업에 대해서 설명하다가 느낀건.. 내가 spec으로 design을 하고 있는 듯 한 느낌이 들었다는 겁니다.
 
+![](featured_vive_coding.png)
+
 ## Spec. Driven Design
 최근 이 용어가 뜨고 있더군요.
 

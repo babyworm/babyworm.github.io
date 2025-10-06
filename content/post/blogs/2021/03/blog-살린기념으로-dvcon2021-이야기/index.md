@@ -7,7 +7,8 @@ categories:
   - 개인적인
 
 ---
-1.
+
+## Wordpress 복구
 wordpress가 자동 업데이트 하면서 footnotes plugin과 충돌(!!!)이 나서 죽어있더군요. 주중에 발견했는데, 시간이 없어서 주말에 터미널에 접근해서 살렸습니다. 비슷한 경험이 있으신 분이 있을 수 있으니.. 짧게 적습니다.
 
 wordpress의 경우 plugin은 아래 디렉토리에 존재합니다.
@@ -19,7 +20,8 @@ wordpress의 경우 plugin은 아래 디렉토리에 존재합니다.
 
 그런데, 만일 현재 사용중인 테마가 문제라면 그렇게 쉽게 되지는 않고, 이전 버전으로 롤백시키거나 해야 합니다. 관련해서 <a rel="noreferrer noopener" href="http://babyworm.net/archives/1989" target="_blank">적은 글</a>이 있으니 참고하세요. 이런 일이 있을때마다 간혹 그냥 잘 만들어진 어딘가로 이동할까.. 싶기도 하네요.
 
-2.
+## DVCON2021 이야기
+![](featured_dvcon2021.png)
 
 DVCON2021 도 virtual 로 열렸습니다. 사실 live로 들어가기는 어렵다보니 저는 그냥 Keynote와 Panel Discussion만 보는 무료 registration을 사용했습니다. 항상 그렇지만 DVCON의 Keynote/Panel 은 볼만했습니다. (다만 virtual이니, 음량 문제나 토론 중에 끊김이라든지 자잘한 문제가 있었지만요..)
 

@@ -47,7 +47,12 @@ Youtube에서는 AV1을 Youtube living room certification의 필수조건(2021�
 
 아래 차트[^12]에 완전히 동의하는 건 아닙니다만(표도 좀 어설프고..), 대략 VP9의 비중이 더 줄고 H.264의 비중이 여전히 어느 정도 유지될 것이라는 부분을 제외하면 비슷하게 생각합니다. 사실 해상도가 낮을때는 크게 차이가 나지 않기 때문에, H.264가 유지될 확률이 높아보입니다.)
 
-{{< figure src="/images/wp/codec_market_share.png" caption="출처: Xilinx forum; video codec market share [1]" >}}
+<p style="text-align: center;">
+<figure>
+  <img src="codec_market_share.png">
+  <figcaption>출처: Xilinx forum; video codec market share [1]</figcaption>
+</figure>
+</p>
 
 
 이후에 다시 예전처럼 다양한 코덱 표준이 난립할 것이냐.. 하면 그건 또 아닐 것 같습니다. 대략 1) ISO/ITU-T 국제 표준 표준인 H.26x/MPEG 계통, 2) AOM의 AVx 계통, 3) 중국의 TV표준으로 사용되는 AVS 계통 정도가 남아서 역할을 할 것이라 생각되며, 방송, 산업 분야는 국제 표준 쪽이, streaming 부분은 AOM 계통이 가져갈 것으로 생각합니다.
