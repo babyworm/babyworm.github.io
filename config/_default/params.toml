@@ -21,8 +21,6 @@ smartTOCHideUnfocusedChildren = false
 # Missing global parameters
 # enableA11y = false
 # replyByEmail = false
-# forgejoDefaultServer = ""
-# giteaDefaultServer = ""
 # showViews = false
 # showLikes = false
 # robots = ""
@@ -43,11 +41,11 @@ smartTOCHideUnfocusedChildren = false
   showMenu = true
   showAppearanceSwitcher = true
   showScrollToTop = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showCopyright = true
 
 [homepage]
-  layout = "page"
+  layout = "profile"
   showRecent = true
   showRecentItems = 10
   showMoreLink = true
@@ -55,7 +53,7 @@ smartTOCHideUnfocusedChildren = false
   cardView = false
   cardViewScreenWidth = true
   # Missing homepage parameters
-  # homepageImage = ""
+  # homepageImage = "/images/background.svg"
   # layoutBackgroundBlur = false
   # disableHeroImageFilter = false
 
@@ -84,10 +82,10 @@ smartTOCHideUnfocusedChildren = false
   showZenMode = true
   showComments = true
   # Missing article parameters
-  # showViews = false
-  # showLikes = false
+  showViews = false
+  showLikes = false
   # showDateOnlyInArticle = false
-  # showAuthorBottom = false
+  showAuthorBottom = true
   # layoutBackgroundBlur = true
   # layoutBackgroundHeaderSpace = true
   # seriesOpened = false
@@ -134,13 +132,13 @@ smartTOCHideUnfocusedChildren = false
 
 # --- New sections from documentation ---
 
-# [firebase]
-#   apiKey = ""
-#   authDomain = ""
-#   projectId = ""
-#   storageBucket = ""
-#   messagingSenderId = ""
-#   appId = ""
+[firebase]
+  apiKey = "AIzaSyCPofuoG0ZKScqH2Pr1mJwUHVzzOkusCmE"
+  authDomain = "babyworm-net.firebaseapp.com"
+  projectId = "babyworm-net"
+  storageBucket = "babyworm-net.firebasestorage.app"
+  messagingSenderId = "588506773159"
+  appId = "1:588506773159:web:043e034e9835b5aa358d82"
 #   measurementId = ""
 
 # [fathomAnalytics]

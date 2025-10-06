@@ -6,8 +6,9 @@ theme = "blowfish"
 baseURL = "https://babyworm.github.io/"
 defaultContentLanguage = "ko"
 
-title = "Babyworm's Tech & Personal Blog"
-copyright = "© Babyworm, All Rights Reserved."
+## defined in language
+# title = "Babyworm's Tech & Personal Blog"
+# copyright = "© Babyworm, All Rights Reserved."
 
 enableRobotsTXT = true
 enableEmoji = true

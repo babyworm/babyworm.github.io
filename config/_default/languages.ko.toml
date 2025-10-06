@@ -1,24 +1,24 @@
 languageCode = "ko"
 languageName = "한국어"
 weight = 1
-title = "Babyworm's Tech & Personal Blog"
+title = "Babyworm's Tech & Personal Blog.."
 
 [params]
   displayName = "한국어"
   isoCode = "ko"
   rtl = false
   dateFormat = "2006년 1월 2일"
-  logo = "images/worms.png"
+  logo = "images/test.png"
   #secondaryLogo = "images/babyworm.jpg"
   description = "Babyworm Tech. and Personal Blog."
-  copyright = "© {year} Babyworm, All Rights Reserved."
+  copyright = "© { year } Babyworm, All Rights Reserved."
 
 [params.author]
   name = "babyworm"
   email = "babyworm@gmail.com"
   image = "/images/babyworm.jpg"
   # imageQuality = 96
-  headline = "Silicon IP Developer"
+  headline = "Silicon IP Architect"
   bio = "Lazy, curious, and pragmatic."
   links = [
     { linkedin = "https://www.linkedin.com/in/hyungyu-ethan-kim/" },
