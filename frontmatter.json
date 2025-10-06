@@ -56,7 +56,11 @@
     },
     {
       "path": "[[workspace]]/content/post/blogs",
-      "title": "blogs"
+      "title": "blogs",
+      "pageBundle": true,
+      "newFile": {
+        "path": "{{year}}/{{month}}/{{slug}}"
+      }
     },
     {
       "path": "[[workspace]]/content/post/other",
