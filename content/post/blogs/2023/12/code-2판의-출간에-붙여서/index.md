@@ -7,6 +7,7 @@ ao_post_optimize:
   - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 categories:
   - 개인적인
+  - 책이야기
 
 ---
 원래 이 글은 CODE 2판이 나오기 전이었던 12월 중순에 썼던 글인데, 연말 마무리에 바빠서 다른 것을 하다 이제야 올립니다. 내용이 조금 오래된 부분은 바꾸고, 올립니다. <figure class="wp-block-image size-large">
