@@ -3,7 +3,6 @@ title: DAC 07 best selling books
 author: babyworm
 type: post
 date: 2007-08-04T13:00:19+00:00
-url: /archives/308
 categories:
   - 개인적인
 tags:

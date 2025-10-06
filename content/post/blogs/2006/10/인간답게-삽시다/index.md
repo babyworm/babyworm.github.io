@@ -3,7 +3,6 @@ title: 인간답게 삽시다..
 author: babyworm
 type: post
 date: 2006-10-11T07:01:33+00:00
-url: /archives/108
 categories:
   - 개인적인
 

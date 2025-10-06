@@ -3,7 +3,6 @@ title: 속도악마 대 머리괴물…
 author: babyworm
 type: post
 date: 2007-07-05T12:26:47+00:00
-url: /archives/294
 categories:
   - Microprocessor
 tags:

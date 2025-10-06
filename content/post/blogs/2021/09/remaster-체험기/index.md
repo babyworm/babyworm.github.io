@@ -3,7 +3,6 @@ title: remaster 체험기
 author: babyworm
 type: post
 date: 2021-09-22T09:19:56+00:00
-url: /archives/2290
 categories:
   - 개인적인
 tags:

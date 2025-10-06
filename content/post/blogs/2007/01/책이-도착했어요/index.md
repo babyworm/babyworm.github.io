@@ -3,7 +3,6 @@ title: 책이 도착했어요!
 author: babyworm
 type: post
 date: 2007-01-10T13:37:10+00:00
-url: /archives/236
 categories:
   - 책이야기
 tags:

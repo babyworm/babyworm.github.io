@@ -3,7 +3,6 @@ title: Fab과 EDA 업체들.. Fab은 울고.. EDA는 웃고?
 author: babyworm
 type: post
 date: 2006-10-31T10:47:36+00:00
-url: /archives/155
 categories:
   - 'News on SoC &amp; IP design'
 tags:

@@ -3,7 +3,6 @@ title: '보노보노: 어른들을 위한 동화'
 author: babyworm
 type: post
 date: 2006-11-19T14:43:07+00:00
-url: /archives/198
 bfa_virtual_template:
   - hierarchy
 categories:

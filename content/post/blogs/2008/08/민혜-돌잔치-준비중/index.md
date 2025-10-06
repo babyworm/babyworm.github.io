@@ -3,7 +3,6 @@ title: 민혜 돌잔치 준비중
 author: babyworm
 type: post
 date: 2008-08-29T07:59:31+00:00
-url: /archives/1192
 categories:
   - 아빠되기
 

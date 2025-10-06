@@ -3,7 +3,6 @@ title: '그 시절 Chicago Bulls & 초대장'
 author: babyworm
 type: post
 date: 2008-12-24T09:34:34+00:00
-url: /archives/1341
 categories:
   - 개인적인
 tags:

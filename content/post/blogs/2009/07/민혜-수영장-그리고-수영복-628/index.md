@@ -3,7 +3,6 @@ title: 민혜 수영장.. 그리고 수영복 (6/28)
 author: babyworm
 type: post
 date: 2009-07-27T13:46:17+00:00
-url: /archives/1497
 categories:
   - 아빠되기
 

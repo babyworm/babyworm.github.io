@@ -3,7 +3,6 @@ title: 즐거운 도전은 이제 부터.
 author: babyworm
 type: post
 date: 2010-06-26T17:10:05+00:00
-url: /archives/1530
 categories:
   - 개인적인
 

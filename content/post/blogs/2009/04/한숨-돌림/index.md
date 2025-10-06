@@ -3,7 +3,6 @@ title: 한숨 돌림(?)
 author: babyworm
 type: post
 date: 2009-04-28T12:28:23+00:00
-url: /archives/1475
 categories:
   - 개인적인
 tags:

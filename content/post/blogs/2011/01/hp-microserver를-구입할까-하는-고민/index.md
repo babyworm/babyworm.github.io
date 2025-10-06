@@ -3,7 +3,6 @@ title: HP microserver를 구입할까… 하는 고민
 author: babyworm
 type: post
 date: 2011-01-26T16:14:00+00:00
-url: /archives/1543
 categories:
   - 개인적인
 tags:

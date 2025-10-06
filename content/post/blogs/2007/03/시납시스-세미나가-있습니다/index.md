@@ -3,7 +3,6 @@ title: 시납시스 세미나가 있습니다.
 author: babyworm
 type: post
 date: 2007-03-31T15:14:05+00:00
-url: /archives/261
 categories:
   - 'News on SoC &amp; IP design'
 tags:

@@ -3,7 +3,6 @@ title: Windows 7과 Office 2010 Beta
 author: babyworm
 type: post
 date: 2009-11-22T16:59:11+00:00
-url: /archives/1514
 categories:
   - 개인적인
 

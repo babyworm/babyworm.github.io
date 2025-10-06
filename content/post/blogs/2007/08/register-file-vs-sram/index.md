@@ -3,7 +3,6 @@ title: Register file vs. SRAM
 author: babyworm
 type: post
 date: 2007-08-29T06:35:11+00:00
-url: /archives/312
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

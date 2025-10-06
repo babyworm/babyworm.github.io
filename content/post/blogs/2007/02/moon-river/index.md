@@ -3,7 +3,6 @@ title: Moon River..
 author: babyworm
 type: post
 date: 2007-02-26T11:56:26+00:00
-url: /archives/253
 categories:
   - 음악이야기
 tags:

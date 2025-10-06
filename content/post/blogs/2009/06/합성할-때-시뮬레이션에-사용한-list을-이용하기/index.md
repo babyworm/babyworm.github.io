@@ -3,7 +3,6 @@ title: 합성할 때 시뮬레이션에 사용한 list을 이용하기
 author: babyworm
 type: post
 date: 2009-06-03T13:49:18+00:00
-url: /archives/1479
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

@@ -3,7 +3,6 @@ title: 책도 못읽고.. 머리는 굳고… 이런 저런 잡스러운 이야�
 author: babyworm
 type: post
 date: 2007-04-22T07:23:25+00:00
-url: /archives/271
 categories:
   - 개인적인
 tags:

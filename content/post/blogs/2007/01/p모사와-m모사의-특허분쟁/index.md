@@ -3,7 +3,6 @@ title: P모사와 M모사의 특허분쟁
 author: babyworm
 type: post
 date: 2007-01-04T13:32:19+00:00
-url: /archives/231
 categories:
   - 'News on SoC &amp; IP design'
 tags:

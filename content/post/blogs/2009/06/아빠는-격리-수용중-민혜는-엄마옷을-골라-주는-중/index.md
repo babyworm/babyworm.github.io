@@ -3,7 +3,6 @@ title: 아빠는 격리 수용중.. 민혜는 엄마옷을 골라 주는 중….
 author: babyworm
 type: post
 date: 2009-06-16T07:43:25+00:00
-url: /archives/1482
 categories:
   - 아빠되기
 

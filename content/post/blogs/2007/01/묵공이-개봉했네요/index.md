@@ -3,7 +3,6 @@ title: 묵공이 개봉했네요..
 author: babyworm
 type: post
 date: 2007-01-13T15:24:41+00:00
-url: /archives/238
 categories:
   - 만화/애니메이션
 tags:

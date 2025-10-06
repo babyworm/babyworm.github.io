@@ -3,7 +3,6 @@ title: 모네… 빛의 마법…
 author: babyworm
 type: post
 date: 2006-11-12T12:36:24+00:00
-url: /archives/176
 categories:
   - 개인적인
 tags:

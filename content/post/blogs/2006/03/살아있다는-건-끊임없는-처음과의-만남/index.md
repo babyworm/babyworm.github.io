@@ -3,7 +3,6 @@ title: 살아있다는 건… 끊임없는 처음과의 만남..
 author: babyworm
 type: post
 date: 2006-03-29T11:53:31+00:00
-url: /archives/8
 categories:
   - 개인적인
 tags:

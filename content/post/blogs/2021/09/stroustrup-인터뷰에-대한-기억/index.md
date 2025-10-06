@@ -3,7 +3,6 @@ title: Stroustrup 인터뷰에 대한 기억..
 author: babyworm
 type: post
 date: 2021-09-25T14:16:32+00:00
-url: /archives/2307
 ao_post_optimize:
   - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 categories:

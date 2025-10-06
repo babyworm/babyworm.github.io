@@ -3,7 +3,6 @@ title: 민혜가 아프네요.
 author: babyworm
 type: post
 date: 2009-11-29T16:29:24+00:00
-url: /archives/1516
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: 2013년 2월에 읽은 책들
 author: babyworm
 type: post
 date: 2013-03-02T15:37:51+00:00
-url: /archives/1759
 bfa_virtual_template:
   - hierarchy
 al2fb_facebook_link_id:

@@ -3,7 +3,6 @@ title: 장고끝에 악수둔다..
 author: babyworm
 type: post
 date: 2007-01-26T11:23:57+00:00
-url: /archives/245
 categories:
   - 개인적인
 tags:

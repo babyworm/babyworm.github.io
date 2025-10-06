@@ -3,7 +3,6 @@ title: 얼음과 불의 노래
 author: babyworm
 type: post
 date: 2011-09-09T07:43:55+00:00
-url: /archives/1560
 categories:
   - 책이야기
 

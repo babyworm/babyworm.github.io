@@ -3,7 +3,6 @@ title: 아저씨.
 author: babyworm
 type: post
 date: 2011-01-11T15:36:44+00:00
-url: /archives/1539
 categories:
   - 개인적인
 

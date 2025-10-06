@@ -3,7 +3,6 @@ title: 12월 13일 병원..두발자국
 author: babyworm
 type: post
 date: 2008-12-19T03:38:45+00:00
-url: /archives/1328
 categories:
   - 아빠되기
 

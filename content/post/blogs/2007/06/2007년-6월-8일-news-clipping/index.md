@@ -3,7 +3,6 @@ title: 이런 저런 뉴스 모음
 author: babyworm
 type: post
 date: 2007-06-08T03:48:09+00:00
-url: /archives/283
 categories:
   - 'News on SoC &amp; IP design'
 tags:

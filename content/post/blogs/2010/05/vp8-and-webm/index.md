@@ -3,7 +3,6 @@ title: VP8 and WebM
 author: babyworm
 type: post
 date: 2010-05-21T15:14:00+00:00
-url: /archives/1527
 categories:
   - 'News on SoC &amp; IP design'
 tags:

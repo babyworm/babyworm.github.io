@@ -3,7 +3,6 @@ title: 일단 끝.. 이라고 할 수도 있어요.
 author: babyworm
 type: post
 date: 2010-04-11T07:45:02+00:00
-url: /archives/1525
 categories:
   - 개인적인
 

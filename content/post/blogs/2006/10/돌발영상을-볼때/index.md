@@ -3,7 +3,6 @@ title: 돌발영상을 볼때..
 author: babyworm
 type: post
 date: 2006-10-14T05:15:38+00:00
-url: /archives/119
 categories:
   - 개인적인
 tags:

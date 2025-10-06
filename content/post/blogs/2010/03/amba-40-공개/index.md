@@ -3,7 +3,6 @@ title: AMBA 4.0 공개
 author: babyworm
 type: post
 date: 2010-03-16T16:22:04+00:00
-url: /archives/1523
 categories:
   - 'News on SoC &amp; IP design'
 tags:

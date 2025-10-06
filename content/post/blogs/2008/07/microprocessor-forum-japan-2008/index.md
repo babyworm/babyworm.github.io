@@ -3,7 +3,6 @@ title: Microprocessor Forum Japan 2008.
 author: babyworm
 type: post
 date: 2008-07-04T08:40:38+00:00
-url: /archives/1176
 categories:
   - 개인적인
 

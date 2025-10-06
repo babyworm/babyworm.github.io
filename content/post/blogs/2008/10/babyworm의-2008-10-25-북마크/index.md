@@ -3,7 +3,6 @@ title: babyworm의 2008-10-25 북마크
 author: babyworm
 type: post
 date: 2008-10-24T18:01:00+00:00
-url: /archives/1294
 categories:
   - bookmark
 

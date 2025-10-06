@@ -3,7 +3,6 @@ title: LaTeX을 이용한 문서 작업
 author: babyworm
 type: post
 date: 2007-04-04T14:15:08+00:00
-url: /archives/264
 categories:
   - 개인적인
 tags:

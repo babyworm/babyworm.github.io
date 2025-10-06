@@ -3,7 +3,6 @@ title: ADClix를 사용하면서, 절대 보기 싫은 넘들이 보인다.
 author: babyworm
 type: post
 date: 2007-04-06T12:02:36+00:00
-url: /archives/267
 categories:
   - 개인적인
 tags:

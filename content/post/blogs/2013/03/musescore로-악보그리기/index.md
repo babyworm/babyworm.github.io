@@ -3,7 +3,6 @@ title: MuseScore로 악보그리기
 author: babyworm
 type: post
 date: 2013-03-02T14:57:38+00:00
-url: /archives/1750
 bfa_virtual_template:
   - hierarchy
 al2fb_facebook_link_id:

@@ -3,7 +3,6 @@ title: 마음을 다스리는 가장 좋은 방법은..
 author: babyworm
 type: post
 date: 2007-08-16T14:33:33+00:00
-url: /archives/309
 categories:
   - 개인적인
 

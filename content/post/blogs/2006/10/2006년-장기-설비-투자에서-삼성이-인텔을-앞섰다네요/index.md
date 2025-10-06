@@ -3,7 +3,6 @@ title: 2006년 장기 설비 투자에서 삼성이 인텔을 앞섰다네요..
 author: babyworm
 type: post
 date: 2006-10-18T11:03:47+00:00
-url: /archives/128
 categories:
   - 'News on SoC &amp; IP design'
 tags:

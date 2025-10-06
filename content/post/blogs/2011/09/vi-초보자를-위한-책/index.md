@@ -3,7 +3,6 @@ title: Vi 초보자를 위한 책
 author: babyworm
 type: post
 date: 2011-09-23T20:55:21+00:00
-url: /archives/1561
 categories:
   - 책이야기
 

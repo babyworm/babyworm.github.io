@@ -3,7 +3,6 @@ title: 민혜 돌 사진
 author: babyworm
 type: post
 date: 2009-03-17T06:14:14+00:00
-url: /archives/1419
 categories:
   - 아빠되기
 

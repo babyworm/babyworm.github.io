@@ -3,7 +3,6 @@ title: 12주 3일차.
 author: babyworm
 type: post
 date: 2007-08-04T11:44:45+00:00
-url: /archives/300
 categories:
   - 아빠되기
 

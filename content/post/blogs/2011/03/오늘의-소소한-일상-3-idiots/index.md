@@ -3,7 +3,6 @@ title: 오늘의 소소한 일상. 3 idiots
 author: babyworm
 type: post
 date: 2011-03-12T14:08:52+00:00
-url: /archives/1547
 categories:
   - 개인적인
 

@@ -3,7 +3,6 @@ title: '스타크래프트 II: 천국의 악마들'
 author: babyworm
 type: post
 date: 2011-09-07T14:21:08+00:00
-url: /archives/1559
 categories:
   - 책이야기
 

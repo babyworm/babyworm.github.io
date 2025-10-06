@@ -3,7 +3,6 @@ title: 가장 좋은 것이 항상 선택되는 것은 아닌가봅니다.
 author: babyworm
 type: post
 date: 2007-01-06T11:23:00+00:00
-url: /archives/235
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 기러기 아빠들..
 author: babyworm
 type: post
 date: 2006-09-16T04:56:54+00:00
-url: /archives/79
 categories:
   - 개인적인
 tags:

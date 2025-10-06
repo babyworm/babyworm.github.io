@@ -3,7 +3,6 @@ title: 3차 간접 흡연..
 author: babyworm
 type: post
 date: 2011-11-21T02:08:39+00:00
-url: /archives/1562
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: verification 시작..
 author: babyworm
 type: post
 date: 2006-11-11T14:37:11+00:00
-url: /archives/175
 categories:
   - verification
 tags:

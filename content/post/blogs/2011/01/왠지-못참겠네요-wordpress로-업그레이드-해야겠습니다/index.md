@@ -3,7 +3,6 @@ title: 왠지 못참겠네요.. WordPress로 업그레이드 해야겠습니다.
 author: babyworm
 type: post
 date: 2011-01-11T15:40:42+00:00
-url: /archives/1540
 categories:
   - Uncategorized
 

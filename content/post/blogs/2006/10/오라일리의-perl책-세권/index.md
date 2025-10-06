@@ -3,7 +3,6 @@ title: 오라일리의 perl책 세권.
 author: babyworm
 type: post
 date: 2006-10-10T14:48:33+00:00
-url: /archives/107
 categories:
   - 책이야기
 tags:

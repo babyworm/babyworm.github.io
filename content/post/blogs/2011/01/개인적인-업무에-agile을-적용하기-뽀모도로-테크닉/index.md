@@ -3,7 +3,6 @@ title: Microsoft의 ARM지원
 author: babyworm
 type: post
 date: 2011-01-16T09:10:01+00:00
-url: /archives/1542
 categories:
   - 'News on SoC &amp; IP design'
 tags:

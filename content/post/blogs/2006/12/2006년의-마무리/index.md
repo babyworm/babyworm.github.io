@@ -3,7 +3,6 @@ title: 2006년의 마무리..
 author: babyworm
 type: post
 date: 2006-12-31T13:19:21+00:00
-url: /archives/229
 categories:
   - 개인적인
 tags:

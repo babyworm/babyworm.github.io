@@ -3,7 +3,6 @@ title: 하남시에 쓰레기 매립지/화장장/미군부대 짓고 대신 지
 author: babyworm
 type: post
 date: 2006-10-18T15:12:07+00:00
-url: /archives/129
 categories:
   - 개인적인
 tags:

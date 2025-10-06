@@ -3,7 +3,6 @@ title: 마이크로 프로세서에 관심 있으신 분을 위한 글.
 author: babyworm
 type: post
 date: 2009-07-23T06:38:11+00:00
-url: /archives/1495
 bfa_virtual_template:
   - hierarchy
 categories:

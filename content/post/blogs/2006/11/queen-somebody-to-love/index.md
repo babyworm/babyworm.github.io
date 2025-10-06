@@ -3,7 +3,6 @@ title: 'Queen: Somebody to love'
 author: babyworm
 type: post
 date: 2006-11-04T12:53:04+00:00
-url: /archives/162
 categories:
   - 음악이야기
 tags:

@@ -3,7 +3,6 @@ title: Google Desktop Search와과 DNKA를 이용한 검색
 author: babyworm
 type: post
 date: 2007-02-26T08:59:27+00:00
-url: /archives/252
 categories:
   - 개인적인
 tags:

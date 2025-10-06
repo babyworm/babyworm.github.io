@@ -3,7 +3,6 @@ title: 잠꾸러기.. 그리고 똘망이
 author: babyworm
 type: post
 date: 2008-03-19T14:52:14+00:00
-url: /archives/493
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: 2011년에 뵙겠습니다.
 author: babyworm
 type: post
 date: 2010-12-31T09:01:11+00:00
-url: /archives/1538
 categories:
   - 개인적인
 

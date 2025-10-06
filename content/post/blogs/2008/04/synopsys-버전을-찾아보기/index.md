@@ -3,7 +3,6 @@ title: Synopsys 버전을 찾아보기..
 author: babyworm
 type: post
 date: 2008-04-11T00:30:35+00:00
-url: /archives/763
 categories:
   - CAD tools
 tags:

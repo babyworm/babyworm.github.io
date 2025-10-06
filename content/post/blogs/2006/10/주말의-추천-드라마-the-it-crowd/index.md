@@ -3,7 +3,6 @@ title: '주말의 추천 드라마: The IT Crowd'
 author: babyworm
 type: post
 date: 2006-10-20T16:23:48+00:00
-url: /archives/135
 categories:
   - 영화/드라마이야기
 tags:

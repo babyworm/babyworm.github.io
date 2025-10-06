@@ -3,7 +3,6 @@ title: demos on demand
 author: babyworm
 type: post
 date: 2007-03-23T17:47:14+00:00
-url: /archives/256
 categories:
   - Uncategorized
 tags:

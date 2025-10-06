@@ -3,7 +3,6 @@ title: 근황과 MPFJ2008
 author: babyworm
 type: post
 date: 2008-08-01T02:45:25+00:00
-url: /archives/1179
 categories:
   - 개인적인
 

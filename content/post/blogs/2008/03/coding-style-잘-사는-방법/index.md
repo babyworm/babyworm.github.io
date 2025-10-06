@@ -3,7 +3,6 @@ title: Coding style; 잘 사는 방법
 author: babyworm
 type: post
 date: 2008-03-17T14:01:24+00:00
-url: /archives/478
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

@@ -3,7 +3,6 @@ title: Sun의 Project Blackbox
 author: babyworm
 type: post
 date: 2006-10-19T00:21:50+00:00
-url: /archives/130
 categories:
   - 'News on SoC &amp; IP design'
 tags:

@@ -3,7 +3,6 @@ title: 트래픽 초과… 로봇의 힘..
 author: babyworm
 type: post
 date: 2006-10-20T00:40:34+00:00
-url: /archives/131
 categories:
   - 개인적인
 tags:

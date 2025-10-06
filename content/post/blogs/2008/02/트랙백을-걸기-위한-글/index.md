@@ -3,7 +3,6 @@ title: 트랙백을 걸기 위한 글
 author: babyworm
 type: post
 date: 2008-02-29T09:45:10+00:00
-url: /archives/413
 categories:
   - 개인적인
 

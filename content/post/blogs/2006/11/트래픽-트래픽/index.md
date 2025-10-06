@@ -3,7 +3,6 @@ title: 트래픽 트래픽…
 author: babyworm
 type: post
 date: 2006-11-14T09:53:25+00:00
-url: /archives/194
 categories:
   - 개인적인
 tags:

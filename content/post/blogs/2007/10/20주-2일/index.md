@@ -3,7 +3,6 @@ title: 20주 2일
 author: babyworm
 type: post
 date: 2007-10-21T05:25:16+00:00
-url: /archives/325
 categories:
   - 아빠되기
 

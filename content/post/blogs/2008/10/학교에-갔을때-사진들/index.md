@@ -3,7 +3,6 @@ title: 학교에 갔을때.. 사진들
 author: babyworm
 type: post
 date: 2008-10-08T11:51:00+00:00
-url: /archives/1266
 categories:
   - 아빠되기
 

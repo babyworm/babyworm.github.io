@@ -3,7 +3,6 @@ title: 책 몇가지
 author: babyworm
 type: post
 date: 2009-01-22T15:52:40+00:00
-url: /archives/1365
 categories:
   - 책이야기
 tags:

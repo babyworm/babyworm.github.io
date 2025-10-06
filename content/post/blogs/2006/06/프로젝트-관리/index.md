@@ -3,7 +3,6 @@ title: 프로젝트 관리
 author: babyworm
 type: post
 date: 2006-06-20T14:00:04+00:00
-url: /archives/26
 categories:
   - 'SoC &amp; IP design'
 tags:

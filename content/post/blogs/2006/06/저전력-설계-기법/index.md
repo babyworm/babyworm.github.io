@@ -3,7 +3,6 @@ title: 저전력 설계 기법..
 author: babyworm
 type: post
 date: 2006-06-06T13:05:13+00:00
-url: /archives/24
 categories:
   - 'SoC &amp; IP design'
 tags:

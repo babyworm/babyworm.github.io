@@ -3,7 +3,6 @@ title: 내 비타민.
 author: babyworm
 type: post
 date: 2008-11-24T14:49:24+00:00
-url: /archives/1316
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: Embedded Processor Market; 2012 review
 author: babyworm
 type: post
 date: 2013-01-27T16:43:44+00:00
-url: /archives/1733
 categories:
   - Microprocessor
   - 'SoC &amp; IP design'

@@ -3,7 +3,6 @@ title: 2005년 연봉 평균 순위..
 author: babyworm
 type: post
 date: 2006-09-22T10:35:00+00:00
-url: /archives/89
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 타이밍
 author: babyworm
 type: post
 date: 2006-05-17T14:04:10+00:00
-url: /archives/13
 categories:
   - 책이야기
 tags:

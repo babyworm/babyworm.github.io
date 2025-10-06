@@ -3,7 +3,6 @@ title: 새로운 프로세서를 만들다..
 author: babyworm
 type: post
 date: 2006-07-15T16:58:57+00:00
-url: /archives/32
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 뭔가 좀 지저분해졌습니다.
 author: babyworm
 type: post
 date: 2007-04-03T11:34:23+00:00
-url: /archives/263
 categories:
   - 개인적인
 tags:

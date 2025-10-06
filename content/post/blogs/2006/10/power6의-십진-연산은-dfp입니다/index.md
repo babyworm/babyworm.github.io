@@ -3,7 +3,6 @@ title: Power6의 십진 연산은 DFP입니다.
 author: babyworm
 type: post
 date: 2006-10-13T04:02:17+00:00
-url: /archives/115
 categories:
   - Microprocessor
 tags:

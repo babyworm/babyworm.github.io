@@ -3,7 +3,6 @@ title: Google의 특허 검색 서비스!
 author: babyworm
 type: post
 date: 2006-12-17T04:45:58+00:00
-url: /archives/218
 categories:
   - 개인적인
 tags:

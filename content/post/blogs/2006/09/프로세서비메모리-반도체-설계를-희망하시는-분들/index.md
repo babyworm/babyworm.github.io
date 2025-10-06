@@ -3,7 +3,6 @@ title: 프로세서/비메모리 반도체 설계를 희망하시는 분들께..
 author: babyworm
 type: post
 date: 2006-09-16T16:10:17+00:00
-url: /archives/80
 categories:
   - 'SoC &amp; IP design'
 tags:

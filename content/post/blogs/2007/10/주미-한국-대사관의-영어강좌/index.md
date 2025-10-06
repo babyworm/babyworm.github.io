@@ -3,7 +3,6 @@ title: 주미 한국 대사관의 영어강좌
 author: babyworm
 type: post
 date: 2007-10-20T04:09:07+00:00
-url: /archives/324
 categories:
   - 개인적인
 

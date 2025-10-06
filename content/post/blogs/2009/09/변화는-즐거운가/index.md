@@ -3,7 +3,6 @@ title: 변화는 즐거운가?
 author: babyworm
 type: post
 date: 2009-09-13T08:01:26+00:00
-url: /archives/1507
 categories:
   - 개인적인
 tags:

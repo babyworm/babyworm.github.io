@@ -3,7 +3,6 @@ title: EISC 관련 기사 하나.. TMA2560-RFID/USN용 센서 노드 칩
 author: babyworm
 type: post
 date: 2006-11-07T14:15:18+00:00
-url: /archives/169
 categories:
   - Microprocessor
 tags:

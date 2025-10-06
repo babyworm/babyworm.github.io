@@ -3,7 +3,6 @@ title: SystemVerilog for Verification
 author: babyworm
 type: post
 date: 2009-08-05T02:25:16+00:00
-url: /archives/1502
 categories:
   - 책이야기
 tags:

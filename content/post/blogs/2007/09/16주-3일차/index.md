@@ -3,7 +3,6 @@ title: 16주 3일차.
 author: babyworm
 type: post
 date: 2007-09-02T14:33:25+00:00
-url: /archives/313
 categories:
   - 아빠되기
 

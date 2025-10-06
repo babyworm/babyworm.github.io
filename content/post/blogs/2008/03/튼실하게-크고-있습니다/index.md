@@ -3,7 +3,6 @@ title: 튼실하게 크고 있습니다.
 author: babyworm
 type: post
 date: 2008-03-24T22:05:57+00:00
-url: /archives/497
 categories:
   - 아빠되기
 

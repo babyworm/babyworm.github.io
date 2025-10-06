@@ -3,7 +3,6 @@ title: scratch와 kodu
 author: babyworm
 type: post
 date: 2014-04-19T04:19:14+00:00
-url: /archives/1803
 bfa_virtual_template:
   - hierarchy
 categories:

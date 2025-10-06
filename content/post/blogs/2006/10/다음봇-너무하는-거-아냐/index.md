@@ -3,7 +3,6 @@ title: 다음봇.. 너무하는 거 아냐..
 author: babyworm
 type: post
 date: 2006-10-20T10:22:47+00:00
-url: /archives/133
 categories:
   - 개인적인
 tags:

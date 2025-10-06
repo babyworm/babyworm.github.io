@@ -3,7 +3,6 @@ title: EISC 프로세서 관련 신문 기사 하나
 author: babyworm
 type: post
 date: 2006-10-23T02:56:56+00:00
-url: /archives/141
 categories:
   - Microprocessor
 tags:

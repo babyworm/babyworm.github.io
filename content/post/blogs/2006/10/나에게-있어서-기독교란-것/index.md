@@ -3,7 +3,6 @@ title: 나에게 있어서 기독교란 것.
 author: babyworm
 type: post
 date: 2006-10-11T12:37:30+00:00
-url: /archives/112
 categories:
   - 개인적인
 

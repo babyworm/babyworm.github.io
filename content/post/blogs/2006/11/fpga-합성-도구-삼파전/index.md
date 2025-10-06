@@ -3,7 +3,6 @@ title: 'FPGA 합성 도구..  삼파전?'
 author: babyworm
 type: post
 date: 2006-11-13T09:55:10+00:00
-url: /archives/193
 categories:
   - CAD tools
 tags:

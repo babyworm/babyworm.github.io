@@ -3,7 +3,6 @@ title: Perl을 이용해서 검증할때 유용한 팁
 author: babyworm
 type: post
 date: 2007-06-04T14:46:20+00:00
-url: /archives/282
 categories:
   - verification
 tags:

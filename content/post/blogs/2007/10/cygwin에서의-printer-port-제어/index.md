@@ -3,7 +3,6 @@ title: Cygwin에서의 printer port 제어
 author: babyworm
 type: post
 date: 2007-10-03T03:28:03+00:00
-url: /archives/316
 categories:
   - verification
 tags:

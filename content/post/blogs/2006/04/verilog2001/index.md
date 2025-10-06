@@ -3,7 +3,6 @@ title: verilog2001
 author: babyworm
 type: post
 date: 2006-04-30T15:34:19+00:00
-url: /archives/11
 categories:
   - 책이야기
 tags:

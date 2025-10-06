@@ -3,7 +3,6 @@ title: KC2006 mini. 국내 LaTeX 환경의 표준을 노린다.
 author: babyworm
 type: post
 date: 2007-01-05T03:32:20+00:00
-url: /archives/234
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: TSMC 28nm processes
 author: babyworm
 type: post
 date: 2015-09-27T15:07:33+00:00
-url: /archives/1896
 categories:
   - bookmark
   - 'SoC &amp; IP design'

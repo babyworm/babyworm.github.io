@@ -3,7 +3,6 @@ title: 자기 자신을 깨우는 것이 가장 힘들다.
 author: babyworm
 type: post
 date: 2006-07-01T16:13:24+00:00
-url: /archives/29
 categories:
   - 개인적인
 tags:

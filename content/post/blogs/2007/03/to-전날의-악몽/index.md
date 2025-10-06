@@ -3,7 +3,6 @@ title: T/O 전날의 악몽
 author: babyworm
 type: post
 date: 2007-03-08T04:18:12+00:00
-url: /archives/254
 categories:
   - Uncategorized
 

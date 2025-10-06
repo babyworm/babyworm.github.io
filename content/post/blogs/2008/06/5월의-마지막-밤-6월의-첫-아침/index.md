@@ -3,7 +3,6 @@ title: 5월의 마지막 밤, 6월의 첫 아침
 author: babyworm
 type: post
 date: 2008-06-01T09:08:38+00:00
-url: /archives/1119
 categories:
   - 개인적인
 

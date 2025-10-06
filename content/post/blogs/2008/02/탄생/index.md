@@ -3,7 +3,6 @@ title: 탄생!
 author: babyworm
 type: post
 date: 2008-02-25T10:51:37+00:00
-url: /archives/382
 categories:
   - 아빠되기
 

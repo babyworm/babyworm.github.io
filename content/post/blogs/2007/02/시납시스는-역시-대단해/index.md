@@ -3,7 +3,6 @@ title: 시납시스는 역시 대단해!
 author: babyworm
 type: post
 date: 2007-02-25T15:02:03+00:00
-url: /archives/251
 categories:
   - 'News on SoC &amp; IP design'
 tags:

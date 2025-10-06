@@ -3,7 +3,6 @@ title: 늙어가고 있는지도 모르겠다고 생각될 때..
 author: babyworm
 type: post
 date: 2008-09-30T23:08:11+00:00
-url: /archives/1243
 categories:
   - 개인적인
 

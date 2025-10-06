@@ -3,7 +3,6 @@ title: 민혜 소파
 author: babyworm
 type: post
 date: 2009-03-29T23:42:04+00:00
-url: /archives/1423
 categories:
   - 아빠되기
 

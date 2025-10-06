@@ -3,7 +3,6 @@ title: MediaWiki 삽질기
 author: babyworm
 type: post
 date: 2008-12-17T23:55:36+00:00
-url: /archives/1327
 categories:
   - 개인적인
 tags:

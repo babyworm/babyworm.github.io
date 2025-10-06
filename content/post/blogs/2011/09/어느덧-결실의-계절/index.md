@@ -3,7 +3,6 @@ title: 어느덧 결실의 계절
 author: babyworm
 type: post
 date: 2011-09-04T10:07:08+00:00
-url: /archives/1558
 categories:
   - Uncategorized
   - 개인적인

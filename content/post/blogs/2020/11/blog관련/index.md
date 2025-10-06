@@ -3,7 +3,6 @@ title: Blog관련
 author: babyworm
 type: post
 date: 2020-11-14T15:38:56+00:00
-url: /archives/2175
 categories:
   - 개인적인
 

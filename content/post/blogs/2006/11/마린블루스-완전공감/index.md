@@ -3,7 +3,6 @@ title: 마린블루스.. 완전공감..
 author: babyworm
 type: post
 date: 2006-11-05T13:48:37+00:00
-url: /archives/164
 categories:
   - 개인적인
 tags:

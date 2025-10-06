@@ -3,7 +3,6 @@ title: 마이크로 프로세서가 나아가야 할 방향…
 author: babyworm
 type: post
 date: 2007-06-23T04:28:26+00:00
-url: /archives/288
 categories:
   - Microprocessor
 tags:

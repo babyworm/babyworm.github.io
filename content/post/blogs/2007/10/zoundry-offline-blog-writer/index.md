@@ -3,7 +3,6 @@ title: Zoundry Offline Blog Writer
 author: babyworm
 type: post
 date: 2007-10-16T00:06:50+00:00
-url: /archives/321
 categories:
   - 개인적인
 

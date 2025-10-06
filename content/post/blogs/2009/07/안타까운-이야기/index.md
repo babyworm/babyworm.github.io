@@ -3,7 +3,6 @@ title: 사소한 이야기들..
 author: babyworm
 type: post
 date: 2009-07-03T15:27:03+00:00
-url: /archives/1490
 categories:
   - 개인적인
 

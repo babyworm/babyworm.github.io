@@ -3,7 +3,6 @@ title: 가족 사진을 찍다.
 author: babyworm
 type: post
 date: 2006-04-13T13:55:07+00:00
-url: /archives/9
 categories:
   - 개인적인
 tags:

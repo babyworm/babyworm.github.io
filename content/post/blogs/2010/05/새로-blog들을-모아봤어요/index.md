@@ -3,7 +3,6 @@ title: 새로 blog들을 모아봤어요..
 author: babyworm
 type: post
 date: 2010-05-20T06:56:00+00:00
-url: /archives/1526
 categories:
   - 'SoC &amp; IP design'
 

@@ -3,7 +3,6 @@ title: 캐쉬를 신봉하지 말지어다.
 author: babyworm
 type: post
 date: 2006-09-26T14:42:00+00:00
-url: /archives/92
 categories:
   - 'SoC &amp; IP design'
 tags:

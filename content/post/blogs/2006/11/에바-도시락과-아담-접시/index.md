@@ -3,7 +3,6 @@ title: 에바 도시락과 아담 접시..
 author: babyworm
 type: post
 date: 2006-11-06T15:19:31+00:00
-url: /archives/166
 categories:
   - 개인적인
 

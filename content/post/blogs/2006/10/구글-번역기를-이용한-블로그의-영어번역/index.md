@@ -3,7 +3,6 @@ title: 구글 번역기를 이용한 블로그의 영어번역..
 author: babyworm
 type: post
 date: 2006-10-31T15:32:01+00:00
-url: /archives/159
 categories:
   - 개인적인
 tags:

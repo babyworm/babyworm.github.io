@@ -3,7 +3,6 @@ title: 초등학교 코딩 교육..
 author: babyworm
 type: post
 date: 2015-01-25T03:47:11+00:00
-url: /archives/1837
 switch_like_status:
   - 1
 categories:

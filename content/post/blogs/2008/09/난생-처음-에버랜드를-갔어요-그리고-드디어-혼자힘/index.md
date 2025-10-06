@@ -3,7 +3,6 @@ title: 난생 처음 에버랜드를 갔어요. 그리고, 드디어 혼자힘�
 author: babyworm
 type: post
 date: 2008-09-28T14:18:06+00:00
-url: /archives/1217
 categories:
   - 아빠되기
 

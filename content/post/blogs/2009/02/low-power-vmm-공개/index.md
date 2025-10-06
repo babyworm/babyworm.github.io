@@ -3,7 +3,6 @@ title: Low Power VMM 공개
 author: babyworm
 type: post
 date: 2009-02-26T06:55:37+00:00
-url: /archives/1370
 categories:
   - 'News on SoC &amp; IP design'
 tags:

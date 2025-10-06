@@ -3,7 +3,6 @@ title: 민혜가 좋아하는 모빌!
 author: babyworm
 type: post
 date: 2008-04-14T15:13:38+00:00
-url: /archives/764
 categories:
   - 아빠되기
 

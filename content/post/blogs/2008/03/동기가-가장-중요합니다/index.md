@@ -3,7 +3,6 @@ title: 동기가 가장 중요합니다.
 author: babyworm
 type: post
 date: 2008-03-06T10:31:08+00:00
-url: /archives/457
 categories:
   - 'SoC &amp; IP design : For beginners'
 

@@ -3,7 +3,6 @@ title: '삶을 기름지게 하는 양념: 예의'
 author: babyworm
 type: post
 date: 2006-09-23T07:37:05+00:00
-url: /archives/90
 categories:
   - 개인적인
 tags:

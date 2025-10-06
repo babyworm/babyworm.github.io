@@ -3,7 +3,6 @@ title: 수학이란 머리 아픈 것일까요?
 author: babyworm
 type: post
 date: 2007-02-21T14:56:02+00:00
-url: /archives/250
 categories:
   - 책이야기
 tags:

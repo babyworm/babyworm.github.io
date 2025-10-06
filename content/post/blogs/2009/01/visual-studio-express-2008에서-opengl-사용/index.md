@@ -3,7 +3,6 @@ title: Visual Studio Express 2008에서 OpenGL 사용
 author: babyworm
 type: post
 date: 2009-01-13T10:09:56+00:00
-url: /archives/1355
 categories:
   - 'SoC &amp; IP design : For beginners'
 

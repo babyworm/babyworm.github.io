@@ -3,7 +3,6 @@ title: 일반인의 입장에서의 LaTeX
 author: babyworm
 type: post
 date: 2009-02-19T03:30:15+00:00
-url: /archives/1369
 categories:
   - 개인적인
 tags:

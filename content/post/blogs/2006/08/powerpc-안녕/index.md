@@ -3,7 +3,6 @@ title: PowerPC 안녕~
 author: babyworm
 type: post
 date: 2006-08-23T15:59:30+00:00
-url: /archives/46
 categories:
   - 'SoC &amp; IP design'
 tags:

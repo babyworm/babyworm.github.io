@@ -3,7 +3,6 @@ title: perl 과 tcl.. 개인적인 느낌..
 author: babyworm
 type: post
 date: 2006-09-12T10:15:53+00:00
-url: /archives/69
 categories:
   - 'SoC &amp; IP design'
 tags:

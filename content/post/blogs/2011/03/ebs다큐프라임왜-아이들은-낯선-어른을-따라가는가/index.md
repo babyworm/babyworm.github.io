@@ -3,7 +3,6 @@ title: '[EBS다큐프라임]왜 아이들은 낯선 어른을 따라가는가?'
 author: babyworm
 type: post
 date: 2011-03-14T17:31:44+00:00
-url: /archives/1551
 categories:
   - 아빠되기
 

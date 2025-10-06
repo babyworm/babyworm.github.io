@@ -3,7 +3,6 @@ title: 개소식 정보
 author: babyworm
 type: post
 date: 2009-06-26T09:22:05+00:00
-url: /archives/1488
 categories:
   - 개인적인
 tags:

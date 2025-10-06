@@ -3,7 +3,6 @@ title: Design-For-Test for digital IC and embedded core systems
 author: babyworm
 type: post
 date: 2006-09-06T04:36:00+00:00
-url: /archives/61
 categories:
   - 책이야기
 tags:

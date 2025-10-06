@@ -3,7 +3,6 @@ title: 자잘하고 소소한 이야기들
 author: babyworm
 type: post
 date: 2009-10-04T14:43:58+00:00
-url: /archives/1509
 categories:
   - 개인적인
 tags:

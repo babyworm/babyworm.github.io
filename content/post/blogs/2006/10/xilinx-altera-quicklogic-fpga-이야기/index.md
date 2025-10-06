@@ -3,7 +3,6 @@ title: Xilinx, Altera, Quicklogic.. FPGA 이야기.
 author: babyworm
 type: post
 date: 2006-10-21T12:16:24+00:00
-url: /archives/138
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

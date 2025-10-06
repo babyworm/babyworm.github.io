@@ -3,7 +3,6 @@ title: 무럭 무럭 쑥쑥
 author: babyworm
 type: post
 date: 2008-03-13T10:24:45+00:00
-url: /archives/472
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: 호환성 강화 = 노가다.
 author: babyworm
 type: post
 date: 2009-03-13T01:31:27+00:00
-url: /archives/1418
 categories:
   - 개인적인
 

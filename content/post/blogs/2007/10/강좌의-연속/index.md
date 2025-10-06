@@ -3,7 +3,6 @@ title: 강좌의 연속
 author: babyworm
 type: post
 date: 2007-10-22T02:54:30+00:00
-url: /archives/341
 categories:
   - 개인적인
 

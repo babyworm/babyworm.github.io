@@ -3,7 +3,6 @@ title: Hooked on microprocessor
 author: babyworm
 type: post
 date: 2006-10-17T14:14:15+00:00
-url: /archives/124
 categories:
   - 개인적인
 tags:

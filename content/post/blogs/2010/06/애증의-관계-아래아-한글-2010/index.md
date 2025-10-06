@@ -3,7 +3,6 @@ title: 애증의 관계? 아래아 한글 2010
 author: babyworm
 type: post
 date: 2010-06-16T17:54:37+00:00
-url: /archives/1529
 categories:
   - 개인적인
 tags:

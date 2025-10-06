@@ -3,7 +3,6 @@ title: 늦은 100일 사진
 author: babyworm
 type: post
 date: 2008-06-25T10:11:58+00:00
-url: /archives/1160
 categories:
   - 아빠되기
 

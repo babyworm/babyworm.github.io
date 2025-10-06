@@ -3,7 +3,6 @@ title: 적응 II
 author: babyworm
 type: post
 date: 2008-04-27T13:41:12+00:00
-url: /archives/893
 categories:
   - 아빠되기
 

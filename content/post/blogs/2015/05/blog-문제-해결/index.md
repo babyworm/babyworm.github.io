@@ -3,7 +3,6 @@ title: Cafe24에서 WordPress xmlrpc 문제 해결
 author: babyworm
 type: post
 date: 2015-05-04T03:00:49+00:00
-url: /archives/1881
 categories:
   - 개인적인
 

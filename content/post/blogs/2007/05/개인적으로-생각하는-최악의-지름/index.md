@@ -3,7 +3,6 @@ title: 개인적으로 생각하는 최악의 지름..
 author: babyworm
 type: post
 date: 2007-05-05T08:58:45+00:00
-url: /archives/278
 categories:
   - 개인적인
 tags:

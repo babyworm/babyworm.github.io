@@ -3,7 +3,6 @@ title: 공무원틱한 국세청 HomeTax서비스
 author: babyworm
 type: post
 date: 2006-10-16T10:08:57+00:00
-url: /archives/120
 categories:
   - 개인적인
 tags:

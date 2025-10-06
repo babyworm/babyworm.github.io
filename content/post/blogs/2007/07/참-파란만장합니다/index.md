@@ -3,7 +3,6 @@ title: 참 파란만장합니다.
 author: babyworm
 type: post
 date: 2007-07-02T13:56:01+00:00
-url: /archives/293
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 자동차 시장을 겨냥한 Cortex-R4F
 author: babyworm
 type: post
 date: 2006-10-20T04:38:21+00:00
-url: /archives/132
 categories:
   - Microprocessor
 tags:

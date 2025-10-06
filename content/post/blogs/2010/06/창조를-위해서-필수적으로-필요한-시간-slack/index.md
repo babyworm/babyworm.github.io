@@ -3,7 +3,6 @@ title: 창조를 위해서 필수적으로 필요한 시간 – Slack
 author: babyworm
 type: post
 date: 2010-06-06T16:51:41+00:00
-url: /archives/1528
 categories:
   - 책이야기
 tags:

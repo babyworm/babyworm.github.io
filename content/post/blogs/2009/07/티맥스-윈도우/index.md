@@ -3,7 +3,6 @@ title: 티맥스 윈도우
 author: babyworm
 type: post
 date: 2009-07-01T02:31:15+00:00
-url: /archives/1489
 categories:
   - 개인적인
 tags:

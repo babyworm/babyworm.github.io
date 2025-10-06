@@ -3,7 +3,6 @@ title: 불필요하게 어려운 말을 쓰는 건 잘 모르기 때문입니다
 author: babyworm
 type: post
 date: 2008-10-31T01:30:29+00:00
-url: /archives/1296
 categories:
   - 개인적인
 tags:

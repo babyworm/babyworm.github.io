@@ -3,7 +3,6 @@ title: 'verilog-mode: verilog coder를 위한 Emacs의 친구..'
 author: babyworm
 type: post
 date: 2006-09-19T23:55:00+00:00
-url: /archives/83
 categories:
   - 'SoC &amp; IP design'
 tags:

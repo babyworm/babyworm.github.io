@@ -3,7 +3,6 @@ title: 검증의 대세는 system verilog?
 author: babyworm
 type: post
 date: 2006-11-28T14:29:08+00:00
-url: /archives/207
 categories:
   - verification
 tags:

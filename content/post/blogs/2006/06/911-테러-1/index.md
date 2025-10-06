@@ -3,7 +3,6 @@ title: 911 테러.
 author: babyworm
 type: post
 date: 2006-06-23T15:53:03+00:00
-url: /archives/28
 categories:
   - 영화/드라마이야기
 tags:

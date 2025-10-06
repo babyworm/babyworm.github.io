@@ -3,7 +3,6 @@ title: 국외 논문 무료 검색 및 열람 서비스!
 author: babyworm
 type: post
 date: 2006-10-24T14:47:52+00:00
-url: /archives/145
 categories:
   - 'News on SoC &amp; IP design'
 tags:

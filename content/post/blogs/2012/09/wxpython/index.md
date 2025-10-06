@@ -3,7 +3,6 @@ title: wxPython
 author: babyworm
 type: post
 date: 2012-09-22T17:40:51+00:00
-url: /archives/1728
 categories:
   - CAD tools
   - 'SoC &amp; IP design'

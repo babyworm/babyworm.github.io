@@ -3,7 +3,6 @@ title: 수원시대..
 author: babyworm
 type: post
 date: 2008-07-21T09:38:16+00:00
-url: /archives/1177
 categories:
   - 개인적인
 

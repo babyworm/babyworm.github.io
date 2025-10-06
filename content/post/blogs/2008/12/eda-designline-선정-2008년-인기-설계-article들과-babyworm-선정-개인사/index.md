@@ -3,7 +3,6 @@ title: EDA Designline 선정 2008년 인기 설계 article들과 babyworm 선정
 author: babyworm
 type: post
 date: 2008-12-27T14:33:23+00:00
-url: /archives/1344
 categories:
   - 개인적인
 tags:

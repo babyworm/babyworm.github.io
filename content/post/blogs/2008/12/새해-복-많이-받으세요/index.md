@@ -3,7 +3,6 @@ title: 새해 복 많이 받으세요!
 author: babyworm
 type: post
 date: 2008-12-31T15:36:45+00:00
-url: /archives/1346
 categories:
   - 아빠되기
 

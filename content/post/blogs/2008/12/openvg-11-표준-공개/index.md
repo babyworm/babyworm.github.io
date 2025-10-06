@@ -3,7 +3,6 @@ title: OpenVG 1.1 표준 공개
 author: babyworm
 type: post
 date: 2008-12-10T03:40:03+00:00
-url: /archives/1326
 categories:
   - 개인적인
 tags:

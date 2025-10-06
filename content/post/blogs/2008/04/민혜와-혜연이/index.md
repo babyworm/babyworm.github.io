@@ -3,7 +3,6 @@ title: 민혜와 혜연이
 author: babyworm
 type: post
 date: 2008-04-14T15:27:01+00:00
-url: /archives/832
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: bette middler
 author: babyworm
 type: post
 date: 2007-12-08T14:27:13+00:00
-url: /archives/369
 categories:
   - 음악이야기
 

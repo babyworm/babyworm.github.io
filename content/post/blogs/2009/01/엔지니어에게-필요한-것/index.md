@@ -3,7 +3,6 @@ title: 엔지니어에게 필요한 것
 author: babyworm
 type: post
 date: 2009-01-21T23:41:51+00:00
-url: /archives/1363
 categories:
   - 개인적인
 

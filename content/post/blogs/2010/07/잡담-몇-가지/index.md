@@ -3,7 +3,6 @@ title: 잡담 몇 가지..
 author: babyworm
 type: post
 date: 2010-07-03T06:08:55+00:00
-url: /archives/1531
 categories:
   - 개인적인
 

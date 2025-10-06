@@ -3,7 +3,6 @@ title: 대충 살아가는 느낌이다.
 author: babyworm
 type: post
 date: 2008-09-05T13:10:16+00:00
-url: /archives/1196
 categories:
   - 개인적인
 

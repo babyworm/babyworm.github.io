@@ -3,7 +3,6 @@ title: 신입생에게 C/C++은 독인가?
 author: babyworm
 type: post
 date: 2006-10-28T15:29:18+00:00
-url: /archives/154
 categories:
   - 개인적인
 tags:

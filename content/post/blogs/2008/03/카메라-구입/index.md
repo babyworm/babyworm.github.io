@@ -3,7 +3,6 @@ title: 카메라 구입
 author: babyworm
 type: post
 date: 2008-03-24T02:48:08+00:00
-url: /archives/496
 categories:
   - 아빠되기
 

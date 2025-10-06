@@ -3,7 +3,6 @@ title: 민혜의 가장 행복한 시간.. 6/6
 author: babyworm
 type: post
 date: 2009-06-16T16:06:12+00:00
-url: /archives/1483
 categories:
   - 아빠되기
 

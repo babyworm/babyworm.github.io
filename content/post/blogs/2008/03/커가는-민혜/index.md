@@ -3,7 +3,6 @@ title: 커가는 민혜
 author: babyworm
 type: post
 date: 2008-03-29T13:26:01+00:00
-url: /archives/517
 categories:
   - 아빠되기
 

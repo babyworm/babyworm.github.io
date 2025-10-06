@@ -3,7 +3,6 @@ title: Core-A launching 행사
 author: babyworm
 type: post
 date: 2008-07-22T09:39:19+00:00
-url: /archives/1178
 categories:
   - 개인적인
 

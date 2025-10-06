@@ -3,7 +3,6 @@ title: Synopsys의 Synplicity 인수!
 author: babyworm
 type: post
 date: 2008-03-21T02:47:42+00:00
-url: /archives/495
 categories:
   - 'News on SoC &amp; IP design'
 

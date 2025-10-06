@@ -3,7 +3,6 @@ title: 반 DRM.. 사실 표준화되지 않은 DRM이 문제 아닌가..
 author: babyworm
 type: post
 date: 2006-11-25T07:23:55+00:00
-url: /archives/206
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 'The Corrs: unplugged MTV'
 author: babyworm
 type: post
 date: 2006-12-31T11:10:27+00:00
-url: /archives/227
 categories:
   - 음악이야기
 tags:

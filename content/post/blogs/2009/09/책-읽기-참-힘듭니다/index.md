@@ -3,7 +3,6 @@ title: 책 읽기 참 힘듭니다. :)
 author: babyworm
 type: post
 date: 2009-09-24T10:33:43+00:00
-url: /archives/1508
 categories:
   - 개인적인
 tags:

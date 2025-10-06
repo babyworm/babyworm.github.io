@@ -3,7 +3,6 @@ title: 다시 식민지가 되는 일이 있다면, 국외로 나갈거다.
 author: babyworm
 type: post
 date: 2006-10-02T11:13:51+00:00
-url: /archives/101
 categories:
   - 개인적인
 tags:

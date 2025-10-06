@@ -3,7 +3,6 @@ title: Verilog PLI 배우기 (1)
 author: babyworm
 type: post
 date: 2006-05-18T13:30:28+00:00
-url: /archives/17
 categories:
   - 'SoC &amp; IP design'
 tags:

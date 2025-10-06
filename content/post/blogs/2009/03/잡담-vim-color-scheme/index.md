@@ -3,7 +3,6 @@ title: 잡담.. Vim Color Scheme
 author: babyworm
 type: post
 date: 2009-03-05T01:50:51+00:00
-url: /archives/1394
 categories:
   - bookmark
 tags:

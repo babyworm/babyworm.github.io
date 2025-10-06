@@ -3,7 +3,6 @@ title: SystemVerilog
 author: babyworm
 type: post
 date: 2011-05-18T15:02:02+00:00
-url: /archives/1555
 categories:
   - verification
 

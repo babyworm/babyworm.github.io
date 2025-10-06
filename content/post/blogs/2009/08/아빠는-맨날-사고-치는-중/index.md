@@ -3,7 +3,6 @@ title: 아빠는 맨날 사고 치는 중..
 author: babyworm
 type: post
 date: 2009-08-18T00:39:31+00:00
-url: /archives/1504
 categories:
   - 아빠되기
 

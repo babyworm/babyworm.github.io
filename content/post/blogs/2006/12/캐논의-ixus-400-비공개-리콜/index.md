@@ -3,7 +3,6 @@ title: 캐논의 IXUS 400. 비공개 리콜?
 author: babyworm
 type: post
 date: 2006-12-02T04:29:02+00:00
-url: /archives/210
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 태열기가 내려가면서 얼굴이 좋아졌습니다.
 author: babyworm
 type: post
 date: 2008-04-01T14:47:44+00:00
-url: /archives/661
 categories:
   - 아빠되기
 

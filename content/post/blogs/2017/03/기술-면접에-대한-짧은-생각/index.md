@@ -3,7 +3,6 @@ title: 기술 면접에 대한 짧은 생각
 author: babyworm
 type: post
 date: 2017-03-22T15:11:44+00:00
-url: /archives/1950
 categories:
   - 개인적인
 

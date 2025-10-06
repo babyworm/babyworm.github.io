@@ -3,7 +3,6 @@ title: 24주 5일
 author: babyworm
 type: post
 date: 2007-12-02T12:14:35+00:00
-url: /archives/348
 categories:
   - 아빠되기
 

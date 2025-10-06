@@ -3,7 +3,6 @@ title: Kindle DX, iPad, Galaxy Tab.. 전자책으로는?
 author: babyworm
 type: post
 date: 2011-02-08T17:24:00+00:00
-url: /archives/1545
 categories:
   - 개인적인
 tags:

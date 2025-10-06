@@ -3,7 +3,6 @@ title: Synchronizer 시뮬레이션 문제
 author: babyworm
 type: post
 date: 2008-12-29T02:07:29+00:00
-url: /archives/1345
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

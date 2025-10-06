@@ -3,7 +3,6 @@ title: 20차 JCTVC meeting
 author: babyworm
 type: post
 date: 2015-02-19T21:20:02+00:00
-url: /archives/1872
 switch_like_status:
   - 1
 categories:

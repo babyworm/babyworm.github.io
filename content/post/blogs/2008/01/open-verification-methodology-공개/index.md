@@ -3,7 +3,6 @@ title: Open Verification Methodology 공개!
 author: babyworm
 type: post
 date: 2008-01-11T08:27:04+00:00
-url: /archives/373
 categories:
   - verification
 

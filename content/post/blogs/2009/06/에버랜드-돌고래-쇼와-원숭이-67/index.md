@@ -3,7 +3,6 @@ title: 에버랜드 돌고래 쇼와 원숭이 (6/7)
 author: babyworm
 type: post
 date: 2009-06-23T14:42:38+00:00
-url: /archives/1485
 categories:
   - 아빠되기
 

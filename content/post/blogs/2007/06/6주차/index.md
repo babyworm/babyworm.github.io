@@ -3,7 +3,6 @@ title: 6주차.
 author: babyworm
 type: post
 date: 2007-06-23T04:52:06+00:00
-url: /archives/291
 categories:
   - 아빠되기
 

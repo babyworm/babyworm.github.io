@@ -3,7 +3,6 @@ title: 인간 개조 프로젝트(1)
 author: babyworm
 type: post
 date: 2006-09-21T14:06:04+00:00
-url: /archives/85
 categories:
   - 개인적인
 tags:

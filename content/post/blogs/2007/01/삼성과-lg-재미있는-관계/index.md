@@ -3,7 +3,6 @@ title: 삼성과 LG.. 재미있는 관계
 author: babyworm
 type: post
 date: 2007-01-13T15:58:41+00:00
-url: /archives/240
 categories:
   - 개인적인
 tags:

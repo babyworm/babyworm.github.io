@@ -3,7 +3,6 @@ title: Michael D. Ciletti 의 Verilog HDL 시리즈
 author: babyworm
 type: post
 date: 2006-05-07T14:30:15+00:00
-url: /archives/12
 categories:
   - 책이야기
 tags:

@@ -3,7 +3,6 @@ title: 민혜 3일째
 author: babyworm
 type: post
 date: 2008-05-03T05:43:49+00:00
-url: /archives/1008
 categories:
   - 아빠되기
 

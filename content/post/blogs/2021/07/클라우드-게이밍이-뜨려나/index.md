@@ -3,7 +3,6 @@ title: 클라우드 게이밍이 뜨려나
 author: babyworm
 type: post
 date: 2021-07-20T15:28:56+00:00
-url: /archives/2277
 categories:
   - Video Codec
   - 개인적인

@@ -3,7 +3,6 @@ title: 공학은 도제식 교육이 필요한 분야 아닐까요?
 author: babyworm
 type: post
 date: 2006-09-29T15:20:00+00:00
-url: /archives/94
 categories:
   - 개인적인
 tags:

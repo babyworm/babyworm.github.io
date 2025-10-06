@@ -3,7 +3,6 @@ title: Coverage와 Assertion
 author: babyworm
 type: post
 date: 2007-04-02T11:51:35+00:00
-url: /archives/262
 categories:
   - verification
 tags:

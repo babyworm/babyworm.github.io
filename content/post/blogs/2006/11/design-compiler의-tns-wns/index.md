@@ -3,7 +3,6 @@ title: Design Compiler의 TNS, WNS..
 author: babyworm
 type: post
 date: 2006-11-08T11:09:31+00:00
-url: /archives/170
 categories:
   - CAD tools
 tags:

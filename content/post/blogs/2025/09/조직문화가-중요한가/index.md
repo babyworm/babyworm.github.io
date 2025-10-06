@@ -3,7 +3,6 @@ title: 조직문화는 중요한가
 author: babyworm
 type: post
 date: 2025-09-14T21:50:00+09:00
-url: /archives/2025_0914
 categories:
   - 개인적인
 tags:

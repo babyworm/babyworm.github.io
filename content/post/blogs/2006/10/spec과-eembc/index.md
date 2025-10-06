@@ -3,7 +3,6 @@ title: SPEC과 EEMBC
 author: babyworm
 type: post
 date: 2006-10-17T14:30:35+00:00
-url: /archives/126
 categories:
   - Microprocessor
 tags:

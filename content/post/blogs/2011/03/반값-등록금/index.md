@@ -3,7 +3,6 @@ title: 반값 등록금
 author: babyworm
 type: post
 date: 2011-03-13T08:12:22+00:00
-url: /archives/1550
 categories:
   - Uncategorized
 

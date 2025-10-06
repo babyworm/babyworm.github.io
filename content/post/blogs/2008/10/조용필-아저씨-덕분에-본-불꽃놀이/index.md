@@ -3,7 +3,6 @@ title: 조용필 아저씨 덕분에 본 불꽃놀이
 author: babyworm
 type: post
 date: 2008-10-17T10:37:23+00:00
-url: /archives/1281
 categories:
   - 아빠되기
 

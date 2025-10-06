@@ -3,7 +3,6 @@ title: Code 예약 판매 시작!
 author: babyworm
 type: post
 date: 2010-09-18T20:12:31+00:00
-url: /archives/1535
 categories:
   - 개인적인
 tags:

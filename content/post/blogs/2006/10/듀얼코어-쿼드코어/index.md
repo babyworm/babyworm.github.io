@@ -3,7 +3,6 @@ title: 듀얼코어? 쿼드코어?
 author: babyworm
 type: post
 date: 2006-10-01T04:43:26+00:00
-url: /archives/95
 categories:
   - Microprocessor
 tags:

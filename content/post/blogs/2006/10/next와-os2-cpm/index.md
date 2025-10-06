@@ -3,7 +3,6 @@ title: NeXT와 OS/2, CP/M
 author: babyworm
 type: post
 date: 2006-10-24T15:11:42+00:00
-url: /archives/146
 categories:
   - 개인적인
 tags:

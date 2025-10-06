@@ -3,7 +3,6 @@ title: 아름다운 동행
 author: babyworm
 type: post
 date: 2009-10-09T16:50:28+00:00
-url: /archives/1510
 categories:
   - 책이야기
 tags:

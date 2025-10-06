@@ -3,7 +3,6 @@ title: Metastable문제와 clock domain crossing문제
 author: babyworm
 type: post
 date: 2006-10-28T08:11:03+00:00
-url: /archives/150
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

@@ -3,7 +3,6 @@ title: Cell의 VPU, AMD의 ATi GPU 통합
 author: babyworm
 type: post
 date: 2006-12-02T07:31:02+00:00
-url: /archives/211
 categories:
   - Microprocessor
 tags:

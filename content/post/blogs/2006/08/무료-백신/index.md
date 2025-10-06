@@ -3,7 +3,6 @@ title: 무료 백신…
 author: babyworm
 type: post
 date: 2006-08-13T15:51:56+00:00
-url: /archives/40
 categories:
   - 개인적인
 tags:

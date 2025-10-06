@@ -3,7 +3,6 @@ title: 접시딲이
 author: babyworm
 type: post
 date: 2006-10-10T10:36:22+00:00
-url: /archives/104
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 회사에서 출시된 제품들
 author: babyworm
 type: post
 date: 2006-10-18T04:08:44+00:00
-url: /archives/127
 categories:
   - 개인적인
 tags:

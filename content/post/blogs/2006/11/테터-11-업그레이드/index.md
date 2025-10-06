@@ -3,7 +3,6 @@ title: 테터 1.1 업그레이드
 author: babyworm
 type: post
 date: 2006-11-11T14:29:53+00:00
-url: /archives/174
 categories:
   - 개인적인
 tags:

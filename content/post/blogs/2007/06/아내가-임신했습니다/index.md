@@ -3,7 +3,6 @@ title: 아내가 임신했습니다.
 author: babyworm
 type: post
 date: 2007-06-23T04:46:30+00:00
-url: /archives/289
 categories:
   - 아빠되기
 

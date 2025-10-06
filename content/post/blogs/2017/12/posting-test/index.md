@@ -3,7 +3,6 @@ title: posting test
 author: babyworm
 type: post
 date: 2017-12-14T12:05:55+00:00
-url: /archives/2016
 switch_like_status:
   - 1
 categories:

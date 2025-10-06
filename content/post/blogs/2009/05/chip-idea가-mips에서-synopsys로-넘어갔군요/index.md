@@ -3,7 +3,6 @@ title: Chip IDEA가 MIPS에서 Synopsys로 넘어갔군요.
 author: babyworm
 type: post
 date: 2009-05-16T17:26:59+00:00
-url: /archives/1477
 categories:
   - 'News on SoC &amp; IP design'
 tags:

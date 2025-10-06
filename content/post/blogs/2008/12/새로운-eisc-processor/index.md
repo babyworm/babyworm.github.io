@@ -3,7 +3,6 @@ title: 새로운 EISC processor
 author: babyworm
 type: post
 date: 2008-12-06T07:31:19+00:00
-url: /archives/1325
 categories:
   - Microprocessor
 tags:

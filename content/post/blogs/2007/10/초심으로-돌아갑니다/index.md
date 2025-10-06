@@ -3,7 +3,6 @@ title: 초심으로 돌아갑니다.
 author: babyworm
 type: post
 date: 2007-10-04T10:50:23+00:00
-url: /archives/317
 categories:
   - 개인적인
 

@@ -3,7 +3,6 @@ title: 월화수목금금금…
 author: babyworm
 type: post
 date: 2006-12-07T13:13:49+00:00
-url: /archives/212
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 관악산 다녀왔습니다.
 author: babyworm
 type: post
 date: 2006-10-28T08:38:00+00:00
-url: /archives/151
 categories:
   - 개인적인
 

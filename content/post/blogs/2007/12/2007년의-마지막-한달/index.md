@@ -3,7 +3,6 @@ title: 2007년의 마지막 한달
 author: babyworm
 type: post
 date: 2007-12-01T04:50:10+00:00
-url: /archives/347
 categories:
   - 개인적인
 

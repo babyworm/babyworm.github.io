@@ -3,7 +3,6 @@ title: Built-In Self Test
 author: babyworm
 type: post
 date: 2008-07-04T08:22:33+00:00
-url: /archives/1175
 categories:
   - 'SoC &amp; IP design : For beginners'
 

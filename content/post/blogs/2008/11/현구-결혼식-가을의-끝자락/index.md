@@ -3,7 +3,6 @@ title: 현구 결혼식.. 가을의 끝자락
 author: babyworm
 type: post
 date: 2008-11-10T04:25:14+00:00
-url: /archives/1299
 categories:
   - 아빠되기
 

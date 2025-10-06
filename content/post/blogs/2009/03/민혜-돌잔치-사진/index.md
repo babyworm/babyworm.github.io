@@ -3,7 +3,6 @@ title: 민혜 돌잔치 사진..
 author: babyworm
 type: post
 date: 2009-03-01T14:11:13+00:00
-url: /archives/1371
 categories:
   - 아빠되기
 

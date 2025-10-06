@@ -3,7 +3,6 @@ title: 2007년의 best?
 author: babyworm
 type: post
 date: 2008-01-22T12:22:39+00:00
-url: /archives/374
 categories:
   - 책이야기
 

@@ -3,7 +3,6 @@ title: 살인의 추억
 author: babyworm
 type: post
 date: 2010-02-21T16:10:03+00:00
-url: /archives/1520
 categories:
   - 개인적인
 

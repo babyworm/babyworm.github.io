@@ -3,7 +3,6 @@ title: MuseScore로 악보만들기 (2)
 author: babyworm
 type: post
 date: 2013-03-09T12:05:20+00:00
-url: /archives/1761
 bfa_virtual_template:
   - hierarchy
 al2fb_facebook_link_id:

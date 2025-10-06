@@ -3,7 +3,6 @@ title: 문화 센터 (6/27)
 author: babyworm
 type: post
 date: 2009-07-27T13:32:21+00:00
-url: /archives/1496
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: 완벽 잡담..
 author: babyworm
 type: post
 date: 2009-07-28T00:55:15+00:00
-url: /archives/1498
 categories:
   - 개인적인
 tags:

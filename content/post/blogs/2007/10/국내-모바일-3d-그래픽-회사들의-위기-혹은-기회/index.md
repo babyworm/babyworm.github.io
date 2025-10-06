@@ -3,7 +3,6 @@ title: 국내 모바일 3D 그래픽 회사들의 위기 혹은 기회?
 author: babyworm
 type: post
 date: 2007-10-05T14:17:01+00:00
-url: /archives/319
 categories:
   - 'News on SoC &amp; IP design'
 tags:

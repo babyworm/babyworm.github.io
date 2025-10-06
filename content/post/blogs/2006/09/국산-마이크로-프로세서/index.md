@@ -3,7 +3,6 @@ title: 국산 마이크로 프로세서
 author: babyworm
 type: post
 date: 2006-09-04T09:03:28+00:00
-url: /archives/53
 categories:
   - Microprocessor
 tags:

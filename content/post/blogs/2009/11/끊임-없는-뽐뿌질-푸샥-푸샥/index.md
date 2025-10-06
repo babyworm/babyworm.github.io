@@ -3,7 +3,6 @@ title: 끊임 없는 뽐뿌질.. 푸샥 푸샥
 author: babyworm
 type: post
 date: 2009-11-28T16:25:49+00:00
-url: /archives/1515
 categories:
   - 개인적인
 

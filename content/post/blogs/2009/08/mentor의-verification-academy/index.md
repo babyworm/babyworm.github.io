@@ -3,7 +3,6 @@ title: Mentor의 Verification Academy
 author: babyworm
 type: post
 date: 2009-08-04T00:22:37+00:00
-url: /archives/1501
 categories:
   - 'News on SoC &amp; IP design'
 tags:

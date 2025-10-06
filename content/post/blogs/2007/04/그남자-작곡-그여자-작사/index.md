@@ -3,7 +3,6 @@ title: 그남자 작곡 그여자 작사.
 author: babyworm
 type: post
 date: 2007-04-22T08:11:56+00:00
-url: /archives/272
 categories:
   - 영화/드라마이야기
 tags:

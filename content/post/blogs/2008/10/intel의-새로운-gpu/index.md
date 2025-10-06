@@ -3,7 +3,6 @@ title: Intel의 새로운 GPU
 author: babyworm
 type: post
 date: 2008-10-17T08:50:39+00:00
-url: /archives/1278
 categories:
   - Microprocessor
 tags:

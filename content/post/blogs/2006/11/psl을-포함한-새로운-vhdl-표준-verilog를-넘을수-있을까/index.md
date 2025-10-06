@@ -3,7 +3,6 @@ title: PSL을 포함한 새로운 VHDL 표준.. Verilog를 넘을수 있을까?
 author: babyworm
 type: post
 date: 2006-11-16T11:38:27+00:00
-url: /archives/197
 categories:
   - 'News on SoC &amp; IP design'
 tags:

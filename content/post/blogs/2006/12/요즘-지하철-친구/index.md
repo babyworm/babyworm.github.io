@@ -3,7 +3,6 @@ title: 요즘 지하철 친구..
 author: babyworm
 type: post
 date: 2006-12-14T14:51:45+00:00
-url: /archives/214
 categories:
   - 책이야기
 tags:

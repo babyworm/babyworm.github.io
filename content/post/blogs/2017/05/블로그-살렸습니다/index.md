@@ -3,7 +3,6 @@ title: 블로그 살렸습니다.
 author: babyworm
 type: post
 date: 2017-05-02T16:45:48+00:00
-url: /archives/1958
 categories:
   - 개인적인
 tags:

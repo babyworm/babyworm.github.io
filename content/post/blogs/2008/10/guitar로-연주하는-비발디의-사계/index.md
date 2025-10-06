@@ -3,7 +3,6 @@ title: Guitar로 연주하는 비발디의 사계
 author: babyworm
 type: post
 date: 2008-10-16T10:50:22+00:00
-url: /archives/1277
 categories:
   - 음악이야기
 

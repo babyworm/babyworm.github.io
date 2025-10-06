@@ -3,7 +3,6 @@ title: EDA playground
 author: babyworm
 type: post
 date: 2014-06-20T07:56:38+00:00
-url: /archives/1815
 bfa_virtual_template:
   - hierarchy
 al2fb_facebook_error:

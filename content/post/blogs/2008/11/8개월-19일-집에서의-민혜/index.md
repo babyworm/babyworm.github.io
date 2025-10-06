@@ -3,7 +3,6 @@ title: 8개월 19일.. 집에서의 민혜
 author: babyworm
 type: post
 date: 2008-11-02T14:33:15+00:00
-url: /archives/1297
 categories:
   - 아빠되기
 

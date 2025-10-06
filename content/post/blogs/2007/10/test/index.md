@@ -3,7 +3,6 @@ title: Debbie Gibson
 author: babyworm
 type: post
 date: 2007-10-18T11:32:15+00:00
-url: /archives/323
 categories:
   - 음악이야기
 

@@ -3,7 +3,6 @@ title: 요즘 민혜
 author: babyworm
 type: post
 date: 2008-05-12T12:38:25+00:00
-url: /archives/1009
 categories:
   - 아빠되기
 

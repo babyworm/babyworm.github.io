@@ -3,7 +3,6 @@ title: 환률 크리
 author: babyworm
 type: post
 date: 2009-03-26T14:43:53+00:00
-url: /archives/1422
 categories:
   - 책이야기
 tags:

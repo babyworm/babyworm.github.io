@@ -3,7 +3,6 @@ title: 집에서의 민혜 (6/29)
 author: babyworm
 type: post
 date: 2009-07-29T14:03:58+00:00
-url: /archives/1500
 categories:
   - 아빠되기
 

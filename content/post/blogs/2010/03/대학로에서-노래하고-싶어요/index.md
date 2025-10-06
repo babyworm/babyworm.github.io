@@ -3,7 +3,6 @@ title: 대학로에서 노래하고 싶어요.
 author: babyworm
 type: post
 date: 2010-03-16T16:09:40+00:00
-url: /archives/1522
 categories:
   - 아빠되기
 

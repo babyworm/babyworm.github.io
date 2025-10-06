@@ -3,7 +3,6 @@ title: Synopsys XG모드로 가야 하나..
 author: babyworm
 type: post
 date: 2006-10-31T14:20:12+00:00
-url: /archives/156
 categories:
   - CAD tools
 tags:

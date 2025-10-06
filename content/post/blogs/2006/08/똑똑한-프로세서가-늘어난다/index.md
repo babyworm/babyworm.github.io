@@ -3,7 +3,6 @@ title: 똑똑한 프로세서가 늘어난다.
 author: babyworm
 type: post
 date: 2006-08-10T13:04:30+00:00
-url: /archives/33
 categories:
   - 'SoC &amp; IP design'
 tags:

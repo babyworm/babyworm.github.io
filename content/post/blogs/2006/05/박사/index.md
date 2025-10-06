@@ -3,7 +3,6 @@ title: 박사?
 author: babyworm
 type: post
 date: 2006-05-24T15:22:58+00:00
-url: /archives/18
 categories:
   - 개인적인
 tags:

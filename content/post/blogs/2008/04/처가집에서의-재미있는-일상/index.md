@@ -3,7 +3,6 @@ title: 처가집에서의 재미있는 일상
 author: babyworm
 type: post
 date: 2008-04-09T14:38:31+00:00
-url: /archives/729
 categories:
   - 아빠되기
 

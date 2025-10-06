@@ -3,7 +3,6 @@ title: 이건 좀 아니지 않나!
 author: babyworm
 type: post
 date: 2008-04-28T04:17:32+00:00
-url: /archives/999
 categories:
   - 개인적인
 

@@ -3,7 +3,6 @@ title: 나들이.. 신생아 홍반
 author: babyworm
 type: post
 date: 2008-03-17T14:20:30+00:00
-url: /archives/479
 categories:
   - 아빠되기
 

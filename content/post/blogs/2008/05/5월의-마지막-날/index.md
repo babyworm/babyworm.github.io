@@ -3,7 +3,6 @@ title: 5월의 마지막 날
 author: babyworm
 type: post
 date: 2008-05-31T09:44:51+00:00
-url: /archives/1118
 categories:
   - 개인적인
 

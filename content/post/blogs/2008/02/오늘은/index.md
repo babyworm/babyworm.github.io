@@ -3,7 +3,6 @@ title: 오늘은..
 author: babyworm
 type: post
 date: 2008-02-15T02:18:25+00:00
-url: /archives/377
 categories:
   - 음악이야기
 

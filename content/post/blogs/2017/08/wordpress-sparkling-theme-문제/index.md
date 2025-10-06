@@ -3,7 +3,6 @@ title: WordPress Sparkling Theme 문제
 author: babyworm
 type: post
 date: 2017-08-22T11:10:31+00:00
-url: /archives/1989
 categories:
   - 개인적인
 

@@ -3,7 +3,6 @@ title: Mentor의 verifiaction seminar
 author: babyworm
 type: post
 date: 2007-05-03T11:36:25+00:00
-url: /archives/277
 categories:
   - CAD tools
 tags:

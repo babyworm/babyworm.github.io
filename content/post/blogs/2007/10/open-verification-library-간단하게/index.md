@@ -3,7 +3,6 @@ title: Open Verification Library 간단하게..
 author: babyworm
 type: post
 date: 2007-10-18T03:36:54+00:00
-url: /archives/322
 categories:
   - verification
 

@@ -3,7 +3,6 @@ title: 구글 “정치인 거짓말 검색 서비스 만들터 “
 author: babyworm
 type: post
 date: 2006-10-07T03:40:39+00:00
-url: /archives/103
 categories:
   - Uncategorized
 tags:

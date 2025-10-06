@@ -3,7 +3,6 @@ title: Windows 7 Launching party를 다녀오다.
 author: babyworm
 type: post
 date: 2009-10-24T07:43:34+00:00
-url: /archives/1512
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 이땅에서 엔지니어로 산다는것.
 author: babyworm
 type: post
 date: 2006-04-30T15:30:30+00:00
-url: /archives/10
 categories:
   - 개인적인
 

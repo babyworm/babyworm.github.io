@@ -3,7 +3,6 @@ title: Level of abstraction
 author: babyworm
 type: post
 date: 2007-03-27T11:56:05+00:00
-url: /archives/258
 categories:
   - verification
 tags:

@@ -3,7 +3,6 @@ title: 웃기는 소프트웨어 검열
 author: babyworm
 type: post
 date: 2006-08-23T11:00:58+00:00
-url: /archives/44
 categories:
   - 개인적인
 tags:

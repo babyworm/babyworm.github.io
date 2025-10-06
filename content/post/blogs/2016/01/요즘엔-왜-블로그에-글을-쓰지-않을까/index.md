@@ -3,7 +3,6 @@ title: 요즘엔 왜 블로그에 글을 쓰지 않을까..
 author: babyworm
 type: post
 date: 2016-01-05T13:45:44+00:00
-url: /archives/1908
 categories:
   - 개인적인
 

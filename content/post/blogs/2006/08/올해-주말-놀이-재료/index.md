@@ -3,7 +3,6 @@ title: 올해 주말 놀이 재료.
 author: babyworm
 type: post
 date: 2006-08-29T01:33:19+00:00
-url: /archives/51
 categories:
   - 개인적인
 tags:

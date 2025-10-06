@@ -3,7 +3,6 @@ title: Verilog newsgroup에서의 몇가지 이야기
 author: babyworm
 type: post
 date: 2006-11-04T12:59:53+00:00
-url: /archives/163
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

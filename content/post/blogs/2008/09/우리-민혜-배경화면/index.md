@@ -3,7 +3,6 @@ title: 우리 민혜 배경화면..
 author: babyworm
 type: post
 date: 2008-09-16T09:52:44+00:00
-url: /archives/1203
 categories:
   - 아빠되기
 

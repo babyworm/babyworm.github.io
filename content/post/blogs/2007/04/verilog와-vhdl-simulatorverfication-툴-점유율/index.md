@@ -3,7 +3,6 @@ title: Verilog와 VHDL.. Simulator/Verfication 툴 점유율
 author: babyworm
 type: post
 date: 2007-04-28T16:04:15+00:00
-url: /archives/275
 categories:
   - 'News on SoC &amp; IP design'
 tags:

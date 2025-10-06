@@ -3,7 +3,6 @@ title: 산후 조리원에 있습니다. (2)
 author: babyworm
 type: post
 date: 2008-02-28T00:34:26+00:00
-url: /archives/411
 categories:
   - 아빠되기
 

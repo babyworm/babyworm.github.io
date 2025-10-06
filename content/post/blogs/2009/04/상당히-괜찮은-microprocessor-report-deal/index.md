@@ -3,7 +3,6 @@ title: 상당히 괜찮은 microprocessor report deal
 author: babyworm
 type: post
 date: 2009-04-08T04:27:44+00:00
-url: /archives/1470
 categories:
   - 'News on SoC &amp; IP design'
 tags:

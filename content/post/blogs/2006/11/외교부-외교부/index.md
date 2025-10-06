@@ -3,7 +3,6 @@ title: 외교부.. 외교부..
 author: babyworm
 type: post
 date: 2006-11-22T15:06:25+00:00
-url: /archives/203
 categories:
   - 개인적인
 tags:

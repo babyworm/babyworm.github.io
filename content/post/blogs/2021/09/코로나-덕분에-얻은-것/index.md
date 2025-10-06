@@ -3,7 +3,6 @@ title: 코로나 덕분에 얻은 것.
 author: babyworm
 type: post
 date: 2021-09-22T09:18:45+00:00
-url: /archives/2295
 categories:
   - 개인적인
 tags:

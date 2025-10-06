@@ -3,7 +3,6 @@ title: 방명록에 쓰여진 문의에 대한 답변..(설계의 결과를 보�
 author: babyworm
 type: post
 date: 2007-01-16T05:03:28+00:00
-url: /archives/242
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

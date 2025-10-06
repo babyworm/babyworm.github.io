@@ -3,7 +3,6 @@ title: 스위트피…
 author: babyworm
 type: post
 date: 2006-08-12T13:02:59+00:00
-url: /archives/38
 categories:
   - 음악이야기
 tags:

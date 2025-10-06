@@ -3,7 +3,6 @@ title: 아듀 2013년.
 author: babyworm
 type: post
 date: 2013-12-28T16:40:20+00:00
-url: /archives/1787
 bfa_virtual_template:
   - hierarchy
 al2fb_facebook_link_id:

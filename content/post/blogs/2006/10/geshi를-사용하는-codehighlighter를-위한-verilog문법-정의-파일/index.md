@@ -3,7 +3,6 @@ title: GeSHi를 사용하는 CodeHighlighter를 위한 verilog문법 정의 파�
 author: babyworm
 type: post
 date: 2006-10-28T12:27:48+00:00
-url: /archives/153
 categories:
   - 'SoC &amp; IP design'
 tags:

@@ -3,7 +3,6 @@ title: 몇일전에 쓰려다 잊어버리고 못올린 글..
 author: babyworm
 type: post
 date: 2018-04-11T15:20:54+00:00
-url: /archives/2074
 categories:
   - 개인적인
 

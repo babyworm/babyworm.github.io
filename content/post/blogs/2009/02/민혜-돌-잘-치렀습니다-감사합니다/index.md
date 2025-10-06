@@ -3,7 +3,6 @@ title: 민혜 돌 잘 치렀습니다. 감사합니다.
 author: babyworm
 type: post
 date: 2009-02-16T14:06:00+00:00
-url: /archives/1368
 categories:
   - 아빠되기
 

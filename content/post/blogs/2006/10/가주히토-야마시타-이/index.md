@@ -3,7 +3,6 @@ title: 가주히토 야마시타.. 이…
 author: babyworm
 type: post
 date: 2006-10-24T12:19:43+00:00
-url: /archives/144
 categories:
   - 음악이야기
 tags:

@@ -3,7 +3,6 @@ title: AMD Quad Core 소식
 author: babyworm
 type: post
 date: 2006-10-12T12:48:22+00:00
-url: /archives/113
 categories:
   - Microprocessor
 tags:

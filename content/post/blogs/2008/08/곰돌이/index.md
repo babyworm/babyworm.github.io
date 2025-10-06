@@ -3,7 +3,6 @@ title: 곰돌이
 author: babyworm
 type: post
 date: 2008-08-12T00:26:32+00:00
-url: /archives/1183
 categories:
   - 아빠되기
 

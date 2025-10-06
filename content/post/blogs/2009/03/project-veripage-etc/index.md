@@ -3,7 +3,6 @@ title: Project Veripage etc…
 author: babyworm
 type: post
 date: 2009-03-09T05:14:33+00:00
-url: /archives/1395
 categories:
   - 'News on SoC &amp; IP design'
 tags:

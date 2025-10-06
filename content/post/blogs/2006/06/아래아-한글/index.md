@@ -3,7 +3,6 @@ title: 아래아 한글
 author: babyworm
 type: post
 date: 2006-06-13T01:21:43+00:00
-url: /archives/25
 categories:
   - 개인적인
 

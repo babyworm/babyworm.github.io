@@ -3,7 +3,6 @@ title: 새로 다시 읽기 시작한 책들..
 author: babyworm
 type: post
 date: 2006-10-14T04:59:46+00:00
-url: /archives/117
 categories:
   - 책이야기
 

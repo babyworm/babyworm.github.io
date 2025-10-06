@@ -3,7 +3,6 @@ title: 새로운 EISC 기반 제품.. 출장
 author: babyworm
 type: post
 date: 2009-04-13T10:13:55+00:00
-url: /archives/1472
 categories:
   - 개인적인
 tags:

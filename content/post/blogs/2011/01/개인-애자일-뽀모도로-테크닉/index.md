@@ -3,7 +3,6 @@ title: 개인 애자일. 뽀모도로 테크닉.
 author: babyworm
 type: post
 date: 2011-01-27T15:57:13+00:00
-url: /archives/1544
 categories:
   - 개인적인
 tags:

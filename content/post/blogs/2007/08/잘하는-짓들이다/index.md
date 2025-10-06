@@ -3,7 +3,6 @@ title: 잘하는 짓들이다..
 author: babyworm
 type: post
 date: 2007-08-28T02:38:00+00:00
-url: /archives/311
 categories:
   - Microprocessor
 tags:

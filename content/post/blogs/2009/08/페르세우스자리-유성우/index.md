@@ -3,7 +3,6 @@ title: 페르세우스자리 유성우
 author: babyworm
 type: post
 date: 2009-08-12T03:16:26+00:00
-url: /archives/1503
 categories:
   - 개인적인
 tags:

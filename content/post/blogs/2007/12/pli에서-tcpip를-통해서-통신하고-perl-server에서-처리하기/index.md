@@ -3,7 +3,6 @@ title: PLI에서 TCP/IP를 통해서 통신하고, perl server에서 처리하�
 author: babyworm
 type: post
 date: 2007-12-04T10:22:36+00:00
-url: /archives/367
 categories:
   - verification
 tags:

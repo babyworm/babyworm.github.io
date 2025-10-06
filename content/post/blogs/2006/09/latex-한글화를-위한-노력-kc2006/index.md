@@ -3,7 +3,6 @@ title: 'LaTeX 한글화를 위한 노력: KC2006'
 author: babyworm
 type: post
 date: 2006-09-05T03:00:00+00:00
-url: /archives/58
 categories:
   - 개인적인
 tags:

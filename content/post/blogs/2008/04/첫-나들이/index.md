@@ -3,7 +3,6 @@ title: 첫 나들이
 author: babyworm
 type: post
 date: 2008-04-14T15:19:07+00:00
-url: /archives/784
 categories:
   - 아빠되기
 

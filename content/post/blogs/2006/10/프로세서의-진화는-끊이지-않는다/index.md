@@ -3,7 +3,6 @@ title: 프로세서의 진화는 끊이지 않는다!
 author: babyworm
 type: post
 date: 2006-10-11T11:12:48+00:00
-url: /archives/110
 categories:
   - Microprocessor
 tags:

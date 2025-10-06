@@ -3,7 +3,6 @@ title: via nano와 Intel atom간의 벤치마크가 화제라는데..
 author: babyworm
 type: post
 date: 2008-08-08T01:26:49+00:00
-url: /archives/1180
 categories:
   - Microprocessor
 

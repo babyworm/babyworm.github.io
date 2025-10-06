@@ -3,7 +3,6 @@ title: 도대체.. 아.. 내돈 주고 사기도 어려워~
 author: babyworm
 type: post
 date: 2009-12-19T14:20:58+00:00
-url: /archives/1518
 categories:
   - 개인적인
 tags:

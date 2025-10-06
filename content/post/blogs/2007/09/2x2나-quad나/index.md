@@ -3,7 +3,6 @@ title: 2×2나 Quad나..
 author: babyworm
 type: post
 date: 2007-09-11T00:10:39+00:00
-url: /archives/314
 categories:
   - Microprocessor
 tags:

@@ -3,7 +3,6 @@ title: 밥먹고 저짓만 하는 넘들이…
 author: babyworm
 type: post
 date: 2006-09-07T15:15:46+00:00
-url: /archives/64
 categories:
   - 개인적인
 tags:

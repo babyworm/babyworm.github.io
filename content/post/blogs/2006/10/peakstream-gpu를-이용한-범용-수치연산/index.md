@@ -3,7 +3,6 @@ title: 'PeakStream: GPU를 이용한 범용 수치연산!'
 author: babyworm
 type: post
 date: 2006-10-10T14:02:45+00:00
-url: /archives/105
 categories:
   - 'SoC &amp; IP design'
 tags:

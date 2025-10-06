@@ -3,7 +3,6 @@ title: 아이패드용 아래아 한글
 author: babyworm
 type: post
 date: 2012-05-15T08:07:53+00:00
-url: /archives/1702
 categories:
   - 개인적인
 

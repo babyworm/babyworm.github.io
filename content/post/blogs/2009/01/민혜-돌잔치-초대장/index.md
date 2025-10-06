@@ -3,7 +3,6 @@ title: 민혜 돌잔치 초대장
 author: babyworm
 type: post
 date: 2009-01-21T08:10:00+00:00
-url: /archives/1361
 categories:
   - 아빠되기
 

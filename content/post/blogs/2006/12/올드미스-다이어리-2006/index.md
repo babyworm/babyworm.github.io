@@ -3,7 +3,6 @@ title: 올드미스 다이어리 2006
 author: babyworm
 type: post
 date: 2006-12-24T16:36:00+00:00
-url: /archives/221
 categories:
   - 영화/드라마이야기
 tags:

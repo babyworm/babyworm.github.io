@@ -3,7 +3,6 @@ title: 지금 머리속에는…
 author: babyworm
 type: post
 date: 2008-09-22T06:50:42+00:00
-url: /archives/1215
 categories:
   - 개인적인
 

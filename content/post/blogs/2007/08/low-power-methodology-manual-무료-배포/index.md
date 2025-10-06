@@ -3,7 +3,6 @@ title: Low Power Methodology Manual 무료 배포!
 author: babyworm
 type: post
 date: 2007-08-17T05:34:11+00:00
-url: /archives/310
 categories:
   - 책이야기
 tags:

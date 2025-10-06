@@ -3,7 +3,6 @@ title: perl로 pdf조작하기 도전중
 author: babyworm
 type: post
 date: 2007-11-09T10:02:40+00:00
-url: /archives/346
 categories:
   - 개인적인
 

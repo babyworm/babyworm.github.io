@@ -3,7 +3,6 @@ title: 오늘은 삼칠일.
 author: babyworm
 type: post
 date: 2008-03-08T02:44:00+00:00
-url: /archives/460
 categories:
   - 아빠되기
 

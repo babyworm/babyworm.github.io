@@ -3,7 +3,6 @@ title: And Justice For All..
 author: babyworm
 type: post
 date: 2006-08-30T13:50:44+00:00
-url: /archives/52
 categories:
   - 음악이야기
 tags:

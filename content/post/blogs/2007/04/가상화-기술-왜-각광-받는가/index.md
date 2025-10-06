@@ -3,7 +3,6 @@ title: 가상화 기술.. 왜 각광 받는가?
 author: babyworm
 type: post
 date: 2007-04-11T13:31:16+00:00
-url: /archives/269
 categories:
   - Microprocessor
 tags:

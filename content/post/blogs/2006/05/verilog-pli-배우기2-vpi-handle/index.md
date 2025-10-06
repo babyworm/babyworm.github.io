@@ -3,7 +3,6 @@ title: verilog PLI 배우기(2); VPI handle
 author: babyworm
 type: post
 date: 2006-05-29T14:36:17+00:00
-url: /archives/19
 categories:
   - 'SoC &amp; IP design'
 tags:

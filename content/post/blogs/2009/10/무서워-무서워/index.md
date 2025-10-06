@@ -3,7 +3,6 @@ title: 무서워 무서워
 author: babyworm
 type: post
 date: 2009-10-14T15:39:54+00:00
-url: /archives/1511
 categories:
   - 아빠되기
 

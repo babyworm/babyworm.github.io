@@ -3,7 +3,6 @@ title: PVT variation
 author: babyworm
 type: post
 date: 2016-01-11T16:22:10+00:00
-url: /archives/1912
 categories:
   - 'SoC &amp; IP design'
   - 'SoC &amp; IP design : For beginners'

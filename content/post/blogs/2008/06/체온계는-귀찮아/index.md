@@ -3,7 +3,6 @@ title: 체온계는 귀찮아!
 author: babyworm
 type: post
 date: 2008-06-04T15:05:32+00:00
-url: /archives/1120
 categories:
   - 아빠되기
 

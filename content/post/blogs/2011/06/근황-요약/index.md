@@ -3,7 +3,6 @@ title: 근황 요약
 author: babyworm
 type: post
 date: 2011-06-30T13:55:44+00:00
-url: /archives/1556
 categories:
   - 개인적인
 

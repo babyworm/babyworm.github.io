@@ -3,7 +3,6 @@ title: 그러게 진작에 잘하지
 author: babyworm
 type: post
 date: 2010-02-28T20:00:18+00:00
-url: /archives/1521
 categories:
   - 'News on SoC &amp; IP design'
 tags:

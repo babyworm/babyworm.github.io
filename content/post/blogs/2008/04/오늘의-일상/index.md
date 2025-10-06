@@ -3,7 +3,6 @@ title: 오늘의 일상..
 author: babyworm
 type: post
 date: 2008-04-09T14:51:30+00:00
-url: /archives/760
 categories:
   - 아빠되기
 

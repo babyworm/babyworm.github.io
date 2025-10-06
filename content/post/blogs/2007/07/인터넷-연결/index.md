@@ -3,7 +3,6 @@ title: 인터넷 연결..
 author: babyworm
 type: post
 date: 2007-07-15T12:37:12+00:00
-url: /archives/298
 categories:
   - 개인적인
 tags:

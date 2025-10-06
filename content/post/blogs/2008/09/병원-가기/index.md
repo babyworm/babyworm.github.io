@@ -3,7 +3,6 @@ title: 병원 가기..
 author: babyworm
 type: post
 date: 2008-09-17T13:57:30+00:00
-url: /archives/1205
 categories:
   - 아빠되기
 

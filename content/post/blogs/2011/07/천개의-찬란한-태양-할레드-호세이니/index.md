@@ -3,7 +3,6 @@ title: '천개의 찬란한 태양: 할레드 호세이니'
 author: babyworm
 type: post
 date: 2011-07-06T17:05:08+00:00
-url: /archives/1557
 categories:
   - 책이야기
 

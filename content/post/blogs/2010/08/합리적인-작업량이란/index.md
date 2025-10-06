@@ -3,7 +3,6 @@ title: 합리적인 작업량이란?
 author: babyworm
 type: post
 date: 2010-08-14T19:55:01+00:00
-url: /archives/1534
 categories:
   - Uncategorized
 tags:

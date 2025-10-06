@@ -3,7 +3,6 @@ title: Acrobat없이 pdf 다루기.
 author: babyworm
 type: post
 date: 2007-05-28T11:14:54+00:00
-url: /archives/280
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: multiple port net의 fixing
 author: babyworm
 type: post
 date: 2006-11-02T08:10:41+00:00
-url: /archives/161
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

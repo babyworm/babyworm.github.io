@@ -3,7 +3,6 @@ title: 속이 傷한다.
 author: babyworm
 type: post
 date: 2008-04-18T11:14:35+00:00
-url: /archives/848
 categories:
   - 아빠되기
 

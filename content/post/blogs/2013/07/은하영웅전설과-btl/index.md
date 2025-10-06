@@ -3,7 +3,6 @@ title: 은하영웅전설과 BTL
 author: babyworm
 type: post
 date: 2013-07-08T14:37:41+00:00
-url: /archives/1774
 bfa_virtual_template:
   - hierarchy
 categories:

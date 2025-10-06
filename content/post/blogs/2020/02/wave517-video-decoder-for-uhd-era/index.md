@@ -3,7 +3,6 @@ title: 'WAVE517: Video Decoder for UHD Era'
 author: babyworm
 type: post
 date: 2020-02-03T16:51:10+00:00
-url: /archives/2160
 categories:
   - 개인적인
 tags:

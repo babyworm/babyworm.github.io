@@ -3,7 +3,6 @@ title: 번호판을 도단당하다.
 author: babyworm
 type: post
 date: 2007-12-08T11:52:17+00:00
-url: /archives/368
 categories:
   - 개인적인
 

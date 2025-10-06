@@ -3,7 +3,6 @@ title: 역시 말하기는 어렵습니다..
 author: babyworm
 type: post
 date: 2007-11-02T13:04:15+00:00
-url: /archives/345
 categories:
   - 개인적인
 

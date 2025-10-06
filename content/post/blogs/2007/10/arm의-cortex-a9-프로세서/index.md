@@ -3,7 +3,6 @@ title: ARM의 Cortex-A9 프로세서.
 author: babyworm
 type: post
 date: 2007-10-05T04:32:11+00:00
-url: /archives/318
 categories:
   - Microprocessor
 tags:

@@ -3,7 +3,6 @@ title: 흠.. 드라마 중독?
 author: babyworm
 type: post
 date: 2009-08-18T02:58:33+00:00
-url: /archives/1505
 categories:
   - 개인적인
 tags:

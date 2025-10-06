@@ -3,7 +3,6 @@ title: Metal Gate로 더 빠르게..
 author: babyworm
 type: post
 date: 2007-02-03T12:58:11+00:00
-url: /archives/246
 categories:
   - 'News on SoC &amp; IP design'
 tags:

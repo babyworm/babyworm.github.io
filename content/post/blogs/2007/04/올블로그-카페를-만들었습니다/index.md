@@ -3,7 +3,6 @@ title: 올블로그 카페를 만들었습니다.
 author: babyworm
 type: post
 date: 2007-04-06T10:49:47+00:00
-url: /archives/266
 categories:
   - 개인적인
 tags:

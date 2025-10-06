@@ -3,7 +3,6 @@ title: 새해 첫 글
 author: babyworm
 type: post
 date: 2009-01-11T12:02:34+00:00
-url: /archives/1353
 categories:
   - 개인적인
 

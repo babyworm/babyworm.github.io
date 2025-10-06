@@ -3,7 +3,6 @@ title: 끊임 없는 삽질..
 author: babyworm
 type: post
 date: 2008-02-20T08:47:49+00:00
-url: /archives/380
 categories:
   - verification
 

@@ -3,7 +3,6 @@ title: Blog page를 새로 만들다..
 author: babyworm
 type: post
 date: 2006-03-24T10:12:51+00:00
-url: /archives/6
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 오라클이 선을 인수했습니다.
 author: babyworm
 type: post
 date: 2009-04-20T15:22:56+00:00
-url: /archives/1474
 categories:
   - 'News on SoC &amp; IP design'
 tags:

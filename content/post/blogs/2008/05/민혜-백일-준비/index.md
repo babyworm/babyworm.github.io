@@ -3,7 +3,6 @@ title: 민혜 백일 준비..
 author: babyworm
 type: post
 date: 2008-05-19T05:37:33+00:00
-url: /archives/1043
 categories:
   - Uncategorized
 

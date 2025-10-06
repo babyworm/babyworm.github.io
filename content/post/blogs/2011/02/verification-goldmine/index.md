@@ -3,7 +3,6 @@ title: Verification Goldmine
 author: babyworm
 type: post
 date: 2011-02-28T16:39:20+00:00
-url: /archives/1546
 categories:
   - verification
 

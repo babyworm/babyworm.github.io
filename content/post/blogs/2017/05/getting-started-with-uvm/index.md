@@ -3,7 +3,6 @@ title: Getting Started with UVM
 author: babyworm
 type: post
 date: 2017-05-09T15:10:13+00:00
-url: /archives/1975
 categories:
   - verification
   - 책이야기

@@ -3,7 +3,6 @@ title: 지난 추석의 민혜
 author: babyworm
 type: post
 date: 2008-10-03T17:03:23+00:00
-url: /archives/1250
 categories:
   - 아빠되기
 

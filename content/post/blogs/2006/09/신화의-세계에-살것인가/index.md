@@ -3,7 +3,6 @@ title: 신화의 세계에 살것인가?
 author: babyworm
 type: post
 date: 2006-09-28T11:30:00+00:00
-url: /archives/93
 categories:
   - 'SoC &amp; IP design'
 tags:

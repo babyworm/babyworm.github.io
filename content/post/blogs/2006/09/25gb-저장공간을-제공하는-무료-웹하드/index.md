@@ -3,7 +3,6 @@ title: 25GB 저장공간을 제공하는 무료 웹하드!
 author: babyworm
 type: post
 date: 2006-09-18T14:30:00+00:00
-url: /archives/81
 categories:
   - 개인적인
 tags:

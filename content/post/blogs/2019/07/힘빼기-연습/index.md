@@ -3,7 +3,6 @@ title: 힘빼기 연습
 author: babyworm
 type: post
 date: 2019-07-20T18:25:48+00:00
-url: /archives/2147
 categories:
   - 개인적인
 

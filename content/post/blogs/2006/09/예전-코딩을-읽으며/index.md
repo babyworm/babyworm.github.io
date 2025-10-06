@@ -3,7 +3,6 @@ title: 예전 코드을 읽으며..
 author: babyworm
 type: post
 date: 2006-09-23T08:10:00+00:00
-url: /archives/91
 categories:
   - 개인적인
 tags:

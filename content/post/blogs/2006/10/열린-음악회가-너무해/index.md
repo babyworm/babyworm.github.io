@@ -3,7 +3,6 @@ title: 열린 음악회가 너무해..
 author: babyworm
 type: post
 date: 2006-10-01T09:11:37+00:00
-url: /archives/97
 categories:
   - 개인적인
 tags:

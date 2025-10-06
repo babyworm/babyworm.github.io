@@ -3,7 +3,6 @@ title: 어린이 치약도 먹으면 안된다.
 author: babyworm
 type: post
 date: 2009-04-02T23:11:56+00:00
-url: /archives/1467
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: 게시판을 추가하였습니다.
 author: babyworm
 type: post
 date: 2007-03-31T15:04:01+00:00
-url: /archives/259
 categories:
   - 개인적인
 tags:

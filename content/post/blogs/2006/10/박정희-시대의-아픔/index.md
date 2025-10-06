@@ -3,7 +3,6 @@ title: 박정희.. 시대의 아픔..
 author: babyworm
 type: post
 date: 2006-10-21T09:56:13+00:00
-url: /archives/137
 categories:
   - 개인적인
 

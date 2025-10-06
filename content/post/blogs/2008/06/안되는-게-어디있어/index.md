@@ -3,7 +3,6 @@ title: 안되는 게 어디있어?
 author: babyworm
 type: post
 date: 2008-06-19T08:20:57+00:00
-url: /archives/1159
 categories:
   - 개인적인
 

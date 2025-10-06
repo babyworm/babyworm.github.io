@@ -3,7 +3,6 @@ title: Modelsim에서의 Code Coverage
 author: babyworm
 type: post
 date: 2008-12-05T05:34:35+00:00
-url: /archives/1320
 categories:
   - verification
 tags:

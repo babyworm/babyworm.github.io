@@ -3,7 +3,6 @@ title: Mentor의 Summit Design 인수!
 author: babyworm
 type: post
 date: 2006-10-25T11:42:05+00:00
-url: /archives/147
 categories:
   - 'News on SoC &amp; IP design'
 tags:

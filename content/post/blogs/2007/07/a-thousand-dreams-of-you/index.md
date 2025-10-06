@@ -3,7 +3,6 @@ title: A thousand dreams of you
 author: babyworm
 type: post
 date: 2007-07-29T08:02:42+00:00
-url: /archives/299
 categories:
   - 음악이야기
 

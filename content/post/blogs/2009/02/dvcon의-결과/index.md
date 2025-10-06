@@ -3,7 +3,6 @@ title: DVCon의 결과..
 author: babyworm
 type: post
 date: 2009-02-15T23:06:05+00:00
-url: /archives/1367
 categories:
   - 'News on SoC &amp; IP design'
 tags:

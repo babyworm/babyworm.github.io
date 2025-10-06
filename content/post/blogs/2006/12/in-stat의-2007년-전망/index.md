@@ -3,7 +3,6 @@ title: In-Stat의 2007년 전망…
 author: babyworm
 type: post
 date: 2006-12-18T14:26:33+00:00
-url: /archives/219
 categories:
   - Microprocessor
 tags:

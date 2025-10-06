@@ -3,7 +3,6 @@ title: Starcore가 망했다.
 author: babyworm
 type: post
 date: 2006-08-22T14:25:09+00:00
-url: /archives/42
 categories:
   - 'SoC &amp; IP design'
 tags:

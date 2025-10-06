@@ -3,7 +3,6 @@ title: 결국 다음 봇 차단 결정
 author: babyworm
 type: post
 date: 2006-11-14T10:45:29+00:00
-url: /archives/195
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 집중이 안되는 여름
 author: babyworm
 type: post
 date: 2007-06-19T12:22:05+00:00
-url: /archives/286
 categories:
   - verification
 tags:

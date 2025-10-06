@@ -3,7 +3,6 @@ title: 아하! 윈도우 브러쉬 소음 문제
 author: babyworm
 type: post
 date: 2008-03-05T01:47:02+00:00
-url: /archives/414
 categories:
   - 개인적인
 

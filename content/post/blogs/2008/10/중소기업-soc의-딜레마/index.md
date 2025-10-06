@@ -3,7 +3,6 @@ title: 중소기업 SoC의 딜레마
 author: babyworm
 type: post
 date: 2008-10-08T10:55:17+00:00
-url: /archives/1265
 categories:
   - 'SoC &amp; IP design'
 

@@ -3,7 +3,6 @@ title: Cygwin1.7에서 Eclipse CDT 사용하기
 author: babyworm
 type: post
 date: 2010-04-10T10:34:45+00:00
-url: /archives/1524
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

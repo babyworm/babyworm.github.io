@@ -3,7 +3,6 @@ title: 'AMD Torrenza: 서버 통합의 방법을 모색하다.'
 author: babyworm
 type: post
 date: 2006-10-01T12:04:34+00:00
-url: /archives/99
 categories:
   - Microprocessor
 tags:

@@ -3,7 +3,6 @@ title: 피아노 스쿨 체험담 체험기(마지막)
 author: babyworm
 type: post
 date: 2018-01-15T17:35:17+00:00
-url: /archives/2055
 categories:
   - 개인적인
   - 음악이야기

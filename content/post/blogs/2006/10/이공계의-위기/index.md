@@ -3,7 +3,6 @@ title: 이공계의 위기..
 author: babyworm
 type: post
 date: 2006-10-07T03:24:21+00:00
-url: /archives/102
 categories:
   - 개인적인
 tags:

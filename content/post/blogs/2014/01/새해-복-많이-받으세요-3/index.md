@@ -3,7 +3,6 @@ title: 새해 복 많이 받으세요.
 author: babyworm
 type: post
 date: 2014-01-01T14:02:42+00:00
-url: /archives/1790
 al2fb_facebook_link_id:
   - 100000951783280_648506545191066
 al2fb_facebook_link_time:

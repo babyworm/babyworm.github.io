@@ -3,7 +3,6 @@ title: PLI와 Simulator의 연결(I)
 author: babyworm
 type: post
 date: 2007-06-11T14:45:03+00:00
-url: /archives/284
 categories:
   - verification
 tags:

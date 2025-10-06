@@ -3,7 +3,6 @@ title: 민혜는 마이크를 잡았어요.
 author: babyworm
 type: post
 date: 2009-03-12T14:35:43+00:00
-url: /archives/1397
 categories:
   - 아빠되기
 

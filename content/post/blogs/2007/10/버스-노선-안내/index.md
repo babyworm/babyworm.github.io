@@ -3,7 +3,6 @@ title: 버스 노선 안내
 author: babyworm
 type: post
 date: 2007-10-28T04:58:56+00:00
-url: /archives/342
 categories:
   - 개인적인
 

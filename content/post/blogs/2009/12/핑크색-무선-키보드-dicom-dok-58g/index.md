@@ -3,7 +3,6 @@ title: 핑크색 무선 키보드; dicom DOK-58G
 author: babyworm
 type: post
 date: 2009-12-05T06:30:27+00:00
-url: /archives/1517
 categories:
   - 개인적인
 tags:

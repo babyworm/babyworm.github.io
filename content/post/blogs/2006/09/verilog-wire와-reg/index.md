@@ -3,7 +3,6 @@ title: '[verilog] wire와 reg'
 author: babyworm
 type: post
 date: 2006-09-13T15:17:14+00:00
-url: /archives/72
 categories:
   - 'SoC &amp; IP design'
 tags:

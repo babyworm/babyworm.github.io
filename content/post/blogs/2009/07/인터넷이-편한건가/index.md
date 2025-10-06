@@ -3,7 +3,6 @@ title: 인터넷이 편한건가?
 author: babyworm
 type: post
 date: 2009-07-20T07:04:04+00:00
-url: /archives/1493
 categories:
   - 개인적인
 

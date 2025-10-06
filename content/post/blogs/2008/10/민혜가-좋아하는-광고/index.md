@@ -3,7 +3,6 @@ title: 민혜가 좋아하는 광고
 author: babyworm
 type: post
 date: 2008-10-16T04:21:26+00:00
-url: /archives/1275
 categories:
   - 아빠되기
 

@@ -3,7 +3,6 @@ title: 생존 보고
 author: babyworm
 type: post
 date: 2010-01-30T14:40:15+00:00
-url: /archives/1519
 categories:
   - 개인적인
 tags:

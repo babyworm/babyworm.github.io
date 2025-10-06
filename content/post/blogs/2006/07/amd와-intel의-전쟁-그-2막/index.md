@@ -3,7 +3,6 @@ title: AMD와 Intel의 전쟁 그 2막.
 author: babyworm
 type: post
 date: 2006-07-12T13:33:49+00:00
-url: /archives/31
 categories:
   - 'News on SoC &amp; IP design'
 tags:

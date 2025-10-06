@@ -3,7 +3,6 @@ title: 피아노 스쿨 체험단을 체험하다
 author: babyworm
 type: post
 date: 2017-12-13T12:34:20+00:00
-url: /archives/2012
 categories:
   - 개인적인
 tags:

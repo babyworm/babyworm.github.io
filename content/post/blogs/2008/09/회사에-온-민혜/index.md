@@ -3,7 +3,6 @@ title: 회사에 온 민혜
 author: babyworm
 type: post
 date: 2008-09-05T13:00:37+00:00
-url: /archives/1193
 categories:
   - 아빠되기
 

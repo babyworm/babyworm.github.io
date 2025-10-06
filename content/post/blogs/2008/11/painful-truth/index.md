@@ -3,7 +3,6 @@ title: Painful Truth
 author: babyworm
 type: post
 date: 2008-11-05T06:56:19+00:00
-url: /archives/1298
 categories:
   - 개인적인
 tags:

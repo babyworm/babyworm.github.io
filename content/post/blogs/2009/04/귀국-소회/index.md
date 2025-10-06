@@ -3,7 +3,6 @@ title: 귀국.. 소회
 author: babyworm
 type: post
 date: 2009-04-20T03:13:30+00:00
-url: /archives/1473
 categories:
   - 개인적인
 

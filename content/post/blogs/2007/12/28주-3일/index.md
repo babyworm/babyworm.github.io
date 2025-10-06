@@ -3,7 +3,6 @@ title: 28주 3일
 author: babyworm
 type: post
 date: 2007-12-02T12:27:07+00:00
-url: /archives/352
 categories:
   - 아빠되기
 

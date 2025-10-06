@@ -3,7 +3,6 @@ title: DC Ultra의 Topographical Synthesis
 author: babyworm
 type: post
 date: 2006-10-16T14:17:29+00:00
-url: /archives/121
 categories:
   - CAD tools
 tags:

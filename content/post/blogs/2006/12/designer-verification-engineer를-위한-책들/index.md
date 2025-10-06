@@ -3,7 +3,6 @@ title: Designer, Verification Engineer를 위한 책들..
 author: babyworm
 type: post
 date: 2006-12-27T15:12:47+00:00
-url: /archives/226
 categories:
   - 책이야기
 tags:

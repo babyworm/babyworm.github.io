@@ -3,7 +3,6 @@ title: Verilog 관련 검색에 대한 친절한(?) 답변과 리퍼러 로그..
 author: babyworm
 type: post
 date: 2006-11-10T08:26:03+00:00
-url: /archives/173
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

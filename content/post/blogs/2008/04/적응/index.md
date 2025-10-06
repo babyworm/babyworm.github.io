@@ -3,7 +3,6 @@ title: 적응..
 author: babyworm
 type: post
 date: 2008-04-27T12:14:57+00:00
-url: /archives/854
 categories:
   - 아빠되기
 

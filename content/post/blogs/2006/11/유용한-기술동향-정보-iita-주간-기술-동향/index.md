@@ -3,7 +3,6 @@ title: 유용한 기술동향 정보.. IITA 주간 기술 동향..
 author: babyworm
 type: post
 date: 2006-11-23T06:55:42+00:00
-url: /archives/204
 categories:
   - 'News on SoC &amp; IP design'
 tags:

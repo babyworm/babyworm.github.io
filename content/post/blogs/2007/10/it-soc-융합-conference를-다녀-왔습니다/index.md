@@ -3,7 +3,6 @@ title: IT-SoC 융합 conference를 다녀 왔습니다.
 author: babyworm
 type: post
 date: 2007-10-28T08:50:41+00:00
-url: /archives/344
 categories:
   - 'News on SoC &amp; IP design'
 

@@ -3,7 +3,6 @@ title: 적응 II, Unofficial pics
 author: babyworm
 type: post
 date: 2008-04-27T13:45:39+00:00
-url: /archives/951
 categories:
   - 아빠되기
 

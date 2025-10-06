@@ -3,7 +3,6 @@ title: 에이.. 칩 좋다고 성공합니까?
 author: babyworm
 type: post
 date: 2006-11-24T05:42:18+00:00
-url: /archives/205
 categories:
   - 'SoC &amp; IP design'
 tags:

@@ -3,7 +3,6 @@ title: TiStory 입주?
 author: babyworm
 type: post
 date: 2006-09-11T10:24:55+00:00
-url: /archives/66
 categories:
   - 개인적인
 tags:

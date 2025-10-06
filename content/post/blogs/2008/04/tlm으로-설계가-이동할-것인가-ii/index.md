@@ -3,7 +3,6 @@ title: TLM으로 설계가 이동할 것인가? (II)
 author: babyworm
 type: post
 date: 2008-04-22T04:29:35+00:00
-url: /archives/853
 categories:
   - 'SoC &amp; IP design'
 

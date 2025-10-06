@@ -3,7 +3,6 @@ title: Power Format간의 대결..표준으로 가기 위한 노력
 author: babyworm
 type: post
 date: 2006-11-22T14:35:39+00:00
-url: /archives/202
 categories:
   - 'News on SoC &amp; IP design'
 tags:

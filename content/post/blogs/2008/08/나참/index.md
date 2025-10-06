@@ -3,7 +3,6 @@ title: 나참..
 author: babyworm
 type: post
 date: 2008-08-12T02:43:51+00:00
-url: /archives/1191
 categories:
   - 개인적인
 

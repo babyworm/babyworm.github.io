@@ -3,7 +3,6 @@ title: Tatter 1.1.1 업데이트
 author: babyworm
 type: post
 date: 2007-01-12T11:37:17+00:00
-url: /archives/237
 categories:
   - 개인적인
 tags:

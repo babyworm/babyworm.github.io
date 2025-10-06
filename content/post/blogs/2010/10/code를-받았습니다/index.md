@@ -3,7 +3,6 @@ title: CODE를 받았습니다.
 author: babyworm
 type: post
 date: 2010-10-14T16:31:45+00:00
-url: /archives/1537
 categories:
   - 개인적인
 tags:

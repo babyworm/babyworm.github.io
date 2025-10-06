@@ -3,7 +3,6 @@ title: Adobe의 Open Screen Project
 author: babyworm
 type: post
 date: 2008-05-01T13:51:29+00:00
-url: /archives/1000
 categories:
   - 'News on SoC &amp; IP design'
 

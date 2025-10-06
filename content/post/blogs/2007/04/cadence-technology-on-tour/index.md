@@ -3,7 +3,6 @@ title: Cadence Technology on Tour
 author: babyworm
 type: post
 date: 2007-04-12T09:32:42+00:00
-url: /archives/270
 categories:
   - 'News on SoC &amp; IP design'
 tags:

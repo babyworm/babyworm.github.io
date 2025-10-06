@@ -3,7 +3,6 @@ title: 질문에 대한 늦은 답..
 author: babyworm
 type: post
 date: 2008-06-26T08:04:00+00:00
-url: /archives/1174
 categories:
   - 'SoC &amp; IP design'
 

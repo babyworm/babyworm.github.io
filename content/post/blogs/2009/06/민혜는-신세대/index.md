@@ -3,7 +3,6 @@ title: 민혜는 신세대
 author: babyworm
 type: post
 date: 2009-06-23T14:47:15+00:00
-url: /archives/1486
 categories:
   - 아빠되기
 

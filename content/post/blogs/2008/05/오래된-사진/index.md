@@ -3,7 +3,6 @@ title: 오래된 사진…
 author: babyworm
 type: post
 date: 2008-05-01T15:11:15+00:00
-url: /archives/1001
 categories:
   - 개인적인
 

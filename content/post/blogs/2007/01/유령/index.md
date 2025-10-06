@@ -3,7 +3,6 @@ title: 유령
 author: babyworm
 type: post
 date: 2007-01-20T07:54:21+00:00
-url: /archives/243
 categories:
   - Uncategorized
 tags:

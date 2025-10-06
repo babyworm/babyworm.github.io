@@ -3,7 +3,6 @@ title: 생각과 현실..
 author: babyworm
 type: post
 date: 2009-03-10T02:34:38+00:00
-url: /archives/1396
 categories:
   - 개인적인
 

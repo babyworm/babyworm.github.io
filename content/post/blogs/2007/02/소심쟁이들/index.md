@@ -3,7 +3,6 @@ title: 소심쟁이들..
 author: babyworm
 type: post
 date: 2007-02-09T10:40:47+00:00
-url: /archives/247
 categories:
   - 개인적인
 tags:

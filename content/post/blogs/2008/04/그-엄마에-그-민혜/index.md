@@ -3,7 +3,6 @@ title: 그 엄마에 그 민혜
 author: babyworm
 type: post
 date: 2008-04-01T15:46:22+00:00
-url: /archives/698
 categories:
   - 아빠되기
 

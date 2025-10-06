@@ -3,7 +3,6 @@ title: DAC2017 간략 리뷰
 author: babyworm
 type: post
 date: 2017-08-15T17:04:33+00:00
-url: /archives/1987
 categories:
   - 'News on SoC &amp; IP design'
 

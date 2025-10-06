@@ -3,7 +3,6 @@ title: 국산 프로세서 지원 센터
 author: babyworm
 type: post
 date: 2009-06-18T23:46:08+00:00
-url: /archives/1484
 categories:
   - 'News on SoC &amp; IP design'
 tags:

@@ -3,7 +3,6 @@ title: 아이를 키우는 즐거움
 author: babyworm
 type: post
 date: 2009-03-25T10:17:01+00:00
-url: /archives/1420
 categories:
   - 아빠되기
 

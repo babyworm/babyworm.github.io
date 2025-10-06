@@ -3,7 +3,6 @@ title: EDA, Foundary 모두 성장한 한해 2006년
 author: babyworm
 type: post
 date: 2007-04-24T14:10:41+00:00
-url: /archives/274
 categories:
   - 'News on SoC &amp; IP design'
 tags:

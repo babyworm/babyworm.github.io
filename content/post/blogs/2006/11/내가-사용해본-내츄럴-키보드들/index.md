@@ -3,7 +3,6 @@ title: 내가 사용해본 내츄럴 키보드들…
 author: babyworm
 type: post
 date: 2006-11-16T04:10:18+00:00
-url: /archives/196
 categories:
   - 개인적인
 tags:

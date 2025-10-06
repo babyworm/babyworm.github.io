@@ -3,7 +3,6 @@ title: 민혜 8개월.. 몇 개의 동영상
 author: babyworm
 type: post
 date: 2008-10-23T15:09:32+00:00
-url: /archives/1293
 categories:
   - 아빠되기
 

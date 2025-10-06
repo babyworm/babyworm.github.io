@@ -3,7 +3,6 @@ title: 고개를 들다!
 author: babyworm
 type: post
 date: 2008-03-25T05:41:19+00:00
-url: /archives/513
 categories:
   - 아빠되기
 

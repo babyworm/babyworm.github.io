@@ -3,7 +3,6 @@ title: Tomorrow is another day?
 author: babyworm
 type: post
 date: 2009-07-13T01:44:25+00:00
-url: /archives/1492
 categories:
   - 개인적인
 

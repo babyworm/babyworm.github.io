@@ -3,7 +3,6 @@ title: 두 번째 추천..
 author: babyworm
 type: post
 date: 2009-01-31T17:13:28+00:00
-url: /archives/1366
 categories:
   - 책이야기
 

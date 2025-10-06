@@ -3,7 +3,6 @@ title: 2013년 1월에 읽은 책?
 author: babyworm
 type: post
 date: 2013-02-10T14:53:34+00:00
-url: /archives/1739
 categories:
   - 책이야기
 

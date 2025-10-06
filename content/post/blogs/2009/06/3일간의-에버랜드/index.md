@@ -3,7 +3,6 @@ title: 3일간의 에버랜드
 author: babyworm
 type: post
 date: 2009-06-06T03:35:06+00:00
-url: /archives/1481
 categories:
   - 아빠되기
 

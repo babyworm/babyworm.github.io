@@ -3,7 +3,6 @@ title: 이필상 교수 표절 의혹? 아는 사람이 좀 조사해 주세요.
 author: babyworm
 type: post
 date: 2007-01-24T14:23:14+00:00
-url: /archives/244
 categories:
   - Uncategorized
 tags:

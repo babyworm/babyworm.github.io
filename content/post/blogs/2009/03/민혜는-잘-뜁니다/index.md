@@ -3,7 +3,6 @@ title: 민혜는 잘 뜁니다.
 author: babyworm
 type: post
 date: 2009-03-12T14:50:10+00:00
-url: /archives/1403
 categories:
   - 아빠되기
 

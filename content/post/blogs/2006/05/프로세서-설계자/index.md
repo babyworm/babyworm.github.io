@@ -3,7 +3,6 @@ title: 프로세서 설계자?
 author: babyworm
 type: post
 date: 2006-05-29T15:24:11+00:00
-url: /archives/20
 categories:
   - 개인적인
 tags:

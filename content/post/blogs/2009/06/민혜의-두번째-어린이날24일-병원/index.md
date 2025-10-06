@@ -3,7 +3,6 @@ title: 민혜의 두번째 어린이날..24일 병원..
 author: babyworm
 type: post
 date: 2009-06-05T17:22:41+00:00
-url: /archives/1480
 categories:
   - 아빠되기
 

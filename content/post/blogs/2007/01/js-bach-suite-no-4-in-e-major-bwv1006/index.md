@@ -3,7 +3,6 @@ title: J.S. Bach, Suite no 4 in E major. BWV1006
 author: babyworm
 type: post
 date: 2007-01-14T23:53:47+00:00
-url: /archives/241
 categories:
   - 음악이야기
 tags:

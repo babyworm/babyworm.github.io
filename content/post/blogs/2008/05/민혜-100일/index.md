@@ -3,7 +3,6 @@ title: 민혜 100일!
 author: babyworm
 type: post
 date: 2008-05-26T11:17:05+00:00
-url: /archives/1047
 categories:
   - 아빠되기
 

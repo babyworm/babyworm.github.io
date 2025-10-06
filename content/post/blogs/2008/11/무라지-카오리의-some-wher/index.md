@@ -3,7 +3,6 @@ title: 무라지 카오리의 Somewhere over the rainbow
 author: babyworm
 type: post
 date: 2008-11-24T14:40:53+00:00
-url: /archives/1315
 categories:
   - 음악이야기
 

@@ -3,7 +3,6 @@ title: 오랜 시간 일하는 것이 좋은 것일까?
 author: babyworm
 type: post
 date: 2014-03-09T18:19:24+00:00
-url: /archives/1797
 al2fb_facebook_link_id:
   - 100000951783280_680847175290336
 al2fb_facebook_link_time:

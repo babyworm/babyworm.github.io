@@ -3,7 +3,6 @@ title: 민혜 11개월 3일
 author: babyworm
 type: post
 date: 2009-01-19T09:17:19+00:00
-url: /archives/1356
 categories:
   - 아빠되기
 

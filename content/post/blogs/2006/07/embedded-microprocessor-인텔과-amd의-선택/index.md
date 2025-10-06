@@ -3,7 +3,6 @@ title: embedded microprocessor; 인텔과 AMD의 선택
 author: babyworm
 type: post
 date: 2006-07-01T16:32:00+00:00
-url: /archives/30
 categories:
   - 'SoC &amp; IP design'
 tags:

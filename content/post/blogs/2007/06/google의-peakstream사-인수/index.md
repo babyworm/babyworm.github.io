@@ -3,7 +3,6 @@ title: Google의 PeakStream사 인수!
 author: babyworm
 type: post
 date: 2007-06-12T01:13:29+00:00
-url: /archives/285
 bfa_virtual_template:
   - hierarchy
 categories:

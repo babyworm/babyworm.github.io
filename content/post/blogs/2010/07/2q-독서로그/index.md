@@ -3,7 +3,6 @@ title: 2Q 독서로그
 author: babyworm
 type: post
 date: 2010-07-18T05:24:41+00:00
-url: /archives/1533
 categories:
   - 책이야기
 

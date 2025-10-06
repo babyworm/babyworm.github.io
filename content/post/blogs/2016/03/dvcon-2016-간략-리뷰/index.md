@@ -3,7 +3,6 @@ title: DVCON 2016 간략 리뷰
 author: babyworm
 type: post
 date: 2016-03-20T14:06:50+00:00
-url: /archives/1927
 categories:
   - 'SoC &amp; IP design'
   - verification

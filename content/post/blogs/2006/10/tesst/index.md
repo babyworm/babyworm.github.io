@@ -3,7 +3,6 @@ title: 도올이 이야기하는 6.25
 author: babyworm
 type: post
 date: 2006-10-20T11:21:04+00:00
-url: /archives/134
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: 아빠와 친해지기
 author: babyworm
 type: post
 date: 2008-06-15T15:25:06+00:00
-url: /archives/1128
 categories:
   - 아빠되기
 

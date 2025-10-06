@@ -3,7 +3,6 @@ title: 허니와 클로버
 author: babyworm
 type: post
 date: 2006-08-10T13:12:20+00:00
-url: /archives/35
 categories:
   - 만화/애니메이션
 tags:

@@ -3,7 +3,6 @@ title: 근황 몇개
 author: babyworm
 type: post
 date: 2007-05-28T11:24:16+00:00
-url: /archives/281
 categories:
   - 개인적인
 

@@ -3,7 +3,6 @@ title: 17개월 5일째 민혜가 할 줄 아는 단어들~
 author: babyworm
 type: post
 date: 2009-07-20T16:10:06+00:00
-url: /archives/1494
 categories:
   - 아빠되기
 

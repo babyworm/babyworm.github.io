@@ -3,7 +3,6 @@ title: 또다른 웹디스크(실은 웹메일) 서비스..
 author: babyworm
 type: post
 date: 2006-10-23T11:49:47+00:00
-url: /archives/142
 categories:
   - 개인적인
 tags:

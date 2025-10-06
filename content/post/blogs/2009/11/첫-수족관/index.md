@@ -3,7 +3,6 @@ title: 첫 수족관
 author: babyworm
 type: post
 date: 2009-11-15T15:15:26+00:00
-url: /archives/1513
 categories:
   - 아빠되기
 

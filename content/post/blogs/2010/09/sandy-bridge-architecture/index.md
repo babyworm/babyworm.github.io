@@ -3,7 +3,6 @@ title: Sandy Bridge Architecture
 author: babyworm
 type: post
 date: 2010-09-28T18:11:24+00:00
-url: /archives/1536
 categories:
   - Microprocessor
 

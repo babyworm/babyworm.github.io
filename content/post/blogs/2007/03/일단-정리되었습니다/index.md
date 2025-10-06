@@ -3,7 +3,6 @@ title: 일단 정리되었습니다.
 author: babyworm
 type: post
 date: 2007-03-19T14:41:20+00:00
-url: /archives/255
 categories:
   - 개인적인
 tags:

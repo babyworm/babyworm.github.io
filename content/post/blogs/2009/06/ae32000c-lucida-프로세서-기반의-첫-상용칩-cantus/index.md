@@ -3,7 +3,6 @@ title: AE32000C-Lucida 프로세서 기반의 첫 상용칩. CANTUS
 author: babyworm
 type: post
 date: 2009-06-23T15:07:00+00:00
-url: /archives/1487
 categories:
   - 개인적인
 tags:

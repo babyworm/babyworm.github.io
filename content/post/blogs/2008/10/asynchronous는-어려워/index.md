@@ -3,7 +3,6 @@ title: Asynchronous는 어려워
 author: babyworm
 type: post
 date: 2008-10-22T08:28:36+00:00
-url: /archives/1292
 categories:
   - 개인적인
 tags:

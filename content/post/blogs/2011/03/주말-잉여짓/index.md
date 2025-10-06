@@ -3,7 +3,6 @@ title: 주말 잉여짓..
 author: babyworm
 type: post
 date: 2011-03-20T17:39:23+00:00
-url: /archives/1554
 categories:
   - 개인적인
 

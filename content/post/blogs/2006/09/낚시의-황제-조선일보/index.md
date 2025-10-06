@@ -3,7 +3,6 @@ title: 낚시의 황제; 조선일보.
 author: babyworm
 type: post
 date: 2006-09-12T08:40:31+00:00
-url: /archives/67
 categories:
   - 개인적인
 tags:

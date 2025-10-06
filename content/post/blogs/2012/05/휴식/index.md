@@ -3,7 +3,6 @@ title: 휴식
 author: babyworm
 type: post
 date: 2012-05-20T09:00:36+00:00
-url: /archives/1712
 categories:
   - 개인적인
 

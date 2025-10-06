@@ -3,7 +3,6 @@ title: 2021년이 되었습니다.
 author: babyworm
 type: post
 date: 2020-12-31T17:08:10+00:00
-url: /archives/2218
 categories:
   - 개인적인
 

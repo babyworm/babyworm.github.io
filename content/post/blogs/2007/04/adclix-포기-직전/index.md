@@ -3,7 +3,6 @@ title: ADClix 포기 직전
 author: babyworm
 type: post
 date: 2007-04-09T15:25:18+00:00
-url: /archives/268
 categories:
   - Uncategorized
 tags:

@@ -3,7 +3,6 @@ title: ▶◀ …
 author: babyworm
 type: post
 date: 2009-05-27T12:43:14+00:00
-url: /archives/1478
 categories:
   - 개인적인
 

@@ -3,7 +3,6 @@ title: 공개소프트웨어가 살기 어려운 환경
 author: babyworm
 type: post
 date: 2006-09-10T04:46:08+00:00
-url: /archives/65
 categories:
   - 개인적인
 tags:

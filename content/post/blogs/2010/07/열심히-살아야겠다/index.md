@@ -3,7 +3,6 @@ title: 열심히 살아야겠다.
 author: babyworm
 type: post
 date: 2010-07-17T19:11:31+00:00
-url: /archives/1532
 categories:
   - 개인적인
 

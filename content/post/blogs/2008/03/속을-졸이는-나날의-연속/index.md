@@ -3,7 +3,6 @@ title: 속을 졸이는 나날의 연속…
 author: babyworm
 type: post
 date: 2008-03-29T13:50:42+00:00
-url: /archives/605
 categories:
   - 아빠되기
 

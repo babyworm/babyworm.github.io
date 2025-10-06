@@ -3,7 +3,6 @@ title: 요즘 읽고 있는 책들..
 author: babyworm
 type: post
 date: 2006-09-21T15:06:02+00:00
-url: /archives/86
 categories:
   - 책이야기
 tags:

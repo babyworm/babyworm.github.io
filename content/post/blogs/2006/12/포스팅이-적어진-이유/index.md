@@ -3,7 +3,6 @@ title: 포스팅이 적어진 이유
 author: babyworm
 type: post
 date: 2006-12-10T10:10:09+00:00
-url: /archives/213
 categories:
   - 개인적인
 tags:

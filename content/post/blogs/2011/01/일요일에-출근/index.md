@@ -3,7 +3,6 @@ title: 일요일에 출근
 author: babyworm
 type: post
 date: 2011-01-16T06:44:51+00:00
-url: /archives/1541
 categories:
   - 개인적인
 

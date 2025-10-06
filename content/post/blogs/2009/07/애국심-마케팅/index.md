@@ -3,7 +3,6 @@ title: 애국심 마케팅
 author: babyworm
 type: post
 date: 2009-07-09T02:12:50+00:00
-url: /archives/1491
 categories:
   - 개인적인
 tags:

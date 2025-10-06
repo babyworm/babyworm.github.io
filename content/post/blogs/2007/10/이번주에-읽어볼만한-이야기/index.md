@@ -3,7 +3,6 @@ title: 이번주에 읽어볼만한 이야기
 author: babyworm
 type: post
 date: 2007-10-15T23:54:09+00:00
-url: /archives/320
 categories:
   - 'News on SoC &amp; IP design'
 

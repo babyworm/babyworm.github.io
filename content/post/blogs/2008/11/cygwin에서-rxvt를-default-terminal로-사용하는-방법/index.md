@@ -3,7 +3,6 @@ title: Cygwin에서 RXVT를 default terminal로 사용하는 방법
 author: babyworm
 type: post
 date: 2008-11-25T07:17:26+00:00
-url: /archives/1319
 categories:
   - 'SoC &amp; IP design : For beginners'
 tags:

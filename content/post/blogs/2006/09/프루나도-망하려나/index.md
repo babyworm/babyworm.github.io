@@ -3,7 +3,6 @@ title: 프루나도 망하려나..
 author: babyworm
 type: post
 date: 2006-09-13T15:46:37+00:00
-url: /archives/74
 categories:
   - 개인적인
 tags:

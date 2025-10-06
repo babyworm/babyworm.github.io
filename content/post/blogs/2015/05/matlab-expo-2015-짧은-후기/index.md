@@ -3,7 +3,6 @@ title: Matlab Expo 2015 짧은 후기
 author: babyworm
 type: post
 date: 2015-05-22T12:45:34+00:00
-url: /archives/1885
 categories:
   - 'SoC &amp; IP design'
 

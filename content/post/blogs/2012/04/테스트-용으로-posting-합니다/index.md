@@ -3,7 +3,6 @@ title: 테스트 용으로 posting 합니다.
 author: babyworm
 type: post
 date: 2012-04-13T19:48:36+00:00
-url: /archives/4
 categories:
   - Uncategorized
   - 개인적인

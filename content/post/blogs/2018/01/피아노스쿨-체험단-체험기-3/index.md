@@ -3,7 +3,6 @@ title: 피아노스쿨 체험단 체험기 (3)
 author: babyworm
 type: post
 date: 2018-01-02T14:43:28+00:00
-url: /archives/2040
 categories:
   - 개인적인
   - 음악이야기

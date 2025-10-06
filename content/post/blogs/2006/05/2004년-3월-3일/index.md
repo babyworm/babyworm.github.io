@@ -3,7 +3,6 @@ title: 2004년 3월 3일
 author: babyworm
 type: post
 date: 2006-05-17T14:16:19+00:00
-url: /archives/15
 categories:
   - 개인적인
 tags:

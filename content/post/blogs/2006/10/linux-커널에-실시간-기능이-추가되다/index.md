@@ -3,7 +3,6 @@ title: Linux 커널에 실시간 기능이 추가되다!
 author: babyworm
 type: post
 date: 2006-10-13T12:56:03+00:00
-url: /archives/116
 categories:
   - 'News on SoC &amp; IP design'
 tags:

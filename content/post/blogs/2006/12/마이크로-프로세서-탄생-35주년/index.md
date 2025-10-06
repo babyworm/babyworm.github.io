@@ -3,7 +3,6 @@ title: 마이크로 프로세서 탄생 35주년..
 author: babyworm
 type: post
 date: 2006-12-25T11:40:22+00:00
-url: /archives/223
 categories:
   - Microprocessor
 tags:

@@ -3,7 +3,6 @@ title: 눈오는 밤
 author: babyworm
 type: post
 date: 2006-12-16T17:29:59+00:00
-url: /archives/217
 categories:
   - 개인적인
 tags:

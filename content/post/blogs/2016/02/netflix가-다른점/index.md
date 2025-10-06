@@ -3,7 +3,6 @@ title: Netflix가 다른점?
 author: babyworm
 type: post
 date: 2016-02-08T11:58:41+00:00
-url: /archives/1921
 categories:
   - 개인적인
 

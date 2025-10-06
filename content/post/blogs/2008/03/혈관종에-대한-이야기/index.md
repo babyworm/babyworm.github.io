@@ -3,7 +3,6 @@ title: 혈관종에 대한 이야기
 author: babyworm
 type: post
 date: 2008-03-26T04:33:13+00:00
-url: /archives/515
 categories:
   - 아빠되기
 

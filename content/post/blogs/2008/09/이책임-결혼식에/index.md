@@ -3,7 +3,6 @@ title: 이책임 결혼식에..
 author: babyworm
 type: post
 date: 2008-09-08T02:25:00+00:00
-url: /archives/1197
 categories:
   - 아빠되기
 

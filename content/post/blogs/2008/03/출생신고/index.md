@@ -3,7 +3,6 @@ title: 출생신고.
 author: babyworm
 type: post
 date: 2008-03-07T04:11:57+00:00
-url: /archives/458
 categories:
   - 아빠되기
 

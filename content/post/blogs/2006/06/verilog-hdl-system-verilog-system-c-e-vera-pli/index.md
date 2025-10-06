@@ -3,7 +3,6 @@ title: verilog HDL, System Verilog, system C, e, vera.. PLI
 author: babyworm
 type: post
 date: 2006-06-01T13:28:13+00:00
-url: /archives/23
 categories:
   - 'SoC &amp; IP design'
 tags:

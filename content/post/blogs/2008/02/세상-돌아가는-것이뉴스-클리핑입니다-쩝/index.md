@@ -3,7 +3,6 @@ title: 세상 돌아가는 것이..뉴스 클리핑입니다.. 쩝
 author: babyworm
 type: post
 date: 2008-02-04T04:26:53+00:00
-url: /archives/375
 categories:
   - 개인적인
 

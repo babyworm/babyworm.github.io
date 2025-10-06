@@ -3,7 +3,6 @@ title: 느닷없는 스팸 공세
 author: babyworm
 type: post
 date: 2008-03-13T00:42:49+00:00
-url: /archives/471
 categories:
   - 개인적인
 

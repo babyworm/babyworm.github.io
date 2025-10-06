@@ -3,7 +3,6 @@ title: 괜찮은 Rapid Share downloader; FreeRapid Downloader
 author: babyworm
 type: post
 date: 2009-04-06T00:03:56+00:00
-url: /archives/1469
 categories:
   - 개인적인
 tags:

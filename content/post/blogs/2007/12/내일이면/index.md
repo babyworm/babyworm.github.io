@@ -3,7 +3,6 @@ title: 내일이면..
 author: babyworm
 type: post
 date: 2007-12-18T09:32:04+00:00
-url: /archives/370
 categories:
   - 개인적인
 

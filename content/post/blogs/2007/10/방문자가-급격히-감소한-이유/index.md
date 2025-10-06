@@ -3,7 +3,6 @@ title: 방문자가 급격히 감소한 이유..
 author: babyworm
 type: post
 date: 2007-10-28T05:08:08+00:00
-url: /archives/343
 categories:
   - 개인적인
 

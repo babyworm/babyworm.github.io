@@ -3,7 +3,6 @@ title: 아쉬움이 남는 경기
 author: babyworm
 type: post
 date: 2007-03-25T05:06:02+00:00
-url: /archives/257
 categories:
   - 개인적인
 tags:

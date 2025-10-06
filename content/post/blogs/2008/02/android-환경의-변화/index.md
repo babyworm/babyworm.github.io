@@ -3,7 +3,6 @@ title: Android, 환경의 변화
 author: babyworm
 type: post
 date: 2008-02-14T04:39:06+00:00
-url: /archives/376
 categories:
   - 'News on SoC &amp; IP design'
 

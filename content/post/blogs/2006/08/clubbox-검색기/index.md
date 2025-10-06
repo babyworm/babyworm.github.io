@@ -3,7 +3,6 @@ title: clubbox 검색기
 author: babyworm
 type: post
 date: 2006-08-22T09:09:37+00:00
-url: /archives/41
 categories:
   - 개인적인
 tags:

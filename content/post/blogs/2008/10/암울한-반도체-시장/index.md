@@ -3,7 +3,6 @@ title: 암울한 반도체 시장
 author: babyworm
 type: post
 date: 2008-10-30T10:03:40+00:00
-url: /archives/1295
 categories:
   - 'News on SoC &amp; IP design'
 tags:

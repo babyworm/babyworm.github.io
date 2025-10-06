@@ -3,7 +3,6 @@ title: 시납시스의 여전한 이야기.. SNUG Seoul 2006, MiniDAC
 author: babyworm
 type: post
 date: 2006-09-14T13:08:16+00:00
-url: /archives/75
 categories:
   - 'SoC &amp; IP design'
 tags:

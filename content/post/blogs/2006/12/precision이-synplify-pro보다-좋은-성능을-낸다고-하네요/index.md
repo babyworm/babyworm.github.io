@@ -3,7 +3,6 @@ title: Precision이 Synplify Pro보다 좋은 성능을 낸다고 하네요.
 author: babyworm
 type: post
 date: 2006-12-27T14:43:47+00:00
-url: /archives/225
 categories:
   - CAD tools
 tags:

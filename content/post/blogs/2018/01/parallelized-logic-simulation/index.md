@@ -3,7 +3,6 @@ title: Parallelized Logic Simulation
 author: babyworm
 type: post
 date: 2018-01-09T17:22:51+00:00
-url: /archives/2051
 categories:
   - CAD tools
   - 'SoC &amp; IP design'

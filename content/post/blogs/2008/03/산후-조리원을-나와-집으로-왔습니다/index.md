@@ -3,7 +3,6 @@ title: 산후 조리원을 나와 집으로 왔습니다.
 author: babyworm
 type: post
 date: 2008-03-05T02:58:53+00:00
-url: /archives/415
 categories:
   - 아빠되기
 

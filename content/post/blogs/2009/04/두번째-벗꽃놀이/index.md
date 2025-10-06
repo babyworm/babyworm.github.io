@@ -3,7 +3,6 @@ title: 두번째 벗꽃놀이
 author: babyworm
 type: post
 date: 2009-04-28T15:14:26+00:00
-url: /archives/1476
 categories:
   - 아빠되기
 

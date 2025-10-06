@@ -3,7 +3,6 @@ title: 'Crizin Code: 에디터용 폰트'
 author: babyworm
 type: post
 date: 2006-08-26T10:48:50+00:00
-url: /archives/49
 categories:
   - 개인적인
 tags:

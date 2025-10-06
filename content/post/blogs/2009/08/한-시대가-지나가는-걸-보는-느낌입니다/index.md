@@ -3,7 +3,6 @@ title: 한 시대가 지나가는 걸 보는 느낌입니다.
 author: babyworm
 type: post
 date: 2009-08-19T14:28:21+00:00
-url: /archives/1506
 categories:
   - 개인적인
 

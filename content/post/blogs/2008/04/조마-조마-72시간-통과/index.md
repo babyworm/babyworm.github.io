@@ -3,7 +3,6 @@ title: 조마 조마 72시간 통과
 author: babyworm
 type: post
 date: 2008-04-01T15:52:08+00:00
-url: /archives/704
 categories:
   - 아빠되기
 

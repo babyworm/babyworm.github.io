@@ -3,7 +3,6 @@ title: 알라딘의 Thanks to blogger와 번역서 이야기
 author: babyworm
 type: post
 date: 2006-09-22T04:00:00+00:00
-url: /archives/87
 categories:
   - 개인적인
 tags:

@@ -3,7 +3,6 @@ title: TLM으로 설계가 이동할 것인가?
 author: babyworm
 type: post
 date: 2006-10-23T02:04:10+00:00
-url: /archives/140
 categories:
   - verification
 tags:

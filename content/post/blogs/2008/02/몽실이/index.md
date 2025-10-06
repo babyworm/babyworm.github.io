@@ -3,7 +3,6 @@ title: 몽실이!
 author: babyworm
 type: post
 date: 2008-02-20T06:04:46+00:00
-url: /archives/378
 categories:
   - 개인적인
 
