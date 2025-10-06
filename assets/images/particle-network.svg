@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="EthanParticleNet" xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 700 400" width="700" height="400"
+     shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+     preserveAspectRatio="xMidYMid slice" style="background-color:#06021d">
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"  stop-color="#38bdf8"/>
+      <stop offset="1"  stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background subtle vignette -->
+  <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+    <stop offset="0%" stop-color="#0b1220"/>
+    <stop offset="100%" stop-color="#06021d"/>
+  </radialGradient>
+  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+
+  <!-- Containers -->
+  <g id="links" stroke="url(#ink)" stroke-linecap="round" pointer-events="none"></g>
+  <g id="nodes" filter="url(#glow)" pointer-events="none"></g>
+
+  <style><![CDATA[
+    .node { fill:#c7f9ff; opacity:0.9 }
+    .link { stroke-width:1.25; stroke-dasharray:6 14; animation: lineFlow 8s linear infinite }
+    @keyframes lineFlow { to { stroke-dashoffset:-80; } }
+    @media (prefers-reduced-motion: reduce){
+      .link { animation: none }
+    }
+  ]]></style>
+
+  <script><![CDATA[
+    (function(){
+      const svg   = document.getElementById('EthanParticleNet');
+      const vb    = svg.viewBox.baseVal;
+      const W = vb.width, H = vb.height;
+
+      const NODES = 64;
+      const THRESH = 110;            // px
+      const SPEED  = 0.25;           // base speed
+      const nodesG = document.getElementById('nodes');
+      const linksG = document.getElementById('links');
+      const reduce = (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+
+      const rnd = (min, max) => min + Math.random() * (max - min);
+      const nodes = new Array(NODES).fill(0).map(() => ({
+        x: rnd(0, W),
+        y: rnd(0, H),
+        vx: (reduce ? 0 : rnd(-1, 1)) * SPEED,
+        vy: (reduce ? 0 : rnd(-1, 1)) * SPEED,
+        r: rnd(1.2, 2.2)
+      }));
+
+      // draw node circles
+      const circles = nodes.map(n => {
+        const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+        c.setAttribute('class', 'node');
+        c.setAttribute('r', n.r.toFixed(2));
+        c.setAttribute('cx', n.x.toFixed(2));
+        c.setAttribute('cy', n.y.toFixed(2));
+        nodesG.appendChild(c);
+        return c;
+      });
+
+      // line pool to avoid DOM churn
+      const activeLines = [];
+      const pool = [];
+
+      function getLine(){
+        let el = pool.pop();
+        if(!el){
+          el = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+          el.setAttribute('class', 'link');
+          el.setAttribute('stroke', 'url(#ink)');
+        }
+        return el;
+      }
+
+      function releaseExtra(startIdx){
+        for(let i = startIdx; i < activeLines.length; i++){
+          pool.push(activeLines[i]);
+          if(activeLines[i].parentNode === linksG) linksG.removeChild(activeLines[i]);
+        }
+        activeLines.length = startIdx;
+      }
+
+      function step(){
+        // update nodes
+        for(let i=0;i<NODES;i++){
+          const n = nodes[i];
+          n.x += n.vx;
+          n.y += n.vy;
+
+          // bounce
+          if(n.x < 0){ n.x = 0; n.vx *= -1; }
+          if(n.x > W){ n.x = W; n.vx *= -1; }
+          if(n.y < 0){ n.y = 0; n.vy *= -1; }
+          if(n.y > H){ n.y = H; n.vy *= -1; }
+
+          circles[i].setAttribute('cx', n.x.toFixed(2));
+          circles[i].setAttribute('cy', n.y.toFixed(2));
+        }
+
+        // update links
+        let k = 0;
+        for(let i=0;i<NODES;i++){
+          for(let j=i+1;j<NODES;j++){
+            const a = nodes[i], b = nodes[j];
+            const dx = a.x - b.x, dy = a.y - b.y;
+            const d2 = dx*dx + dy*dy;
+            const thr2 = THRESH*THRESH;
+            if(d2 < thr2){
+              const d = Math.sqrt(d2);
+              const alpha = Math.pow(1 - d/THRESH, 2) * 0.9;  // fade with distance
+
+              let line = activeLines[k];
+              if(!line){
+                line = getLine();
+                linksG.appendChild(line);
+                activeLines[k] = line;
+              }
+              line.setAttribute('x1', a.x.toFixed(2));
+              line.setAttribute('y1', a.y.toFixed(2));
+              line.setAttribute('x2', b.x.toFixed(2));
+              line.setAttribute('y2', b.y.toFixed(2));
+              line.setAttribute('stroke-opacity', alpha.toFixed(3));
+              k++;
+            }
+          }
+        }
+        // release unused lines back to pool
+        releaseExtra(k);
+
+        requestAnimationFrame(step);
+      }
+
+      requestAnimationFrame(step);
+    })();
+  ]]></script>
+</svg>

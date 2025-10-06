@@ -9,8 +9,9 @@ since = "2006"
 description = "Babyworm Tech. and Personal Blog."
 keywords = ["Hugo", "theme", "blog", "blowfish"]
 mainSections = ["post"]
-colorScheme = "blowfish"
-defaultAppearance = "system"
+# blowfish (default), avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, slate.
+colorScheme = "congo"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
@@ -21,15 +22,16 @@ smartTOCHideUnfocusedChildren = false
 # Missing global parameters
 # enableA11y = false
 # replyByEmail = false
-# showViews = false
-# showLikes = false
+showViews = true
+showLikes = true
 # robots = ""
 # disableImageZoom = false
 # disableImageOptimization = false
 # disableImageOptimizationMD = false
 # backgroundImageWidth = 1200
 # disableTextInHeader = false
-# defaultBackgroundImage = ""
+defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
+#defaultBackgroundImage = "images/background_hu.jpg"
 # defaultFeaturedImage = ""
 # defaultSocialImage = ""
 # fingerprintAlgorithm = "sha512"
@@ -45,7 +47,7 @@ smartTOCHideUnfocusedChildren = false
   showCopyright = true
 
 [homepage]
-  layout = "profile"
+  layout = "background"  # valid options: page, profile, hero, card, background, custom
   showRecent = true
   showRecentItems = 10
   showMoreLink = true

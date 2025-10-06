@@ -48,10 +48,13 @@ mathjax: false
 * 점점 글을 작성하지 않게되었습니다만, 그래도 가끔씩 생각나는대로 글을 올리게 될 듯 합니다.
 
 ### Some information about this site
-for reminding
+* 이 페이지는 [Hugo](https://gohugo.io/)와 [blowfish](https://themes.gohugo.io/themes/hugo-theme-blowfish/) 테마를 사용하여 작성되었습니다.
 
+* for reminding
   * Domain Due (babyworm.net): **2030-04-24** ; [cloudflare](https://www.cloudflare.com/ko-kr/)
   * hosting due: **2025.11.04** ; [cafe24](https://www.cafe24.com/ecommerce/hosting/)
+
+
 
 
 
