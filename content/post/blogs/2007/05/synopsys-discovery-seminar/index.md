@@ -20,16 +20,9 @@ tags:
   </P>
 </DIV>
 
-  
-
-
-  
 등록은: &nbsp;<http://www.synopsys.com/news/events/seminars/veri_sem.html>
 
 **≫ Primary Multi Track Agenda** 
-
-  
-
 
 Track A1 Abstract  
 **Introduction to SystemVerilog testbench with the VMM Methodology**  
@@ -37,12 +30,10 @@ Track A1 Abstract
 &#8211; SystemVerilog testbench basics  
 &#8211; Strategies for adopting SystemVerilog testbench and the Verification Methodology Manual (VMM)  
 
-
 **Debug and Analysis with DVE**  
 &#8211; An overview of DVE (Discovery Visualization Environment)  
 &#8211; Using DVE for assertion, testbench and SystemC debug  
 &#8211; Using DVE with analog simulatioins  
-
 
 Track A2 Abstract  
 **Formal Verification with Megellan**  
@@ -50,12 +41,10 @@ Track A2 Abstract
 &#8211; SystemVerilog testbench basics  
 &#8211; Strategies for adopting SystemVerilog testbench and the Verification Methodology Manual (VMM)  
 
-
 **Verification of Low Power Designs**  
 &#8211; An overview of DVE (Discovery Visualization Environment)  
 &#8211; Using DVE for assertion, testbench and SystemC debug  
 &#8211; Using DVE with analog simulatioins  
-
 
 Track B1 Abstract  
 **Introduction to VMM Applications**  
@@ -63,12 +52,10 @@ Track B1 Abstract
 &#8211; Block-to-system reuse and memory allocation techniques  
 &#8211; Data stream scoreboarding  
 
-
 **Using Verification IP in a VMM Environment**  
 &#8211; Using transaction-level SystemC models in a SystemVerilog environment  
 &#8211; Transaction-level Interface techniques in VCS  
 &#8211; Debugging mixed-abstraction, mixed-language environments in DVE  
-
 
 Track B2 Abstract  
 **SystemC and SystemVerilog Design Verification with VCS**  
@@ -76,24 +63,20 @@ Track B2 Abstract
 &#8211; Transaction-level Interface techniques in VCS  
 &#8211; Debugging mixed-abstraction, mixed-language environments in DVE  
 
-
 **Accelerating Verification using the VMM Hardware Abstraction Layer with ZeBu**  
 &#8211; Introduction to hardware-assisted acceleration with the EVE ZeBu platform  
 &#8211; Using the VMM HAL to reuse a common testbench for simulation and acceleration  
 &#8211; Implementing acceleration-friendly checkers, monitors and data generators  
-
 
 Track C1 Abstract  
 **Verifying Performance and Reliability of Nanometer Designs with HSIMplus**  
 &#8211; Solutions for post-layout analysis with millions of extracted RC parasitics  
 &#8211; Verifying performance and reliability for IR drop effects and electromigration  
 
-
 **Mixed-Signal Verification (MSV) challenges and solutions**  
 &#8211; Bottom-up, mixed-signal Verification w/ Verilog, VHDL, & SPICE  
 &#8211; Mixed-language / Mixed-level simulation top down design and verification  
 &#8211; Transistor-level sign-off: why is this important?  
-
 
 Track C2 Abstract  
 **Advanced high-accuracy circuit simulation with HSPICE**  

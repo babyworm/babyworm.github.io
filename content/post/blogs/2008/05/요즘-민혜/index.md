@@ -9,11 +9,7 @@ categories:
 ---
 요즘에 민혜 아빠는 상당히 바쁜 나날을 보내고 있습니다. 요즘 하고 있는 프로젝트의 마감일이 코앞에 다가왔기 때문에 예전 같았으면 매일 밤을 새야 할 때인데&#8230; 민혜도 있고 하니 집에는 오고 있는 형편이죠.^^
 
-  
-
-
 일도 잘 안풀리고 있어서, 완전 이런 심정이죠.  
-
 
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/jk0.JPG?resize=600%2C449" class="aligncenter" width="600" height="449" alt="" data-recalc-dims="1" />  
 일이란 것이 참 쉽지 않은 것 같습니다. 아.. 제목과 벗어난 이야기는 이쯤하고..

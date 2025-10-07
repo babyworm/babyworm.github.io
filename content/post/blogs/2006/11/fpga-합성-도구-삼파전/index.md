@@ -39,55 +39,28 @@ Xilinx의 XST도 역시 뭐 그리 잘 만들어진다 볼 순 없겠습니다. 
 
 <TABLE cellSpacing=0 cellPadding=2 width=400 align=center border=0>  
   
-
-
-  
-
-
 </TABLE>
-
-  
-
 
 <DIV style="TEXT-ALIGN: center">
   [image source: synplify homepage]
 </DIV>
-
-  
-
 
 두번째는 합성 시장의 절대 강자.. synopsys의 DC-FPGA입니다.  
 사실 synopsys는 예전에 FPGA-Express라는 툴을 갖추고 있었고 Xilinx에 번들로 제공했던 적도 있었습니다. 하지만, 명성에는 조금 못 미치는 툴이였는데, 이를 자사의 flagship tool인 Design Compiler에 접목하려는 노력을 하더니만(ASIC to FPGA migration guide가 있었지요..), 결국 DC-FPGA라는 이름으로 나왔지요.  
 DC에 익숙한 엔지니어가 워낙 많아서 이것도 비교적 많이 사용되고 있다고는 합니다만, 새로운 디바이스에 대한 지원이 좀 느린것이 단점이랄까요.. 요즘에는 약간 시들한 느낌입니다.  
 하지만, 워낙에 ASIC flow상에서 강하니까, script상에 별 변경없이 FPGA를 만들수 있다는 건 큰 장점이겠지요.  
 
-
-  
-
-
 <DIV style="TEXT-ALIGN: center">
   <IMG alt=Compiler hspace=0 src="https://i0.wp.com/www.synopsys.com/news/pubs/compiler/images/art3_dcfpga-fig1.jpg?w=625" border=0 data-recalc-dims="1"><br />[image source: <A href="http://www.synopsys.com/news/pubs/compiler/art2_dcfpga-may04.html?NLC-insight&Link=May04_Issue_Art2">http://www.synopsys.com/news/pubs/compiler/art2_dcfpga-may04.html?NLC-insight&Link=May04_Issue_Art2</A>]
 </DIV>
 
-  
-
-
-  
 세번째는 이글을 쓰게된 직접적인 계기인 mentor의 <A href="http://www.mentor.com/products/fpga\_pld/synthesis/" target=\_blank>precision</A>이라는 합성도구 입니다.  
 사실 precision은 예전에 mentor의 FPGA advantage를 evaluation해보면서 처음 접해봤었는데.. Le사실 사라진줄 알았습니다. ^^;  
 그런데, <A href="http://www.edadesignline.com/193700445?cid=RSSfeed\_EDAdesignline\_edadlALL" target=_blank>EETimes의 기사</A>를 보니 아직도 건재하고, 많은 기능이 추가된 것 같습니다. DesignWare의 지원이나 Clock Gating지원, DSP/Memory macrocell inference기능들을 지원한다는 것으로 보아 상당한 수준으로 올라왔군요..
 
-
-
-  
-
-
 <DIV style="TEXT-ALIGN: center">
   <IMG id=||CPIMAGE:626305| height=326 alt="Precision Physical" hspace=0 src="https://i0.wp.com/www.mentor.com/products/fpga_pld/synthesis/precision_synthesis/images/physical_image1.jpg?resize=428%2C326" width=428 border=0 data-recalc-dims="1"><br />[image source: mentor homepage]
 </DIV>
-
-  
-
 
 ASIC logic합성쪽은 DesignComiler가 압도적인 우위를 점하고 있는 가운데.. BuildGates, Synplify ASIC같은 것들이 도전하는 형국이고..
 

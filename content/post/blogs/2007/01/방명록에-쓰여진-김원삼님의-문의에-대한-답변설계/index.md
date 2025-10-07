@@ -30,14 +30,12 @@ ASIC은 P&R이 자유롭기 때문에 복잡한 로직을 잘 표현하지만, F
   Table III) comparison of synthesized results<br />| Li&#8217;s Architecture | Our Architecture<br />&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;Technology | 0.18um Artisan CMOS | 0.18us Artisan CMOS<br />Critical path | 10ns | 6ns<br />Working frequency | 100MHz |148.5Mhz<br />Gate count | 13.6k | 15K<br />Decoding speed | less than 1 code per cycle | 1code per cycle<br />Capacity | SDTV | HDTV<br />&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;<br />
 </DIV>
 
-  
 위의 테이블에서는 동일 공정에서 critical path delay 가 예전것이 10ns이고, 제안된 것이 6ns이므로, 더 좋을 것이다. 뭐 이런 이야기겠죠? ^^; 
 
 <DIV style="BORDER-RIGHT: #90e0ff 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #90e0ff 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #90e0ff 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #90e0ff 1px dotted; BACKGROUND-COLOR: #d2f2ff">
   unix 컴퓨터에 synopsys 환경 구축은 기본이겠지요?<br />보고 따라할 수 있는 자료나 책이 있으면 링크 혹은 추천 부탁드리겠습니다.<br />또는 이러한 교육을 받을 수 있는 곳이 있다면 소개 부탁드립니다.<br />
 </DIV>
 
-  
 위의 결과가 synopsys에서 수행되었다는 보장은 없습니다만, synopsys일 가능성이 90%이상이겠구요(ASIC용 logic합성 시장에서 90%이상의 market share를 가지고 있으니까요..).
 
 가장 좋은 방법은 <A href="http://idec.kaist.ac.kr/" target=_blank>IDEC</A>이나 <A href="http://www.asic.net/" target=_blank>IT-SoC </A>교육을 한번 다녀오셔서, 전반적인 flow에 대해서 이해하시는 것이 좋을 것입니다. Synopsys Korea의 교육이 있습니다만, 워낙에 비싸구요.. (IDEC 교육과 동일합니다)

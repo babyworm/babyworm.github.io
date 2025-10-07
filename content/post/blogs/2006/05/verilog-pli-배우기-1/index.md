@@ -45,8 +45,5 @@ PLI를 verilog simlator와 연동하는 가장 쉬운 방법은 dynamic library�
 ncverilog +access+rwc +loadvpi=./aaaa.so:aaa_bootfunc test.v
 ```
 
-<div>
-  이런식이다. 위에서 loadvpi라는 옵션을 사용헀는데, 이는 VPI 형태의 PLI함수를 포함한 동적 라이브러리를 시뮬레이션 시에 포함하되, aaa_bootfunc 이라는 것이 등록함수(다른 말로 bootstrap이라고 한다)로 사용할 것임을 알려주는 것이다.
-</div>
-
+이런식이다. 위에서 loadvpi라는 옵션을 사용헀는데, 이는 VPI 형태의 PLI함수를 포함한 동적 라이브러리를 시뮬레이션 시에 포함하되, aaa_bootfunc 이라는 것이 등록함수(다른 말로 bootstrap이라고 한다)로 사용할 것임을 알려주는 것이다.
 다음번에는 실제적으로 VPI의 전반적인 얼계에 대해서 살펴봅시다.

@@ -11,15 +11,9 @@ tags:
   - 마이크로 프로세서
 
 ---
-<div>
-  <table style="background: #fde9d9 none repeat scroll 0% 0%; border-collapse: collapse; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" border="0">
-    <colgroup> <col style="width: 615px;" /></colgroup> <tr>
-      <td style="border: 0.5pt solid black; padding-left: 7px; padding-right: 7px;">
-        이 글은 예전에 쓴 &#8220;<a href="http://babyworm.net/wordpress/?p=80" target="_blank">프로세서/비메모리 반도체 설계를 희망하시는 분들께</a>&#8220;라는 글과 연관성이 있습니다. 단지 프로세서 설계를 희망하시는 분들께 유용할 수도(?) 있는 내용 위주로 쓰여졌다는 것만 다르겠습니다.
-      </td>
-    </tr>
-  </table>
-</div>
+> 이 글은 예전에 쓴 &#8220;<a href="https://babyworm.github.io/post/blogs/2006/09/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/%EB%B9%84%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%84%A4%EA%B3%84%EB%A5%BC-%ED%9D%AC%EB%A7%9D%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EA%BB%98../" target="_blank">프로세서/비메모리 반도체 설계를 희망하시는 분들께</a>&#8220;라는 글과 연관성이 있습니다. 단지 프로세서 설계를 희망하시는 분들께 유용할 수도(?) 있는 내용 위주로 쓰여졌다는 것만 다르겠습니다.
+
+
 
 일단 마이크로 프로세서라는 분야에 대해서 설명이 필요할 것으로 봅니다. 학교에서 마이크로 프로세서 구현에 대한 연구는 EE(전자공학)에서 이루어지는 것이 대부분이며, 기업체의 경우 embedded microprocessor는 상당히 많은 업체에서 상용화에 도전하고 있습니다.
 

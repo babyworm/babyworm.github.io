@@ -21,21 +21,15 @@ tags:
 vim color scheme이라는 것이 취향에 많이 따르는 건데요. 생각보다 민감하죠.  
 컬러 스킴을 확인해 볼 수 있는 사이트가 있더군요 [<A href="http://www.cs.cmu.edu/~maverick/VimColorSchemeTest/index.html" target=_blank>여기</A>]  
   
-  
 4.  
 요즘에 어쩌다 듣게된 &#8216;브로콜리 너마저&#8217;라는 밴드의 노래가 제 취향이군요. ^^;  
 춤이라는 노래가 개인 취향입니다만, 가장 많이 알려진듯 한 앵콜 요청 금지라는 노래는 걸어둡니다.  
   
-  
-
-
 <DIV class="imageblock center" style="CLEAR: both; TEXT-ALIGN: center">
 </DIV>
 
-  
 요즘 제가 개인적으로 좋아하는 재주소년의 신보도 나왔습니다.  
 역시나 같은 감성.. 약간은 매너리즘? 그래도 좋네요  
-  
   
 5.  
 힘내자, 견뎌라.. 이런 류의 말이 요즘 가장 많이 들리는 이야기지요.  

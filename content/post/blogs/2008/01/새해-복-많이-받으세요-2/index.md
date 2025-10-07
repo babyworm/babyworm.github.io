@@ -21,7 +21,6 @@ tags:
 
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile9.uf.156C4B564D6A7AEB26FFC8.jpg?resize=308%2C412" class="aligncenter" width="308" height="412" alt="사용자 삽입 이미지" data-recalc-dims="1" />  
 
-
 <DIV style="TEXT-ALIGN: center">
   [그림 출처:&nbsp; <B><A href="http://j-bros.com/log/?p=160" target=_top><FONT color=#551a8b>j-bros.com</FONT></A>]</B>
 </DIV>

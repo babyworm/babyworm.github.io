@@ -9,7 +9,6 @@ categories:
 ---
 <DIV align=center>  
 
-
 <DIV style="TEXT-ALIGN: left">
   이제 어느덧 12주 3일차입니다. <br />임신을 3단계로 나눈다고 하던데, 1단계가 거의 끝난 것이지요. </p> 
   

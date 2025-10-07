@@ -68,8 +68,6 @@ AMBA 3.0에서 AXI가 도입된 건 맞는데, AMBA 3.0은 AXI, AHB lite, APB 3.
 (추가로..) AXI의 경우 signal이 조금 많아져서 귀찮은 부분이 있는데, channel 덕분에 구현이 어렵지는 않습니다. (system verilog의 경우 interface/struct 등을 쓰면 그나마 좀 편하고)  
 위의 script를 쓰면.. 의 의미는 일종의 generator를 만들면 어렵지 않다는 의미입니다. 예전에 이 글을 쓸 당시도 perl로 스크립트를 만들어서 설계했고요.. 다만, interconnect의 형태가 다양해졌으니, interface component를 잘 설계하는 것이 쉽지 않겠죠. (설계 자체는 AHB에 귀찮은 기능들이 있어서 사실 설계가 조금 짜증나고, AXI는 성능을 위해서 잘 만들려면 쉽지는 않겠죠. )  
   
-  
 &#8212;-  
-
 
 p.s 실수 잘하시는 것들 몇개 더.. AXI는 당연히도 input과 output간의 combinatorial feedback이 있으면 안됩니다. 즉, input과 output 신호는 반드시 한번은 f/f을 거쳐야 합니다. reset은 반드시 synchronous deassdert 입니다.

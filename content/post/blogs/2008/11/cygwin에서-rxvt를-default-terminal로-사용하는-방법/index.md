@@ -12,8 +12,6 @@ tags:
 ---
 매우 간단한데 비교적 많은 분들이 모르는 듯 하여서..(회사 친구들도 제법 모르고..) 
 
- 
-
 <ol style="margin-left: 40pt">
   <li>
     cygwin 설치시 rxvt를 같이 설치합니다. (뭐, 나중에 setup 에서 추가 설치해도 관계 없습니다.
@@ -65,8 +63,6 @@ tags:
   </li>
 </ol>
 
- 
-
 rxvt를 현재 디렉토리에서 다시 띄우는 경우에는 .bash_profile에서 다음과 같이 설정하면 된다. 
 
 <div style="margin-left: 46pt">
@@ -80,8 +76,6 @@ rxvt를 현재 디렉토리에서 다시 띄우는 경우에는 .bash_profile에
     </tr>
   </table>
 </div>
-
- 
 
 뭐, 위와 같이 별다를 것 없다. 
 

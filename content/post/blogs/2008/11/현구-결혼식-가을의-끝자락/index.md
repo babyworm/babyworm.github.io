@@ -21,7 +21,6 @@ categories:
   </p>
 </div>
 
-  
 밥 먹고 나왔더니만, 비가 그쳤더군요. 그래서 명륜당 앞으로 가서 다른 분의 결혼식도 보면서 사진을 찍었지요 (뭐, 관계없는 분 결혼식이라.. 그냥 사진 찍으러 간거죠.. 영화배우였는지, 몇몇 유명한 분들이 와 있더군요)
 
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6be9401dCL.JPG?resize=625%2C933" class="aligncenter" width="625" height="933" alt="" filename="DSC_1669.JPG" filemime="" data-recalc-dims="1" /> 화창하게 비개인 야외에서 남의 결혼식 배경으로 사진 찍고 있습니다. ^^;

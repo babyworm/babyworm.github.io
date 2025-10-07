@@ -24,19 +24,10 @@ tags:
 1. 필요한 함수를 정합니다.  
 대충 다음과 같은 함수를 쓸 수 있겠지요?
 
-
-
-  
-
-
 <DIV style="BORDER-RIGHT: #90e0ff 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #90e0ff 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #90e0ff 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #90e0ff 1px dotted; BACKGROUND-COLOR: #d2f2ff">
   rtnval = get_id();<br />do_intest(serin);<br />do_extest(serin);<br />
 </DIV>
 
-  
-
-
-  
 2.  
 해당 함수를 perl에서 subroutine으로 만들어갑니다.  
 뭐, subroutine을 만드는 방법은 쉽죠?
@@ -44,31 +35,15 @@ tags:
 3.  
 이 부분이 제일 중요한데요..
 
-
-
-  
-
-
 <DIV style="BORDER-RIGHT: #90e0ff 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #90e0ff 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #90e0ff 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #90e0ff 1px dotted; BACKGROUND-COLOR: #d2f2ff">
   xxx.pl <filename.input>
 </DIV>
 
-  
-
-
 이런식으로 처리하려면, 중간에 다음과 같은 루틴을 넣어줍니다. 
-
-
-
-  
-
 
 <DIV style="BORDER-RIGHT: #e38fbc 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #e38fbc 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #e38fbc 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #e38fbc 1px dotted; BACKGROUND-COLOR: #ffe4f4">
   do &#8220;$ARGV[0]&#8221;;
 </DIV>
-
-  
-
 
 위의 한 행은 해당 파일($ARGV[0])에 지정된 &#8220;perl&#8221; 명령어들을 읽어와서 해석하는 부분입니다.  
 즉, 여러분께서 &#8220;filename.input&#8221; 이라는 입력 파일에 앞에서 작성한 subroutine을 &#8220;명령어 사용하듯&#8221; 적어두면, 이것이 perl script에서 읽혀서, &#8220;명령어를 해석하듯&#8221; 동작하게 됩니다.  

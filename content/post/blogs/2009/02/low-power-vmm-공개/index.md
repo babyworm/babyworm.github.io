@@ -25,8 +25,6 @@ Solvnet ID가 있으시다면 누구라도 여기(<http://www.vmmcentral.org/vmm
 
 저는 다운만 받고 아직 훓어보지도 못해서 no comment입니다. ^^; 
 
- 
-
 2. 
 
 Mentor가 OVM을 기반으로 VMM code를 지원하겠다고 발표했습니다. (실질적으로는 VMM의 function을 OVM 함수를 이용하여 구현한 것이겠습니다)  
@@ -34,13 +32,9 @@ VMM을 기반으로 작업했던 사람을 OVM으로 끌고 오겠다는 셈이�
 
 아래 posting에 댓글 달아주신 홍용재님의 글처럼, OVM은 e, SystemC로 지원할 계획을 가지고 있습니다. 대부분의 interface 함수를 공유하게 될 것이니, 기존의 작업은 그대로 둘 수 있고, e, SystemC를 HVL로 이용하여 모델링 하시던 분들을 역시 적극적으로 끌어들이겠다는 전략으로 해석됩니다. 
 
- 
-
 3. 
 
 드디어 simulation 가능한 툴이 생겨서 OVM을 좀 보고 있습니다. SystemVerilog의 Class를 참 잘 이용한 것 같습니다. 제가 평소에 하는 프로그래밍이라는 것이 대부분 모델링이라 보통 프로그래밍을 할 때 속도 문제로 OOP는 잘 사용하지 않는데(특히 virtual function의 경우 상당히 느려집니다), 걍 편하게 살자는 마음과 Verification에 한정하니 머리가 편해지는군요. OOP라는 것이 처음에 class design(실제적으로는 상속의 남발 ^^;) 잘못하면 낭패를 보는 경우가 많은데, 대부분의 코드가 공유될 때 편하긴 편하지요. 
-
- 
 
 4. 
 

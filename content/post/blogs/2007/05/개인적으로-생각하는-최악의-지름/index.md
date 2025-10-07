@@ -19,9 +19,6 @@ tags:
 &nbsp;  
 <TABLE cellSpacing=0 cellPadding=0 border=0>  
   
-
-
-  
 <TD class=lims align=middle width=300>[<IMG class=detail_image src="https://i0.wp.com/www.buyaudiotrak.co.kr/shopimages/gyrocom/0040020000042.jpg?w=240" border=0 data-recalc-dims="1">][1]</TD></TABLE>오디오트랙의 마야 5.1II-VE라는 넘인데 가격에 비해서 상당한 성능을 보여줍니다.  
 온보드보다는 더 또렷하고, 잡음이 줄어들어서 만족하고 쓰고 있었지요..  
 문제는, 사람의 욕심이란 끝이 없어서 이어폰을 바꾸면서 발생합니다. 음악 감상용 헤드폰으로 바꾸면서 발생합니다.  
@@ -46,20 +43,12 @@ tags:
 
 <TABLE cellSpacing=0 cellPadding=0 border=0>  
   
-
-
-  
 <TD class=lims align=middle width=300>  
 <TABLE cellSpacing=0 cellPadding=0 border=0>  
-  
-
-
   
 <TD class=lims align=middle width=300>[<IMG class=detail_image src="https://i0.wp.com/www.buyaudiotrak.co.kr/shopimages/gyrocom/0040020000052.jpg?w=240" border=0 data-recalc-dims="1">][3]</TD></TABLE>[<IMG class=detail_image src="https://i0.wp.com/www.buyaudiotrak.co.kr/shopimages/gyrocom/0040010000022.jpg?w=240" border=0 data-recalc-dims="1">][4]</TD></TABLE>
 
 끝으로, 아마도 많은 분들이 좋아하실 것이라 생각하는 델리스파이스의 &#8220;항상 엔진을 켜둘께&#8221;입니다. 
-
-
 
 요즘 악보 구해서 기타로 치고 있는데, 음.. 좋군요..
 

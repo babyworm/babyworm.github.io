@@ -26,7 +26,6 @@ PowerPC는 IBM이 RS/6600 미니 컴퓨터를 만든 기술을 기반으로 모�
 
 <img loading="lazy" decoding="async" class="alignright" src="power_logo.jpg">
 
-
 MPR에서도 IBM, freescale, 그리고 power architecture를 사용하는 마케팅 부서에서 좋아할 거라고 전한다.
 엠블럼은 뭬비우스의 띄를 이용하여 &#8220;P&#8221;를 나타낸거라네..
 

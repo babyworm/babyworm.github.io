@@ -21,7 +21,6 @@ tags:
 
 사랑 티켓이라는 좋은 제도를 이용해서, 싸게 볼 수 있는 방법도 있다고 하네요.. 자세한건 <A href="http://masil.biz/" target=_blank>극단 마실 홈페이지</A>를 참조하세요..
 
-
 ![달려라 달려 달달달의 삼청동 공연 포스터](featured_poster.jpg)
 
 두 번째 광고는 저희 회사의 신규사업부라는 곳에서 만든 건데요..^^;
@@ -32,7 +31,6 @@ tags:
 이번엔 <A href="http://dcinside.com/webdc/goods/review.php?pid=7101&cc1=60&cc2=0&cc3=0" target=_blank>DC inside에도 리뷰</A>가 되었더군요..
 신규 사업부 분들께서 여러가지고 고생하고 계시니 잘 되었으면 좋겠네요..
 
-
 세 번째는 Sima라는 곳에서 나온 hitch라는 넘인데..CES06에서 혁신상을 받았다고 하더군요.
 사실 저는 비지니스 감각이 없는지라 별로 혁신적인지 잘 모르겠는데.. (흠.. 혹시라도 회사의 높은 분들이 들으심 싫어하실지도..^^;) 사실 iPod 간의 copy 관련해서 이런 저런 이슈가 있나 봅니다.
 
@@ -41,6 +39,5 @@ tags:
 당시에는 POS 단말을 위한 설계였는데, 리눅스 포팅이되니 이곳 저곳에서 사용하는군요..
 
 역시 <A href="http://dcinside.com/webdc/goods/review.php?pid=7084&cc1=60&cc2=0&cc3=0" target=_blank>DC inside</A>에 <A href="http://dcinside.com/webdc/goods/review.php?pid=7084&cc1=60&cc2=0&cc3=0" target=_blank>리뷰</A>가 되어 있어서 함.. 적어봤습니다.
-
 
 그동안 &#8216;별 관계는 없더라도 회사의 다른 부서에서 하는 일인데, 광고 겸 함 적어봐야지&#8217; 하고 생각은 하고 있었는데.. 포스팅 할것이 없어 끄적여 봤습니다.

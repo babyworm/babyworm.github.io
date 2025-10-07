@@ -19,13 +19,9 @@ tags:
 
 <span style="font-size:10pt">예를 들어, IMF이후부터 내수 대신 수출이 먹여 살리고 있다는 건 다들 알고 있던 것인데, 그 원인 파악이 좀 이상하다는 거죠. 단기 내수 진작을 위해서 신용 카드를 활용하는 정책도 있었지만(어느 정도 효과가 있었다는 건 사실이지만, 개인 신용 문제나 가계 부채를 높이는 등의 부메랑이 되어 돌아온 정책입니다), 근 몇 년간 내수 부진의 이유는 부동산의 문제로 보는 것이 더 타당하지 않나 싶습니다. 예전에는 허리띠 죄고 몇 년 열심히 모으면 이라는 공식이 성립했다면, 이제는 허리띠 죄고 몇 년 열심히 모아도.. 수준이 되어가고 있으니, 그 기간 동안 허리띠 죄고있는 동안 소비를 할 수 없다는 것이 정설이겠지요. 이런 사정이니 내수가 살아나기 어렵죠. 뭐, 지금의 사태가 국내만의 문제가 아니란 건 당연한 거고, 위에서 이야기 했듯 국제 경기도 나빠서 수출도 잘 안되니 다른 나라들보다 좀 더 취약한 모습을 보이고 있는 것이겠지요.<br /> </span>
 
- 
-
 <span style="font-size:10pt">2.<br /> </span>
 
 <span style="font-size:10pt">이쪽 업계 사정으로 돌아와서 반도체 시장들의 매출이 상당히 암울하군요. ARM이 이번 분기 매출과 이익이 모두 증가하는 등 기염을 토한 반면, 대부분의 회사들이 적자를 기록했거나, 매출이 감소되었거나.. 뭐 그런 사정입니다. 예를 들어, STMicro <span style="color:black; font-family:Arial">$ </span>289 million, Atmel <span style="color:black; font-family:Arial">$ </span>4.7 million, Actel <span style="color:black"><span style="font-family:Arial">$1.37 million</span><span style="font-family:맑은 고딕">의</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">적자를</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">기록했고</span><span style="font-family:Arial">, Hynix</span><span style="font-family:맑은 고딕">도</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">상당한</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">적자를</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">기록한</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">것으로</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">알려져</span><span style="font-family:Arial"><br /> </span><span style="font-family:맑은 고딕">있습니다</span><span style="font-family:Arial">. </span></span>Fab에 있어서도 UMC 적자, SMIC 적자, Chartered는 TSMC에 팔린다는 루머도 있고, 업계 1위인 TSMC는 수익이 정체되어 있으며, Amkor는 수익 급락등등의 소식이 있습니다. 여기에, TI는 프랑스 지사의 감원과 CSR의 감원 소식도 있고요. 시장 조사 기관인 iSuppli 의 경우 부정적인 2009년 전망을 내놓았고, 대부분의 업계에서 2009년 전망을 어둡게 보고 있습니다[<a href="http://www.eetimes.com/rss/showArticle.jhtml?articleID=211601306&cid=RSSfeed_eetimes_newsRSS">링크</a>]. 원래 반도체 업계가 주기를 타기 때문에 어느 정도 불황을 예상했더라도 이것이 국제적인 불황과 맞물려서 그 정도가 심해지는 형태라 하겠습니다.<br /> </span>
-
- 
 
 <span style="font-size:10pt">3.<br /> </span>
 

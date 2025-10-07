@@ -21,35 +21,16 @@ tags:
 
 <TABLE id=Table_01 cellSpacing=0 cellPadding=0 width=600 align=center bgColor=#cccccc border=0>  
   
-
-
-  
 <TD height=277><IMG style="WIDTH: 600px; HEIGHT: 319px" height=307 src="https://i0.wp.com/218.38.34.168/mailform/synopsys/images/0412_01.jpg?resize=625%2C307" width=625 useMap=#Map3 border=0 data-recalc-dims="1"></TD>  
 
-
-  
-
-
-  
-
-
-  
 <TD height=41><IMG height=41 src="https://i0.wp.com/218.38.34.168/mailform/synopsys/images/0412_03.gif?resize=600%2C41" width=600 data-recalc-dims="1"></TD>  
 
-
-  
 <TD align=middle width=600 height=260>  
 <TABLE height="100%" cellSpacing=0 cellPadding=0 width=600 border=0>  
-  
-
-
   
 <TD width=7 bgColor=#b5b5b5>&nbsp;</TD>  
 <TD bgColor=#ffffff>  
 <TABLE cellSpacing=1 cellPadding=0 width=592 align=center bgColor=#ffffff border=0>  
-  
-
-
   
 <TD width=114 bgColor=#4e2683>  
 <DIV align=center><IMG height=23 src="https://i0.wp.com/218.38.34.168/mailform/synopsys/images/time.jpg?resize=105%2C23" width=105 data-recalc-dims="1"></DIV></TD>  
@@ -57,75 +38,46 @@ tags:
 <DIV align=center><IMG height=23 src="https://i0.wp.com/218.38.34.168/mailform/synopsys/images/session.jpg?resize=464%2C23" width=464 data-recalc-dims="1"></DIV></TD></TABLE>  
 <TABLE cellSpacing=1 cellPadding=5 width=590 align=center bgColor=#cccccc border=0>  
   
-
-
-  
 <TD align=middle width=103 bgColor=#eeeeee>09:00 ~ 09:20</TD>  
 <TD width=464 bgColor=#ffffff>Registration</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>09:20 ~ 09:30</TD>  
 <TD bgColor=#ffffff>Welcome</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>09:30 ~ 10:30</TD>  
 <TD bgColor=#ffffff>Synopsys Low-Power Solution Overview</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>10:30 ~ 11:00</TD>  
 <TD bgColor=#ffffff>Silicon-proven Low-Power Design Case Studies</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>11:00 ~ 11:15</TD>  
 <TD bgColor=#ffffff>Break</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>11:15 ~ 12:00</TD>  
 <TD bgColor=#ffffff>Advanced Low-Power Technology Overview</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>12:00 ~ 13:00</TD>  
 <TD bgColor=#ffffff>Lunch</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>13:00 ~ 14:15</TD>  
 <TD bgColor=#ffffff>Low-Power Design Tutorial including RTL Simulation and Synthesis,  
 Physical Implementation; Analysis and Signoff</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>14:15 ~ 14:30</TD>  
 <TD bgColor=#ffffff>Break</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>14:30 ~ 15:15</TD>  
 <TD bgColor=#ffffff>Low-Power Design Tutorial (cont.)</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>15:15 ~ 15:45</TD>  
 <TD bgColor=#ffffff>Low-Power Design Solution Demo</TD>  
 
-
-  
 <TD align=middle bgColor=#eeeeee>15:45 ~ 16:00</TD>  
 <TD bgColor=#ffffff>Conclusion and Prize Drawing</TD></TABLE></TD>  
 <TD width=7 bgColor=#b5b5b5>&nbsp;</TD></TABLE></TD>  
 
-
-  
 <TD align=middle><IMG style="WIDTH: 592px; HEIGHT: 162px" height=162 src="https://i0.wp.com/218.38.34.168/mailform/synopsys/images/0412_05.gif?resize=600%2C162" width=600 data-recalc-dims="1"></TD>  
 
-
-  
 <TD align=middle><IMG style="WIDTH: 592px; HEIGHT: 85px" height=86 src="https://i0.wp.com/218.38.34.168/mailform/synopsys/images/0412_06.gif?resize=600%2C86" width=600 useMap=#Map border=0 data-recalc-dims="1"></TD></TABLE><MAP name=Map><AREA shape=RECT target=\_blank alt=http://pass.postman.co.kr/Check.html?TV9JRD0xMzY3MDU5MDIw&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FQkFEMDM2MA==&UE9TVF9JRD0yMDA3MDMyODEwMDAwMDE2OTYxMA==&VEM9MjAwNzA0MDQ=&S0lORD1D&Q0lEPTAwMg==&URL=http://www.synopsys.com/news/events/seminars/lp\_sem.html coords=247,12,415,57 href="http://pass.postman.co.kr/Check.html?TV9JRD0xMzY3MDU5MDIw&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FQkFEMDM2MA==&UE9TVF9JRD0yMDA3MDMyODEwMDAwMDE2OTYxMA==&VEM9MjAwNzA0MDQ=&S0lORD1D&Q0lEPTAwMg==&URL=http://www.synopsys.com/news/events/seminars/lp_sem.html"></MAP><MAP name=Map3><AREA shape=RECT target=\_blank alt=http://pass.postman.co.kr/Check.html?TV9JRD0xMzY3MDU5MDIw&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FQkFEMDM2MA==&UE9TVF9JRD0yMDA3MDMyODEwMDAwMDE2OTYxMA==&VEM9MjAwNzA0MDQ=&S0lORD1D&Q0lEPTAwMw==&URL=http://218.38.34.168/mailform/synopsys/synopsys\_0421\_map.html coords=495,292,548,310 href="http://pass.postman.co.kr/Check.html?TV9JRD0xMzY3MDU5MDIw&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FQkFEMDM2MA==&UE9TVF9JRD0yMDA3MDMyODEwMDAwMDE2OTYxMA==&VEM9MjAwNzA0MDQ=&S0lORD1D&Q0lEPTAwMw==&URL=http://218.38.34.168/mailform/synopsys/synopsys\_0421_map.html"></MAP>
 
 Synopsys registration에 가서 보았더니, 이 세미나 이외에 5월 11일에 discovery 세미나가 잡혀있더군요. 거기에 VMM 세션이 있으니, 관심있으신 분은 참가하시면 되겠습니다. 해당 세미나도 곧 메일이 오겠지요..  

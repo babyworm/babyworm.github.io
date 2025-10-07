@@ -21,18 +21,9 @@ tags:
   이 포스팅은 DVCon07에서 <A href="http://www.deepchip.com/">ESNUG</A>의 John Cooley가 참석자 800여명을 <A href="http://www.deepchip.com/items/dvcon07-02.html">대상으로 조사한 </A>내용을 바탕으로 하고 있으므로, 전체 시장 점유율이나 비중을 반영한다고 이야기할 수는 없습니다. 하지만, DVCon에 참석하는 사람들이 각 사의 funcational verification을 담당하고 있는 사람이 대부분이라는 점에서 이쪽 분야의 &#8220;향후&#8221; 경향을 대변하는데는 부족함이 없을 것이라 생각됩니다.
 </DIV>
 
-  
-
-
 ### Verilog HDL이 대세다!
 
-  
-
-
 이 이야기는 제 Blog전반에 걸쳐서 몇번 이야기 했었습니다. HDL을 배우고 사용하는데 있어서 Verilog HDL이 대세라는 것이지요. John Cooley는 VHDL을 고수하는 업체는 미군과 계약하고 일하는 업체나 일부 유럽 회사밖에는 없다고 이야기합니다. (VHDL을 미국방부에서 만들었으니 아직도 이쪽에 납품하려면 써야 하나봅니다.)
-
-  
-
 
 <DIV style="BORDER-RIGHT: #cccccc 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #cccccc 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #cccccc 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #cccccc 1px dotted; BACKGROUND-COLOR: #f7f7f7">
   <br /> 
@@ -48,25 +39,13 @@ tags:
   </P>
 </DIV>
 
-  
-
-
 VHDL만 사용하는 사용자의 비율은 불과 4.0%에 불과하며, VHDL을 main으로 사용하는 사용자를 포함해도 전체의 20% 정도입니다.&nbsp; Verilog사용자의 경우 VHDL을 사용하는 가장 큰 이유로 &#8220;기존에 있던 코드 때문에(legacy code)&#8221;라는 답변이 대부분입니다. 
-
-  
-
 
 더욱 재미있는 것은 ^^; 이런 Mixed simulation을 사용할 때 사용하는 툴이 (이 응답에서는) 대부분 <A href="http://www.model.com/" target=_blank>Modelsim</A>이라는 점입니다. (modelsim이 주력 시뮬레이터는 아니구요.) Modelsim에게는 조금 위협적인 이야기가 되겠지요. 지금의 market share가 대부분 legacy code에 의한 것이라면 점차 legacy code의 사용이 줄어들면서 Modelsim의 입지도 줄어들 가능성이 있으니까요.
 
 ### VCS의 약진!
 
-  
-
-
 전반적으로 functional 전 개인적으로 Simulator부분에 있어서 {{< wikipedia "cadence design system" >}}의 NCsim series보다 {{< wikipedia "Synopsys" >}} VCS series가 이 정도의 market share를 차지한다는 것에 놀라움을 느낍니다. 다시 한번 말씀드리듯이 DVCon은 {{< wikipedia "functional verification " >}}engineer을 대상으로 하므로, 현재 상황이라기 보다 미래의 상황을 더 나타낸다고 보고 있으니, 더 놀라운 것입니다. 
-
-  
-
 
 <DIV style="BORDER-RIGHT: #cccccc 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #cccccc 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #cccccc 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #cccccc 1px dotted; BACKGROUND-COLOR: #f7f7f7">
   <FONT face="'courier new',courier,monospace">&nbsp;&nbsp; &nbsp;Cadence NC-Sim : ######################## 24.3% <br />&nbsp; &nbsp; &nbsp; &nbsp; NC-Verilog : ################## 18.0% <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Verilog-XL : # 0.7% <br />&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NC-VHDL : # 1.1% </FONT><br /> 

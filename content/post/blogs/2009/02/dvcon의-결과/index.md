@@ -40,7 +40,6 @@ SystemVerilog가 검증 언어로서 각광 받는 이유는 verilog로 부터 �
 제 개인적으로 VMM은 좀 툴에 대해서 까다로워서 원래 좀 그랬고, Teal/Truss는 PC에서 돌리기 힘들어서 확산은 힘들것 같았고..(게다가 PLI/DPI 기반이라는 건 컴파일 할때 험난한 여정을 의미하죠..뭐 <STRIKE>system verilog </STRIKE>SystemC<span class="footnote_referrer"><a role="button" tabindex="0" onclick="footnote_moveToReference_1367_349('footnote_plugin_reference_1367_349_1');" onkeypress="footnote_moveToReference_1367_349('footnote_plugin_reference_1367_349_1');" ><sup id="footnote_plugin_tooltip_1367_349_1" class="footnote_plugin_tooltip_text">[1]</sup></a><span id="footnote_plugin_tooltip_text_1367_349_1" class="footnote_tooltip">어짜다 SystemVerilog라고 쓴건지 모르겠네요 ^^;</span></span>도 마찬가지지요.. 이런 C/C++ 기반의 방법들은 gcc 버전에 민감하게 만들어지면 고생길이 열립니다..특히 C++과의 연결은.. )..  
 여하튼 생각보다 OVM이 지지를 많이 받고 있군요.. 시뮬레이션에 많이 사용되는 cadence와 mentor의 연합이니 그럴 수 있겠다는 생각이 (반면에 약간 툴 버젼을 가리는 것은 아깝습니다. &#8211; 물론 지원되는 system verilog 문법 때문에 어쩔 수 없겠습니다만..)  
   
-  
 p.s.  
 2월 들어 첫 딸 돌잔치 준비를 열심히 하느라 집에서 블로그에 들어올 시간이 없었습니다. ^^;  
 돌 사진 찍은 거 보정하는 것과 성장 동영상 만드는 것을 미뤄두고 있다가 2월 내내 꼬박 퇴근 후 시간을 투자해야 했으니까요.  

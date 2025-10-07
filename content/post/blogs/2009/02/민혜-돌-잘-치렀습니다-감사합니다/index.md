@@ -16,7 +16,6 @@ categories:
 
 <DIV align=center><a href="http://babyworm.net/wordpress/wp-content/uploads/1/TW6uKeNa6Fs$" http://cfs3.flvs.daum.net/files/46/34/49/25/17759182/thumb.jpg />TW6uKeNa6Fs$</a>  
 
-
 <DIV style="TEXT-ALIGN: left">
   <br />아직 돌 행사 사진이 안나와서, 행사 사진은 나중에 올리도록 하겠습니다. 대신 민혜 성장 동영상을 올립니다.<br />만들면서 이런 저런 생각이 많이 들더군요. </p> 
   

@@ -13,8 +13,6 @@ tags:
 ---
 [EDA design line에서 선정한 2008년 가장 인기 있었던 설계 관련 article들][1] 
 
- 
-
 <ul style="margin-left: 40pt">
   <li>
     <a href="http://www.edadesignline.com/howto/212300376"><span style="font-family:Arial; font-size:8pt">Algorithmic synthesis for video post-processor design</span></a>

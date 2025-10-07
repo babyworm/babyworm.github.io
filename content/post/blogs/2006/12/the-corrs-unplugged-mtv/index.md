@@ -31,5 +31,4 @@ Corrs 라는 그룹이 있지요.
 
 아주 좋아하지는 않던 음악, 그냥 듣던 음악을 별것 아닌 계기로 좋아하는 경우가 있습니다. The Corrs의 음악에 있어서는 어제 unplugged MTV 영상을 본 것이 그런 계기인듯 하네요..
 
-  
 [Unplugged MTV것은 없어서 대신 올리는 Corrs의 Runaway 입니다. ]

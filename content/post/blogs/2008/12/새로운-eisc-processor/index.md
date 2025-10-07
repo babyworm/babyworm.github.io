@@ -13,10 +13,7 @@ tags:
 ---
 저희 팀에서 이번에 새로 만든 EISC processor인 Empress에 대한 기사가 많이 나오고 있습니다. 단신을 제외하고도 꽤 많이 나왔군요. 
 
- 
-
-<div>
-  <table style="border-collapse:collapse; background: #dbe5f1" border="0">
+<table style="border-collapse:collapse; background: #dbe5f1" border="0">
     <colgroup> <col style="width:637px"/></colgroup> <tr>
       <td style="padding-left: 7px; padding-right: 7px; border-top:  solid black 0.5pt; border-left:  solid black 0.5pt; border-bottom:  solid black 0.5pt; border-right:  solid black 0.5pt">
         <ul style="margin-left: 40pt">
@@ -39,10 +36,6 @@ tags:
       </td>
     </tr>
   </table>
-</div>
-
- 
-
 일단 정말 승질 머리 디러운 팀장의 강력한 태클과 갈굼을 이겨내고 좋은 결과를 거둔 팀원들에게 최고의 찬사를 보내고 싶습니다. 짝짝짝~! (제가 그 팀을 알아서 하는 이야긴데, 제가 그 팀장 밑에 있었으면 아마 회사 때려쳤을 겁니다. ㅋㅋㅋ) 
 
 여하튼, 새로운 프로세서에 많은 관심이 보여지고 있다는 점에서 상당히 기쁘긴 하지만, 대부분의 기사가 속도에 방점을 찍는 관점에서 많이 기술되어 있다는 점은 약간 아쉬운 점이지요. 사실 속도를 높이는데 여러 가지 요인이 있겠지만, 마이크로 아키텍쳐적인 접근을 제외한다면, 가장 중요한 것이 좋은 공정 + 좋은 cell library + 좋은 macro block을 사용하는 것이 중요합니다. 근데, 저희는 그다지 큰 회사가 아닌 관계로 좋은 공정은 물론이요 좋은 cell library(고속 cell library는 따로 비용 청구가 되지요)나 좋은 macro(특히 cache tag에 사용되는 CAM이 아닌 일반 High density single port SRAM을 사용하게 되면 속도차이가 심하죠..)를 사용하는 것이 비용의 문제로 쉽지 않다고 인식하고 있습니다. 따라서, 속도는 마이크로 아키텍쳐에서 할 수 있는 수준까지만 잡아놓자는 것이 저의 일관된 접근 방법입니다. 

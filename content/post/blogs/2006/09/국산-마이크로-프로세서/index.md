@@ -61,9 +61,7 @@ tags:
   </figurecaption>
 </figure>
 
-
 첫번째는 삼성의 calmRISC입니다. 지금은 조용히 사장되었습니다만, 삼성 특유의 공격적인 투자로 좋은 출발을 했었습니다. 삼성 전자 공정 특유의 저전력 소모라던지.. 몇몇 연구실과 연계해서 캐쉬 구조나 컴파일러, OS모두 좋은 방향으로 가고 있었습니다만.. 너무 특색없는 RISC였던것이 문제였던것 같습니다.
-
 
 개발환경도 너무 과하게 큰 BDM기반의 기술을 채택했구요..
 현재는 이름만 남아 있는듯 합니다만, 빨리 되살아나길 바랍니다.
@@ -78,7 +76,6 @@ tags:
 SystemIC 2010 첫 성과 발표회때 썼던 EISC 프로세서 Flag.
 </figurecaption>
 </figure>
-
 
 <figure>
   <img loading="lazy" decoding="async" src="amazon.gif">

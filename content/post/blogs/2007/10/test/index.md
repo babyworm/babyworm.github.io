@@ -13,13 +13,7 @@ IBM PC에서 처음 해본 [Ultima][2](아마도 UltimaIV가 아닌가 생각되
 
 데비깁슨 CD에서 bonus cut으로 들어있던, 어쿠스틱 기타로만 연주되었던 [We Could be together][3]를 가장 좋아했었는데, 생각보다 찾기 쉽지 않네요.. 그냥 live 버전입니다. (흠.. 생각해보니 데비 깁슨의 동영상은 지금까지 이것이 첨보는 것 같아요 ^^; 음악을 듣기만 좋아해서..)
 
-
-
 [Debbie Gibson][4]의 대표곡중의 하나지요. [Lost in your eyes][5]입니다.
-
-
-
-
 
 참고적으로 적어두자면, [Zoundary Blow Writer][6]에서 <a href="http://youtube.com/" target="_blank">Youtube</a> 동영상 삽입은 그냥 XHTML 모드로 가서 코드를 넣기만 하면 되는군요. 음.. 편하네요
 

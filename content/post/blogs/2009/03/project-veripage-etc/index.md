@@ -27,7 +27,6 @@ x = {>>{v,w}};
 y = {<<3{x}};  
 z = {>>{y,t}};  
   
-  
 SystemVerilog를 써 보신 분들은 보신 적이 있으실 streaming concatenation 연산입니다.  
 간단히 설명드리면, 병합 연산을 수행하되 << 는 병합 순서에 있어서 right-to-left로, >>는 left-to-right로 병합하라는 연산이지요.  
 <<N{}은 N단위로 블록을 잡으라는 의미이구요.  
@@ -35,7 +34,6 @@ SystemVerilog를 써 보신 분들은 보신 적이 있으실 streaming concaten
 저는 합성해야 할 코드는 호환성 문제를 고려해서 verilog95-가끔 2001 문법도 씁니다만-를 사용하고, 이런 귀찮은 assign은 vi의 매크로를 사용합니다만, 검증만 목적으로 하는 모델링에는 편하겠죠.  
   
 여하튼, 그래서 답이 어떻게 될까요? ㅎㅎ  
-  
   
 2.  
 Veripage를 오랫만에 가보니 검증 관련 책 추천이 새롭게 많이 되어 있더군요. <http://www.project-veripage.com/books.php>&nbsp;참고해보세요.  
@@ -83,6 +81,5 @@ c000005a: &nbsp; &nbsp; &nbsp; 08 30 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; stb &nbs
   
 ldi은 load immediate, jal 은 call과 동일하고, st는 store, lea는 레지스터간의 move, addq는 add immediate입니다.&nbsp; (stb는 store byte이구요)  
 본문에 나왔듯이 캐시 효율로 봐도 이넘이 더 좋을 듯..  
-  
   
 쓰고나서 덧글) 테터에서 코드 하일라이트 기능이 엉켰는지 짜증 지대로.. ㅠㅠ;</SPAN>

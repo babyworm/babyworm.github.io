@@ -11,7 +11,6 @@ categories:
 
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/jk140000000000.JPG?resize=625%2C416" class="aligncenter" width="625" height="416" alt="사용자 삽입 이미지" data-recalc-dims="1" /> 
 
-  
 가장 잘 나온 사진은 바로 이것..  
 회사 후배가 찍어준 곰돌이 사진이지요. 누가 곰돌이인지 모를 정도로 잘 나왔습니다. (클릭하면 좀 더 커집니다)  
 <img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/jk140000000002.JPG?w=625" class="aligncenter" data-recalc-dims="1" /><img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/jk140000000003.JPG?w=625" class="aligncenter" data-recalc-dims="1" /><img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/hk140000000002.JPG?w=625" class="aligncenter" data-recalc-dims="1" /><img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/hk140000000000.JPG?w=625" class="aligncenter" data-recalc-dims="1" /><img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/jk140000000001.JPG?w=625" class="aligncenter" data-recalc-dims="1" /><img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/hk140000000001.JPG?w=625" class="aligncenter" data-recalc-dims="1" />  

@@ -15,10 +15,8 @@ tags:
 
 **<FONT size=1>  
 
-
 ### ****<FONT size=3>Energy Efficient</FONT>**</H7>**</FONT>**현재 microprocessor 개발에 있어서 ({{< wikipedia "EISC" >}}나 {{< wikipedia "ARM" >}}같은 embedded microprocessor에 한정하지 않더라도) 가장 중요한 목표가 무엇이겠습니까?
 
-  
 아마도 energy-efficient 가 아닐까 생각합니다.  
 생각보다 많은 분들이 저전력 (low power)프로세서와 에너지 효율이 높은(energy-efficient) 프로세서를 혼용하여 사용하시는데, 사실은 약간 차이가 있습니다. 
 

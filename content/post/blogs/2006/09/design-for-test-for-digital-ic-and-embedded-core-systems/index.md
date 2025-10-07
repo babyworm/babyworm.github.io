@@ -10,7 +10,6 @@ tags:
   - SoC Design
 
 ---
-
 ## Design for Test: for Digital IC and Embedded Core Systems
 
 [<img loading="lazy" decoding="async" class="alignnone" title="Design-For-Test For Digital IC's and Embedded Core Systems [Paperback]" src="https://i0.wp.com/ecx.images-amazon.com/images/I/51K5QBX84EL._SL500_AA300_.jpg?resize=300%2C300" alt="" width="300" height="300" data-recalc-dims="1" />][1]

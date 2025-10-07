@@ -54,10 +54,7 @@ Cygwin1.7이 깔려 있는 것을 가정하고 말씀 드리죠.
 
 여기에 써 있는 것과 같이 레지스트리에 cygwin의 파일 정보를 써 넣어줍니다. <http://dreamlayers.blogspot.com/2010/01/eclipse-incompatibility-with-cygwin-17.html> . cygwin에서 예전에는 레지스트리를 통해서 파일 위치에 대한 정보를 전달했는데, cygwin 1.7에서는 mount를 이용하는 방법으로 변경되면서 이 레지스트리가 사라졌다고 합니다. CDT에서 이 부분을 못 찾는 거죠.
 
-<div>
-  수행을 위한 방법
-</div>
-
+수행을 위한 방법
   1. 위와 마찬가지로 RSE를 설치하시고 windows에서 eclipse를 수행시키세요. 끝. 가끔(많이?) 디버깅이 안되고 thread가 죽을 때가 있습니다. (저만 그런지도.. )
   2. cygwin상에서 eclipse를 수행시키세요. compile과 debugging이 쉽게 이루어지는데, 중간 중간 귀찮은 일이 생깁니다. 
   1. cygwin상의 directory와 윈도우의 directory 이름이 달라서 디버깅시에 소스를 찾을 수 없는 경우가 있는데, windows->preference->C/C++->Debug->Common Source Lookup Path에 가서 Add Path Mapping에서 /cygdrive/c/ &#8230; 이렇게 되어 있는 것을 c:\라고 주시면 됩니다. 

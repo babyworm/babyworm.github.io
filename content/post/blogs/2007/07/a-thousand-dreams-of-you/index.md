@@ -13,8 +13,6 @@ categories:
 그리고, 그 동안 방문하지 못했던 여러 blog들을 둘러보다 현욱님의 billy joel의 paino man을 듣고 있자니 이 곡이 떠올랐습니다.  
 예전에 billy joel의 paino man과 장국영의 thound dreams of you를 같은 테이프에 넣어두고 들어서 그런지 모르겠습니다. 
 
-
-
 지금은 고인이 된 장국영도 다른 곳에서 잘 지내고 있길 바랍니다. 
 
 듣고 있자니, 베리 메닐로우도 생각이 났습니다.  
@@ -29,7 +27,6 @@ categories:
 
 <PARAM NAME="wmode" VALUE="transparent" />
 
-  
 </OBJECT>
 
 그나마 찾은 노래는 Mandy라는 노래라네요.. 근데.. 실은 들어보면 뒷부분에는 다른곡 (it could be a magic이란 곡 같은데.. 곡명이 제대로 기억나지는 않는군요..)으로 끝나는군요..  

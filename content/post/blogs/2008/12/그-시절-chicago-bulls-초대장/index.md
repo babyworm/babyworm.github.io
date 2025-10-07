@@ -15,11 +15,7 @@ tags:
 
 Picasa를 이용해서 이리 저리 둘러보다 발견한 그림. 
 
- 
-
 <img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile23.uf.205DE24F4D6A7B012F172C.jpg?w=625" alt="" data-recalc-dims="1" /> 
-
- 
 
 한창 NBA 붐이 일어났던 그 시절.. [Chicago Bulls][1]. 최고의 팀. 
 
@@ -28,8 +24,6 @@ Picasa를 이용해서 이리 저리 둘러보다 발견한 그림.
 올랜도 매직, 시애틀 슈퍼 소닉스와의 결승도 재미있었지만, 가장 재미있던 경기는 아무래도 재즈와의 경기였지 않았나 싶어요. 극적이기도 하고.. 나중에 youtube에서 찾으면 link하도록 하죠. 
 
 또 보고 싶네요. 
-
- 
 
 2. 
 
@@ -45,10 +39,6 @@ Picasa를 이용해서 이리 저리 둘러보다 발견한 그림.
 </ul>
 
 e-mail 주소도 소중한 정보니까, 필요하시다면 비밀글로 써주세요 
-
- 
-
- 
 
 3. 
 

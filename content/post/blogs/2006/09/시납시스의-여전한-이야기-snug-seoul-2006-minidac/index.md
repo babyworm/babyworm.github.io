@@ -22,7 +22,6 @@ HDL을 이용해서 로직을 설계하고, 비메모리 반도체 만드는 사
 
 <img loading="lazy" decoding="async" src="galaxy.jpg">
 
-
 시납시스에서는 Galaxy Design Platform을 표방하고, 로직 합성과 physical synthesis, P&R 과정을 하나의 플랫폼으로 동일한 DB를 묶는 큰 과정을 벌이고 있습니다.
 
 이러한 과정은 예정되어 있던 수순이라고 할수 있는데, 좀 아쉬운 면이 있습니다.
@@ -49,7 +48,6 @@ SCV를 필두로 cadence의 영향력이 systemC에 커지는 것이 별로 보�
 사실 miniDAC에 가면 선/후배들을 볼 기회가 많아서 오랫만에 사람보는 재미도 있고 합니다.
 
 오늘의 miniDAC에서 생긴 수익은&#8230;바로.. 이겁니다.
-
 
 <div style="width: 510px" class="wp-caption aligncenter">
   <img loading="lazy" decoding="async" src="targus_back.jpg" width="500" height="500" alt="" data-recalc-dims="1" />

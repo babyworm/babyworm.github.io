@@ -78,7 +78,6 @@ void cosim_register_hello() {
 
 void (*vlog_startup_routines[])() = {cosim_register_hello, 0}
 
-
 </pre>
 
 별 내용은 없고, 그냥 verilog code에서 cosim_hello()를 호출하면 loop돌면서 값을 출력하는 예제입니다.

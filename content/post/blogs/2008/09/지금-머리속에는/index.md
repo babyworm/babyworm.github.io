@@ -15,8 +15,6 @@ blog에 글을 쓰고는 싶은데, 일부는 회사 보안에 걸릴 문제인 
   
 cheers! shallow babyworm!  
   
-
-
 <div style="width: 360px" class="wp-caption aligncenter">
   <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile22.uf.15111D534D6A7AF903595C.jpg?resize=350%2C262" width="350" height="262" alt="사용자 삽입 이미지" data-recalc-dims="1" />
   

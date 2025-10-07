@@ -15,7 +15,6 @@ tags:
 오늘 제가 낚인 기사는  
 **<span style="font-size: large;"><br /> &#8220;노대통령 &#8216;고이즈미 대화제의 거부&#8217; 해프닝&#8221;<!--e_article_title--></span>**
 
-  
 <http://www.chosun.com/politics/news/200609/200609090195.html>
 
 제목보고, 노대통령 또 가볍게 뭔가 말을 했나보군.. 그랬다가 찌라시가 달려드니 뭔가 철회했나보다..  

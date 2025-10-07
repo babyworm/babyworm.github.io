@@ -29,53 +29,24 @@ Metastable을 피하는 가장 머리가 편한 방법은 2개의 F/F을 직렬�
 
 VerilogXL이나 NCverilog에서는 다음과 같은 명령이 있습니다. (Modelsim은 안써봐서 모르겠습니다.)
 
-<div>
-  <table style="border-collapse: collapse; background: #fbd4b4;" border="0">
+<table style="border-collapse: collapse; background: #fbd4b4;" border="0">
     <colgroup> <col style="width: 637px;" /></colgroup> <tr>
       <td style="padding-left: 7px; padding-right: 7px; border: solid black 0.5pt;">
         $disable_warnings(&#8220;timing&#8221;, hierarchy_path);
       </td>
     </tr>
   </table>
-</div>
-
 &nbsp;
 
 잠시 구글링 해보니 Modelsim에서는 다음과 같이 하면 되는 군요.
 
-<div>
-  <table style="border-collapse: collapse; background: #fbd4b4;" border="0">
+<table style="border-collapse: collapse; background: #fbd4b4;" border="0">
     <colgroup> <col style="width: 637px;" /></colgroup> <tr>
       <td style="padding-left: 7px; padding-right: 7px; border: solid black 0.5pt;">
         tcheck –off hierarchy_path
       </td>
     </tr>
   </table>
-</div>
-
 &nbsp;
 
 실제적으로 사용할 때는 synchronizer에 대하여 timing체크를 안하도록 하는 명령을 disable\_path같은 곳에 주욱 나열하고 필요한 경우에 include해서 사용하는 거죠. 사실 이 disable path list는 false\_path 잡을 때도 사용이 되겠지요.
-
-<div>
-  <table style="border-collapse: collapse; background: #fbd4b4;" border="0">
-    <colgroup> <col style="width: 637px;" /></colgroup> <tr>
-      <td style="padding-left: 7px; padding-right: 7px; border: solid black 0.5pt;">
-        `ifdef TIMING_SIM</p> 
-        
-        <p>
-          `include &#8220;disable_path.v&#8221;
-        </p>
-        
-        <p>
-          `endif</td> </tr> </tbody> </table> </div> 
-          
-          <p>
-            &nbsp;
-          </p>
-          
-          <p>
-            상당히 간단한 TIP입니다만, 모르면 고생하는 그런 내용이죠. ^^;
-          </p>
-
- [1]: http://babyworm.net/wordpress/?p=150

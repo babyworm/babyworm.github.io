@@ -15,5 +15,4 @@ categories:
   
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile3.uf.145AFE474D6A7AED25E107.jpg?resize=400%2C297" class="aligncenter" width="400" height="297" alt="사용자 삽입 이미지" data-recalc-dims="1" /> 
 
-  
 몇 가지 덧붙임: 몽실이 이름은 민혜(旻暳)로 결정했습니다. 가을하늘 민, 볓 빛날 혜.. 가을 하늘에 빛나는 별과 같은 아이가 되길 바라면서 지었습니다. 🙂

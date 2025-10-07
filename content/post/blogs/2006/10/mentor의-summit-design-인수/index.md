@@ -33,7 +33,6 @@ summit design은 2000년도에 이미 시스템 디자인을 위한 virtual CPU�
 
 단지.. HDL entry툴이라는 것이 text editor와의 싸움에서 비참하게 패배했다는 것이 문제겠지요..(entry가 아닌 분석 및 document용으로 아직도 가끔은 씁니다..)  
 
-
 <div style="width: 592px" class="wp-caption aligncenter">
   <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile1.uf.11613D4F4D6A7AA1251A70.gif?resize=582%2C589" width="582" height="589" alt="" data-recalc-dims="1" />
   
@@ -42,7 +41,6 @@ summit design은 2000년도에 이미 시스템 디자인을 위한 virtual CPU�
   </p>
 </div>
 
-  
 딴 이야기로 흘렀군요..
 
 맨토에서 summit design을 얼마에 인수했는지 알려지지는 않았습니다만, System Level design쪽에서 GUI 기반의 툴이 상당히 창궐하는 분위기에 적절하게 mentor에서 summit을 인수해서 이런 분위기가 더 힘을 받을 것이라 생각되는 군요. 
