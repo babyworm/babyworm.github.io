@@ -7,7 +7,6 @@ categories:
   - 책이야기
 
 ---
-<img decoding="async" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788987976624.jpg" width = 200  />
 
 책을 먼저 본 것이 아니라 HBO 드라마 Song of Ice and fire: The Game of Thrones(<http://www.hbo.com/game-of-thrones/index.html>)을 보고 나서 원작이 있다는 말에 본 책입니다.&nbsp;
 드라마의 이번 시즌은 책의 1부에 해당하는 내용이더군요.&nbsp;
@@ -15,6 +14,9 @@ categories:
 사실은 인터넷에서 4부 번역 수준에 대한 이야기를 너무 많이 들어서.. 주저 하다가, 4부 앞부분의 대략 200페이지 정도 읽고나서 용어(!)가 너무 달라져서 나중에 나올 번역을 기다리고 있습니다. (출판사에서 다시 교정해서 출간한다더군요..)
 사실 이 시리즈 자체에 대한 번역 문제는 꾸준히 제기되고 있습니다. 특히 인물의 캐릭터가 바뀔만한 부분이 몇 군데 있어서 문제가 있기는 하죠..
 요즘에는 틈틈히 영어판을 kindle로 읽고 있는데, 이 소설의 특성상 크게 놓지지 않고 따라갈 수는 있더군요..&nbsp;
+
+<img decoding="async" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788987976624.jpg" width = 200  />
+
 
 일단 이 책은 서사기와 같은 느낌의 소설이라서, 반지의 제왕을 좋아하셨던 분들이라면 크게 무리 없이 다가가실 수 있겠습니다.&nbsp;
 그렇다고 너무 진행이 느린 것은 아니고, 어느 정도 읽는 재미를 느낄 수 있는 리듬을 갖춘 책이라 봅니다.&nbsp;

@@ -20,6 +20,8 @@ tags:
 ## Kindle DX
 Kindle DX는 작년에 구매했는데, 정말 어렵게 손에 넣었습니다.
 
+<img src="featured_kindle_dxg.webp">
+
 Kindle 3의 경우 국외 배송을 해주는데, Kindle DX의 경우 Amazon 홈페이지에서는 국외 배송되는 link가 없어서(지금은 있나요?) 구매 대행을 해야 하나 말아야 하나.. 하는 고민 중에 네이버 전자책 카페에서 국외 배송되는 link를 알게되어서 구매할 수 있게되었습니다.
 
 

@@ -100,14 +100,14 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
   showSummary = true
   showTableOfContents = true
   showCards = false
-  orderByWeight = true
-  groupByYear = false
+  orderByWeight = false
+  groupByYear = true
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
   # Missing list parameters
   # showViews = false
-  # showLikes = false
+  showLikes = false
 
 [taxonomy]
   showTermCount = true
