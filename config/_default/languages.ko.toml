@@ -18,7 +18,8 @@ title = "Babyworm's Tech & Personal Blog.."
   email = "babyworm@gmail.com"
   image = "/images/babyworm.jpg"
   # imageQuality = 96
-  headline = "Silicon IP Architect"
+  headline = "Silicon IP Architect.. Processor, Codec, On-Chip Interconnect"
+  # headline = "{{< typeit lifeLike=true >}}Silicon IP Architect{{< /typeit >}}"
   bio = "Lazy, curious, and pragmatic."
   links = [
     { linkedin = "https://www.linkedin.com/in/hyungyu-ethan-kim/" },

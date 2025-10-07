@@ -16,7 +16,7 @@ tags:
 **<FONT size=1>  
 
 
-### ****<FONT size=3>Energy Efficient</FONT>**</H7>**</FONT>**현재 microprocessor 개발에 있어서 ([wp]EISC[/wp]나 [wp]ARM[/wp]같은 embedded microprocessor에 한정하지 않더라도) 가장 중요한 목표가 무엇이겠습니까?
+### ****<FONT size=3>Energy Efficient</FONT>**</H7>**</FONT>**현재 microprocessor 개발에 있어서 ({{< wikipedia "EISC" >}}나 {{< wikipedia "ARM" >}}같은 embedded microprocessor에 한정하지 않더라도) 가장 중요한 목표가 무엇이겠습니까?
 
   
 아마도 energy-efficient 가 아닐까 생각합니다.  

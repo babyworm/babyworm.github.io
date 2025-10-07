@@ -34,14 +34,14 @@ categories:
 </div>
 
 <div>
-  <a href="http://picasaweb.google.co.kr/lh/photo/6r_Z1gPrJ7QeOKon88XMtw?authkey=Gv1sRgCJ6mzMbQl-ilQQ&feat=embedwebsite"><img decoding="async" src="https://i0.wp.com/lh4.ggpht.com/_21F8AiqPShY/Smr96S9Q8yI/AAAAAAAAGF8/V0RCLYL_uFE/s800/DSC_5356.JPG?w=625" data-recalc-dims="1" /></a><br /> 이날은 7월 17일. 민혜가 처음으로 혼자 신을 신은 날..&nbsp;
+  <img decoding="async" src="DSC_5356.webp" data-recalc-dims="1" /><br /> 이날은 7월 17일. 민혜가 처음으로 혼자 신을 신은 날..&nbsp;
 </div>
 
 <div>
 </div>
 
 <div>
-  <a href="http://picasaweb.google.co.kr/lh/photo/NtHe-9zg4ST3vny77b5LeQ?authkey=Gv1sRgCJ6mzMbQl-ilQQ&feat=embedwebsite"><img decoding="async" src="https://i0.wp.com/lh3.ggpht.com/_21F8AiqPShY/Smr96iHmB9I/AAAAAAAAGGA/a6btJp994T0/s800/DSC_5358.JPG?w=625" data-recalc-dims="1" /></a><br /> 신을 꺼꾸로 신었어도 만세~
+  <img decoding="async" src="DSC_5358.webp" data-recalc-dims="1" /><br /> 신을 꺼꾸로 신었어도 만세~
 </div>
 
 <div>
@@ -50,10 +50,11 @@ categories:
 <div>
 </div>
 
-<div>
-  8월 15일 민혜는
-</div>
+<details>
+<summary>8월 15일 민혜는</summary>
 
-<div>
-  [#M_더보기|접기|17개월 29일 (내일이면 18개월)<br /> 몸무게: 10.3Kg<br /> 키: 81.5cm_M#]
-</div>
+<!-- summary 아래 한칸 공백 두어야함 -->
+- 17개월 29일 (내일이면 18개월)
+- 몸무게: 10.3Kg
+- 키: 81.5cm
+</details>

@@ -16,12 +16,12 @@ tags:
 ---
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile2.uf.112C93504D6A7AA13F38CE.jpg?resize=235%2C177" class="alignright" width="235" height="177" alt="" data-recalc-dims="1" />우와~! 오늘 mentor graphics가 summit design을 인수했습니다. 
 
-[wp]Mentor Graphics[/wp]는 뭐 다 아시다시피 EDA업계의 number3 이죠..^^; (누가 넘버 쓰리래~! 넘버 투지.. 라고 멘토 다니는 제 친구는 이야기할지 모르겠지만, 작년 매출상에서 넘버 쓰리 맞습니다&#8230;여하튼)  
+{{< wikipedia "Mentor Graphics" >}}는 뭐 다 아시다시피 EDA업계의 number3 이죠..^^; (누가 넘버 쓰리래~! 넘버 투지.. 라고 멘토 다니는 제 친구는 이야기할지 모르겠지만, 작년 매출상에서 넘버 쓰리 맞습니다&#8230;여하튼)  
 Mentor의 (실질적인) 대표적인 툴로는 calibre, FPGA advantage, Modelsim등이 있는데, 아마도 modelsim이 front-end 설계자들 사이에서는 가장 유명할테구요.. 실질적으로 돈이 되는 분야는 calibre라고 들었습니다.
 
 여하튼&#8230; 다시 돌아와서..  
 Mentor의 요즘 행보를 보면 system level design & verification에 아주 집중하고 있는 모습을 보여주고 있습니다.  
-여러가지 [wp]systemC[/wp]와 [wp]SystemVerilog[/wp]기반의 platform들을 연이어 출시하고 있구요..(지난 posting에서 잠시 소개해 드렸던 AVM도 있습니다만..) 투자도 열심인 듯 하더군요.
+여러가지 {{< wikipedia "systemC" >}}와 {{< wikipedia "SystemVerilog" >}}기반의 platform들을 연이어 출시하고 있구요..(지난 posting에서 잠시 소개해 드렸던 AVM도 있습니다만..) 투자도 열심인 듯 하더군요.
 
 그러더니만&#8230; 역시 system level design & verification 부분에서 걸출한(그러나 국내에는 참 안알려진) summit design을 인수 했습니다.  
 summit design은 2000년도에 이미 시스템 디자인을 위한 virtual CPU라는 툴과 visual Elite라는 툴을 출시했으니, 시스템 설계/검증 부분에서는 아주 오래된 기업입니다. 

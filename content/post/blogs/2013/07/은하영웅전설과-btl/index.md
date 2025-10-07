@@ -3,10 +3,8 @@ title: 은하영웅전설과 BTL
 author: babyworm
 type: post
 date: 2013-07-08T14:37:41+00:00
-bfa_virtual_template:
-  - hierarchy
+
 categories:
-  - Uncategorized
   - 책이야기
 
 ---
@@ -14,11 +12,11 @@ categories:
 
 &nbsp;
 
-1. 은하영웅전설
+## 은하영웅전설
 
-<img loading="lazy" decoding="async" class="alignnone" alt="" src="http://image.yes24.com/goods/5455954/L" width="398" height="240" /> 
+<img loading="lazy" decoding="async" class="alignnone" alt="" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788926770368.jpg" width="398" height="240" />
 
-이 책은 기억이 흐릿하지만, 93년에 권우 방에서인가 은하영웅전설을 읽었던 기억이 있다. 아마도 휴가나와서 보지 않았나 싶다. 이 책을 다시 읽기 전까지 가장 기억에 남는 것은 화려한 전투 장면이 아닌 민주주의와 전제주의에 대한 부분이었다. 특히 우민주의로 변질되어버린 민주주의와 매우 훌륭한 독재자가 존재하는 전제주의 사이에 대한 이야기에 대한 나름 심도 있는 이야기가 가장 기억에 남았다.
+이 책은 기억이 흐릿하지만, 93년에 권우 방에서인가 은하영웅전설의 앞부분을 읽었던 기억이 있다. 아마도 휴가나와서 보지 않았나 싶다. 이 책을 다시 읽기 전까지 가장 기억에 남는 것은 화려한 전투 장면이 아닌 민주주의와 전제주의에 대한 부분이었다. 특히 우민주의로 변질되어버린 민주주의와 매우 훌륭한 독재자가 존재하는 전제주의 사이에 대한 이야기에 대한 나름 심도 있는 이야기가 가장 기억에 남았다.
 
 작년말쯤에 이책을 사고,  3월쯤부터 읽기 시작한건 작년의 일이 나에게는 조금 아팠기 때문일지도 모르겠다.
 
@@ -26,13 +24,10 @@ categories:
 
 이전에 읽어보지 못했던 외전은 자잘한 이야기를 채워준다는 점도 즐거웠다.
 
-&nbsp;
 
-2.
+## 테크니컬 리더 : 혁신, 동기부여, 조직화를 통한 문제 해결 리더십
 
-테크니컬 리더 : 혁신, 동기부여, 조직화를 통한 문제 해결 리더십
-
-<img loading="lazy" decoding="async" class="alignnone" alt="" src="https://i0.wp.com/www.insightbook.co.kr/wp-content/uploads/2013/01/BTL%ED%91%9C%EC%A7%80%EC%95%9E-200x300.jpg?resize=200%2C300" width="200" height="300" data-recalc-dims="1" /> 
+<img loading="lazy" decoding="async" class="alignnone" alt="" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966260652.jpg" width="300" data-recalc-dims="1" />
 
 솔직히 이야기하자.
 
@@ -44,11 +39,9 @@ categories:
 
 엔지니어로 코드와 로직만 보고 살다가 어느날 갑자기 Technical Leader라는 직책을 같이 수행하게 된 많은 사람들에게 읽어보길 권하고 싶다.
 
-3.
+## 세계대전 Z
 
-세계대전 Z
-
-<img loading="lazy" decoding="async" class="alignnone" alt="" src="https://i0.wp.com/image.yes24.com/momo/TopCate222/MidCate001/19550793.jpg?resize=148%2C220" width="148" height="220" data-recalc-dims="1" /> 
+<img loading="lazy" decoding="async" class="alignnone" alt="" src="https://i0.wp.com/image.yes24.com/momo/TopCate222/MidCate001/19550793.jpg?resize=148%2C220" width="148" height="220" data-recalc-dims="1" />
 
 사놓기는 한참전에 샀는데(뉴로맨서를 살때 같이샀다..), 나름 장르를 돌아가면서 읽는다는 지론(사실 한 종류만 읽다보면 좀 지루해져서&#8230;) 때문에 이제서야 봤다.
 
@@ -56,13 +49,13 @@ categories:
 
 여하튼, 초반에는 인터뷰 형식의 책 내용이 약간 지루했는데, 읽다보니 이게 인터뷰인지 그냥 서술인지 깨닿지도 못하고 봤다.
 
-4
+## 그 외
 
 그외.. 몇권 더 봤는데.. 머리에 남지는 않는다..라는 건 별로 인상적이지 않았다는 반증이리라..
 
 오히려 새로 읽은 몇권의 만화가 더 머리에 남는다..
 
-5.
+## 근황 몇 개
 
 그리고 근황..
 
@@ -70,11 +63,11 @@ categories:
 
 정말 오랜 시간이 걸린 책의 번역이 거의 마무리 되었나보다. 인사이트 출판사의 블로그에 나온걸 보니..
 
-<img loading="lazy" decoding="async" class="alignnone" alt="" src="https://i0.wp.com/www.insightbook.co.kr/wp-content/uploads/2013/07/517dTJv0gYL._BO2204203200_PIsitb-sticker-arrow-clickTopRight35-76_AA300_SH20_OU01_1.jpg?resize=300%2C300" width="300" height="300" data-recalc-dims="1" /> 
+<img loading="lazy" decoding="async" class="alignnone" alt="" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966260799.jpg" width="300" data-recalc-dims="1" />
 
 공동 번역이란 형식을 취해본 첫번째 책인데..
 
-사실 많이 힘든 기간 동안 번역을 진행했고(번역을 수락한지 얼마되지 않아서 2팀의 팀장을 같이 맡게 되어서 하루 최대 16시간을 회사에 있던 기간이다.. ),  아쉽게도 그러다보니 주말 동안에 번역을 하게 되었다.
+사실 많이 힘든 기간 동안 번역을 진행했고(번역을 수락한지 얼마되지 않아서 2개 팀의 팀장을 같이 맡게 되어서 하루 최대 16시간을 회사에 있던 기간이다.. ),  아쉽게도 그러다보니 주말 동안에 번역을 하게 되었다.
 
 책에 나온 것들 중 대부분의 것을 돌려보지 못했다. 그래서, 아쉽다. 즐거우려고 한 것인다 일에 치이다보니 즐겁지 못했다.
 
@@ -87,13 +80,3 @@ categories:
 고혈압에 이석증&#8230; 스트레스와 과로가 원인이란다. (하긴 요즘엔 모든 병이 스트레스와 과로가 원인이란다.. )
 
 이석증은 최근에 생겼는데.. 음.. 솔찮이 귀찮게 만든다. 이젠 심하지는 않은데 아침에 어지럽지 않게 일어난다는 것이 이렇게 고마울 수 있다는 것을 배웠다.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

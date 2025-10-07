@@ -17,7 +17,7 @@ tags:
 
 이러한 기사는 어찌보면 FPGA/CPLD에 대한 이해부족으로 나온 기사라 생각됩니다.<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile27.uf.17610C4A4D6A7A9D0EC7D8.jpg?resize=249%2C246" class="alignright" width="249" height="246" alt="" data-recalc-dims="1" /> 
 
-[wp]Xilinx[/wp], [wp]Altera[/wp]라는 회사에서 나온 대부분의 칩은 [wp]FPGA[/wp]나 [wp]CPLD[/wp]이며, 이러한 칩들은 필요할때마다 구현하고자 하는 논리 회로를 올릴 수 있도록 구성된 칩입니다. 
+{{< wikipedia "Xilinx" >}}, {{< wikipedia "Altera" >}}라는 회사에서 나온 대부분의 칩은 {{< wikipedia "FPGA" >}}나 {{< wikipedia "CPLD" >}}이며, 이러한 칩들은 필요할때마다 구현하고자 하는 논리 회로를 올릴 수 있도록 구성된 칩입니다. 
 
 따라서, &nbsp;이 회사의 칩은 구성하는 사람이 원하는 대로 바꿀수 있기 때문에 외부에서 보이는 칩의 이름이 xilinx spartan 2이건 altrea cyclon이건 아무런 의미가 없다는 것이지요.  
 예를 들어 동일한 xilinx spartan2라도 네트웍 시스템하는 사람은 &#8220;네트웍 관련 로직&#8221;을 넣어서 구현할테고, 그래픽 카드 만드는 사람은 &#8220;그래픽 처리 기능&#8221;을 넣어서 만들테고, MP3 플레이어라면 &#8220;MP3 decoder&#8221;를 넣어서 구현할테니 말입니다. 
@@ -36,7 +36,7 @@ FPGA는 로직간의 연결을 제어하는 방식에 따라 여러가지 칩이
 
 **다른 잡설들**  
 요즘 공정이 미세해지면서 Fab의 NRE가 너무 비싸지고, 고려사항도 많아지고.. 하면서..  
-이러다 FPGA(실은 [wp]structed ASIC[/wp])가 대안이 되는 거 아니냐.. 하는 이야기도 있습니다.  
+이러다 FPGA(실은 {{< wikipedia "structed ASIC" >}})가 대안이 되는 거 아니냐.. 하는 이야기도 있습니다.  
 이런 마켓을 노리고 Altera는 hardcopy라는 칩도 선보였구요..  
 하지만, 아직까지는 별로 좋은 반응은 아닌듯 합니다. 초기에는 &#8220;열광적인&#8221; 지지자들이 꽤 많이 나왔는데 말입니다.
 

@@ -22,8 +22,8 @@ smartTOCHideUnfocusedChildren = false
 # Missing global parameters
 # enableA11y = false
 # replyByEmail = false
-showViews = true
-showLikes = true
+# showViews = true
+# showLikes = true
 # robots = ""
 # disableImageZoom = false
 # disableImageOptimization = false
@@ -84,7 +84,7 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
   showZenMode = true
   showComments = true
   # Missing article parameters
-  showViews = false
+  # showViews = true
   showLikes = true
   # showDateOnlyInArticle = false
   showAuthorBottom = true
@@ -95,10 +95,10 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
 
 [list]
   showHero = true
-  heroStyle = "basic"
+  heroStyle = "background"  # basic, big, background, thumbAndBackground
   showBreadcrumbs = true
   showSummary = true
-  showTableOfContents = false
+  showTableOfContents = true
   showCards = false
   orderByWeight = true
   groupByYear = false
@@ -111,8 +111,8 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
 
 [taxonomy]
   showTermCount = true
-  showHero = false
-  heroStyle = "basic"
+  showHero = true
+  heroStyle = "background"  # basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showTableOfContents = true
   cardView = false
@@ -121,12 +121,12 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
   # showLikes = false
 
 [term]
-  showHero = false
-  heroStyle = "basic"
+  showHero = true
+  heroStyle = "background"  # basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showTableOfContents = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   # Missing term parameters
   # showViews = false
@@ -135,13 +135,14 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
 # --- New sections from documentation ---
 
 [firebase]
-  apiKey = "AIzaSyCPofuoG0ZKScqH2Pr1mJwUHVzzOkusCmE"
-  authDomain = "babyworm-net.firebaseapp.com"
-  projectId = "babyworm-net"
-  storageBucket = "babyworm-net.firebasestorage.app"
-  messagingSenderId = "588506773159"
-  appId = "1:588506773159:web:043e034e9835b5aa358d82"
-#   measurementId = ""
+  apiKey = "AIzaSyAI49l-lMk-s6Yl7etBEUJHy8p4O2Mm29A"
+  authDomain = "web-trace.firebaseapp.com"
+  projectId = "web-trace"
+  storageBucket = "web-trace.firebasestorage.app"
+  messagingSenderId = "389059775511"
+  appId = "1:389059775511:web:15fa52b9d6bd032712a052"
+  measurementId = "G-RHF5J44F5S"
+
 
 # [fathomAnalytics]
 #   site = ""

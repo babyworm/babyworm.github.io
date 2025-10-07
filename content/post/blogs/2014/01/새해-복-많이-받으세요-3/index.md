@@ -19,7 +19,7 @@ categories:
 
 저도 새해를 맞아 평소처럼 외가집에 조촐한 가족모임을 가졌습니다&#8230; 라고 하고 싶지만, 조촐한 가족 모임에 대략 50명 정도가 모이는 대가족이다보니 난리도 그런 난리가 없었습니다.
 
-[pe2-image src=&#8221;http://lh6.ggpht.com/-S6bK10vDaFw/UsOVnSQpSEI/AAAAAAAAaOc/TKqgCFCyMZs/s144-c-o/20140101\_131120.jpg&#8221; href=&#8221;https://picasaweb.google.com/106565945659655093387/20140101?authkey=9ynWafKrxQI#5963774833717758018&#8243; caption=&#8221;&#8221; type=&#8221;image&#8221; alt=&#8221;20140101\_131120.jpg&#8221; ]
+<img src="featured_20140101_131120.jpg">>
 
 하지만 아이들은 신이 났죠.
 

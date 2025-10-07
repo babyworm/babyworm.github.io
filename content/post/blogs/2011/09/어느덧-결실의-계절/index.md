@@ -20,15 +20,10 @@ categories:
 
 연초부터 골프를 쳐보라는 장인어른의 권유가 있어서 회사앞에 끊어는 놨는데, 드디어 얼마전부터 골프를 시작했습니다. 아직 멀었죠.
 
-코덱쪽을 하게 되면서 스펙을 보고 이해하는 것이 중요한 과제였는데.. 물론 봐도 이해한 부분이 적기는 하지만 \[[AVC]], [[VC-1]], [[AVS]], [[RealVideo]], [[MPEG-2]], [[VP8]], [[VP6]], [[Theora]]를 봤고, [[MPEG-4]], [[SVC]], [[MVC]\](실제적으로는 AVC의 annex이지만..)는 아직도 까막눈인 상태입니다. 올해가기 전에 좀 더 이해하는 것이 목표인데..
+코덱쪽을 하게 되면서 스펙을 보고 이해하는 것이 중요한 과제였는데.. 물론 봐도 이해한 부분이 적기는 하지만 {{< wikipedia "AVC" >}}, {{< wikipedia "VC-1" >}}, {{< wikipedia "AVS" >}}, {{< wikipedia "RealVideo" >}}, {{< wikipedia "MPEG-2" >}}, {{< wikipedia "VP8" >}}, {{< wikipedia "VP6" >}}, {{< wikipedia "Theora" >}}를 봤고, {{< wikipedia "MPEG-4" >}}, {{< wikipedia "SVC" >}}, {{< wikipedia "MVC" >}}(실제적으로는 AVC의 annex이지만..)는 아직도 까막눈인 상태입니다. 올해가기 전에 좀 더 이해하는 것이 목표인데..
 
 문제는 한번에 이제 보고도 기억이 잘 안나는 나이가 된 것 같다는 느낌이 드네요. 대충 한 3~4번 봐야 기억에 약간 남네요.. 10번은 봐야지 툭~ 치면 튀어나올 수준이 되지 않을까..
 
-대략 10년전에 대충 써봤던([[parallel programming]]하다가 GUI가 필요해서 그냥 해본거라 제대로 한거라 말하기도 어렵지만..)도전했던 [[X_library|xwindow programming]]과 Qt를 올해 다시 해보려고 했지만, 사실 아직 손도 못댔고.. 올해 가기전에 뭔가를 한번 만들어볼 생각입니다.
+대략 10년전에 대충 써봤던({{< wikipedia "parallel programming" >}}하다가 GUI가 필요해서 그냥 해본거라 제대로 한거라 말하기도 어렵지만..)도전했던 {{< wikipedia "X_library" >}}과 Qt를 올해 다시 해보려고 했지만, 사실 아직 손도 못댔고.. 올해 가기전에 뭔가를 한번 만들어볼 생각입니다.
 
 직접적으로 연결되지 않는 것이라도 관심있는 분야의 책을 많이 읽자는 것이 목표중의 하나였는데.. 아직은 아직 멀었습니다. 회사에 만화동호회가 생기면서 만화책은 많이 읽었네요 ㅎㅎ
-
-&nbsp;
-
-<div id="__KO_DIC_LAYER__" style="position: fixed; z-index: 999999999; overflow-x: hidden; overflow-y: hidden; display: none; border-width: 2px; border-color: #333377; border-style: solid; padding: 0px;">
-</div>

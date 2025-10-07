@@ -212,15 +212,15 @@
       <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
   <script>
 
-    const firebaseConfig = {
-      apiKey: {{ $.Site.Params.firebase.apiKey }},
-      authDomain: {{ $.Site.Params.firebase.apiKey }},
-      projectId: {{ $.Site.Params.firebase.projectId }},
-      storageBucket: {{ $.Site.Params.firebase.storageBucket }},
-      messagingSenderId: {{ $.Site.Params.firebase.messagingSenderId }},
-      appId: {{ $.Site.Params.firebase.appId }},
-      measurementId: {{ $.Site.Params.firebase.measurementId }}
-    };
+          const firebaseConfig = {
+            apiKey: {{ $.Site.Params.firebase.apiKey }},
+            authDomain: {{ $.Site.Params.firebase.authDomain }},
+            projectId: {{ $.Site.Params.firebase.projectId }},
+            storageBucket: {{ $.Site.Params.firebase.storageBucket }},
+            messagingSenderId: {{ $.Site.Params.firebase.messagingSenderId }},
+            appId: {{ $.Site.Params.firebase.appId }},
+            measurementId: {{ $.Site.Params.firebase.measurementId }}
+          };
 
     var app = firebase.initializeApp(firebaseConfig);
     var db = firebase.firestore();

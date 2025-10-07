@@ -13,8 +13,8 @@ Talmus:)님이 만들어주셔서 그 동안 잘 써오던&nbsp; Blog 페이지�
 
 내 마음대로 뜯어 고치길 좋아하는(그러나, 너무나 귀찮아서 그런일을 잘 안하는) 나로서, 동일한 곳의 동일한 형태에 오래 묶여 있었다는 것도 신기한 노릇이다..
 
-하긴 사람냄새나는 곳이었으니..  
-이곳은 내가 배우고 알아가는 것들을 적어볼 예정이다..  
-<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile29.uf.195139524D6A7A572D3949.jpg?resize=500%2C375" class="aligncenter" width="500" height="375" alt="" data-recalc-dims="1" /> 
+하긴 사람냄새나는 곳이었으니..
+이곳은 내가 배우고 알아가는 것들을 적어볼 예정이다..
+<img loading="lazy" decoding="async" src="featured_dogs.jpg" class="aligncenter" width="500">
 
 자! 다시 뛰자!

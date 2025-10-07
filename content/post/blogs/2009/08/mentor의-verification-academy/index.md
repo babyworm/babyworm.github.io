@@ -12,18 +12,21 @@ tags:
   - Verification
 
 ---
-OVM과 AVM을 밀고 있는 mentor에서 verification academy를 열었습니다. [<a href="http://verification-academy.mentor.com/" target="_blank">여기</a>]
+OVM과 AVM을 밀고 있는 mentor에서 verification academy를 열었습니다. [<a href="https://verificationacademy.com/" target="_blank">여기</a>]
+- 주소가 바뀌어서 https://verificationacademy.com/ 로 바꿨습니다.
 
-현재는 아래의 세개 모듈로 구성되어 있으며, Flash 기반으로 구성되어 있어서 왠만한 웹브라우저에서는 모두 접근 가능하다는 장점이 있습니다. 단, 현재는 회사 메일로만 가입을 받고 있다고 적혀 있는데, 학생들도 가능할지는 모르겠습니다. 
+현재는 아래의 세개 모듈로 구성되어 있으며, Flash 기반으로 구성되어 있어서 왠만한 웹브라우저에서는 모두 접근 가능하다는 장점이 있습니다. 단, 현재는 회사 메일로만 가입을 받고 있다고 적혀 있는데, 학생들도 가능할지는 모르겠습니다.
 
-## <font size="2">Evolving Capabilities Module (전반적인 overview)<br /></font> {#page-name}
+## Evolving Capabilities Module (전반적인 overview)
 
-## <font size="2">Assertion-Based Verification Module (ABV에 대한 설명)<br /></font> {#page-name}
+- <a href="http://verification-academy.mentor.com/content/welcome-overview-preview-session-1"> Welcome & Overview | Preview Session 1</a> | <a href="http://verification-academy.mentor.com/articulate/redirect/9176532177" target="_blank">Launch Session</a>
+
+## Assertion-Based Verification Module (ABV에 대한 설명)
 
 <div class="session-demo-section">
   <ul class="session-demo-list">
     <li>
-      <font size="2"><a class="lightbox-processed" href="http://verification-academy.mentor.com/content/welcome-overview-preview-session-1" rel="lightframe">Welcome & Overview | Preview Session 1</a> | <a href="http://verification-academy.mentor.com/articulate/redirect/9176532177" target="_blank">Launch Session</a></font>
+      <font size="2"></font>
     </li>
     <li>
       <font size="2"><a class="lightbox-processed" href="http://verification-academy.mentor.com/content/introduction-assertion-based-verification-preview-session-2" rel="lightframe">Introduction to Assertion Based Verification | Preview Session 2</a> | <a href="http://verification-academy.mentor.com/articulate/redirect/9176540074" target="_blank">Launch Session</a></font>
@@ -58,7 +61,7 @@ OVM과 AVM을 밀고 있는 mentor에서 verification academy를 열었습니다
   </ul>
 </div>
 
-## <font size="2">(CDC) Clock-Domain Crossing Verification Module (CDC 부분의 검증 방법)<br /></font> {#page-name}
+## (CDC) Clock-Domain Crossing Verification Module (CDC 부분의 검증 방법)
 
 <div class="session-demo-section">
   <ul class="session-demo-list">
@@ -84,11 +87,11 @@ OVM과 AVM을 밀고 있는 mentor에서 verification academy를 열었습니다
       <font size="2"><a class="lightbox-processed" href="http://verification-academy.mentor.com/content/0-cdc-demo-preview-session-7" rel="lightframe">0-In CDC Demo | Preview Session 7</a> | <a href="http://verification-academy.mentor.com/articulate/redirect/9176561712" target="_blank">Launch Session</a></font>
     </li>
   </ul>
-  
+
   <p>
     상당히 넓은 내용을 알려주고 있는데요.. mentor에서하는 강좌이다보니 Questa나 0-in 과 같은 툴을 사용한다는 점이 특징적이겠습니다.
   </p>
-  
+
   <p>
     홈페이지에서 등록 신청하시면 하루 정도 이내에 registration 관련 메일을 보내줍니다. <br />메일을 받은 후에 login 계정을 activation 시키면 되는 거죠. 검증 특히 ABV에 관심 있으신 분들께는 좋은 강좌일 것같습니다.
   </p>

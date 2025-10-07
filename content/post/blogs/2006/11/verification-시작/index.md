@@ -12,7 +12,7 @@ tags:
   - Verification
 
 ---
-예전에 99년에 학교에서 첫 버젼의 [wp]EISC[/wp]를 만들때는 검증에 별 생각이 없었습니다.  
+예전에 99년에 학교에서 첫 버젼의 {{< wikipedia "EISC" >}}를 만들때는 검증에 별 생각이 없었습니다.  
 뭐, 프로그램 몇개 돌리면 되겠지.. 이런 느낌이랄까요..
 
   
@@ -26,6 +26,6 @@ tags:
 
 여하튼.. 이번 프로젝트에서는 제가 수행하는 설계 분량을 최대한 줄이고, specification과 verification쪽으로 집중하려고 하고 있습니다. 하지만, 프로젝트라는 것이 항상 그렇듯(^^) 잡은 일정보다 스펙 작성이 오래걸렸고..이런 저런 일을 하다보니, 이번달에 들어서야 이 프로젝트에서 제 관심의 대상이었던 verification쪽에 집중해서 verification plan을 짜고 있습니다. (사내 정보 보안 관계로 ^^; 일반론 이상을 이야기를 할 수는 없습니다만..)
 
-이런 과정에서 [Verilog PLI][1]이니 [wp]assertion[/wp]이니, [wp]SCV[/wp]와 같은 것을 다룰 수 있는 기회가 많아지겠지요..^^;
+이런 과정에서 [Verilog PLI][1]이니 {{< wikipedia "assertion" >}}이니, {{< wikipedia "SCV" >}}와 같은 것을 다룰 수 있는 기회가 많아지겠지요..^^;
 
  [1]: http://en.wikipedia.org/wiki/Verilog#Program_Language_Interface_.28PLI.29

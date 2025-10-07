@@ -64,7 +64,7 @@ blogging 시스템 테스트 겸 근황.. 하려는 이야기를 하기 전에
 
 왠지.. 코칭 같은 내용이 되었네.. 글을 약간 망했네요.
 
-![](featured_security_vs_culture.png)
+<img src="featured_security_vs_culture.png">
 
 ## 겸사 겸사 근황 몇개
 

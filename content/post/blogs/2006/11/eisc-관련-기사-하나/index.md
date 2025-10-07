@@ -13,7 +13,7 @@ tags:
   - USN
 
 ---
-제가 설계한 건 아니고, 회사의 simple 32비트 [wp]EISC[/wp]가 들어간 칩인데.. ETRI와 다목적 [wp]RFID[/wp]/USN 과 같은 [wp]wireless sensor network[/wp]의 node및 bridge용으로 만들고 있는 칩입니다. &nbsp;  
+제가 설계한 건 아니고, 회사의 simple 32비트 {{< wikipedia "EISC" >}}가 들어간 칩인데.. ETRI와 다목적 {{< wikipedia "RFID" >}}/USN 과 같은 {{< wikipedia "wireless sensor network" >}}의 node및 bridge용으로 만들고 있는 칩입니다. &nbsp;  
 뭐, 사실상 직접적인 target은 센서 노드쪽에서 가장 많이 사용되는 ATMEGA128L을 노리고 있는 칩이지요.  
 최종적으로는 RF 부분과 통합 설계가 될 예정인데, 그중에 1차 버젼입니다. 
 

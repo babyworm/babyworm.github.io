@@ -63,7 +63,7 @@ VHDL만 사용하는 사용자의 비율은 불과 4.0%에 불과하며, VHDL을
   
 
 
-전반적으로 functional 전 개인적으로 Simulator부분에 있어서 [wp]cadence design system[/wp]의 NCsim series보다 [wp]Synopsys[/wp] VCS series가 이 정도의 market share를 차지한다는 것에 놀라움을 느낍니다. 다시 한번 말씀드리듯이 DVCon은 [wp]functional verification [/wp]engineer을 대상으로 하므로, 현재 상황이라기 보다 미래의 상황을 더 나타낸다고 보고 있으니, 더 놀라운 것입니다. 
+전반적으로 functional 전 개인적으로 Simulator부분에 있어서 {{< wikipedia "cadence design system" >}}의 NCsim series보다 {{< wikipedia "Synopsys" >}} VCS series가 이 정도의 market share를 차지한다는 것에 놀라움을 느낍니다. 다시 한번 말씀드리듯이 DVCon은 {{< wikipedia "functional verification " >}}engineer을 대상으로 하므로, 현재 상황이라기 보다 미래의 상황을 더 나타낸다고 보고 있으니, 더 놀라운 것입니다. 
 
   
 

@@ -24,4 +24,4 @@ tags:
 모두들 몇십년이 훌쩍 지난 후에도 항상 같은 느낌으로 만날 수 있는 친구들이길 바랍니다.
 
 
-{{< youtubeLite id="jjVU-XGII5I" label="조하문 눈오는 밤" >}}
+{{< youtube "jjVU-XGII5I" >}}

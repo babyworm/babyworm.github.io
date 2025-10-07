@@ -34,7 +34,7 @@ TLM 수준에서 설계가 이행되지 못하고 있는 큰 이유는 구현(im
 
 **TLM은 검증을 싣고..</p> 
 
-</strong>TLM이 새로운 개념이 아니라는 것은 [wp]verification[/wp] engineer쪽에서는 기본입니다.  
+</strong>TLM이 새로운 개념이 아니라는 것은 {{< wikipedia "verification" >}} engineer쪽에서는 기본입니다.  
 왜냐.. 예전부터 검증계에서는 TLM이 좋은 방법이었거든요..  
 SystemC는 이제 설계 언어라기 보다 검증언어입니다. 물론, architectural simulation하려고 할때 timed model을 예전 C++만을 이용할때 보다 아주 편하게 해주기는 합니다만, 이것이 설계는 아니지 않습니까&#8230;
 
@@ -46,11 +46,11 @@ SystemVerilog도 마찬가지 입니다. verilog 2001에서 확장되어 발표�
 
 **TLM기반의 SystemC, systemVerilog의 확장 라이브러리들  
 **  
-[wp]SystemC[/wp]에서는 [wp]Cadence[/wp]의 [TestBuilder][1](이제는 CVE), 그리고, 이를 기반으로 한 [SCV][2]가 있습니다.  
+{{< wikipedia "SystemC" >}}에서는 {{< wikipedia "Cadence" >}}의 [TestBuilder][1](이제는 CVE), 그리고, 이를 기반으로 한 [SCV][2]가 있습니다.  
 또한, 최근 멘토에서 AVM(Advanced Verfication Method)라는 검증 methodology(실은 라이브러리)가 나왔습니다. ([http://www.mentor.com/products/fv/\_3b715c/cb\_download.cfm][3]). 아마도 Cadence가 donation한 SCV(SCV good to go. Sir! ^^;)에 대한 대항마로 생각되는 부분이 많은데요.. 둘다 무료이고, 공개된 library이니까 설계하는 저희들이야 고맙죠.  
 국내에서는 [CoSOC][4]이라는 서울대 사업단에서 SCV기반의 검증 라이브러리가 나왔는데.. &nbsp;저는 사실 교육을 받고 왔지만 아직도 목적성을 잘 모르겠더군요.. 아무래도 업체가 아니고, 학교 연구소에서 국책 과제로 수행하는 것이다보니 완성도가 아직은 부족한 것 같습니다. (흠..이름을 잊어서 홈페이지에 가봤는데 없는 걸 보니 그냥 접었나보군요)
 
-두 라이브러리 모두 역점을 두고 있는 부분이 [wp]assertion[/wp], functional coverage, constrant random vector generation입니다. 사실 검증에 있어서 coverage directed constrant random testing이 대세니까요.. 
+두 라이브러리 모두 역점을 두고 있는 부분이 {{< wikipedia "assertion" >}}, functional coverage, constrant random vector generation입니다. 사실 검증에 있어서 coverage directed constrant random testing이 대세니까요.. 
 
 요즘에 검증쪽 일을 할라고 슬슬 작업중인데.. 음.. 삽질을 많이 할듯 해서 걱정입니다.
 

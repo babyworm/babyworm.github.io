@@ -22,7 +22,9 @@ cygwin의 setup program을 통해서 마찬가지로 doxygen을 설치하시고.
 
 graphviz의 cygwin port를 [여기에 나온 설명][2]대로 설치합시다. 요약하면, cygwin terminal에서 아래 명령을 통해서 setup을 실행시키고(당연히 cygwin setup입니다!!)
 
-<pre parse="no">cygstart -- /path/to/setup.exe -K http://cygwinports.org/ports.gpg</pre>
+```
+cygstart -- /path/to/setup.exe -K http://cygwinports.org/ports.gpg
+```
 
 설치할때 여러 미러 중에서  <ftp://ftp.cygwinports.org/pub/cygwinports> 를 선택해서 사용하는 것입니다. 위의 미러를 선택하면 graphviz package가 보이므로, 이를 설치하면 됩니다.
 

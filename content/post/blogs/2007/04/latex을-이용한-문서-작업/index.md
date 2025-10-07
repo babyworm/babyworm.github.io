@@ -16,7 +16,7 @@ tags:
   
 
 
-개인적으로 CVS의 열성적인 사용자인데, [wp]CVS[/wp]에서 binary형식의 word파일은 사실 버전 관리가 정상적으로 이루어진다고 볼 수 없죠(수많은 카피본을 만들뿐이니까요.). 그래서, 한 2년 전부터 간단한 문서는 MS word로, 매뉴얼과 Technical report는 [wp]LaTeX[/wp]으로 작성하고 있는데 아주 성공적으로 정착했다고 개인적으로 자평합니다. 
+개인적으로 CVS의 열성적인 사용자인데, {{< wikipedia "CVS" >}}에서 binary형식의 word파일은 사실 버전 관리가 정상적으로 이루어진다고 볼 수 없죠(수많은 카피본을 만들뿐이니까요.). 그래서, 한 2년 전부터 간단한 문서는 MS word로, 매뉴얼과 Technical report는 {{< wikipedia "LaTeX" >}}으로 작성하고 있는데 아주 성공적으로 정착했다고 개인적으로 자평합니다. 
 
   
 
@@ -26,7 +26,7 @@ tags:
   
 
 
-이제, 저희 팀에서는 내부적으로 [wp]LaTeX[/wp]/<A href="http://faq.ktug.or.kr/faq/KTUGCollection2006" target=_blank>KC2006</A>(실제적으로는 KC2006-2)을 기반으로 하는 환경에서 작업을 하려고 합니다. 이렇게 함으로써 작업 있어서 몇 가지 장점이 생기는데요.. 
+이제, 저희 팀에서는 내부적으로 {{< wikipedia "LaTeX" >}}/<A href="http://faq.ktug.or.kr/faq/KTUGCollection2006" target=_blank>KC2006</A>(실제적으로는 KC2006-2)을 기반으로 하는 환경에서 작업을 하려고 합니다. 이렇게 함으로써 작업 있어서 몇 가지 장점이 생기는데요.. 
 
   
 

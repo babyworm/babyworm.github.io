@@ -15,13 +15,13 @@ tags:
   - xilinx
 
 ---
-[wp]FPGA[/wp]의 사용이 늘어나면서 이쪽 합성 분야에 눈독을 들이는 회사들이 늘어나고 있군요..
+{{< wikipedia "FPGA" >}}의 사용이 늘어나면서 이쪽 합성 분야에 눈독을 들이는 회사들이 늘어나고 있군요..
 
-사실 FPGA 설계/합성 도구는 무료로 제공되는 경우가 많아서.. ([wp]xilinx[/wp] <A href="http://www.xilinx.com/ise/logic\_design\_prod/webpack.htm" target=_blank>webpack</A>이나 [wp]altera[/wp]의 <A href="https://www.altera.com/support/software/download/altera\_design/quartus\_we/dnl-quartus\_we.jsp" target=\_blank>quartus II web version</A>과 같이 말입니다.)비교적 돈이 덜 됩니다만.. 무료로 제공되는 설계도구가 비교적 약한 편이라, 다른 툴을 많이 찾아다니게 되지요..
+사실 FPGA 설계/합성 도구는 무료로 제공되는 경우가 많아서.. ({{< wikipedia "xilinx" >}} <A href="http://www.xilinx.com/ise/logic\_design\_prod/webpack.htm" target=_blank>webpack</A>이나 {{< wikipedia "altera" >}}의 <A href="https://www.altera.com/support/software/download/altera\_design/quartus\_we/dnl-quartus\_we.jsp" target=\_blank>quartus II web version</A>과 같이 말입니다.)비교적 돈이 덜 됩니다만.. 무료로 제공되는 설계도구가 비교적 약한 편이라, 다른 툴을 많이 찾아다니게 되지요..
 
 게다가 많은 FPGA 업체들이 simulation과 logic 합성 자체는 3rd party툴에 도움을 받고, P&R쪽만 in-house 툴을 사용하는 방향으로 나아가고 있는데.. 각 회사의 입장에서는 아주 합리적인 선택입니다. 
 
-Simulation에서는 가장 많이 번들링 되고 있는 것이 아무래도 [wp]Mentor[/wp]의 [wp]Modelsim[/wp]이지요. (사실 modeltech의 것이지만..)  
+Simulation에서는 가장 많이 번들링 되고 있는 것이 아무래도 {{< wikipedia "Mentor" >}}의 {{< wikipedia "Modelsim" >}}이지요. (사실 modeltech의 것이지만..)  
 국내에서 학생 유저들이 가장 많이 사용하는 시뮬레이터일텐데요.. 윈도우 환경에서 안정적인데다, verilog/VHDL/SystemC까지 가리지 않고 컴파일해서 single kernel로 시뮬레이션하는 능력을 지닌 좋은 시뮬레이터 입니다. 산업체에서는 아직 Golden simulator로 받아들여지는 NCsim에 밀리지만, 많은 엔지니어가 사용하고 있는 좋은 시뮬레이터입니다. (이 이야기는 주관적인 내용이 아니고 ESNUG 설문 결과인데 modelsim은 폭 넓은 사용자에 비해서 golden simulator라기 보다, secondary simulator느낌으로 사용되고 있습니다.)
 
 FPGA 합성툴로는 우선 xilinx나 altera의 자체 툴이 있겠지요.
