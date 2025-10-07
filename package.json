@@ -1,0 +1,7 @@
+{
+  "name": "babyworm-net"
+  "version": "3.0.0"
+  "scripts": {
+    "build": "hugo --gc --minify"
+  }
+}
