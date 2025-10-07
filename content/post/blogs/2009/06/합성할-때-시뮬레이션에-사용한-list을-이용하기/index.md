@@ -4,13 +4,12 @@ author: babyworm
 type: post
 date: 2009-06-03T13:49:18+00:00
 categories:
-  - SoC
+  - 'SoC'
   - IP design
-  - For beginners
 tags:
   - synopsys
-
 ---
+
 합성 스크립트 만들다가 얼마전에 모 선배가 합성에 필요한 파일 리스트 만드는 거 귀찮다고 한 것이 기억나서 만들어봤습니다.
 
 뭐, TCL을 사용하시는 분들이면 다들 생각하실 만한 것이라 팁이라고 할 것 까지야 없겠습니다만, 처음 접하시는 분들에게는 도움이 될 것 같아서 올립니다.

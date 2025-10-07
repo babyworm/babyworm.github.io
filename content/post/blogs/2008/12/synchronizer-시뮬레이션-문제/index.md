@@ -17,7 +17,7 @@ tags:
 
 요즘 IT-SoC의 온라인 강의를 듣다 보니 관련 내용이 있어서 간단한 팁을 하나 올립니다.
 
-Metastable을 피하는 가장 머리가 편한 방법은 2개의 F/F을 직렬로 사용하는 2-flop 방법입니다. 저렴한 방법으로는 하나의 F/F을 사용하는 1-flop 방식도 있습니다만, 1-flop 방식은 첫 번째 F/F이 공교롭게 meta level에 걸리는 경우 뒷부분의 회로가 영향을 받아서 망가질 수 있는 단점이 있지요.
+Metastable을 피하는 가장 머리가 편한 방법은 2개의 F/F을 직렬로 사용하는 2-flop 방법입니다(절대적이지 않지만, 범용적으로 사용할 만한 방법이죠). 저렴한 방법으로는 하나의 F/F을 사용하는 1-flop 방식도 있습니다만, 1-flop 방식은 첫 번째 F/F이 공교롭게 meta level에 걸리는 경우 뒷부분의 회로가 영향을 받아서 망가질 수 있는 단점이 있지요 (따라서, 정해진 조건에서만 가능합니다.).
 
 여하튼, 비동기적인 방법(stoppable clock과 같은 방식)을 사용하지 않는 경우에는 F/F을 부가하는 것이 가장 간단한 방법이라는 것이죠.
 
@@ -29,24 +29,14 @@ Metastable을 피하는 가장 머리가 편한 방법은 2개의 F/F을 직렬�
 
 VerilogXL이나 NCverilog에서는 다음과 같은 명령이 있습니다. (Modelsim은 안써봐서 모르겠습니다.)
 
-<table style="border-collapse: collapse; background: #fbd4b4;" border="0">
-    <colgroup> <col style="width: 637px;" /></colgroup> <tr>
-      <td style="padding-left: 7px; padding-right: 7px; border: solid black 0.5pt;">
-        $disable_warnings(&#8220;timing&#8221;, hierarchy_path);
-      </td>
-    </tr>
-  </table>
-&nbsp;
+```
+$disable_warnings(&#8220;timing&#8221;, hierarchy_path);
+```
 
 잠시 구글링 해보니 Modelsim에서는 다음과 같이 하면 되는 군요.
 
-<table style="border-collapse: collapse; background: #fbd4b4;" border="0">
-    <colgroup> <col style="width: 637px;" /></colgroup> <tr>
-      <td style="padding-left: 7px; padding-right: 7px; border: solid black 0.5pt;">
-        tcheck –off hierarchy_path
-      </td>
-    </tr>
-  </table>
-&nbsp;
+```
+tcheck –off hierarchy_path
+```
 
 실제적으로 사용할 때는 synchronizer에 대하여 timing체크를 안하도록 하는 명령을 disable\_path같은 곳에 주욱 나열하고 필요한 경우에 include해서 사용하는 거죠. 사실 이 disable path list는 false\_path 잡을 때도 사용이 되겠지요.

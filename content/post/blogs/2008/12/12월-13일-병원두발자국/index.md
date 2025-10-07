@@ -9,8 +9,8 @@ categories:
 ---
 혈관종 치료는 계속 받고 있습니다. 이제 한달에 한번 정도(4주에 한번)가고 있고, 지금까지 열번 남짓 치료 받았습니다. 예전에 비하면 정말 색이 많이 옅어졌지요
 
-<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/494b161ab3bd793.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1773.JPG" filemime="" data-recalc-dims="1" /><img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/494b161ac40329C.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1775.JPG" filemime="" data-recalc-dims="1" /></p> 
-  
+<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/494b161ab3bd793.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1773.JPG" filemime="" data-recalc-dims="1" /><img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/494b161ac40329C.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1775.JPG" filemime="" data-recalc-dims="1" /></p>
+
   <div>
     TV 보느라 정신이 없습니다. 뒤로는 크리스마스 트리가 반짝거립니다.
 

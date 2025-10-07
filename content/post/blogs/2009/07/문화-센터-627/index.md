@@ -13,19 +13,24 @@ categories:
 
 민혜가 생각보다 겁이 좀 많아요 🙂
 
-{{< carousel images="{DSC_5117.webp, DSC_5124.webp, DSC_5126.webp, DSC_5137.webp, DSC_5138.webp, DSC_5141.webp, DSC_5142.webp, DSC_5153.webp}" >}}
 
 
-{{< gallery >}}
-  <img src="DSC_5117.webp" class="grid-w33" />
-  <img src="DSC_5124.webp" class="grid-w33" />
-  <img src="DSC_5126.webp" class="grid-w33" />
-  <img src="DSC_5137.webp" class="grid-w33" />
-  <img src="DSC_5138.webp" class="grid-w33" />
-  <img src="DSC_5141.webp" class="grid-w33" />
-  <img src="DSC_5142.webp" class="grid-w33" />
-  <img src="DSC_5153.webp" class="grid-w33" />
-{{< /gallery >}}
+  <img src="DSC_5117.webp" >
+
+  <img src="DSC_5124.webp" >
+
+  <img src="DSC_5126.webp" >
+
+  <img src="DSC_5137.webp" >
+
+  <img src="DSC_5138.webp" >
+
+  <img src="DSC_5141.webp" >
+
+  <img src="DSC_5142.webp" >
+
+  <img src="DSC_5153.webp" >
+
 
 
 종이가 날릴때 좋은데.. 무섭기도 하고.. 🙂
