@@ -5,6 +5,7 @@ type: post
 date: 2007-12-04T10:22:36+00:00
 categories:
   - verification
+  - PLI
 tags:
   - PLI
   - TK
@@ -15,11 +16,12 @@ tags:
 
 게다가 시뮬레이션 돌리면서 이런 저런것을 실시간 출력할때 UNIX/Linux/Windows 안가리는 인터페이스를 고민하다보니, TCP/IP와 Perl 만한게 없더군요. Simulator에서 이런 저런 GUI 부분이 귀찮아서 socket 기반으로 만들었던 기억을 되살려 하나 만들어봤습니다. PLI에서 TCP/IP 패킷을 전송하는 부분을 하나 만들어봤습니다.
 
-<pre lang="c">#include &lt;stdio.h>
-#include &lt;"arpa/inet.h">
-#include &lt;"net/netinet.h">
-#include &lt;"sys/socket.h">
-#include &lt;"sys/types.h"> #include "vpi_user.h"
+```C
+#include <stdio.h>
+#include <"arpa/inet.h">
+#include <"net/netinet.h">
+#include <"sys/socket.h">
+#include <"sys/types.h"> #include "vpi_user.h"
 
 #define DEST_IP "127.0.0.1"
 #define DEST_PORT 7890
@@ -78,7 +80,9 @@ void cosim_register_hello() {
 
 void (*vlog_startup_routines[])() = {cosim_register_hello, 0}
 
-</pre>
+```
+
+
 
 별 내용은 없고, 그냥 verilog code에서 cosim_hello()를 호출하면 loop돌면서 값을 출력하는 예제입니다.
 
@@ -90,27 +94,31 @@ void (*vlog_startup_routines[])() = {cosim_register_hello, 0}
 
 &nbsp;
 
-<pre parse="no">$gcc -I$CDS_HOME/tools/inca/include -c cosim_hello.c
-$ld -shared -o cosim.so cosim_hello.o</pre>
+```bash
+$gcc -I$CDS_HOME/tools/inca/include -c cosim_hello.c
+$ld -shared -o cosim.so cosim_hello.o
+```
 
-<span style="line-height: normal;">NCVerilog Compile & Elaboration</span>
+NCVerilog Compile & Elaboration
 
-&nbsp;
 
-<pre parse="no">$ ncvlog -work worklib test_hello.v
+
+```bash
+$ ncvlog -work worklib test_hello.v
 $ ncelab worklib.test_hello -loadvpi ./cosim:cosim_register_hello
-$ ncsim worklib.test_hello</pre>
+$ ncsim worklib.test_hello
+```
 
-<span style="font-family: Monaco, Consolas, 'Andale Mono', 'DejaVu Sans Mono', monospace; font-size: x-small;"><span style="line-height: normal;"><br /> </span></span>
 
 이런 식으로 사용하면 되는데, 위의 패킷을 받아줄 서버는 간단히 perl로 짜주면 됩니다. Perl-TK로 GUI를 작성하는 것도 가능하구요.
 
-이때 한가지 주의해야 할 점은 perl의 IO::INET 의 accept() 함수가 blocking type이기 때문에 이것을 non-blocking type으로 해 주시고 loop을 돌려야지만 DoOneEvent() 함수가 정상적으로 수행된다는 점이지요.  
-(설마 MainLoop()로 돌리실 분은 없을 테니 ^^;) 저도 처음엔 DoOneEvent함수가 좀처럼 동작을 안하는 것처럼 느껴져서 헤맸습니다. 결론은 accept()함수 문제더군요.
+이때 한가지 주의해야 할 점은 perl의 `IO::INET` 의 `accept()` 함수가 blocking type이기 때문에 이것을 non-blocking type으로 해 주시고 loop을 돌려야지만 `DoOneEvent()` 함수가 정상적으로 수행된다는 점이지요.<br>
+(설마 MainLoop()로 돌리실 분은 없을 테니 ^^;) 저도 처음엔 `DoOneEvent`함수가 좀처럼 동작을 안하는 것처럼 느껴져서 헤맸습니다. 결론은 `accept()`함수 문제더군요.
 
 perl 함수의 주요 부분만간단히 정리하자면(예제를 위해서 perl script를 하나 더 만들기가 귀찮고, 전체 내용은 회사 작업이라 공개할 수 없고.. 라는 어려움 때문에 별로 문제 안되는 부분만 올립니다. )
 
-<pre lang="perl">use strict;
+```perl
+use strict;
 use IO::Socket;
 use Tk;
 use encoding 'utf-8';    # 한글 쓰시려면..
@@ -120,17 +128,17 @@ my $portnum = 7890;
 
 # make a socket
 
-my $mw = MainWindow-&gt;new(-title=&gt;"Terminal");
+my $mw = MainWindow->new(-title=>"Terminal");
 
 .....
 
-my $sock = IO::Socket::INET-&gt;new(
-                LocalHost =&gt; 'localhost',
-                LocalPort =&gt; $portnum,
-                Proto =&gt; 'tcp',
-                Listen =&gt; 10, # SOMAXCONN 으로 해도 됩니다.
-                Reuse =&gt; 1,
-                TimeOut =&gt; 1,
+my $sock = IO::Socket::INET->new(
+                LocalHost => 'localhost',
+                LocalPort => $portnum,
+                Proto => 'tcp',
+                Listen => 10, # SOMAXCONN 으로 해도 됩니다.
+                Reuse => 1,
+                TimeOut => 1,
                 );
 
 ....
@@ -142,11 +150,11 @@ $flag = fcntl($sock, F_GETFL, 0) or die "Can not get flag: $!\n";
 $flag = fcntl($sock, F_SETFL, $flag | O_NONBLOCK) or die "Can not set flag: $!\n";
 
 while(1) {
-        while (($new_sock, $c_addr) = $sock-&gt;accept()) {
+        while (($new_sock, $c_addr) = $sock->accept()) {
                 ... 소켓에서 읽어서 일하세요....
                         DoOneEvent(0);
         }
-</pre>
+```
 
 &nbsp;
 
