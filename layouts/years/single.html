@@ -1,0 +1,57 @@
+{{ define "main" }}
+  {{ .Scratch.Set "scope" "list" }}
+
+  {{/* Extract year from page title or params */}}
+  {{ $year := .Title | int }}
+
+  {{/* Hero */}}
+  {{ if site.Params.list.showHero | default false }}
+    {{ $heroStyle := print "hero/" site.Params.list.heroStyle ".html" }}
+    {{ if templates.Exists ( printf "partials/%s" $heroStyle ) }}
+      {{ partial $heroStyle . }}
+    {{ else }}
+      {{ partial "hero/basic.html" . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Header */}}
+  <header>
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ $year }}년 포스트</h1>
+    <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      {{ $postCount := 0 }}
+      {{ range where site.RegularPages "Section" "post" }}
+        {{ if eq (.Date.Format "2006") (printf "%d" $year) }}
+          {{ $postCount = add $postCount 1 }}
+        {{ end }}
+      {{ end }}
+      총 {{ $postCount }}개의 글
+    </div>
+  </header>
+
+  {{/* Article List */}}
+  {{ $pages := slice }}
+  {{ range where site.RegularPages "Section" "post" }}
+    {{ if eq (.Date.Format "2006") (printf "%d" $year) }}
+      {{ $pages = $pages | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $pages) 0 }}
+    {{ $groupByYear := .Params.groupByYear | default (site.Params.list.groupByYear | default false) }}
+
+    <section class="space-y-10 w-full mt-12">
+      {{ range $pages.ByDate.Reverse }}
+        {{ partial "article-link/simple.html" . }}
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="mt-10 prose dark:prose-invert">
+      <p class="py-8 border-t">
+        <em>{{ $year }}년에 작성된 글이 없습니다.</em>
+      </p>
+    </section>
+  {{ end }}
+{{ end }}

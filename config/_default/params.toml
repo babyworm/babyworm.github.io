@@ -51,7 +51,7 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
   showRecent = true
   showRecentItems = 10
   showMoreLink = true
-  showMoreLinkDest = "post"
+  showMoreLinkDest = "post/page/2"
   cardView = false
   cardViewScreenWidth = true
   # Missing homepage parameters
@@ -60,8 +60,8 @@ defaultBackgroundImage = "images/background-image-particle-strokes_mod.svg"
   # disableHeroImageFilter = false
 
 [article]
-  showHero = false
-  heroStyle = "basic"
+  showHero = true
+  heroStyle = "thumbAndBackground" # basic, big, background, thumbAndBackground
   showDate = true
   showDateUpdated = true
   showAuthor = true

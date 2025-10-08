@@ -20,6 +20,34 @@
   pre = "list"
 
 [[main]]
+  name = "연도별"
+  weight = 31
+  identifier = "yearly"
+  parent = "archives"
+  pageRef = "/years/"
+
+[[main]]
+  name = "카테고리"
+  weight = 32
+  identifier = "categories"
+  parent = "archives"
+  pageRef = "/categories/"
+
+[[main]]
+  name = "태그"
+  weight = 33
+  identifier = "tags"
+  parent = "archives"
+  pageRef = "/tags/"
+
+[[main]]
+  name = "시리즈"
+  weight = 34
+  identifier = "series"
+  parent = "archives"
+  pageRef = "/series/"
+
+[[main]]
   name = "About"
   weight = 35
   identifier = "About"

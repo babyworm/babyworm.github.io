@@ -1,0 +1,66 @@
+{{ define "main" }}
+  {{ .Scratch.Set "scope" "list" }}
+
+  {{/* Hero */}}
+  {{ if site.Params.list.showHero | default false }}
+    {{ $heroStyle := print "hero/" site.Params.list.heroStyle ".html" }}
+    {{ if templates.Exists ( printf "partials/%s" $heroStyle ) }}
+      {{ partial $heroStyle . }}
+    {{ else }}
+      {{ partial "hero/basic.html" . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Header */}}
+  <header>
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">연도별 아카이브</h1>
+    <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      모든 포스트를 연도별로 찾아보세요
+    </div>
+  </header>
+
+  {{/* Collect all years and their post counts */}}
+  {{ $yearData := slice }}
+  {{ $years := slice }}
+  {{ range where site.RegularPages "Section" "post" }}
+    {{ $y := .Date.Format "2006" }}
+    {{ if not (in $years $y) }}
+      {{ $years = $years | append $y }}
+    {{ end }}
+  {{ end }}
+
+  {{ range sort $years "value" "desc" }}
+    {{ $year := . }}
+    {{ $postCount := 0 }}
+    {{ range where site.RegularPages "Section" "post" }}
+      {{ if eq (.Date.Format "2006") $year }}
+        {{ $postCount = add $postCount 1 }}
+      {{ end }}
+    {{ end }}
+    {{ $yearData = $yearData | append (dict "year" $year "count" $postCount) }}
+  {{ end }}
+
+  {{/* Display year list */}}
+  {{ if gt (len $yearData) 0 }}
+    <section class="mt-12 space-y-4">
+      {{ range $yearData }}
+        <a href="/years/{{ .year }}/"
+           class="block p-6 rounded-lg bg-neutral-50 hover:bg-neutral-100 dark:bg-neutral-800 dark:hover:bg-neutral-700 transition-colors border border-neutral-200 dark:border-neutral-700">
+          <div class="flex items-baseline justify-between">
+            <h2 class="text-3xl font-bold text-neutral-900 dark:text-neutral">{{ .year }}</h2>
+            <span class="text-sm text-neutral-600 dark:text-neutral-400">{{ .count }}개의 글</span>
+          </div>
+        </a>
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="mt-10 prose dark:prose-invert">
+      <p class="py-8 border-t">
+        <em>포스트가 없습니다.</em>
+      </p>
+    </section>
+  {{ end }}
+{{ end }}

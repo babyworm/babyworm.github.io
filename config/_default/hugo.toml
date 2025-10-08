@@ -43,6 +43,7 @@ googleAnalytics = "G-5K5SXHWR3B"
   tag = "tags"
   series = "series"
   author = "authors"
+  year = "years"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
