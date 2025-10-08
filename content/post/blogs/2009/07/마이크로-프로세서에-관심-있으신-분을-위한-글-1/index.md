@@ -11,7 +11,7 @@ tags:
   - 마이크로 프로세서
 
 ---
-> 이 글은 예전에 쓴 &#8220;<a href="https://babyworm.github.io/post/blogs/2006/09/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/%EB%B9%84%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%84%A4%EA%B3%84%EB%A5%BC-%ED%9D%AC%EB%A7%9D%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EA%BB%98../" target="_blank">프로세서/비메모리 반도체 설계를 희망하시는 분들께</a>&#8220;라는 글과 연관성이 있습니다. 단지 프로세서 설계를 희망하시는 분들께 유용할 수도(?) 있는 내용 위주로 쓰여졌다는 것만 다르겠습니다.
+> 이 글은 예전에 쓴 &#8220;<a href="https://babyworm.net/post/blogs/2006/09/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/%EB%B9%84%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%84%A4%EA%B3%84%EB%A5%BC-%ED%9D%AC%EB%A7%9D%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EA%BB%98../" target="_blank">프로세서/비메모리 반도체 설계를 희망하시는 분들께</a>&#8220;라는 글과 연관성이 있습니다. 단지 프로세서 설계를 희망하시는 분들께 유용할 수도(?) 있는 내용 위주로 쓰여졌다는 것만 다르겠습니다.
 
 
 

@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://babyworm.github.io/"
+baseURL = "https://babyworm.net/"
 defaultContentLanguage = "ko"
 
 ## defined in language
