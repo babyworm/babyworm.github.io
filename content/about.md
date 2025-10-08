@@ -17,16 +17,19 @@ categories: [
 ]
 showComments: false
 mathjax: false
+showAuthorBottom: false
 ---
 
 {{< timeline >}}
 
 {{< timelineItem icon="tag" header="Babyworm?">}}
+SiliconIP Developer & Architect.
 <ul>
   <li>Name: Hyun-Gyu Kim</li>
-  <li>Email: <babyworm@gmail.com></li>
+  <li>Email: <a href="mailto:babyworm@gmail.com">babyworm@gmail.com</a> </li>
   <li>Affiliation: Openedges Technology Inc.</li>
 </ul>
+
 {{< /timelineItem >}}
 
 {{< timelineItem icon="star" header="Interests">}}
@@ -87,7 +90,6 @@ Blog information
   <li> 이 페이지는 <a href="https://gohugo.io/">Hugo</a>와 <a href="https://themes.gohugo.io/themes/hugo-theme-blowfish/">blowfish</a> 테마를 사용하여 작성되었습니다. </li>
 </ul>
 
-{{< github repo="babyworm/babyworm.github.io" >}}
 
 {{< /timelineItem >}}
 
