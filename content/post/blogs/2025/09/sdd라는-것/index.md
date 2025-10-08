@@ -3,14 +3,15 @@ title: SDD라는 것
 description: ""
 date: 2025-09-15T16:47:28.575Z
 preview: ""
-tags: []
-categories: [개인적인]
+tags: 
+categories: 
+    - 개인적인
 ---
 
 이건 frontmatter를 이용해서 써 보고 있습니다.
 
 ## Vibe Coding
-최근에 Vibe Coding 이라는 것을 하고 있다고 이야기했습니다.
+최근에 {{< wikipedia "Vibe Coding" >}} 이라는 것을 하고 있다고 이야기했습니다.
 
 말이 참 거창한데, 몇 가지를 느낀 것이 있습니다.
 
