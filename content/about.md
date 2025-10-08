@@ -49,12 +49,8 @@ mathjax: false
 
 ### Some information about this site
 * 이 페이지는 [Hugo](https://gohugo.io/)와 [blowfish](https://themes.gohugo.io/themes/hugo-theme-blowfish/) 테마를 사용하여 작성되었습니다.
+* Cloudflare page로 deploy하고 있습니다.
 
 * for reminding
   * Domain Due (babyworm.net): **2030-04-24** ; [cloudflare](https://www.cloudflare.com/ko-kr/)
   * hosting due: **2025.11.04** ; [cafe24](https://www.cafe24.com/ecommerce/hosting/)
-
-
-
-
-
