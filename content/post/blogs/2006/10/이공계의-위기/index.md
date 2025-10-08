@@ -10,2394 +10,356 @@ tags:
   - 이면우
 
 ---
-공계의 위기란다. 이공계가 무너진단다. 국가 경쟁력이 걱정된단다.  
-그리고, 내 놓는 대책이란 것들이 아주 가관입니다.  
-&#8220;병역특례&#8221;를 준답니다. 군대 가기 싫어서 이공계 선택한 사람들이 정말 열심히 공부할까요?  
-&#8220;공무원 특채&#8221;를 한답니다.. 공무원 되려고 이공계 선택한 사람들이 정말 열심히 할까요?  
+이공계의 위기란다. 이공계가 무너진단다. 국가 경쟁력이 걱정된단다.
+<br>
+그리고, 내 놓는 대책이란 것들이 아주 가관입니다.
+<br>
+&#8220;병역특례&#8221;를 준답니다. 군대 가기 싫어서 이공계 선택한 사람들이 정말 열심히 공부할까요?
+<br>
+&#8220;공무원 특채&#8221;를 한답니다.. 공무원 되려고 이공계 선택한 사람들이 정말 열심히 할까요?
+<br>
 정책 입안 하시는 분들의 머리속이 궁금합니다.
 
-경영대 교수님들이 아주 편하게 하시는 말씀이 있습니다.  
-&#8220;세상에 제일 바보들이 공대 인간들이다.. 돈 몇푼 더주면 일 열심히하겠다고 줄을 선다.. &#8221;  
+경영대 교수님들이 아주 편하게 하시는 말씀이 있습니다.
+<br>
+&#8220;세상에 제일 바보들이 공대 인간들이다.. 돈 몇푼 더주면 일 열심히하겠다고 줄을 선다.. &#8221;
 (결코 제가 지어낸 말이 아니니..더 가슴 아픕니다.)
 
-예전에, 어디서던가.. 기억은 나지 않습니다만..  
+예전에, 어디서던가.. 기억은 나지 않습니다만..
+<br>
 우리나라 반도체가 이만큼이나마 성장할 수 있었던 가장 큰 이유는 &#8220;정부에서 반도체에 무지했기 때문이다&#8221;라는 말을 들었습니다. 정부에서 무지했으니 지금처럼 여러가지 &#8220;규제&#8221;를 할 수 없어서 성공했다는 자조적인 이야기지요.
 
 &nbsp;
 
-정부에서는 이공계의 위기가 &#8220;이공계의 비효율성&#8221;에서 기인한다고 보는것 같습니다.  
-그러니, 이런 저런 평가 기준을 내리고, 그 웃긴 SCI 논문 편수로 교수의 연구 업적을 평가하려합니다.  
-저희 분야에서는 SCI에 포함되는 것이 별로 없죠..  
-SCI 저널보다, ASPLOS나 ISCA와 같은 학회에 논문을 내는 것을 최고의 성과로 칩니다. ASPLOS는 SCI도 아니고, ISCA는 그나마 ACM CA newsletter에 속하면서 SCI에 들어갑니다.  
+정부에서는 이공계의 위기가 &#8220;이공계의 비효율성&#8221;에서 기인한다고 보는것 같습니다.
+<br>
+그러니, 이런 저런 평가 기준을 내리고, 그 웃긴 SCI 논문 편수로 교수의 연구 업적을 평가하려합니다.
+<br>
+저희 분야에서는 SCI에 포함되는 것이 별로 없죠..
+<br>
+SCI 저널보다, ASPLOS나 ISCA와 같은 학회에 논문을 내는 것을 최고의 성과로 칩니다. ASPLOS는 SCI도 아니고, ISCA는 그나마 ACM CA newsletter에 속하면서 SCI에 들어갑니다.
+<br>
 ASPLOS나 ISCA에 논문이 실리면, 미국 어떤 대학에라도 교수로 갈수 있다는 이야기가 있을 정도로 인정받지만 국내에서는 ASPLOS에 논문을 내더라도 SCI도 아니니 업적 평가에서 바닥을 긁겠죠.
 
 많은 교수님들도 많은 경우에 더 좋은 conference보다 LNCS가 되는 것을 선호하는 경향을 보입니다. 교수 업적 평가가 SCI에 치중된 이유겠지요.
 
 &nbsp;
 
-오히려 이런 경향이 &#8220;이공계의 비효율성&#8221;을 부추기는 것으로 보입니다.  
-학문에서는 여러 형태가 있는데, 그 다양성을 인정하지 못하고 하나의 틀로 재단하려 하는 것이 얼마나 웃깁니까?  
+오히려 이런 경향이 &#8220;이공계의 비효율성&#8221;을 부추기는 것으로 보입니다.
+<br>
+학문에서는 여러 형태가 있는데, 그 다양성을 인정하지 못하고 하나의 틀로 재단하려 하는 것이 얼마나 웃깁니까?
+<br>
 그리고, 그걸 절대적인 기준으로 섬기고 있는 정부의 대책이란&#8230;
 
 대책에 관해서는 많은 교수님들의 좋은 글이 있으므로, 저는 그 글을 인용하는 것으로 이글을 마치고자 합니다.
 
 이쪽분야에서 저명하신 경종민 교수님의 이공계의 위기 관련 글은 아주 공감이 되는 글입니다. (뭐, 분야가 비슷해서 그럴지도 모르겠습니다.)
 
-&nbsp;
+---
+## 경종민 교수님의 글
 
-<p style="font-size: 13px; margin: 0px; color: #000000; text-indent: 0px; line-height: 21px; font-family: '바탕'; text-align: justify;">
-  <a href="http://vswww.kaist.ac.kr/~kyung/mainessay/ess-8.htm">http://vswww.kaist.ac.kr/~kyung/mainessay/ess-8.htm</a>
-</p>
+<a href="http://vswww.kaist.ac.kr/~kyung/mainessay/ess-8.htm">http://vswww.kaist.ac.kr/~kyung/mainessay/ess-8.htm</a>
 
-<p style="font-size: 13px; margin: 0px; color: #000000; text-indent: 0px; line-height: 21px; font-family: '바탕'; text-align: justify;">
-  <p style="font-size: 13px; margin: 0px; color: #000000; text-indent: 0px; line-height: 21px; font-family: '바탕'; text-align: justify;">
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">즉, 국가경쟁력을 올리는 데는 이공계 인력의 질의 고양이 저변의 확산보다 더 효과적이라고 봅니다. 질의 향상은 양의 확산을 유도할 수 있으나 그 반대는 꼭 성립하지는 않습니다. 어쨌든, 우리나라의 현실은 대학의 이공계 졸업생들이 취업이 잘 안되는 가운데 기업에서는 (쓸만한) 사람이 없다고 불만을 토로하고 있습니다. (여기에는 물론 사회의 수요분야와 대학의 양성분야가 잘 match 되지 않는다는 점이 있습니다.) </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">우선, 이공계인력의 기능에 대한 사회의 수요비중이 계속 감소하는 것은 자연스런 현상이라는 것을 인식할 필요가 있습니다. 이것은 제품의 기능을 만들어 내는 생산 효율이 향상되는 속도에 비하여, 새로운 요구 기능, 즉 시장의 성장속도가 느리기 때문입니다. 즉, 만드는 실력은 빨리 자라는데, 시장은 더디 자라는 것입니다. 그래서 시장의 수요를 채우기 위해 제품을 연구, 개발, 생산해 내는 사람들, 즉 이공계 인력의 수요는 줄어들기 마련입니다. 일인당 생산성이 매우 좋아져서 일감이 꽤 늘었는데도 불구하고 일꾼의 수가 그대로이라면 일인당 일 할 시간은 줄어들게 됩니다. 일꾼의 수가 줄지 않으면 일할 시간이 줄게 되거나, 실업자가 생기게 됩니다. 이것은 수요 공급 법칙으로서 과학기술자의 경제적 보상을 높이려면 대학의 이공계 정원을 동결하거나, 축소하여야 함을 강력히 시사하고 있는 것입니다. 의사나 법조인들이 의대, 법대의 정원을 줄이라고 요구하는 것은 바로 이 때문입니다. 그런데, 항상 과학기술자들은 이공계 인력을 늘리라는 요구를 하고 있습니다. 왜 그럴까요? </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">그것은 우리나라에서 이공계인력을 줄였는데, 다른 나라는 안 줄인다면 우리나라의 국가경쟁력이 상대적으로 떨어지기 때문입니다. 모든 나라가 유엔에 모여 같이 이공계인력을 동비율로 감축하면 세계적으로 모든 물건의 양이나 질이 떨어지고 소비자는 별 수 없이 기능이 떨어지는 물건을 비싸게 살 수 밖에 없습니다. 불행하게도(?) 유엔에서 이러한 일을 하지 않기 때문에 (어차피 유엔에는 이공계인력이 별로 없습니다만) 결국 각 나라는 기술 인력을 더 많이 양성하거나 최소한 유지하려고 노력할 수밖에 없습니다. 의사나 변호사의 고객은 도망갈 수 없지만, 기술자의 고객은 얼마든지 달아 날 수 있는 것이지요.(물론 국내 의사가 너무 형편없으면 전 국민이 외국병원에 비행기타고 가게 될 것이지만) 결국 가두어 놓은 물에서 낚시하는 사람들이 의사이고, 공해에서 국가대표로서 다른 나라와 경쟁하며 고기잡는 사람들이 기술인력들입니다. </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">이렇게 하여 이공계 인력을 증원해 가면 국가가 국가로서의 경쟁력은 가질 수 있게 되지만, 이공계 인력 일인당 수입이 줄어든다는 문제가 불가피하게 생깁니다. 제품의 경쟁력은 싼 가격이나 좋은 질에서 오는 것이니까 최선진국이 아닌 나라의 기술자들은 싸게 판 물건값만 나누어 갖는다면 그 나라의 의사보다 가난할 수 밖에 없습니다. </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">정부가 이공계를 지원할 필요가 바로 여기에 있습니다. 축구의 국가대표선수들처럼 이들도 국가의 의도적인 지원이 있어야 좋은 사람이 모여 들고, 그렇게 해서 더욱 질이 좋고 부가가치가 큰 제품을 만들 수 있게 됩니다. 부가가치가 크지 못한 물건을 만들고 있으니 소득이 적은 것은 당연하다고 방치하면 그 나라의 제품은 점점 그 나라의 bottom class 에 의해 만들어지고 나라의 경쟁력은 추락하게 되지요. 우리나라가 선진국으로 가는 데에는 이러한 국가의 역할이 절대적으로 필요합니다. 이것을 정부에 요구하여야 합니다. 그러나 WTO 는 정부가 기업 활동에 직접 지원금을 줄 수는 없게  규정하고 있으므로 정부는 결국 인력양성이나 순수연구를 재정적, 제도적으로 smart 하게 지원하는 것을 통하여 그 성과를 거둘 수 있습니다. 그런데 우리 정부가 이 일을 잘 한다 해도, 다른 나라의 정부도 이러한 일을 하고 있으므로 이것, 즉 정부의 연구, 교육사업에 대한 재정적 지원만으로 우리나라의 기술 인력의 소득수준과 국가의 상대적 경쟁력이 좋아 지기를 기대하는 것은 무리입니다. </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p style="font-size: 13px; margin: 0px; color: #000000; text-indent: 0px; line-height: 21px; font-family: '바탕'; text-align: justify;">
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">이공계 인력의 소득수준을 높이기 위해 이공계 교수들이 할 일을 찾아야 하는 이유가 여기에 있는 것 같습니다. 기술자의 가치를 높이는 방법의 하나는 기술 영역의 확장이라고 생각합니다. 돈 잘 버는 병원은 치료뿐 아니라 고객 접대도 잘 합니다. 이처럼 기술이 그 주위의 여타 기술과 접목되거나 (학제적 기술), 혹은 새로운 영역 (종전의 기준으로 보면 비기술영역 ; 예로써 심리학, 예술, 교육학 등)과 접목될 때 (New Frontier 기술) 새로운 시장이 만들어 지고 이러한 새 시장을 열어 가는 실력이 과학기술자의 능력기준이 될 것입니다. 제가 전공하는 전자공학의 사회적 비중은 계속 줄어 들 것이라고 권위 있는 사회학자 Peter Drucker 는 말합니다. 전자공학은 그래서 새로운 분야로 그 영역을 넓혀 가지 않으려면 정원을 줄여야 합니다. </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">결국 선택은 이렇습니다. 좀더 가난하게 살 것인가, 정원을 줄일 것인가, 그것도 아니라면 학문의 영역을 넓혀 갈 것인가? 우리의 선택은 당연히 제3의 길입니다. 이것은 전자공학뿐 아니라 모든 이공학문에도 해당됩니다. 비슷한 대안이 강구되지 않으면 우리는 몰라도 우리의 10 년 후배들은 더 큰 도전과 싸워야 할 것이고 더욱 이후의 후배들은 그렇게 고생하지 않아도 될 것입니다. 왜냐하면 그들은 존재하지 않을 테니까요. 새로운 영역을 개척하는 것은 단순히 문제 해결 능력(Problem Solving Ability)을 키우는 KAIST 초기의 교육이념을 능가하는 것입니다. 문제를 만들어 내는 능력이 관건입니다. 새로운 교육 이념과 방식이 매우 필요합니다. MIT 의 서남표교수가 기계공학과의 이름을 갖고서도 (이름을 바꾸는 것은 힘들다) electronics 는 물론 software, bio-chemistry, physics(quantum computing) 등 여러 분야의 연구를 활성화한 것도 결국 “영역확장”입니다. </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">이공계 교육과 연구에서 질을 높이는 것은 대상영역을 기존의 영역에서 계속 확대하는 것이며, 이것은 문제를 푸는 창의력보다 더 높은 차원의 창의성, 즉 문제를 만드는 창의성을 요구한다. 교육의 내용과 방법이 변혁되어야 함을 말해 주는 것입니다.</span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p style="font-size: 13px; margin: 0px; color: #000000; text-indent: 0px; line-height: 21px; font-family: '바탕'; text-align: justify;">
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">이상에서는 과학기술자의 경제적 소득을 올리기 위한 관점에서 이공계인력 양성이 질의 향상에 역점을 두어야 함을 말하였습니다. 한편, 좋은 질의 인력을 이공계로 끌어 들이기 위해서는 교육의 내용이 도전적이어야 하고 교육의 방법이 매우 흥미진진해야한다는 조사 결과가 있습니다. (참고 문헌 1) 평균수준의 학생들은 장래 직업의 선택에 있어서 직업의 안정성, 소득을 중요시하나, 최고수준의 학생(과학고)들은 공부 내용이 얼마나 흥미 있고, 도전적인가 하는 것을 꼽고 있는 것입니다. 결론적으로, 이공계 기피는 이공계 인력 양성에서 질의 향상으로만 해결할 수 있고, 이는 학문 영역의 확장과 교차를 말하는 것이고, 지금 우리에게 중요한 것은 이공계 내의 다른 영역간의 교합뿐 아니라, 인문계, 예술 등 영역의 무한한 공간으로 확장해 가는 것으로서, 하느냐 안 하느냐가 아니라 어떻게 할 것이냐 라고 봅니다. 그 변화는 연구는 물론, 교육의 내용에서, 그리고 교육의 방법에서 현저한 다른 모습을 보이도록 요구해 올 것입니다.(끝) </span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p style="font-size: 13px; margin: 0px; color: #000000; text-indent: 0px; line-height: 21px; font-family: '바탕'; text-align: justify;">
-    <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">참고문헌 1) 고등학생들의 이공계 기피현상 실태 분석 및 개선 방안, 한국직업능력개발원, 2002 년 7 월.     “일반고 학생들을 대상으로 조사한 경우 과학기술자는 ‘일하는 즐거움’ 항목과 ‘사회적 기여도’ 항목에서 10 위안에도 못 들었지만, 과학고 학생들을 대상으로 한 조사에서는 ‘일하는 즐거움’ 항목과 ‘사회적 기여도’ 항목에서 과학기술자가 각각 1 위이었다. 과학고나 일반고 학생 모두 수입과 사회적 인정 면에서는 의사를 1위로 꼽았고, 과학기술자는 10 위안에도 못 들었다. 이 설문조사의 시사점은 이렇다. 현실에 대한 인식은 일반고나 과학고 학생이나 모두 같다. 그러나 과학고 학생들은 남이 덜 인정 해주고 수입이 적어도 사회적 기여가 크고 일하는 즐거움 때문에 과학자가 되겠다는 것이다. 참 눈물나는 얘기이다. 이 아이들을 가난하게 살게 해서는 안 된다는 생각이 든다. 이것이 선배로서 우리가 할 일이다. 반면, 일반고 학생들은 ‘과학자는 배고프고 인정도 못 받으니 나는 과학자가 안 되겠다’고 생각을 하고 있는데 이것은 너무도 당연하다. 이들은 과학기술자가 잘 나가면 달라붙을 사람들이다. 질을 우선으로 교육해야 저변도 확대되는 것이다.</span></span>
-  </p>
-  
-  <p>
-    <span style="font-family: 굴림; font-size: 10pt;">  </span>
-  </p>
-  
-  <p class="HS13" align="left">
-    <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1. 우리나라의 경우</span></span>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p class="HS14" align="left">
-    <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 대학 입시 지원자 중 이공계 비율 ;</span></span>
-  </p>
-  
-  <p>
-    <span style="color: black; line-height: 27px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">지난 4년간 지속적인 급격 하락세임(1998년 42.5% → 2000년 34.7%    → 2002년 26.9% ; 2003 학년도는 교차지원 금지로 35%로 상승 예상.)    </span></span>
-  </p>
-  
-  <p>
-    <span style="font-size: 10pt;">그나마 이공계 지원자 중상위 그룹은 대부분 한의과, 의과지원자들임.</span>
-  </p>
-  
-  <p align="center">
-    <p>
-      &nbsp;
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p style="font-size: 13px; margin: 0px; color: #000000; text-indent: 0px; line-height: 21px; font-family: '바탕'; text-align: justify;">
-      <span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;"><br /> </span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2) 이공계 박사학위 취득자의 급격한 감소 ;</span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 27px; font-family: 바탕; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1997년 1578명, 1998년 1452명, 1999년 1260명, 2000년 1207명, 2001년 958명(1997년 대비 60.7%)으로<br /> 계속 감소일로.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">3) 두뇌유출</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅰ) 해외유학생 669명 대상 설문조사 결과(한국과학기술인 연합) ; 95%가 “해외 일자리 있으면 귀국<br /> 미루겠다.”  </span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">이 중 32%(214명)는 “해외에 정착하겠다.”, </span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">63%(420명)은 “외국에서 일단 일하다 국내에 마음에 드는 자리가 생기면 귀국하겠다.”</span></span></span>
-    </p>
-    
-    <p>
-      <span style="font-size: 10pt;">     <span style="color: black; line-height: 35px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅱ) 취업이민 중 IT 관련 고급 기술 인력 비율 ;</span></span><span style="color: #000000; line-height: 35px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 35px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">1997년 26.3% → 2001년 52.4%</span></span><span style="font-family: 굴림;"><br /> </span><span style="color: black; line-height: 35px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅲ) 외국 유학생 비율 :</span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">우리나라 : 외국 유학생 26.2명, 외국인 학생 1명(인구 1,000명당)</span></span><span style="font-family: 굴림;"><br /> </span><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">미    국 : 외국 유학생 2.0명, 외국인 학생 32.4명(인구 1,000명당)</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2. 외국의 경우</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 선진국의 경우 1인당 소득 연 3만불 수준에 도달하여 서비스 산업이 활성화 되면서 이공계 기피 현상이 생김. 선진국의 서비스 산업(금융, 오락, 소송, 요식)은 국내용이 아닌 세계적 경쟁력을 가지고 있음.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p style="font-size: 17px; margin: 0px 0px 0px 54px; color: #000000; text-indent: -27px; line-height: 31px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">⇨ 우리나라의 경우 연 1만불 소득 수준에서 생긴 탈 이공계 현상과는 성격이 다름.<br /> 우리나라 서비스 산업은 국제 경쟁력 즉, 외화가득 능력이 약한 국내용 성격이 큼.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2) 미국 ;</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 이공계 기피 현상이 있으나, 외국 유학생의 유입으로 본국인의 탈이공계 공간을 충분히 채움.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 기업 CEO의 50% 이상이 이공계 출신 임.(GE의 웰치, IBM의 거스너 등)</span></span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">3) 프랑스 ;</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 국가 elite 양성코스인 그랑제꼴 180개교 중 80%는 이공계 학교 </span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">→ 100% 취직 보장.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 특히, 최고 명문인 에꼴 폴리텍 학생들은 매년 개선문 군사행진에서 선두에 섬.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 파리 증시 최우량 상장기업 40개 중 35개 사의 CEO가 파리 공대 졸업생.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">4) 중국 ;</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 상위 그룹 학생 대부분이 이공계 진학 희망</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 최고 권력 기구인 공산당 정치국의 상무위원 7명 중 6명이 공과대학 출신. “정치를 하고 싶으면 공대를<br /> 가야 한다”(?)</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 매년 2명의 과학자에게 약 8억원의 “과학기술대상” 수여.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">3. 우리나라의 이공계 기피 현상에 대한 우려들</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 사이언스 지(2002. 3. 15)</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">서울공대 박사과정 미달 사태 보도를 통해 한국에서의 이공계 기피 현상을 우려하며,<br /> 그 원인으로 젊은 세대의 가치관 변화, 생활수준 향상, IMF 위기때 연구원 대량 실직 사태를 듦.</span></span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 26px; font-family: 휴먼고딕; text-align: justify; font-size: 10pt;"><span style="color: #0033ff; font-family: 굴림;">“60-70년대 과학기술인 우대 및 청소년의 이공계 선망 분위기가 80-90년대 한국의 고도성장을 낳았다.<br /> 그렇다면 2000년대 초 이공계 기피현상 속에서 2010년 이후 한국의 모습을 예측하는 것은 어렵지 않을 것이다.” (사이언스)</span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">2) 한국산업기술진흥협회의 전국 989 중소기업대상 ‘민간기업 연구개발 활동 애로사항’ 조사(2002.초) ;</span></span><span style="font-family: 굴림;"><br /> </span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">응답 기업의 64.1%가 제 1 애로사항으로 꼽은 것은 ‘인력확보’</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">3) 정부의 과학기술 기본 계획(2001.12) ;</span></span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">2006년까지 IT 등 신기술 분야 수요는 43만명, 예상공급(대졸)은<br /> 22만명으로 심각한 인력 수급 차질 예상.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">4) 삼성경제 연구소의 ‘이공계 인력공급의 위기와 과제’ 보고서(2002.7) ;</span></span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">과거의 고도성장의 견인차였던<br /> 이공계 인력 양성이 총체적 위기 상황에 처해있음.  국가 최우선 과제로 설정. 특단조치가 요구 됨.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">4. 이공계 기피 심화의 원인 ;</span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 세계적인 현상이라 볼 수 있다.  단, 미국․독일․일본 등 강대국은 개인 연소득 3만불 대 진입시에 이공계 기피 현상이 나타났고, 이미 서비스 산업이 국제 경쟁력을 확보한 상태라는 점이 우리와 다름.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2) 학업의 난이도가 높은데 비해 깨닫는 즐거움 등 흥미 유발이 부족함 ;</span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">특히, 우리나라는 수학․과학 등 시간을 갖고 깊이 파고들어야 하는 학문을 속성주입식 교육으로 대하기 때문에 발견하고 깨닫는 즐거움이 없어 결국 흥미를 잃게 됨.</span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 29px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">(예 : 입시지옥에서 벗어나 세계적 경쟁력을 갖춘 미래의 과학영재를 키우기 위한 과학 고등학교마저 입시<br /> 준비 학교가 됨.)</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">3) 평생 직업으로서 경쟁력을 유지하기 위한 노력이 계속 필요함.</span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">또한, 능력과 노력에 대한 평가기준이 정량적으로 객관화 되어 있고, 세계적으로 비교․경쟁해야하므로 지속적으로 노력하지 않으면 뒤쳐짐.(경륜과 경험축적 및 인간관계 구축에 의한 경쟁력 향상 효과는 인문계 직종보다 약하다) 젊어서 자격증만 따 놓으면 비교적 평생이 보장되는 변호사․의사에 비해 고달프고 불안하다.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">4) 경제적 보상과 직업의 안정성이 떨어짐.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">&#8211; 연간소득 ;</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅰ) 의사는 2억원, 개업변호사 1.8억원, 국립자연대 교수 0.4억원</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅱ) 대졸초임 경우 신용 평가사는 3500만원, 금융업종은 2700만원, 전자 및 IT 업종은 2050만원 정도 임.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">&#8211; 그랜저 타는 나이에 대한 설담 ; </span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">  한의대 30세, 변호사․의대 35세, 공대출신 45세, 자연대는 영원히.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">※ 프랑스의 경우 이공계 대졸자 초임은 2,500 Euro(280만원)로 인문계 1,500 Euro보다 훨씬 높음.  미국의 전문엔지니어의 시간당 급여 31.37불로 변호사의 32.35불과 비슷한 수준 임.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">5) 사회 결정 구조에서 상위권 진출이 미미함.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅰ) 장관급 중 이공계 출신 비율은 10%(19명) 이내임.  현 국회의원 중 이공계 출신은 10% 도 안됨.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅱ) 30대 상장 대기업의 CEO 중 이공계 출신은 23%(19명)에 그침.</span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">상경계는 52%(43명), 기타(법학 등)은 25%(21명) 임.</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅲ)</span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">4급이상 공무원 중 이공계는 11.4%에 그침.  인문계는 73.6%,  기타 15%임.<br /> (2001년 11월 국가기술자문회의 자료)</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">6) 사회 일반 풍물과 풍조의 문제</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅰ) 성급한 마음, 근시안적 사고 ; 평생 꾸준히 자기혁신․계발을 하며 일하는 이공계 직종보다는 단 한번의 집중된 노력으로 자격증을 따면 생활이 보장되는 쪽을 선호함.  결국 나라 전체적으로 발전을 향해 열심히 노력하는 비율과 연령상한선이 낮아짐.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅱ) 나라의 경쟁력 향상보다는 나라 안에서의 몫 챙기기에 힘쓰는 풍조;</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">의사나 변호사는 주로 대학(의대․법대)의 정원을 늘이거나, 전문대학원 설치로 문호를 개방하는 것에 반대하지만, 엔지니어나 공대 교수들은 자기 분야의 인력 양성에 항상 찬성한다.  왜 그럴까?  하나는 국내시장을 나누어 먹는 입장이므로 수가 많을수록 개인당 수익은 감소하는데 비해, 다른 하나는 수를 키워야 세계 시장에서 우리나라 제품과 기술의 경쟁력을 키울 수 있기 때문임.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅲ) 내용의 질 보다 형식과 외관을 중시하는 풍조 ;</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">만들고, 고치고, 연구하고, 땀 흘리며 심각하게 씨름하는 모습이 존중되던 사회풍조가 소비하고, 놀고, 가볍게 튀며, 멋내는 것을 향해 바뀜.  연예인, 스포츠 스타가 과학기술자 보다 돈도 훨씬 더 잘 벌고, 사회적 존경도 더 받는다면 어떻게 될까?</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">(2002 학년도 수능 : 이공계 27%, 예체능계 17%, 인문계 55%)</span></span><span style="color: black; line-height: 21px; font-family: 굴림; text-align: justify;"><span style="font-family: 굴림;"><br /> </span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="font-family: 굴림;"><br /> </span><span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">Ⅱ. 이공계 기피심화 현상이 산업계와 국가경쟁력에 미치는 영향</span></span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1. 2차산업(제조업)과 그 고부가가치화의 중요성</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 산업의 변천과정을 1차(농․어․임․광업), 2차(제조, 가공에 의한 대량생산), 3차(금융․유통․오락 등 서비스) 산업의 순서로 일어나는 것으로 볼 수 있음.  천연 자원이 많은 나라는 1차 산업에서 2차, 3차로 이행하며, 천연자원이 적은 나라는 2차 산업에서 시작하여 3차로 이행 함.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">천연 자원이 풍부하지도 않고, 그렇다고 서비스 산업이 국제 경쟁력을 가질 정도로 발달하지 않은 나라가 먹고 살 길은 2차 산업인 제조업 밖에 없으며, 제조업의 고부가가치화를 이루는데 가장 중요한 것은 양질의 이공계 기술 인력의 확보 임.</span></span>
-    </p>
-    
-    <p>
-      &nbsp;
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="font-size: 10pt; color: #000000; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span>
-    </p>
-    
-    <div align="left">
-      <p style="font-size: 15px; margin: 0px; color: #000000; text-indent: 0px; line-height: 23px; font-family: '한양견명조'; text-align: center;" align="left">
-        <span style="color: black; line-height: 23px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">표 1. 천연자원 보유정도와 서비스 산업 발달 정도에 따른 분류</span></span>
-      </p>
-      
-      <table style="border-collapse: collapse;" border="0" width="548" cellspacing="0">
-        <caption align="bottom"><span style="font-size: 10pt;"> </span></caption> <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" colspan="2" rowspan="2" valign="center" width="189" height="65">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" colspan="2" valign="center" width="359" height="32">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">천연자원 보유 정도</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="185" height="32">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">풍  부</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="174" height="32">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">빈  곤</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" rowspan="2" valign="center" width="125" height="144">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">서비스 산업<br /> 발달 정도</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="64" height="68">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">매우발달</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="185" height="68">
-            <p style="font-size: 17px; margin: 0px 0px 0px 9px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">미국, 캐나다</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="174" height="68">
-            <p style="font-size: 17px; margin: 0px 0px 0px 9px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">유럽제국, 싱가폴, 스위스</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="64" height="57">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">빈약</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="185" height="57">
-            <p style="font-size: 17px; margin: 0px 0px 0px 9px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">중국, 러시아, 호주, 인도</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="174" height="57">
-            <p style="font-size: 17px; margin: 0px 0px 0px 9px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">일본, 한국, 이스라엘</span></span>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </div>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2) 2차산업이 우리나라보다 50년이상 먼저 발전한 일본도 서비스 산업에서 세계 수준에 이르지 못하고 있는 것은 지정학적 고립과 이에 의한 언어․문화의 차이에 연유하는 것으로 보이며, 이 점은 우리나라도 같은 입장에 있음.</span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 0px 0px 0px 80px; color: #000000; text-indent: -53px; line-height: 31px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">→ 즉, 우리나라는 스위스, 싱가폴에 비해 산업의 중심이 언어․문화, 지정학적 위치가 큰 역할을 하는<br /> 3차산업으로 이행하는 것이 어려움.  </span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 0px 0px 0px 80px; color: #000000; text-indent: -53px; line-height: 31px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">우리나라의 경우, 실제로 외화 획득을 하는 업종은 대부분 2차산업임.(수출에서의 제조업 비중 >><br /> 총생산양에서의 제조업 비중)</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 0px 0px 0px 80px; color: #000000; text-indent: -53px; line-height: 31px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;"><br /> </span></span>
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2. 고부가가치 제조업에서 이공계 인력의 숫자보다 질이 더   중요함</span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 현대 제조업은 대량생산, 급속 유통의 특성 때문에 성능이 가장 우수한 제품이 전세계 시장을 독점하는 경향을 가짐.  즉, 탁월한 제품․탁월한 기술이 국제 경쟁력의 핵심이며, 따라서 숫자보다 질이 더욱 중요함.</span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">대입교차지원 금지로 인해 수능시험에서의 이공계 지원 비율이 2003학년도 입시의 경우 27% → 35%로 상향 예상 하지만, 이는 이공계 인력의 질을 높이는 효과를 가져오지 못함.</span></span>
-    </p>
-    
-    <p>
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">상위권 학생들이 여전히 의과, 한의과, 법과 편중 현상을 보임.</span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2) 실제로 우리나라는 이공계 인력의 구직난과 구인난이 공존함 ;</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 주력산업(자동차, 기계, 철강, 조선, 섬유, 화학, 반도체, 전자, 에너지) 분야의 인력대란이 예상 됨.  이는 실제 산업계의 수요(분야, 수준면에서)와 거리가 먼 공학교육 체계로 저품질 엔지니어가 양산되고 있기 때문임.(산자부 6/11 발표자료)</span></span><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span></span>
-    </p>
-    
-    <div align="left">
-      <p style="font-size: 15px; margin: 0px; color: #000000; text-indent: 0px; line-height: 23px; font-family: '한양견명조'; text-align: center;" align="left">
-        <span style="color: black; line-height: 23px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">표 2. 각 인력의 분야별 연 부족 인원(- 부호는 공급과잉 인원을 뜻함.)</span></span>
-      </p>
-      
-      <table style="border-collapse: collapse;" border="0" width="503" cellspacing="0">
-        <caption align="bottom"><span style="font-size: 10pt;"> </span></caption> <tr>
-          <td style="border: #000000 0.4mm solid;" valign="center" width="159" height="36">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="113" height="36">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">박사급</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="113" height="36">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">석사급</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="117" height="36">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">학사급</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="159" height="29">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">기계·자동차</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">340</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">1,640</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="117" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">10,100</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="159" height="29">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">화 학</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">120</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">-350</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="117" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">-2,170</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="159" height="29">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">반도체?전자</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">1,140</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">4,500</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="117" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">-2,500</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="159" height="29">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">섬 유</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">170</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="117" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">-3,900</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="159" height="29">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">철 강</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="113" height="29">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="113" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">350</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="117" height="29">
-            <p style="font-size: 17px; margin: 0px 7px 0px 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: right;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: right; font-size: 10pt;"><span style="font-family: 굴림;">-2,740</span></span>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </div>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">3. 이공계 기피 심화가 계속되면 중국 등 개도국과의 경쟁에도 대책이 없게 됨</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 세계에서 우리나라가 경제적 위상을 높이려면 충분한 수의 양질의 이공계 인력의 확보가 급선무임.  이것이 안 될 경우, 현재 서비스 산업은 물론 제조업에서도 앞서가는 미국․유럽․일본은 물론, 강력한 기술 개발 정책을 펴는 중국, 대만, 인도 등과 경쟁상대가 되지 못할 것임.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 중국의 경우, 청소년의 대부분(90%)이 이공계 진학을 희망하고, 북경대, 청화대를 중심으로 엄청난 규모의 산․학 협동이 이루어지고 있음.  현재 우리나라가 중국에 비해 박빙(3-5년)으로 우세한 가전․통신은 물론 반도체(7년)분야까지 중국에 추월당할 경우, 우리나라의 수출구조는 엄청난 타격을 입게 됨.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 소프트웨어 산업은 이미 인도,아일랜드, 미국 등에 질과 수에서 크게 열세 임.</span></span></span>
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">4. 양질의 이공계 인력 양성 없이 『21세기 조선책략』 없음</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 우리나라가 세계 반열에 서는 유일한 길은 경제 발전 임.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 우리나라의 경제 발전의 가장 유망한 길은 제조업에 의한 수출 임.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 우리나라의 제조업이 국제 경쟁력을 가지려면 양질의 이공계 인력 확보가 절대적으로 필요 함.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 우리나라의 지정학적, 언어, 문화 특성상 미국처럼 고급 외국인 기술자의 대량 반입은 거의 불가능하므로,       장기적 체계적 계획에 의한 국내에서의 이공계 인재 양성이 절대 절명의 국가적 과제 임.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt; color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span>
-    </p>
-    
-    <p class="HS12" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">Ⅲ. 대응방안</span></span>
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">1. 이공계 기피 현상에 대한 현재 각처의 인식과 대응방안들</span></span><span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">  </span></span></span>
-    </p>
-    
-    <div align="left">
-      <p style="font-size: 15px; margin: 0px; color: #000000; text-indent: 0px; line-height: 23px; font-family: '한양견명조'; text-align: center;" align="left">
-        <span style="color: black; line-height: 23px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">표 3. 이공계 기피 현상에 대한 각 사회 sector의 인식과 대응방안</span></span>
-      </p>
-      
-      <table style="border-collapse: collapse;" border="0" width="590" cellspacing="0">
-        <caption align="bottom"><span style="font-size: 10pt;"> </span></caption> <tr>
-          <td style="border: #000000 0.4mm solid;" colspan="2" valign="center" width="141" height="57">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="112" height="57">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">문제의 심각성<br /> 파악여부</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="184" height="57">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">현재 거론되는 대응방안</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="153" height="57">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">대응방안의 성격</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" rowspan="3" valign="center" width="59" height="108">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">개 인</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="82" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">일 반</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">기성세대</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="112" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">○</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="184" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">&#8211;</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="153" height="53">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="82" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">학 부 모</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="112" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">×</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="184" height="27">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="153" height="27">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="82" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">청 소 년</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="112" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">×</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="184" height="27">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="153" height="27">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" colspan="2" valign="center" width="141" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">중고등학교</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="112" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">×</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="184" height="27">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="153" height="27">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" colspan="2" valign="center" width="141" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">대 학</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="112" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">○</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="184" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">중고교 강연, </span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">과학자 성공사례 발굴</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="153" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">효과 미흡</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" colspan="2" valign="center" width="141" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">대기업</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="112" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">○</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="184" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">외국인 과학기술자 영입</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">해외 연구센터 설립</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="153" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">주해결책이 되지 못함</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" colspan="2" valign="center" width="141" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">중소기업</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="112" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">○</span></span>
-            </p>
-          </td>
-          
-          <td style="border: #000000 0.12mm solid;" valign="center" width="184" height="27">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">&#8211;</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="153" height="27">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" colspan="2" valign="center" width="141" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">정부</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="112" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">○</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="184" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">장학금, 병역혜택, 각종시상, 해외연수 기회제공</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="153" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">근본 대책이 못 됨</span></span>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </div>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 개인 :</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 학부모와 청소년의 인식은 국가 경쟁력이나 미래사회 수요와 무관히 사회에서 지금 돈 잘 버는 직종을 향함.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 23px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 대학을 불문하고, 의대․한의대․법대 등 자격증으로 평생 고소득이 보장 되는 학과에 우수한 학생들이 편중지원하고 있음.</span></span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2) 이공계 대학 :</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 고등학교에서 좋은 학생을 끌어 오기 위한 노력을 하려는 정도</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 근본적으로 대학의 이공계 커리큘럼이나 교육 시스템의 혁신을 통하여 졸업생의 국제적 경쟁력을 대폭 향상하려는 노력은 매우 부족함.  BK21 사업도 돈을 받아 가는데만 신경쓰다보니, 투자 액수에 비해 장기적 체질 개선 효과는 기대하기 어려운 형편임.</span></span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">3) 대기업 :</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 산학협력, 대학 재정지원에 최근 들어 노력은 했으나, 선진국의 기업들에 비해 태부족임.  특히, 핵심 분야의 장기적 연구는 게을리 했음.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 현재 제안하는 대응방안(외국인 영입, 해외 R&D 센터 설립)은 결코 주 해결책이 못 됨.</span></span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">4) 중소기업 :</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 대부분 기술력과 자금력이 약해서 질을 떠나 최소한의 엔지니어 확보도 어려움.</span></span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">5) 정부 :</span></span>
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅰ) 산업자원부의 산업기술인력 수급 종합대책 :</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 장학기금 조성 : 매년 고교생 3,000명(각 100만원),</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">                   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">             공대생 2,000명(각 500만원)에 지급</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 매년 공대생 2-3년생 1,000명 해외 연수</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 4px 0px 0px 114px; color: #000000; text-indent: -87px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 석박사 병역특례 확대(전문연구요원 특례 3천 → 5천명, 박사장교 500명)</span></span></span>
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅱ) 과학기술부 :</span></span>
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 청소년 과학 교육 내실화 : 과학교사 전문성 강화</span></span></span>
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 과학 영재 교육과 과학고 정상화</span></span></span>
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 교차지원 억제</span></span></span>
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 이공대 교육제도 개선</span></span></span>
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">    </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 청소년 과학화 촉진</span></span></span>
-    </p>
-    
-    <p class="HS15" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅲ) 기획예산처 :</span></span><span style="font-family: 굴림;"><br /> </span><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 매년 이공대 학부 졸업생 1,000명 선발, 아무 조항 없이 30,000불 유학경비 제공.</span></span></span>
-    </p>
-    
-    <p class="HS16" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;"><br /> </span></span>
-    </p>
-    
-    <p class="HS13" align="left">
-      <span style="color: black; line-height: 38px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2. 바람직한 대응방안 </span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">1) 원칙에 대한 고찰 </span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 현재까지 이공계 기피 현상이 계속 심화되어 온 것은 이 문제를 간과했거나, 적극적․근원적으로 대응하지 않았기 때문임.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 이공계 기피 현상의 근본 원인은 간략히 보면 (타분야에 비해), 첫째,사회적 인식과 경제적 보상이 빈약하다는 것(신분 및 부의 열세), 둘째, 나이가 들면 경륜이 쌓이는 인문계보다 계속 실력을 유지․향상하는 노력을 해야 한다는 것(피곤하고 초라한 노년), 셋째, 배우는 과정이 재미없고 사회의 role model 이 적다는 것(동기부여미약)등임.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 이공계 진로에 대한 이러한 부정적 인식을 바꾸려면 우선 이공계 인력의 바람직한 사회적 역할에 대한 올바른 이해와 공감이 이루어져야 함.</span></span></span>
-    </p>
-    
-    <div align="left">
-      <p style="font-size: 15px; margin: 0px; color: #000000; text-indent: 0px; line-height: 23px; font-family: '한양견명조'; text-align: center;" align="left">
-        <span style="color: black; line-height: 23px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">표 4. 이공계 인력의 사회적 역할에 대한 인식</span></span>
-      </p>
-      
-      <table style="border-collapse: collapse;" border="0" width="631" cellspacing="0">
-        <caption align="bottom"><span style="font-size: 10pt;"> </span></caption> <tr>
-          <td style="border: #000000 0.4mm solid;" colspan="2" rowspan="2" valign="center" width="197" height="70">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" colspan="2" valign="center" width="434" height="35">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">이공계 인력의 사회적 역할에 대한 인식</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="200" height="35">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">기존의 인식</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="234" height="35">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">바람직한 변화/새로운 인식</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" rowspan="3" valign="center" width="53" height="115">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">개인의 자세</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">관심영역</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">자기 분야의 문제로 국한</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">자신의 일 뿐 아니라, 그것이 사회에 미치는 영향까지</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">대인관계</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">이기적,피동적,폐쇄적</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">이타적,주도적,개방적</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">대화?협상능력</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">적 음</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">큼</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" rowspan="3" valign="center" width="53" height="115">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">사회적 신분</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">경영상 지위</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">주로 피고용자,월급쟁이</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">얼마든지 CEO, 관리자가 됨.</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">경제적 지위</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">중산층 형성,고용불안정</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="53">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">능력따라 얼마든지 부자 됨. 능력으로 안정성 확보</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">정치?행정상 지위</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">정치는 전무,행정은 4급</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">능력따라 얼마든지 역할 수행</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" rowspan="3" valign="center" width="53" height="141">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">진로에 대한 인식</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">학  업</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">어렵다.</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">재미있다.</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">나이 듦에 따른 직업경쟁력 유지</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">따라가기 힘들다.</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">경륜에 따라 경험,판단력,network에 의한 synergy가 생김.</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="144" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">은퇴시의 느낌</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">초라함</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="31">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">보람 있고 긍지에 참</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" colspan="2" valign="center" width="197" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">공학에 대한 인식</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="200" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">경제적 부 창출의 수단</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="234" height="79">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">공학의 원리와 연구를 통해 경제 뿐 아니라 인간의 삶의 행복에 공헌</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" colspan="2" valign="center" width="197" height="130">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">자연과학에 대한 인식</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="200" height="130">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">사회 수요와 무관히 자기가 좋아서 하는 학문이고 경제에도 도움이 안되므로 국가적 지원 필요성 없음</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="234" height="130">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="left">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">심오한 자연원리를 신나게 연구하여 장기적으로 인류 발전과 행복에 공헌하므로 체계적인 국가의 지원이 필수. 공학발전의 밑바탕이 됨.</span></span>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </div>
-    
-    <p style="font-size: 17px; margin: 0px 0px 0px 54px; color: #000000; text-indent: -27px; line-height: 31px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">2) 사회 각 sector의 이공계 사기진작을 위한 바람직한 변화</span></span>
-    </p>
-    
-    <div align="left">
-      <p style="font-size: 15px; margin: 0px; color: #000000; text-indent: 0px; line-height: 23px; font-family: '한양견명조'; text-align: center;" align="left">
-        <span style="color: black; line-height: 23px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">표 5. 사회 각 sector의 현재, 향후의 모습</span></span>
-      </p>
-      
-      <table style="border-collapse: collapse;" border="1" width="639" cellspacing="0" cellpadding="0">
-        <caption align="bottom"><span style="font-size: 10pt;"> </span></caption> <tr>
-          <td style="border: #000000 0.4mm solid;" colspan="2" valign="center" width="125" height="40">
-            <span style="font-size: 10pt;"> </span>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="249" height="40">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">현 재 모 습</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="264" height="40">
-            <p style="font-size: 17px; margin: 0px; color: #000000; text-indent: 0px; line-height: 28px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">향후의 모습</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" rowspan="2" valign="center" width="57" height="219">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">개인의 </span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">생각</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="68" height="98">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">청소년</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="249" height="98">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">“수학.과학 점수 괜찮고, 소심하고 말하고 글 쓰는 것 싫어서 이과 간다.”</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="264" height="98">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">“이공계 학문은 자연원리를 인간 사회에 좋게 응용하는 것이므로, 수학. 과학 실력 위에 활발한 표현력. 대인관계 구축해야”</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="68" height="121">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">학부모/</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">기성세대</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="249" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">“내 자녀만큼은(지금) 돈 잘 벌고 편한 의사, 변호사 시킨다.”</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">“학벌이 중요하므로 꼭 일류대학에 보낸다.”</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="264" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">“글로벌 경쟁이 심화되면 어느 분야건 국내 자격증 보다는 내면의 실력이 중요하다.”</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">“자녀의 적성을 잘 보고, 맞으면 이공계에 흥미를 갖도록 유도하자.”</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border: #000000 0.4mm solid;" colspan="2" rowspan="3" valign="center" width="125" height="272">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">대 학</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="249" height="53">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">좋은학생(수능점수) 유치에만 급급</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="264" height="53">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">학생 일인당 교수/대학이 시간과 노력을 많이 투자함.</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="249" height="98">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">질보다 양을 중시</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">(학생은 실력보다 평점, 교수는 실력보다 논문 수를 중시)</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.12mm solid;" valign="center" width="264" height="98">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">깊이 있는 연구를 안정적으로 하는 분위기를 만들고, 숫자가 적어도 세계적 논문과 석학을 배출하도록 노력</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.12mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="249" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">교수는 학생을 연구업적 고양의 수단으로 생각하고, 학생의 인격과 삶 보다는 단기적인 연구 성과를 생각함.</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.12mm solid; border-left: #000000 0.12mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="264" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">학생들에게 전문분야 실력 뿐 아니라, 교양과 인격형성을 통해 이공학자의 기쁨과 사회적 사명을 알게 하여, 적극적으로 사회의 지도적 위치에 진출케 함.</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border: #000000 0.4mm solid;" colspan="2" rowspan="3" valign="center" width="125" height="295">
-            <p style="font-size: 16px; margin: 0px; color: #000000; text-indent: 0px; line-height: 26px; font-family: '한양견명조'; text-align: center;" align="center">
-              <span style="color: black; line-height: 26px; font-family: 한양견명조; text-align: center; font-size: 10pt;"><span style="font-family: 굴림;">기 업</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.1mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.1mm solid;" valign="center" width="249" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">아직 인재 양성에 대한 장기전략 부족하여 씨 뿌리는 데는 인색하고 졸업생 데려가는데 열심.</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">(돈 잘 벌 때는 사내잔치, 돈 못 벌땐 산학협력부터 삭감)</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.4mm solid; border-left: #000000 0.1mm solid; border-bottom: #000000 0.1mm solid;" valign="center" width="264" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">이공계 대학과 기업은 한 배에 탄 입장임을 공감하고 대학과의 전략적. 장기적 협력 구축. </span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.1mm solid; border-top: #000000 0.1mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.1mm solid;" valign="center" width="249" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">“국내 인력 없으면 외국인으로 충당하고, 외국에 연구소 세우겠다.” (이것은 보완책이지 대안은 아닐것임)</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.1mm solid; border-left: #000000 0.1mm solid; border-bottom: #000000 0.1mm solid;" valign="center" width="264" height="121">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">이공계 인력의 점진적 경영참여 동기 부여와 경영자 교육 프로그램 적극 도입.</span></span>
-            </p>
-            
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">합리적인 능력 인사제도 발전적 경영체제 구축.</span></span>
-            </p>
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="border-right: #000000 0.1mm solid; border-top: #000000 0.1mm solid; border-left: #000000 0.4mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="249" height="53">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">벤처 열풍으로 연구의 깊이가 없어짐</span></span>
-            </p>
-          </td>
-          
-          <td style="border-right: #000000 0.4mm solid; border-top: #000000 0.1mm solid; border-left: #000000 0.1mm solid; border-bottom: #000000 0.4mm solid;" valign="center" width="264" height="53">
-            <p style="font-size: 16px; margin: 0px 7px; color: #000000; text-indent: 0px; line-height: 22px; font-family: '한양견명조'; text-align: justify;" align="left">
-              <span style="color: black; line-height: 22px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">안정된 여건에서 깊이 있는 전문분야의 인력. 기술 배출</span></span>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </div>
-    
-    <p class="HS14" align="left">
-      <span style="color: black; line-height: 31px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">3) 이공계 기피심화에 대한 바람직한 정부의 대응방안</span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 7px 0px 0px 86px; color: #000000; text-indent: -33px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅰ) 글로벌 경쟁 시대에서 우리나라의 경쟁력의 핵심은 「국가의 과학기술 경영능력」에서 나온다.</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 어떻게 투자할 것인가? (이공계 : 인문계), (순수학문 : 응용학문),</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">(국가연구소 ; 기업 ; 대학), (IT ; BT ; NT ; &#8230; ), </span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">(초 ; 중 ; 고 ; 대학), (수도권 ; 지방), (국내 ; 국외)</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 무슨 일을 하고, 무슨 일을 하지 말아야 하는가?</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">최악의 경영은 안해야 할 일만 하는 것(일부러 이러는 것이 아니라 바빠서 정작 할일은 못하게 됨),<br /> 그 다음은 할 일도 않고 안 할 일도 안 하는 것(무사안일), 혹은 할 일도 하고 안 할 일도 하는 것(천방지축).</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">최고의 경영은 할 일만 하는 것 임. </span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">* Rule of Thumb ; 기업체가 잘 할 일은 정부가 하면 안 됨.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 얼마나 기다려 주는가 ?</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">사안에 따라 결실에 걸리는 시간이 다름</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 이공계 인력을 포함하는 포괄적 국가 인재 양성 및 선발을 위한 좋은 시스템(조직․제도)은 무엇인가?</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">&#8211; 포괄적인 원칙 수립과 거시적 경영 → 일선 기관(대학 및 각급 학</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">       교, 지방 교육청등)에 대한 과잉간섭, 부처간 과당경쟁 및 불화 방지</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">&#8211; 권한과 책임의 이양(중요한 일과 원칙에 집중, 하부부처 동기부여)</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">     &#8211; 소나기식 주입식 공부와 일회성 선발고시제도는 도움 안 됨.</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">     &#8211; 국가의 필요 인재의 분야, 요구능력, 숫자에 대한 연도별 수요표를 </span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">       만들고 계속 갱신해갈 필요 있음.(국가인재육성위원회 설치 바람직)</span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 7px 0px 0px 86px; color: #000000; text-indent: -33px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅱ) 이공계 인력 양성과 연구개발은 통합된 강력한 하나의 기구에 의하여 탁월성과 투명성을 원칙으로 대원칙 중심으로(세부사항은 하부 집행 기구에 일임) 운영하는 것이 바람직함.</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 현재의 교육부, 산자부, 정통부, 과기부의 다원체제는 경쟁력 부족.  국가과학기술위원회가 full-time, 업적평가제, 탁월한 인사 원칙으로 위원회를 구성하여 이 역할을 맡는 것도 고려해 볼 가치 있음.</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 7px 0px 0px 86px; color: #000000; text-indent: -33px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅲ) 양보다 질, 탁월성 중심 평가 및 자원 :</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 대학, 국가 연구소 등에 대한 지원은 협상된(정부와 해당기관 간) 고유의 차별화 된 목표 달성도를 양보다 탁월성 위주로 하되, 공정하고 탁월한 전담위원회에 의한 평가에 의함.  각 기관 내부 운영은 자율적으로 함.</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 4px 0px 0px 86px; color: #000000; text-indent: -33px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify; font-size: 10pt;"><span style="font-family: 굴림;">ⅳ) 사기업체가 할 수 없는 분야에 세계적인 수준의 연구소 설립 운영 → 후세에 물려 줄 국가의 자산이자 세계적 경쟁력의 강력한 수단임.</span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 교육, 환경, 복지, 국방, 에너지, 순수과학, 생명 등의 분야 대상</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 장기적 수요관점에서 확실한 평가</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 탁월한 인력을 대상으로 연봉과 연구 환경의 최고 수준 지원</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 예산 배정은 탁월성, 투명성, 공정성 갖춘 권위 있는 위원회에서 하고, 해당정부기관은 집행만 관할 함.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">(연구책임자가 연구에 집중할 수 있도록)</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 7px 0px 0px 80px; color: #000000; text-indent: -53px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅴ) 직종간, 수입 수준간 공정․투명한 과세 집행으로 이공계 직종의 상대적 박탈감 해소.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 의사․변호사 등 고소득층도 제대로 세금을 내도록 상거래 및 조세제도의 정비를 확실히 해야 함.</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 0px 0px 0px 80px; color: #000000; text-indent: -53px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">       </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">(예:16개 아파트를 가진 의사․변호사 부부의 연간신고소득이 800만원?)</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 정부의 과학기술진흥책이 연구비 뿐 아니라 과학기술자의 개인적 소득까지 포함해야 함.(우수한 과학기술자의 수입과 노년의 문제)</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 7px 0px 0px 87px; color: #000000; text-indent: -60px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅵ)</span></span><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">  </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">단기적 처방(병역혜택, 국가장학금, 각종시상)도 병행하는 것이 바람직 함.  그러나, 일시적 선심성으로 하지 말고 전문위원회에서 신중히 검토하여 시행.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 병역 혜택은 대상자의 전문성과 수요를 기준으로 부여하되, 벤처기업 뿐 아니라, 국가의 핵심 연구소는   물론 대기업 연구소, 자연계 교사 및 교수요원에도 폭넓게 적용.</span></span></span>
-    </p>
-    
-    <p style="font-size: 17px; margin: 7px 0px 0px 80px; color: #000000; text-indent: -53px; line-height: 28px; font-family: '한양견명조'; text-align: justify;" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">ⅶ) 전 직급 공무원 중 이공계 출신의 최소비율을 guideline 화 함.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: #000000; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="hwp-tab: 1;"><span style="font-family: 굴림;">   </span></span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">∙ 정부 각 부처에서 이공계 각 분야의 전문 지식이 필요한 직책의 기능, 숫자 등을 정의할 필요 있음.</span></span></span>
-    </p>
-    
-    <p class="HS17" align="left">
-      <span style="font-size: 10pt;"><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">  결론 : 정부의 가장 중요한 역할은 미래가, 세계가 필요한 탁월한 사람을 키우는 것이며 이를 위해 큰 원칙과  로드맵과 인프라를 만드는 것.</span></span><span style="color: black; line-height: 28px; font-family: 한양견명조; text-align: justify;"><span style="font-family: 굴림;">              </span></span></span><span style="color: black; line-height: 21px; font-family: 바탕; text-align: justify;"><span style="font-family: 굴림; font-size: x-small;"><br /> </span></span>
-    </p>
-    
-    <p class="HS14" align="left">
-      <p>
-        예전에 &#8220;W 이론을 만들자&#8221;라는 책을 써서 많은 공돌이들의 가슴을 사로잡으셨던 이면우 교수님께서 월간 조선에서 하신 말씀이 여러가지로 많은 내용을 전해주는군요..
-      </p>
-      
-      <p>
-        &nbsp;
-      </p>
-      
-      <p class="HS14" align="left">
-        [#M_전문보기|감추기|이공계 기피 현상은 한국이 조선시대로 돌아가고 있다는 증거
-      </p>
-      
-      <ul>
-        <li>
-          근대화 시기의 이공계 선호는 예외의 시대 현상이었다 &#8211; 이공계 기피의 최종 피해<br /> 자는 국민… &#8216;있는 명문도 없애겠다&#8217;는 발상은 죽음에 이르는 병
-        </li>
-      </ul>
-      
-      <p>
-        서울대는 관악산의 최고 대학
-      </p>
-      
-      <p>
-        많은 사람들이 이공계 교육의 위기를 얘기한다. 정확히 말하면 이공계의 위기가 아<br /> 니라 대한민국의 위기다. 이건 아주 간단명료한 문제다. 살고 싶으면 이 문제를 해<br /> 결해야 하고, 죽고 싶으면 지금까지 그랬듯이 그냥 놔두면 된다.
-      </p>
-      
-      <p>
-        나는 1991년 &#8216;서울공대 백서&#8217;를 발간했다. &#8216;서울대학은 국내 최고의 대학도 아니<br /> 고, 세계 400위 안에도 못 드는 관악산의 최고대학&#8217;이라는 게 백서의 핵심 내용이었<br /> 다. 지금까지 변한 것은 아무것도 없다. 서울대학은 지금도 관악산의 최고 대학일<br /> 뿐이다.
-      </p>
-      
-      <p>
-        2002년 대선 때 서울대 폐지 이야기가 나왔을 때 나는 어안이 벙벙했다. 아니 관악<br /> 산 골짜기의 골목대장 밖에 안 되는 대학을 없애서 무얼 어쩌겠다는 것인가? 나<br /> 는 &#8216;서울공대 백서&#8217;와 1992년에 펴낸 &#8216;W 이론을 만들자&#8217;에서 &#8216;오늘날 우리 공학교육<br /> 의 위기는 5년 내지 10년 후 국가 전체의 위기로 냉큼 대두될 것이다&#8217;고 지적했다.<br /> IMF가 터지자 내 책을 읽은 많은 사람들이 &#8220;어쩌면 그렇게 족집게 같이 예견을 했느<br /> 냐&#8221;고 물었다. 그건 상식이 있는 사람이면 누구나 내다볼 수 있는 일이었다.
-      </p>
-      
-      <p>
-        이공계 교육이 왜 국가위기를 진단할 수 있는 지표가 되는가? 이유는 간단하다. 국<br /> 가 경제를 지탱하는 바퀴는 두 개다. 하나는 국가 경쟁력이고 하나는 가계부 작성이<br /> 다. 돈을 잘 벌어야 하고, 번 돈을 잘 써야 하는 이치다. IMF는 벌이는 없고 가계<br /> 부 작성도 엉망이었기 때문에 온 것이다.
-      </p>
-      
-      <p>
-        IMF 외환위기 이후 가계부 작성을 투명하게 합리적으로 해야 한다는 사실을 우리는<br /> 뒤늦게 깨달았다. 엉망이었던 가계부 정리는 대충 끝났다. 구멍난 곳을 메우는 데<br /> 150조원이 넘는 돈이 들어갔다.
-      </p>
-      
-      <p>
-        벌이를 하려면 기술이 있어야 한다. &#8216;W 이론&#8217;에서 나는 세계 1등 기술만이 생존할<br /> 수 있다고 했다. 국제사회에서의 경쟁은 고스톱 판과 포커 판의 게임처럼 1등이 모<br /> 든 것을 가져간다. 2등이나 3등은 가산만 탕진할 뿐이다.
-      </p>
-      
-      <p>
-        당시에는 &#8220;도대체 무슨 얘기냐&#8221;는 사람들이 수두룩했지만, 이제 이 얘기에 이의를<br /> 제기하는 사람은 사라졌다. 예전에는 인구 1억 명이면 내수시장만으로 국가를 지탱<br /> 할 수 있다고 했지만 요새는 인구가 문제가 아니다. WTO 등 글로벌 네트워킹 때문<br /> 에 인구가 10억 명이 넘어도 기술이 없으면 굶어야 한다.
-      </p>
-      
-      <p>
-        우리나라는 과학기술 이외에 팔아먹을 것이 없다.
-      </p>
-      
-      <p>
-        제주도를 천혜의 관광지라고 하지만 1년에 비오는 날이 100일이 넘어 세계적인 관광<br /> 지로는 부적격이다. 발리나 하와이에 가 본 사람들은 내 얘기에 금방 고개를 끄덕<br /> 일 것이다. 관광국가로 먹고 살기에 우리의 문화유산은 너무 빈약하다.
-      </p>
-      
-      <p>
-        벌이가 없으면 아무리 가계부를 잘 써도 소용이 없다. 우리가 돈을 벌 수 있는 원천<br /> 은 과학기술 뿐이다. 대한민국의 대학이 과학기술을 제대로 생산해 낼 수 있는 시스<br /> 템을 갖추고 있느냐, 학생들이 과학기술을 제대로 배우고 있느냐는 우리나라가 5년<br /> 후, 10년 후 어디로 갈 것인지를 보여 주는 가장 중요한 지표가 될 수 밖에 없다.
-      </p>
-      
-      <p>
-        대한민국의 기업과 대학, 연구기관들은 세계에서 경쟁할 수 있는 원천 기술을 연구<br /> 개발하고 있는가? 답은 너무나 절망적이다.
-      </p>
-      
-      <p>
-        삼성전자가 핸드폰을 하나 만들 때 퀄컴에 지불하는 로열티가 판매가의 15% 정도<br /> 다. 반도체를 만들려면 설비와 부품을 일본에서 모두 수입해야 한다. 앞으로 남고<br /> 뒤로 믿지는 장사다. 그것도 삼성전자의 얘기다.
-      </p>
-      
-      <p>
-        정부는 &#8216;2만 달러 국민소득 달성을 위해 5대 성장전략 산업을 육성하겠다&#8217;고 한다.<br /> 독자적인 기술 없이 어떻게 5대 성장 전략 사업을 키우겠다는 말인가?
-      </p>
-      
-      <p>
-        미련한 최후의 변절자들
-      </p>
-      
-      <p>
-        지난해 서울공대생 23명이 사법고시에 합격했다.
-      </p>
-      
-      <p>
-        적어도 100명에서 150명의 공대생이 머리를 싸매고 골방에서 법전을 외워대고 있다<br /> 는 증거다. 아마 그것보다 더 많은 수의 학생들이 &#8216;나도 늦기 전에 고시공부를 해<br /> 야 하지 않을까&#8217;하며 마음의 갈피를 못 잡은 채 고시공부의 언저리를 헤매고 있을<br /> 것이다.
-      </p>
-      
-      <p>
-        서울공대 학부생 5500명 가운데 10% 이상이 고시의 유혹에 시달리고 있다는 얘기다.
-      </p>
-      
-      <p>
-        서울대 물리학과에 다니던 한 학생이 다시 대입 시험을 봐서 서울의대에 입학했다.<br /> 면접장에서 제자를 만난 물리학과의 한 교수는 기가 막혀서 &#8216;물리 과목은 다 맞았겠<br /> 지&#8217;라고 했다고 한다.
-      </p>
-      
-      <p>
-        고시공부를 하고 있는 서울대 자연대와 공대의 학생들은 고등학교 때부터 일찌감치<br /> 돈 잘 버는 의사·한의사·변호사가 되겠다고 작심한 아이들에 비교하면 미련한 &#8216;최<br /> 후의 변절자&#8217;에 불과하다.
-      </p>
-      
-      <p>
-        나는 이 제자들이 딱하기만 하다. 눈치 빠르게 일찌감치 돈 버는 쪽으로 갈 것이지<br /> 서울공대에는 왜 들어왔다는 말인가.
-      </p>
-      
-      <p>
-        서울공대나 자연대학에 진학한 학생들은 모두 고등학교에서 수학과 과학을 특출나<br /> 게 잘 했고, 과학기술을 연구해야겠다는 신념을 가졌던 친구들이다. 그런 아이들이<br /> 흔들리고 있다.
-      </p>
-      
-      <p>
-        이유가 뭘까? 우리 사회가 &#8216;이공계 공부해야 이렇게 비전이 없는데 그래도 고집을<br /> 부리면서 이공계 공부를 계속 할 거냐&#8217;면서 이 아이들을 끊임없이 고문하고 있기 때<br /> 문이다.
-      </p>
-      
-      <p>
-        대전 대덕의 연구원들은 밤 12시까지 연구를 해야 한다.
-      </p>
-      
-      <p>
-        왜냐하면 세계 최고의 연구자 학자들과 치열한 경쟁을 해야 하기 때문이다. 이들이<br /> 20대, 30대에 습득한 기술과 이론들은 순식간에 과거의 것이 되고 만다. 이공계 연<br /> 구인력의 정년은 대부분 40대다.
-      </p>
-      
-      <p>
-        이공계 인력은 과학기술의 발전 속도에 뒤지지 않기 위해 끊임없이 노력해야 한다.<br /> 그런데 이들을 기다리는 건 &#8216;사오정&#8217;이라는 운명이다. 과학기술 인력을 바라보는 우<br /> 리 사회의 눈길에는 존경과 냉소가 뒤섞여 있다.
-      </p>
-      
-      <p>
-        이들이 한국을 이끌어 가는 견인차라는 걸 어렴풋이 인식한다. 하지만 이들의 연구<br /> 활동을 지탱하기 위해 무엇을 해야 할 지에 대해서는 생각하기 싫다. 국민의 이해<br /> 부족과 낮은 지위와 보수 때문에 이공계 출신들은 절망의 늪에 빠져 있다.
-      </p>
-      
-      <p>
-        이런데도 당신들은 자식들을 이공계에 보낼 것인가? 의대와 한의대에, 법과대학과<br /> 상과대학에 자녀들을 보내는 것은 인지상정이고 합리적인 판단이다. 개인차원의 합<br /> 리적인 선택이 모여 사회차원의 비합리적 선택이 되는 현상을 미리 알고, 차단하는<br /> 것은 국가 지도자의 몫이다.
-      </p>
-      
-      <p>
-        재벌 총수들 &#8216;공장이 없으면 파이낸싱이 안 되잖아&#8217;
-      </p>
-      
-      <p>
-        두 재벌기업 총수에게 &#8220;왜 기술력도 확보되지 않은 공장들을 자꾸 늘려가느냐&#8221;고 물<br /> 은 적이 있다. 두 사람의 대답이 똑같았다. &#8220;이교수, 그러니까 이공계 출신들이 눈<br /> 치 없다는 얘기를 듣는 거요. 공장이 없으면 파이낸싱이 안 되잖아.&#8221; 두 총수가 이<br /> 끌던 거대 재벌기업 두 개는 IMF 전후에 무너졌다. 그때 한 재벌 총수는 내게 이런<br /> 얘기를 했다.
-      </p>
-      
-      <p>
-        &#8220;생산성 향상, 그거 별 의미가 없어요. 5~6% 이윤이 남는데 30% 생산성 향상시켜 봐<br /> 야 기껏 2% 포인트 이윤을 더 남기는 겁니다. 공무원들하고 골프 치고, 술 먹고 해<br /> 서 큰 프로젝트 하나 따오면 20%, 30% 이윤이 남아요. 로비 잘하는 게 생산성 향상<br /> 시키는 것보다 열 배는 쉽게 돈 버는 일입니다.&#8221;
-      </p>
-      
-      <p>
-        공장을 세워서 은행 돈을 빌리고, 그 돈을 부동산에 투자하고, 덩치를 키워 정부의<br /> 특혜를 받고…. 그런 식으로 기업들은 살아왔다. 그 체질이 지금도 과히 많이 바뀌<br /> 지 않았다. 서울대 법대와 상대를 나온 사람들은 재벌기업의 비서실, 기획실, 마케<br /> 팅실에 근무하면서 정·관계에 포진한 동문들과 네트워크를 형성했다.
-      </p>
-      
-      <p>
-        지금도 이공계 졸업생들은 &#8216;당신들이 중요하다&#8217;는 말만 듣지 계속 벽지 공장을 돌<br /> 게 된다. 이공대 졸업생들의 좌절은 여기서 시작한다. 엔지니어들이 말도 못 하고<br /> 속을 끓이는 사이에 몇 년 후배인 법대·상대 출신들은 쭉쭉 승진을 한다.
-      </p>
-      
-      <p>
-        이공계 졸업생은 승진에 한계가 있다. 경영진에 많이 기용되지를 못한다. 벽지의 공<br /> 장에 처박혀 있으니까 &#8216;촌닭 같아서&#8217;임원으로는 못 쓰겠다는 것이다.
-      </p>
-      
-      <p>
-        그래도 과거에는 엔지니어들에게 프라이드가 있었다. 공장에서 생산성을 향상시켰다<br /> 고, 품질개선을 했다고 총수와 간혹 악수할 기회도 있었다. 1960년대, 1970년대에<br /> 기업들이 외국 기술과 기계를 도입하면, 영문 매뉴얼을 보고 가동시키는 일을 서울<br /> 공대 출신들이 했다. 복잡한 영어 매뉴얼을 보고 다들 기겁을 하는데 그나마 서울공<br /> 대생들이 그걸 해낼 수 있었다.
-      </p>
-      
-      <p>
-        요즈음은 그 일을 외국에서 공부한 교포 출신들이 대체한다. 영어 실력이 서울공대<br /> 생들보다 월등하기 때문이다. 기업 내부에서 &#8216;서울공대 나온 친구들이 기술을 알면<br /> 얼마나 더 아나, 교포 2세가 낫다. 미국에서 대학교 2학년 다니다가 왔다는데도 또<br /> 랑또랑하고 매너 좋고, 아무나 만나도 섭섭하게 안 하고….&#8217; 이렇게 되는 것이다.
-      </p>
-      
-      <p>
-        이공계가 아니라 이이계
-      </p>
-      
-      <p>
+>즉, 국가경쟁력을 올리는 데는 이공계 인력의 질의 고양이 저변의 확산보다 더 효과적이라고 봅니다. 질의 향상은 양의 확산을 유도할 수 있으나 그 반대는 꼭 성립하지는 않습니다. 어쨌든, 우리나라의 현실은 대학의 이공계 졸업생들이 취업이 잘 안되는 가운데 기업에서는 (쓸만한) 사람이 없다고 불만을 토로하고 있습니다. (여기에는 물론 사회의 수요분야와 대학의 양성분야가 잘 match 되지 않는다는 점이 있습니다.)
+>
+>우선, 이공계인력의 기능에 대한 사회의 수요비중이 계속 감소하는 것은 자연스런 현상이라는 것을 인식할 필요가 있습니다. 이것은 제품의 기능을 만들어 내는 생산 효율이 향상되는 속도에 비하여, 새로운 요구 기능, 즉 시장의 성장속도가 느리기 때문입니다. 즉, 만드는 실력은 빨리 자라는데, 시장은 더디 자라는 것입니다. 그래서 시장의 수요를 채우기 위해 제품을 연구, 개발, 생산해 내는 사람들, 즉 이공계 인력의 수요는 줄어들기 마련입니다. 일인당 생산성이 매우 좋아져서 일감이 꽤 늘었는데도 불구하고 일꾼의 수가 그대로이라면 일인당 일 할 시간은 줄어들게 됩니다. 일꾼의 수가 줄지 않으면 일할 시간이 줄게 되거나, 실업자가 생기게 됩니다. 이것은 수요 공급 법칙으로서 과학기술자의 경제적 보상을 높이려면 대학의 이공계 정원을 동결하거나, 축소하여야 함을 강력히 시사하고 있는 것입니다. 의사나 법조인들이 의대, 법대의 정원을 줄이라고 요구하는 것은 바로 이 때문입니다. 그런데, 항상 과학기술자들은 이공계 인력을 늘리라는 요구를 하고 있습니다. 왜 그럴까요?
+>
+>그것은 우리나라에서 이공계인력을 줄였는데, 다른 나라는 안 줄인다면 우리나라의 국가경쟁력이 상대적으로 떨어지기 때문입니다. 모든 나라가 유엔에 모여 같이 이공계인력을 동비율로 감축하면 세계적으로 모든 물건의 양이나 질이 떨어지고 소비자는 별 수 없이 기능이 떨어지는 물건을 비싸게 살 수 밖에 없습니다. 불행하게도(?) 유엔에서 이러한 일을 하지 않기 때문에 (어차피 유엔에는 이공계인력이 별로 없습니다만) 결국 각 나라는 기술 인력을 더 많이 양성하거나 최소한 유지하려고 노력할 수밖에 없습니다. 의사나 변호사의 고객은 도망갈 수 없지만, 기술자의 고객은 얼마든지 달아 날 수 있는 것이지요.(물론 국내 의사가 너무 형편없으면 전 국민이 외국병원에 비행기타고 가게 될 것이지만) 결국 가두어 놓은 물에서 낚시하는 사람들이 의사이고, 공해에서 국가대표로서 다른 나라와 경쟁하며 고기잡는 사람들이 기술인력들입니다.
+>
+>이렇게 하여 이공계 인력을 증원해 가면 국가가 국가로서의 경쟁력은 가질 수 있게 되지만, 이공계 인력 일인당 수입이 줄어든다는 문제가 불가피하게 생깁니다. 제품의 경쟁력은 싼 가격이나 좋은 질에서 오는 것이니까 최선진국이 아닌 나라의 기술자들은 싸게 판 물건값만 나누어 갖는다면 그 나라의 의사보다 가난할 수 밖에 없습니다.
+>
+>정부가 이공계를 지원할 필요가 바로 여기에 있습니다. 축구의 국가대표선수들처럼 이들도 국가의 의도적인 지원이 있어야 좋은 사람이 모여 들고, 그렇게 해서 더욱 질이 좋고 부가가치가 큰 제품을 만들 수 있게 됩니다. 부가가치가 크지 못한 물건을 만들고 있으니 소득이 적은 것은 당연하다고 방치하면 그 나라의 제품은 점점 그 나라의 bottom class 에 의해 만들어지고 나라의 경쟁력은 추락하게 되지요. 우리나라가 선진국으로 가는 데에는 이러한 국가의 역할이 절대적으로 필요합니다. 이것을 정부에 요구하여야 합니다. 그러나 WTO 는 정부가 기업 활동에 직접 지원금을 줄 수는 없게  규정하고 있으므로 정부는 결국 인력양성이나 순수연구를 재정적, 제도적으로 smart 하게 지원하는 것을 통하여 그 성과를 거둘 수 있습니다. 그런데 우리 정부가 이 일을 잘 한다 해도, 다른 나라의 정부도 이러한 일을 하고 있으므로 이것, 즉 정부의 연구, 교육사업에 대한 재정적 지원만으로 우리나라의 기술 인력의 소득수준과 국가의 상대적 경쟁력이 좋아 지기를 기대하는 것은 무리입니다.
+>
+>이공계 인력의 소득수준을 높이기 위해 이공계 교수들이 할 일을 찾아야 하는 이유가 여기에 있는 것 같습니다. 기술자의 가치를 높이는 방법의 하나는 기술 영역의 확장이라고 생각합니다. 돈 잘 버는 병원은 치료뿐 아니라 고객 접대도 잘 합니다. 이처럼 기술이 그 주위의 여타 기술과 접목되거나 (학제적 기술), 혹은 새로운 영역 (종전의 기준으로 보면 비기술영역 ; 예로써 심리학, 예술, 교육학 등)과 접목될 때 (New Frontier 기술) 새로운 시장이 만들어 지고 이러한 새 시장을 열어 가는 실력이 과학기술자의 능력기준이 될 것입니다. 제가 전공하는 전자공학의 사회적 비중은 계속 줄어 들 것이라고 권위 있는 사회학자 Peter Drucker 는 말합니다. 전자공학은 그래서 새로운 분야로 그 영역을 넓혀 가지 않으려면 정원을 줄여야 합니다.
+>
+>결국 선택은 이렇습니다. 좀더 가난하게 살 것인가, 정원을 줄일 것인가, 그것도 아니라면 학문의 영역을 넓혀 갈 것인가? 우리의 선택은 당연히 제3의 길입니다. 이것은 전자공학뿐 아니라 모든 이공학문에도 해당됩니다. 비슷한 대안이 강구되지 않으면 우리는 몰라도 우리의 10 년 후배들은 더 큰 도전과 싸워야 할 것이고 더욱 이후의 후배들은 그렇게 고생하지 않아도 될 것입니다. 왜냐하면 그들은 존재하지 않을 테니까요. 새로운 영역을 개척하는 것은 단순히 문제 해결 능력(Problem Solving Ability)을 키우는 KAIST 초기의 교육이념을 능가하는 것입니다. 문제를 만들어 내는 능력이 관건입니다. 새로운 교육 이념과 방식이 매우 필요합니다. MIT 의 서남표교수가 기계공학과의 이름을 갖고서도 (이름을 바꾸는 것은 힘들다) electronics 는 물론 software, bio-chemistry, physics(quantum computing) 등 여러 분야의 연구를 활성화한 것도 결국 “영역확장”입니다.
+>
+>이공계 교육과 연구에서 질을 높이는 것은 대상영역을 기존의 영역에서 계속 확대하는 것이며, 이것은 문제를 푸는 창의력보다 더 높은 차원의 창의성, 즉 문제를 만드는 창의성을 요구한다. 교육의 내용과 방법이 변혁되어야 함을 말해 주는 것입니다.
+>
+>
+> 이상에서는 과학기술자의 경제적 소득을 올리기 위한 관점에서 이공계인력 양성이 질의 향상에 역점을 두어야 함을 말하였습니다. 한편, 좋은 질의 인력을 이공계로 끌어 들이기 위해서는 교육의 내용이 도전적이어야 하고 교육의 방법이 매우 흥미진진해야한다는 조사 결과가 있습니다. (참고 문헌 1) 평균수준의 학생들은 장래 직업의 선택에 있어서 직업의 안정성, 소득을 중요시하나, 최고수준의 학생(과학고)들은 공부 내용이 얼마나 흥미 있고, 도전적인가 하는 것을 꼽고 있는 것입니다. 결론적으로, 이공계 기피는 이공계 인력 양성에서 질의 향상으로만 해결할 수 있고, 이는 학문 영역의 확장과 교차를 말하는 것이고, 지금 우리에게 중요한 것은 이공계 내의 다른 영역간의 교합뿐 아니라, 인문계, 예술 등 영역의 무한한 공간으로 확장해 가는 것으로서, 하느냐 안 하느냐가 아니라 어떻게 할 것이냐 라고 봅니다. 그 변화는 연구는 물론, 교육의 내용에서, 그리고 교육의 방법에서 현저한 다른 모습을 보이도록 요구해 올 것입니다.(끝)
+>
+>참고문헌 1) 고등학생들의 이공계 기피현상 실태 분석 및 개선 방안, 한국직업능력개발원, 2002 년 7 월.
+
+
+
+## 이공계 기피 현상은 한국이 조선시대로 돌아가고 있다는 증거
+
+예전에 &#8220;W 이론을 만들자&#8221;라는 책을 써서 많은 공돌이들의 가슴을 사로잡으셨던 이면우 교수님께서 월간 조선에서 하신 말씀이 여러가지로 많은 내용을 전해주는군요..
+
+다음은 본문입니다.
+
+
+### 서울대는 관악산의 최고 대학
+
+많은 사람들이 이공계 교육의 위기를 얘기한다. 정확히 말하면 이공계의 위기가 아니라 대한민국의 위기다.
+<br>
+이건 아주 간단명료한 문제다.
+<br>
+살고 싶으면 이 문제를 해결해야 하고, 죽고 싶으면 지금까지 그랬듯이 그냥 놔두면 된다.
+
+나는 1991년 &#8216;서울공대 백서&#8217;를 발간했다.
+<br>
+&#8216;서울대학은 국내 최고의 대학도 아니고, 세계 400위 안에도 못 드는 관악산의 최고대학&#8217;이라는 게 백서의 핵심 내용이었다. 지금까지 변한 것은 아무것도 없다. 서울대학은 지금도 관악산의 최고 대학일 뿐이다.
+
+2002년 대선 때 서울대 폐지 이야기가 나왔을 때 나는 어안이 벙벙했다. 아니 관악산 골짜기의 골목대장 밖에 안 되는 대학을 없애서 무얼 어쩌겠다는 것인가?
+<br>
+나는 &#8216;서울공대 백서&#8217;와 1992년에 펴낸 &#8216;W 이론을 만들자&#8217;에서 &#8216;오늘날 우리 공학교육의 위기는 5년 내지 10년 후 국가 전체의 위기로 냉큼 대두될 것이다&#8217;고 지적했다.
+<br />
+IMF가 터지자 내 책을 읽은 많은 사람들이 &#8220;어쩌면 그렇게 족집게 같이 예견을 했느냐&#8221;고 물었다.
+<br>
+그건 상식이 있는 사람이면 누구나 내다볼 수 있는 일이었다.
+
+이공계 교육이 왜 국가위기를 진단할 수 있는 지표가 되는가?
+<br>
+이유는 간단하다.
+<br>
+국가 경제를 지탱하는 바퀴는 두 개다. 하나는 국가 경쟁력이고 하나는 가계부 작성이다.
+<br>
+돈을 잘 벌어야 하고, 번 돈을 잘 써야 하는 이치다. IMF는 벌이는 없고 가계부 작성도 엉망이었기 때문에 온 것이다.
+
+IMF 외환위기 이후 가계부 작성을 투명하게 합리적으로 해야 한다는 사실을 우리는 뒤늦게 깨달았다.
+<br>
+엉망이었던 가계부 정리는 대충 끝났다. 구멍난 곳을 메우는 데 150조원이 넘는 돈이 들어갔다.
+
+벌이를 하려면 기술이 있어야 한다. &#8216;W 이론&#8217;에서 나는 세계 1등 기술만이 생존할 수 있다고 했다.
+<br>
+국제사회에서의 경쟁은 고스톱 판과 포커 판의 게임처럼 1등이 모든 것을 가져간다. 2등이나 3등은 가산만 탕진할 뿐이다.
+<br>
+
+당시에는 &#8220;도대체 무슨 얘기냐&#8221;는 사람들이 수두룩했지만, 이제 이 얘기에 이의를 제기하는 사람은 사라졌다.
+<br>
+예전에는 인구 1억 명이면 내수시장만으로 국가를 지탱할 수 있다고 했지만 요새는 인구가 문제가 아니다.
+<br>
+WTO 등 글로벌 네트워킹 때문 에 인구가 10억 명이 넘어도 기술이 없으면 굶어야 한다.
+
+우리나라는 과학기술 이외에 팔아먹을 것이 없다.
+
+제주도를 천혜의 관광지라고 하지만 1년에 비오는 날이 100일이 넘어 세계적인 관광지로는 부적격이다.
+<br />
+발리나 하와이에 가 본 사람들은 내 얘기에 금방 고개를 끄덕일 것이다.
+<br />
+관광국가로 먹고 살기에 우리의 문화유산은 너무 빈약하다.
+
+
+벌이가 없으면 아무리 가계부를 잘 써도 소용이 없다.
+<br />
+우리가 돈을 벌 수 있는 원천은 과학기술 뿐이다.
+<br />
+대한민국의 대학이 과학기술을 제대로 생산해 낼 수 있는 시스템을 갖추고 있느냐, 학생들이 과학기술을 제대로 배우고 있느냐는 우리나라가 5년후, 10년 후 어디로 갈 것인지를 보여 주는 가장 중요한 지표가 될 수 밖에 없다.
+
+대한민국의 기업과 대학, 연구기관들은 세계에서 경쟁할 수 있는 원천 기술을 연구 개발하고 있는가?
+<br />
+답은 너무나 절망적이다.
+
+삼성전자가 핸드폰을 하나 만들 때 퀄컴에 지불하는 로열티가 판매가의 15% 정도<br /> 다. 반도체를 만들려면 설비와 부품을 일본에서 모두 수입해야 한다. 앞으로 남고<br /> 뒤로 믿지는 장사다. 그것도 삼성전자의 얘기다.
+
+정부는 &#8216;2만 달러 국민소득 달성을 위해 5대 성장전략 산업을 육성하겠다&#8217;고 한다.<br /> 독자적인 기술 없이 어떻게 5대 성장 전략 사업을 키우겠다는 말인가?
+
+### 미련한 최후의 변절자들
+
+지난해 서울공대생 23명이 사법고시에 합격했다.
+
+적어도 100명에서 150명의 공대생이 머리를 싸매고 골방에서 법전을 외워대고 있다<br /> 는 증거다. 아마 그것보다 더 많은 수의 학생들이 &#8216;나도 늦기 전에 고시공부를 해<br /> 야 하지 않을까&#8217;하며 마음의 갈피를 못 잡은 채 고시공부의 언저리를 헤매고 있을<br /> 것이다.
+
+서울공대 학부생 5500명 가운데 10% 이상이 고시의 유혹에 시달리고 있다는 얘기다.
+
+서울대 물리학과에 다니던 한 학생이 다시 대입 시험을 봐서 서울의대에 입학했다.<br /> 면접장에서 제자를 만난 물리학과의 한 교수는 기가 막혀서 &#8216;물리 과목은 다 맞았겠<br /> 지&#8217;라고 했다고 한다.
+
+고시공부를 하고 있는 서울대 자연대와 공대의 학생들은 고등학교 때부터 일찌감치<br /> 돈 잘 버는 의사·한의사·변호사가 되겠다고 작심한 아이들에 비교하면 미련한 &#8216;최<br /> 후의 변절자&#8217;에 불과하다.
+
+나는 이 제자들이 딱하기만 하다. 눈치 빠르게 일찌감치 돈 버는 쪽으로 갈 것이지<br /> 서울공대에는 왜 들어왔다는 말인가.
+
+서울공대나 자연대학에 진학한 학생들은 모두 고등학교에서 수학과 과학을 특출나<br /> 게 잘 했고, 과학기술을 연구해야겠다는 신념을 가졌던 친구들이다. 그런 아이들이<br /> 흔들리고 있다.
+
+이유가 뭘까? 우리 사회가 &#8216;이공계 공부해야 이렇게 비전이 없는데 그래도 고집을<br /> 부리면서 이공계 공부를 계속 할 거냐&#8217;면서 이 아이들을 끊임없이 고문하고 있기 때<br /> 문이다.
+
+대전 대덕의 연구원들은 밤 12시까지 연구를 해야 한다.
+
+왜냐하면 세계 최고의 연구자 학자들과 치열한 경쟁을 해야 하기 때문이다. 이들이<br /> 20대, 30대에 습득한 기술과 이론들은 순식간에 과거의 것이 되고 만다. 이공계 연<br /> 구인력의 정년은 대부분 40대다.
+
+이공계 인력은 과학기술의 발전 속도에 뒤지지 않기 위해 끊임없이 노력해야 한다.<br /> 그런데 이들을 기다리는 건 &#8216;사오정&#8217;이라는 운명이다. 과학기술 인력을 바라보는 우<br /> 리 사회의 눈길에는 존경과 냉소가 뒤섞여 있다.
+
+이들이 한국을 이끌어 가는 견인차라는 걸 어렴풋이 인식한다. 하지만 이들의 연구<br /> 활동을 지탱하기 위해 무엇을 해야 할 지에 대해서는 생각하기 싫다. 국민의 이해<br /> 부족과 낮은 지위와 보수 때문에 이공계 출신들은 절망의 늪에 빠져 있다.
+
+이런데도 당신들은 자식들을 이공계에 보낼 것인가? 의대와 한의대에, 법과대학과<br /> 상과대학에 자녀들을 보내는 것은 인지상정이고 합리적인 판단이다. 개인차원의 합<br /> 리적인 선택이 모여 사회차원의 비합리적 선택이 되는 현상을 미리 알고, 차단하는<br /> 것은 국가 지도자의 몫이다.
+
+### 재벌 총수들 &#8216;공장이 없으면 파이낸싱이 안 되잖아&#8217;
+
+두 재벌기업 총수에게 &#8220;왜 기술력도 확보되지 않은 공장들을 자꾸 늘려가느냐&#8221;고 물<br /> 은 적이 있다. 두 사람의 대답이 똑같았다. &#8220;이교수, 그러니까 이공계 출신들이 눈<br /> 치 없다는 얘기를 듣는 거요. 공장이 없으면 파이낸싱이 안 되잖아.&#8221; 두 총수가 이<br /> 끌던 거대 재벌기업 두 개는 IMF 전후에 무너졌다. 그때 한 재벌 총수는 내게 이런<br /> 얘기를 했다.
+
+&#8220;생산성 향상, 그거 별 의미가 없어요. 5~6% 이윤이 남는데 30% 생산성 향상시켜 봐<br /> 야 기껏 2% 포인트 이윤을 더 남기는 겁니다. 공무원들하고 골프 치고, 술 먹고 해<br /> 서 큰 프로젝트 하나 따오면 20%, 30% 이윤이 남아요. 로비 잘하는 게 생산성 향상<br /> 시키는 것보다 열 배는 쉽게 돈 버는 일입니다.&#8221;
+
+공장을 세워서 은행 돈을 빌리고, 그 돈을 부동산에 투자하고, 덩치를 키워 정부의<br /> 특혜를 받고…. 그런 식으로 기업들은 살아왔다. 그 체질이 지금도 과히 많이 바뀌<br /> 지 않았다. 서울대 법대와 상대를 나온 사람들은 재벌기업의 비서실, 기획실, 마케<br /> 팅실에 근무하면서 정·관계에 포진한 동문들과 네트워크를 형성했다.
+
+지금도 이공계 졸업생들은 &#8216;당신들이 중요하다&#8217;는 말만 듣지 계속 벽지 공장을 돌<br /> 게 된다. 이공대 졸업생들의 좌절은 여기서 시작한다. 엔지니어들이 말도 못 하고<br /> 속을 끓이는 사이에 몇 년 후배인 법대·상대 출신들은 쭉쭉 승진을 한다.
+
+이공계 졸업생은 승진에 한계가 있다. 경영진에 많이 기용되지를 못한다. 벽지의 공<br /> 장에 처박혀 있으니까 &#8216;촌닭 같아서&#8217;임원으로는 못 쓰겠다는 것이다.
+
+그래도 과거에는 엔지니어들에게 프라이드가 있었다. 공장에서 생산성을 향상시켰다<br /> 고, 품질개선을 했다고 총수와 간혹 악수할 기회도 있었다. 1960년대, 1970년대에<br /> 기업들이 외국 기술과 기계를 도입하면, 영문 매뉴얼을 보고 가동시키는 일을 서울<br /> 공대 출신들이 했다. 복잡한 영어 매뉴얼을 보고 다들 기겁을 하는데 그나마 서울공<br /> 대생들이 그걸 해낼 수 있었다.
+
+요즈음은 그 일을 외국에서 공부한 교포 출신들이 대체한다. 영어 실력이 서울공대<br /> 생들보다 월등하기 때문이다. 기업 내부에서 &#8216;서울공대 나온 친구들이 기술을 알면<br /> 얼마나 더 아나, 교포 2세가 낫다. 미국에서 대학교 2학년 다니다가 왔다는데도 또<br /> 랑또랑하고 매너 좋고, 아무나 만나도 섭섭하게 안 하고….&#8217; 이렇게 되는 것이다.
+
+###        이공계가 아니라 이이계
+
         왜 대학들은 이렇게 기술 경쟁력이 없는 공대생들을 양산하고 있을까?서울공대는 물<br /> 론이고 대다수 공과대학이 이론 교육에 치중한다.
-      </p>
-      
-      <p>
+
         강의 시간에 외국 이야기만 들으니 학생들은 감흥이 일지 않는다. 학생들이 &#8216;우리<br /> 가 직접 실험하려면 어떻게 하면 됩니까&#8217; 하고 물으면 교수들은 &#8216;여기서는 못해&#8217;하<br /> 고 의욕을 꺾어 버린다. 학생들은 교수들로부터 &#8216;너희는 안 된다&#8217;는 메시지를 계속<br /> 받는다.
-      </p>
-      
-      <p>
+
         서울공대 교수의 학위논문 80% 가까이가 이론이다. 이공계가 아니라 이이계인 셈이<br /> 다. 우리 공대생들은 실험을 해 본 적이 없기 때문에 유학 가면 다 촌닭이 된다.
-      </p>
-      
-      <p>
+
         이런 현실에 대해 교수들은 &#8216;실험실습비도 없고, 실험장비도 없다, 어차피 나만의<br /> 책임은 아니지 않느냐&#8217;며 항변한다.
-      </p>
-      
-      <p>
+
         그러니 이공계 출신들은 유학 가서도 다 이론 쪽으로 간다.
-      </p>
-      
-      <p>
+
         기업은 해외협동이 있을 수 없다. 수요도 없고 공급도 없다. 기업과 대학 사이에 오<br /> 가는 연구비는 기업들이 이공계 학생들을 조달하려는 차원에서 에이전시한테 주는<br /> 커미션일 뿐이다.
-      </p>
-      
-      <p>
+
         최근 들어 서울공대의 커트라인이 웬만한 지방의 의과대학보다 떨어진다. &#8216;공대 지<br /> 원자가 정원에 미달한다는 사실이 신문에 자꾸 보도되니까 공대가 더 죽는다&#8217;며 정<br /> 원 미달 사실을 숨기는 것을 대책으로 들고 나오는 교수도 있다.
-      </p>
-      
-      <p>
+
         입학생들의 실력이 떨어져 수학·과학 &#8216;보충반&#8217;을 편성해야 할 지경이다. &#8216;이런 수<br /> 준의 학생들을 데리고 도대체 어떻게 교육을 하라는 말이냐&#8217;고 한탄하는 동료 교수<br /> 들에게 나는 &#8216;대한민국 최고 수준의 학생들이 들어왔을 때 과연 우리가 그 아이들에<br /> 게 세계 최고 수준의 공학교육을 했느냐&#8217;고 묻는다.
-      </p>
-      
-      <p>
+
         최근 정부에서 &#8216;이공계 학생들에게 장학금을 지원하겠다&#8217;, &#8216;병역 혜택을 주겠다&#8217;고<br /> 나섰다. 나는 이런 대중적 구호를 보면 옛날 전봇대에 붙어있던 술집 여종업원 호<br /> 객 구호가 생각난다. &#8216;침식 제공, 선불 가&#8217;
-      </p>
-      
-      <p>
+
         정상적인 사람이라면 이런 구호를 보면 &#8220;아, 저곳은 절대로 가서는 안 되는구나&#8221; 하<br /> 고 판단을 내릴 것이다.
-      </p>
-      
-      <p>
+
         &#8216;국민을 먹여 살리는 건 산업기술이고, 그것을 이끌어 가는 것이 이공계 교육&#8217;이라<br /> 는 사실에 대한 근원적인 인식의 전환이 없이 몇 개의 사탕을 나눠 주는 것으로 이<br /> 공계 교육을 살려낼 방도는 없다.
-      </p>
-      
-      <p>
+
         내 실험실의 졸업생들 중 11명이 국제학회에서 최우수 논문상을 받았다. 세계에서<br /> 유례가 없는 일이다. 그럼에도 졸업생들은 물론 교수인 나 역시 자부심보다는 미래<br /> 에 대한 불안한 마음과 국가에 대한 서운한 마음이 먼저 드는 것, 이것이 우리 이공<br /> 계의 현주소다.
-      </p>
-      
-      <p>
-        이공계 기피의 역사적 뿌리
-      </p>
-      
-      <p>
+
+###        이공계 기피의 역사적 뿌리
+
         우리 사회는 기술을 천시하던 조선조의 문화로 회귀하고 있다. 기술을 중시하고 이<br /> 공계가 우대를 받았던 1960년대 이후의 시기는 기술을 냉대한 긴 역사에서 잠시 반<br /> 짝한 예외적인 시기였다. 역사 속에서 내 선배 과학자 기술자들은 모두 처절한 최후<br /> 를 맞았다.
-      </p>
-      
-      <p>
+
         신라 무영탑의 전설은 아주 로맨틱하다. 탑 만들기에 동원된 석공은 오랫동안 아내<br /> 와 떨어져 살아야 했다. 아내는 남편이 너무나 그리운 나머지 스스로 물에 빠져 죽<br /> 고 만다. 이 이야기가 전하는 메시지는 간단하다.
-      </p>
-      
-      <p>
+
         &#8216;탑 만드는 데 동원되면 죽도록 고생만 하고, 가정이 파탄난다&#8217; 불사에 동원된 석공<br /> 들에게 오두막 하나씩 지어 주고 거기서 아내가 밥을 지어 주게 했을 법한데도 위정<br /> 자들은 전혀 신경을 쓰지 않았다. 무영탑의 전설이 주는 교훈은 &#8216;석공에게 시집가<br /> 면 죽는다&#8217;였을지 모른다.
-      </p>
-      
-      <p>
+
         에밀레종 설화도 마찬가지다. 공명 설계는 컴퓨터 기술로도 파악하기가 어렵다. 신<br /> 라 시대에 종을 만들려면 보통 고생이 아니었을 것이다. 시행착오를 거듭하는 과정<br /> 에서 얼마나 독촉과 질책을 받았으면 끓는 쇳물에 제 아이를 넣어 볼 생각을 했을<br /> 까? 아브라함은 아들 이삭을 제물로 바치는 흉내만 냈는데도 하나님으로부터 &#8216;대대<br /> 손손 축복을 내리겠다&#8217;는 약속을 얻었다. 아들을 제물로 바쳐 맑고 그윽한 소리를<br /> 만들어낸 신라의 종 만드는 기술자가 그 후 행복하게 잘 살았다는 얘기는 전해지지<br /> 않는다.
-      </p>
-      
-      <p>
+
         이 설화 역시 &#8216;주조 기술자가 되려면 자식을 제물로 바칠 각오를 해야 한다&#8217;는 메시<br /> 지를 새벽 안개처럼 은은하게 사방에 퍼지게 했을 것이다.
-      </p>
-      
-      <p>
+
         조선시대 기술직에 있던 사람들은 모두 천민 계층이었다. 장영실을 보자. 관노 출<br /> 신 천민인 장영실은 당시 지극히 예외적으로 종 6품까지 벼슬이 올랐다. 세종이 신<br /> 임을 하니 문반들의 시기 질투가 대단했다. 문반들은 &#8216;천민이 종 6품까지 올라가는<br /> 것을 좌시하면 안 된다&#8217;는 공감대 아래 세종에게 온갖 간언을 했으나 세종이 듣지<br /> 않았다.
-      </p>
-      
-      <p>
+
         그러다 장영실이 관리 책임을 맡고 있는 공주의 가마 손잡이가 부러져 공주의 가마<br /> 가 구르고 말았다. 왕족의 신체에 상처를 입히면 모반죄에 해당하는 것이어서, 세종<br /> 도 감싸줄 수가 없었다. 아마도 누군가가 가마 손잡이에 미리 톱질을 해 놓았을 것<br /> 이라는 소문이 당시 돌았다고 한다. 중요한 것은 그 후 아무도 장영실이 어떻게 됐<br /> 는지를 모른다는 것이다. 이 일화는 &#8216;과학 기술자로 출세하면 죽는다&#8217;는 메시지를<br /> 남긴다.
-      </p>
-      
-      <p>
-        관존민비
-      </p>
-      
-      <p>
+
+###        관존민비
+
         국내의 몇 개 안 되는 과학관에 가서 보면 서양 과학자들은 출생연도와 사망연도가<br /> 전부 기록돼 있는데 우리나라 과학 기술자들은 하나같이 출생연도만 밝혀져 있을<br /> 뿐 사망연도는 물음표로 처리돼 있다. 과학 기술자들의 말로가 안 좋았다는 증거다.
-      </p>
-      
-      <p>
+
         나는 1990년대에 &#8216;손빨래 세탁기&#8217;, &#8216;골고루 전자레인지&#8217;, &#8216;따로따로 냉장고&#8217; 등을<br /> 개발해서 &#8216;올해의 히트상품&#8217;으로 선정된 제품 6개를 만들었다. 이 덕에 1996년에 문<br /> 화관광부에서 주는 세종문화상을 받았다.
-      </p>
-      
-      <p>
+
         시상식 전날 예행연습이 있다고 해서 불려갔다. 단상에 올라가는 걸음걸이가 씩씩하<br /> 지 못하다는 이유로 몇 번을 단상에 오르락내리락했다. 연습하러 나온 여고 합창대<br /> 원들 앞에서 서울공대 교수의 자존심은 말이 아니었다.
-      </p>
-      
-      <p>
+
         이튿날 시상식장에서의 상황 역시 마찬가지였다. 당시 시상을 맡은 이수성 국무총리<br /> 는 나와 함께 서울대학 교수로 일했던 분이다. 그의 연설이 이어지는 10여 분 내내<br /> 나는 객석을 등진 채 그를 바라보고 서 있어야 했다. 시상식의 주인은 상을 받는 사<br /> 람이 아니었다.
-      </p>
-      
-      <p>
+
         기념 사진을 찍으려고 맨 앞에 앉아 사진기를 들고 있던 아내는 나의 뒤통수만 실<br /> 컷 바라보고 있어야 했다. 상품 개발로 산업발전에 기여한 공로로 상을 받는 나는<br /> 수상 소감 한 마디 못해 보고 단상을 내려와야 했다.
-      </p>
-      
-      <p>
+
         조선 시대 장영실의 얘기가 아니라, 1996년 서울공대 교수가 겪은 일이다. &#8216;이러니<br /> 다들 관료가 되려고 하지 누가 과학기술자가 되려고 하겠나&#8217; 하며 씁쓸했던 기억이<br /> 난다.
-      </p>
-      
-      <p>
-        십면초가
-      </p>
-      
-      <p>
+
+###        십면초가
+
         나는 1986년부터 우리의 경제가 위기에 처했다고 떠들고 다녔다. 1992년 &#8216;W 이론을<br /> 만들자&#8217;에서 우리 경제가 십면초가에 둘러싸여 있다고 주장했다. 당시 우리의 산업<br /> 구조는 선진국에서 도입한 낙후기술과 설비에 저임금을 결합한 허약 체질이었다.
-      </p>
-      
-      <p>
+
         주문자 상표를 부착한 얼굴 없는 수출로 우리 상품은 저급품으로 분류돼서 외국의<br /> 저소득층에 팔려 나갔다. 유통망과 애프터 서비스 시스템이 없어 단골을 확보하지<br /> 못했다. 이런 악순환이 이어져 실속 없는 산업팽창이 이뤄졌다.
-      </p>
-      
-      <p>
+
         1975년을 기점으로 우리 산업의 틀을 바꿔야 했다. 1975년까지만 해도 &#8216;저임금 양산<br /> 조립&#8217;은 한국에게 보장된 독무대였다. 그렇지만 기술도입과 단순 모방만으로는 한계<br /> 에 직면했고, 값싼 임금과 풍부한 노동력을 앞세운 중국이라는 넘을 수 없는 산이<br /> 눈앞에 있었다.
-      </p>
-      
-      <p>
+
         1975년의 기술도입료가 전년도에 비해 갑자기 4배나 늘어났다. 이때부터 독자적인<br /> 기술개발에 중점을 두었어야 했는데 우린 그걸 하지 못했다. 기술 도입료와 로열티<br /> 가 계속 올라가자 기업들은 현장 작업자들만 다그쳤다.
-      </p>
-      
-      <p>
+
         지금도 관료와 기업인들은 &#8216;고임금 저효율이 해소되어야 경제위기가 해소된다&#8217;며 허<br /> 리띠를 졸라매라고 한다. 허리띠만 졸라매면 위기가 해소된다는 말인가? 이웃집에<br /> 서 카시미론 솜 이불을 팔아대는데 낡은 솜틀 기계의 생산성을 높인다고 경쟁에서<br /> 이길 수는 없다.
-      </p>
-      
-      <p>
+
         이것은 1975년식 사고방식이다. 제조업은 기술정보, 상품기획, 연구개발, 설계, 설<br /> 비계획, 부품조달, 생산, 판매기획, 판매, 사후관리 등 대략 10단계의 과정으로 이<br /> 뤄진다. 우리의 제조업은 상품기획과 연구개발 설계는 해외기술의 도입으로 대체했<br /> 고, 판매 및 사후관리 단계는 외국 바이어들에게 기대 왔다. 우리 손으로 직접 담당<br /> 하였던 것은 생산부분 뿐이다.
-      </p>
-      
-      <p>
+
         우리 제조업이 살아남을 수 있는 응급 처방은 무엇일까. 우선 선진 제품의 모방에<br /> 심취했던 역개발을 당장 중단해야 한다. 독자적으로 상품을 기획하고, 창의적인 연<br /> 구개발의 주도권을 확보하려고 목숨을 걸어야 한다. 우리 기업들은 본격적으로 상<br /> 품 기획을 해 본적이 없다.
-      </p>
-      
-      <p>
+
         선진기업에서 만든 제품을 도입하고 모방설계를 했으며, 세계시장에서 소비자 구매<br /> 욕이 입증된 상품만 골라 뒤늦게 기획에 착수하였다.
-      </p>
-      
-      <p>
+
         나는 1989년 산학협동을 통해 &#8216;하이 터치&#8217; 프로그램을 수행했다. 아직까지 본 적이<br /> 없는 상품을 개발하자는 게 목표였다.
-      </p>
-      
-      <p>
+
         1989년에 만든 입체형 컴퓨터 키보드는 손목의 피로를 덜어 주는 제품이었다. 1993<br /> 년에 출시되어 1조원 이상 팔린 맥킨토시 키보드보다 4년 앞선 기획 상품이었다. 한<br /> 국의 대기업은 &#8216;이제까지 이런 제품을 본 기억이 없다&#8217;는 이유로 대량생산을 망설였<br /> 다.
-      </p>
-      
-      <p>
+
         &#8216;그렇게 좋은 키보드라면 왜 IBM에서 아직까지 개발을 하지 않았겠는가&#8217;가 업체의<br /> 공통된 반응이었다. 우리 기업은 남의 것을 모방만 해왔기 때문에 남이 안 하는 것<br /> 을 만들면 큰일이 나는 줄 안다.
-      </p>
-      
-      <p>
+
         비슷한 시기에 나는 리모콘으로 조정하는 자동 진공청소기를 개발했다. 최근 필립스<br /> 가 제작해 국내에서 한 대에 200만원 이상으로 팔리는 자동 진공청소기와 똑같은 모<br /> 양과 기능의 제품이다. 차이가 있다면 필립스는 진공청소기에 자동 감지장치를 장착<br /> 했다는 것뿐이다.
-      </p>
-      
-      <p>
+
         자동 진공청소기의 기획 아이디어를 냈지만, 어느 전자제품 업체도 받아들이지 않았<br /> 다. 나는 산학협동을 추진하면서 한국 기업인들 머리 속에 뿌리깊게 박혀 있는 &#8216;삼<br /> 부가 이론&#8217;을 발견했다.
-      </p>
-      
-      <p>
-        경영혁신은 죽지 않으려고 하는 일
-      </p>
-      
-      <p>
+
+###        경영혁신은 죽지 않으려고 하는 일
+
         신제품 개발을 위한 상품기획 과정에서 새로운 아이디어가 나올 때마다 기업의 관리<br /> 자들이 세 가지 이유를 들어 개발을 기피한다.
-      </p>
-      
-      <p>
+
         첫째, 새로운 아이디어를 받아들이면 가격 상승 요인이 발생한다는 이유다. 새로운<br /> 기능을 첨가하면 제품 원가가 올라가고 판매가도 높아지기 때문에 가격경쟁력이 떨<br /> 어진다는 얘기다.
-      </p>
-      
-      <p>
+
         두 번째는 량산에 지장을 초래한다는 이유가 나온다. 나는 직육면체로 만든 제품의<br /> 모서리를 소비자들의 취향에 맞게 곡선으로 처리하자고 제안한 적이 있다. 기업 쪽<br /> 에서 벌떼같이 들고 일어났다. 곡면으로 바꾸면 생산성이 저하된다는 것이다.
-      </p>
-      
-      <p>
+
         세 번째는 신뢰성을 보장할 수가 없다는 논리다. 새로운 기능이 첨가되면 부품이 늘<br /> 어나고 고장률이 높아진다는 말이다. 새로운 아이디어를 낼 때마다 기업 측에서<br /> 는 &#8216;삼부가 이론&#8217;으로 신제품 개발에 반대했다.
-      </p>
-      
-      <p>
+
         어떤 기업이 일류기업인가? 일류기업은 누구보다 먼저 새로운 산업분야를 개척하고<br /> 최고 혹은 최초의 기술과 상품을 만들어 내야 한다. 둘째, 이 기업을 모방한 다른<br /> 기업들이 덩달아 돈을 벌어야 한다. 즉 보고 따라 하는 이류기업들이 있어야 한다<br /> 는 얘기다.
-      </p>
-      
-      <p>
+
         그렇다면 초일류기업이란 무엇인가? 국적과 사업 분야를 막론하고 전세계의 일류기<br /> 업들이 초일류 기업의 기술과 상품 경영철학을 본받아서 큰 이익을 내야 한다. 초일<br /> 류로 분류될 수 있는 기업은 전세계에 몇 개 밖에 없다. 이런 기준대로라면 한국에<br /> 는 불행하게도 초일류 기업이 없다.
-      </p>
-      
-      <p>
+
         삼성은 일류기업이지 초일류기업이 아니다. 삼성이 &#8216;신경영&#8217;을 추진할 때 삼성 임원<br /> 들의 방마다 &#8216;잭 웰치&#8217;의 책이 꽂혀 있었다. 나는 삼성 임원들에게 &#8216;삼성은 아무리<br /> 몸부림을 쳐도 잭 웰치를 쫓아갈 수 없다&#8217;고 얘기했다.<br /> 삼성 사람들이 &#8216;왜 안 되냐&#8217;고 묻기에 나는 이렇게 설명했다.
-      </p>
-      
-      <p>
+
         &#8216;잭 웰치는 현재 1등이거나 가까운 장래에 1등이 될 수 있는 2등을 빼놓고는 다 잘<br /> 라냈다. 삼성이 그렇게 할 수 있나? 삼성그룹이 공중 분해되어도 좋은가? 잭 웰치<br /> 가 한 번에 10만 명을 감원했다. 한국적 정서를 이겨내고 수만 명을 감원시킬 자신<br /> 이 있나? 잭 웰치는 아침부터 저녁까지 나와서 직접 서류 나르고 재떨이 던지며 경<br /> 영혁신에 달라붙었다. 당신 회사의 회장이 그렇게 할 수 있나&#8217;
-      </p>
-      
-      <p>
+
         삼성 관계자들은 &#8216;신경영을 하려는 총수의 강력한 의지를 확인할 수 있었다. 분위기<br /> 가 사뭇 달라졌다&#8217;고 항변했다. 나는 &#8216;경영 혁신은 총수의 의지를 확인하려고 하는<br /> 것도 아니고, 회사의 분위기를 바꾸려고 하는 것도 아니다. 안 하면 죽기 때문에 하<br /> 는 것이 경영혁신&#8217;이라고 했다.
-      </p>
-      
-      <p>
+
         그러면 삼성 관계자들은 대개 이런 질문을 던졌다. &#8216;죽기 살기로 경영혁신을 안 하<br /> 는데 왜 삼성은 안 죽습니까?&#8217;
-      </p>
-      
-      <p>
+
         내 대답은 이렇다. &#8216;지금 사방에 암 걸려서 링거 꼽고 누워있는 환자들이 수두룩한<br /> 데 폐병 걸린 환자를 죽일 수는 없지 않나?&#8217; 한국에서 경영혁신을 하겠다는 기업들<br /> 은 대개 &#8216;전담추진반&#8217;을 둔다. 전담추진반은 보통 상무급이 팀장이 된다. 이 사람들<br /> 이 어떻게 상급자인 사장들의 목을 자르겠는가?
-      </p>
-      
-      <p>
-        IMF 경영혁신의 최대 피해자는 연구인력
-      </p>
-      
-      <p>
+
+###        IMF 경영혁신의 최대 피해자는 연구인력
+
         IMF 이후 제일 먼저 잘려나간 것이 &#8216;전담추진반&#8217;에 연줄을 확보하지 못한 연구소의<br /> 연구인력들이었다.
-      </p>
-      
-      <p>
+
         총수가 직접 나서서 &#8216;우리 기업이 죽지 않으려면 어떻게 해야 하는가&#8217;를 밤새워 고<br /> 심했다면 연구인력은 제일 마지막 감원대상이 되었을 것이다. 패러다임 전환의 대상<br /> 이 되어야 할 사람들이 패러다임 전환을 주도했다.
-      </p>
-      
-      <p>
+
         이게 대한민국 기업의 비극이고, 나라의 비극이다. 한국은 기업의 회장이 구설수를<br /> 외면하기 때문에 직접 나서서 구조조정을 하지 않는다. 그러나 잭 웰치는 &#8216;전담추진<br /> 반&#8217;을 두면 안 된다는 걸 알기 때문에 자신이 직접 감원대상을 고르고, 자르고, 불<br /> 필요한 부서와 인력을 잘라 냈다.
-      </p>
-      
-      <p>
+
         1997년 초 한 경영자 모임에서 내게 강연을 요청했다. 당시 &#8216;가격 경쟁력만이 살길<br /> 이다&#8217;는 구호가 위력을 떨치던 시절이었다. 나는 강연을 하면서 &#8216;아직도 가격 경쟁<br /> 력을 강조하는 정부 관료와 기업 경영자는 머리에 총상을 입은 사람들&#8217;이라고 직설<br /> 적으로 얘기했다.
-      </p>
-      
-      <p>
+
         기업활동에서 가능한 한 끝까지 피해야 할 것이 바로 경쟁사와 가격경쟁을 벌이는<br /> 것이다. 가격경쟁이란 최후의 승자 하나만이 남을 때까지 출혈을 하면서 계속해야<br /> 하는 죽음의 경기이기 때문이다. 그런데 모두가 나서서 &#8216;죽음의 경기만이 우리가 살<br /> 길&#8217;이라고 아직도 외치고 있다.
-      </p>
-      
-      <p>
+
         우리의 제품들은 제조원가가 높은 반면에 판매가가 낮아서 가격 경쟁력을 따질 시기<br /> 를 지난 지 오래다. 우리 제조업은 미국, 일본, 싱가포르, 대만에 비해 높은 금융<br /> 비용과 부동산 가격, 물류 비용, 로열티, 실질 임금 등이 높아 &#8216;5고&#8217;에 시달리고 있<br /> 다.
-      </p>
-      
-      <p>
+
         우리 기업들은 울타리를 친 내수시장에서 국내 가격을 높게 받아 연명해 왔다. 마<br /> 치 친척들에게는 비싼 값을 받고 일반인에게는 싼 값에 물건을 팔아 이윤을 남긴 것<br /> 과 같다.
-      </p>
-      
-      <p>
+
         운동경기에서 우리 팀이 계속 실점을 하면 관중들은 &#8216;작전을 바꾸어야 한다&#8217;고 충고<br /> 한다. 우리의 과거 작전은 가격 경쟁력이었으나, 가격 경쟁력 작전으로 가서는 중국<br /> 은 물론 대만, 홍콩, 싱가포르와 상대가 될 수 없다. 우리가 살길은 가격을 높여서<br /> 받을 수 있는 &#8216;가격 결정권&#8217;을 확보하는 길뿐이다. 제품가격을 높이고도 물건을 파<br /> 는 방법은 독특한 제품, 경쟁상대가 없는 고부가 제품을 만드는 수밖에 없다.
-      </p>
-      
-      <p>
+
         세계 초일류기업이 되겠다고 몸부림을 쳐야 한다. 중국에는 풍부하고 저렴한 노동력<br /> 은 물론 화상 네트워킹과 마케팅 능력이 있고, 일본에는 기술력이 있는데 우리가 무<br /> 슨 근거로 가격 결정권을 가질 수 있을까? 해답은 창의력에 있다.
-      </p>
-      
-      <p>
+
         우리에게 창의력이 있다고 주장하는 데 두 가지 근거가 있다.
-      </p>
-      
-      <p>
+
         첫 번째는 우리 민족이 지금까지 모든 걸 해 봤는데 아직까지 안 해 본 것이 바로<br /> 창의력이다. 혹시 창의력이 있을지 모른다.
-      </p>
-      
-      <p>
+
         두 번째는 나 스스로 경험을 통해 우리가 창의력이 많다는 결론에 도달했다.<br /> 창의력을 가지고 소규모 실험을 해서 세계시장에 성공여부를 타진한 다음 군단 병력<br /> 에게 파는 식으로 가야 한다. 우리의 3대 효자 상품인 휴대폰, LCD, 자동차 산업은<br /> 5년 안에 중국의 추격을 받아 자멸할 운명이다.
-      </p>
-      
-      <p>
-        &#8216;가격 결정권&#8217;만이 살길이다
-      </p>
-      
-      <p>
+
+###        &#8216;가격 결정권&#8217;만이 살길이다
+
         글로벌 마켓에 진출하는 것이 문제가 아니라, 글로벌 마켓을 독점 내지 선점해야만<br /> 살아남을 수 있다. 가격 결정권만 가지면 우리는 동양의 맹주가 될 수 있다.
-      </p>
-      
-      <p>
+
         우리 기업이 가격결정권을 가지려면 패러다임을 전환해야 한다.
-      </p>
-      
-      <p>
+
         내가 내놓은 아래의 물음들에 독자들이 응답을 해주었으면 한다.
-      </p>
-      
-      <p>
+
         &#8216;정부가 5년 이내에 이공계 기피문제에 대한 바람직한 대책을 내놓을 확률이 몇 퍼<br /> 센트라고 생각하는가?&#8217;기업이 5년 이내에 정부지원 없이 국제경쟁력 강화를 위한 방<br /> 안을 추진할 확률은 몇 퍼센트라고 보는가?&#8217; &#8216;대학이 5년 이내에 스스로 교육개혁<br /> 을 추진할 확률은 몇 퍼센트일까?&#8217; &#8216;학부모들이 내 자식만은 편안한 직업을 가져야<br /> 한다는 생각을 바꾸고, 자녀에게 이공계 대학 진학을 권유할 확률은 몇 퍼센트라고<br /> 생각하는가?&#8217;
-      </p>
-      
-      <p>
+
         어떤 항목이든 &#8220;10% 이상&#8221;이라고 대답한 사람은 응급실로 가야 한다. 온전한 정신<br /> 이 아니기 때문이다. 패러다임의 전환에는 자기혁신이 필요하다. 패러다임을 바꾸<br /> 지 않으면 모든 노력은 무위로 돌아갈 것이다.
-      </p>
-      
-      <p>
+
         우리 산업은 도시가스에 밀려 설 자리를 뺏긴 구공탄 공장에 비유될 수 있다. 생산<br /> 성을 향상해 하루에 구공탄을 10%씩 더 찍으면 구공탄 공장은 살아날 수 있을까? 구<br /> 공탄 공장의 &#8216;고임금·저효율&#8217;이 해소되면 구공탄 공장은 살아남을 수 있을까? 대답<br /> 은 둘 다 &#8216;아니오&#8217;이다.
-      </p>
-      
-      <p>
+
         도시가스가 도입되는 초기에 &#8216;도시가스로 업종을 전환하라&#8217;고 했다면 연탄공장 사장<br /> 은 이렇게 대답했을 것이다. &#8216;패러다임의 변화, 웃기지 마라. 온돌방이 존재하는<br /> 한, 겨울철이 존재하는 한 구공탄은 영원하다.&#8217; 연탄공장은 그렇게 전의를 불 태우<br /> 다가 흔적도 없이 사라졌다.
-      </p>
-      
-      <p>
+
         얼음가게와 냉장고, 우마차와 용달차, LP와 CD 모두 똑같은 원리다. LP 5000장을 모<br /> 은 음악 애호가에게 CD로 바꾸라고 한다면 쉽게 바꿀 수 있겠는가? 오스트리아에 여<br /> 행 갔을 때 밥 굶으면서 산 오페라 판, 유학할 때 아내에게 잔소리 들어가며 산 클<br /> 래식 전집, 눈물이 앞을 가릴 것이다. 그래서 음악 애호가도 이렇게 외친다. &#8220;클래<br /> 식이 존재하는 한, 아니 오페라가 존재하는 한 LP는 영원하다.&#8221; 그러나 지금은 축음<br /> 기 생산이 중단되어 더 이상 LP를 들을 수 없게 되지 않았는가.
-      </p>
-      
-      <p>
+
         과거의 산업구조가 일직선인 주로를 눈감고 뛰기만 하면 되는 마차 경주였다면, 지<br /> 금의 산업구조는 폴로 게임이다. 말의 눈을 절대 가리면 안 되고 주로도 일직선이<br /> 아니고 그라운드다. 어디로 갈지 모르며 빨리 달리는 게 능사가 아니라 빨리 설 줄<br /> 알아야 하고 세 박자 쉬었다가 달릴 수도 있고, 세 걸음 뛰다가 정지도 해야 하는<br /> 복잡한 게임이다. 그런데 우리나라는 마차 경주 챔피언들이 폴로 복장을 하고 나와<br /> 서 설치고 있는 형국이다.
-      </p>
-      
-      <p>
+
         요즈음 우리의 국가 목표는 국민소득 2만 달러 달성이다. GNP로 국가의 비전을 내세<br /> 우는 나라는 찾아보기 어렵다. 우리의 의식은 거의 필리핀 수준이다. 우리에게<br /> 는 &#8216;이웃을 돕겠다&#8217;, &#8216;인류에 혹은 국제사회에 기여하겠다&#8217;는 정신이 희박하다. 패<br /> 러다임의 전환을 시도하기 조차 힘들다. 원래 패러다임의 전환은 극히 일부가 시도<br /> 하는 것이고 시도한 사람 중에 극히 일부가 성공한다. 그러나 패러다임 전환이 이뤄<br /> 지지 않으면 우리 모두가 죽는다.
-      </p>
-      
-      <p>
-        이공계 기피의 최종 피해자는 국민
-      </p>
-      
-      <p>
+
+###        이공계 기피의 최종 피해자는 국민
+
         조선조의 한 왕이 정승들에게 &#8220;광풍이 몰아치는 벌판에서 초가삼간을 유지하는 방법<br /> 이 무엇이냐&#8221;고 물었다. 영의정은 이렇게 대답했다. &#8220;사방의 문을 활짝 열어 놓고,<br /> 광풍이 쇠잔해지기를 기다리면 됩니다.&#8221;
-      </p>
-      
-      <p>
+
         이 얘기는 우리나라 지도계층의 철학을 잘 보여 준다. 사방의 문을 열어 놓으면 초<br /> 가집은 무너지지 않겠지만, 방 안에 있던 민초들은 다 어떻게 될 것인가? 모두 바람<br /> 에 날려가서 죽지 않았을까? 우리는 그런 방식으로 끈질기게 버텨왔다. 7년 전쟁에<br /> 서 절반에 가까운 민초들이 사라진 임진왜란이 대표적인 예가 아닐까?이공계의 위기<br /> 는 역사적 뿌리가 깊다.
-      </p>
-      
-      <p>
-        이공계의 위기에는 기업과 대학, 사회 전체가 복잡하게 얽혀 있다. 잭 웰치의 얘기<br /> 에서 거론했듯이, 이공계의 위기는 해결하지 않으면 우리가 죽는다는 각오로 달라붙<br /> 어야 할 문제다. 정책 구호나 유인책 몇 가지로 해결될 수 없는 문제다. 이공계 기<br /> 피현상은 대학이나 이공계 대학생들의 문제가 아니다. 국가와 기업, 우리 사회 전체<br /> 가 이공계 기피현상의 최종 피해자가 될 것이기 때문이다. 결론은 간단하다. 살고<br /> 싶으면 해결해야 하고, 죽고 싶으면 지금까지 그랬듯이 그냥 놔두면 된다<br /> _M#]
-      </p>
+
+        이공계의 위기에는 기업과 대학, 사회 전체가 복잡하게 얽혀 있다. 잭 웰치의 얘기<br /> 에서 거론했듯이, 이공계의 위기는 해결하지 않으면 우리가 죽는다는 각오로 달라붙<br /> 어야 할 문제다. 정책 구호나 유인책 몇 가지로 해결될 수 없는 문제다. 이공계 기<br /> 피현상은 대학이나 이공계 대학생들의 문제가 아니다. 국가와 기업, 우리 사회 전체<br /> 가 이공계 기피현상의 최종 피해자가 될 것이기 때문이다. 결론은 간단하다. 살고<br /> 싶으면 해결해야 하고, 죽고 싶으면 지금까지 그랬듯이 그냥 놔두면 된다<br />
