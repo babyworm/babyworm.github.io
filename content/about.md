@@ -19,38 +19,76 @@ showComments: false
 mathjax: false
 ---
 
-## Babyworm?
+{{< timeline >}}
 
-* Name: Hyun-Gyu Kim
-* Email: <babyworm@gmail.com>
-* Affiliation:
-  * Research Fellow / Team Leader for NoC team, Openedges Technology Inc.
+{{< timelineItem icon="tag" header="Babyworm?">}}
+<ul>
+  <li>Name: Hyun-Gyu Kim</li>
+  <li>Email: <babyworm@gmail.com></li>
+  <li>Affiliation: Openedges Technology Inc.</li>
+</ul>
+{{< /timelineItem >}}
 
+{{< timelineItem icon="star" header="Interests">}}
+<ul>
+  <li>Computer Architecture</li>
+  <li>SoC / NoC Design</li>
+  <li>Video Codec IP Design</li>
+  <li>Hardware/Software Co-design</li>
+  <li>Software Development Methodology</li>
+  <li>Programming Language</li>
+  <li>Agile Development</li>
+</ul>
+{{< /timelineItem >}}
 
-## Interests
-* Computer Architecture
-* SoC / NoC Design
-* Video Codec IP Design
-* Hardware/Software Co-design
-* Embedded System
-* Software Development Methodology
-* Programming Language
-* Agile Development
+{{< timelineItem icon="code" header="Experience">}}
 
+Openedges Technology Inc.
+<ul>
+  <li> Research Fellow </li>
+  <li> Team Leader for NoC team </li>
+  <li> Develop On-Chip Interconnect IP and UCIe chiplet IP </li>
+</ul>
+Chips&Media Inc.
+<ul>
+  <li> Research Fellow </li>
+  <li> Chief Architect </li>
+  <li> Develop Video Codec IPs including AV1, HEVC, H.264, AVS, etc </li>
+</ul>
 
-## Blogs.
+ADChips Inc.
+<ul>
+  <li> Deputy Principal Engineer</li>
+  <li> Team Leader of EISC-processor team</li>
+  <li> Develop EISC embedded processor IPs and heterogenous MPSoC platform </li>
+</ul>
+{{< /timelineItem >}}
 
-* 그 동안 이쪽 저쪽 옮기면서 작업을 했습니다만, 이제 다 정리하고 요거 하나 남았습니다.
+{{< timelineItem icon="github" header="Some information about this site">}}
 
-  * <http://babyworm.net>: 개인 도메인.
-  * <https://babyworm.github.io> 작업중인 blog인데, 아마도 위의 주소가 이쪽을 지정하게 될 듯.
+Domain information
+<ul>
+  <li> <http://babyworm.net>: 개인 도메인. </li>
+  <li> <https://babyworm.github.io> 작업중인 blog인데, 아마도 위의 주소가 이쪽을 지정하게 될 듯. </li>
+</ul>
 
-* 점점 글을 작성하지 않게되었습니다만, 그래도 가끔씩 생각나는대로 글을 올리게 될 듯 합니다.
+Page information
+<ul>
+  <li> Cloudflare page로 deploy하고 있습니다.</li>
+  <li> Domain Due (babyworm.net): 2030-04-24 ; <a href="ttps://www.cloudflare.com/ko-kr/">cloudflare</a> </li>
+  <li> hosting due: 2025.11.04 ; <a href="https://www.cafe24.com/ecommerce/hosting/">cafe24</a> </li>
 
-### Some information about this site
-* 이 페이지는 [Hugo](https://gohugo.io/)와 [blowfish](https://themes.gohugo.io/themes/hugo-theme-blowfish/) 테마를 사용하여 작성되었습니다.
-* Cloudflare page로 deploy하고 있습니다.
+</ul>
 
-* for reminding
-  * Domain Due (babyworm.net): **2030-04-24** ; [cloudflare](https://www.cloudflare.com/ko-kr/)
-  * hosting due: **2025.11.04** ; [cafe24](https://www.cafe24.com/ecommerce/hosting/)
+Blog information
+<ul>
+  <li> 그 동안 이쪽 저쪽 옮기면서 작업을 했습니다만, 이제 다 정리하고 요거 하나 남았습니다. </li>
+  <li> 점점 글을 작성하지 않게되었습니다만, 그래도 가끔씩 생각나는대로 글을 올리게 될 듯 합니다. </li>
+  <li> 이 페이지는 <a href="https://gohugo.io/">Hugo</a>와 <a href="https://themes.gohugo.io/themes/hugo-theme-blowfish/">blowfish</a> 테마를 사용하여 작성되었습니다. </li>
+</ul>
+
+{{< github repo="babyworm/babyworm.github.io" >}}
+
+{{< /timelineItem >}}
+
+{{< /timeline >}}

@@ -1,0 +1,11 @@
+/* Custom CSS overrides for Blowfish theme */
+
+/* Increase max-width for single_header from max-w-prose to 1024px (matching article width) */
+.single_header {
+  max-width: 1024px !important;
+}
+
+/* Increase article content width from 65ch to 80ch */
+.article-content.max-w-prose {
+  max-width: 80ch !important;
+}
