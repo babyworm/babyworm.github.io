@@ -5,7 +5,6 @@ type: post
 date: 2009-11-22T16:59:11+00:00
 categories:
   - 개인적인
-
 ---
 Windows7 party 에서 windows 7 ultimate를 받아오고 설치한지는 상당한 시간이 되었습니다.<br>
 뭐, 이런 저런 평가를 빨리 내렸으면 더 좋았겠지만, 인간이 그렇게 바지런하지도 못할 뿐더러 집에서만 쓰고 있는 관계로 판단할 시간도 없고해서 <span style="font-family:Wingdings">J</span> 

@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-07-01T16:32:00+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - Embedded
   - Microprocessor

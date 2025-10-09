@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2020-12-17T06:28:29+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
   - verification
 tags:
   - DVCON

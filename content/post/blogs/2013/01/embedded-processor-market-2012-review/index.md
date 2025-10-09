@@ -5,8 +5,8 @@ type: post
 date: 2013-01-27T16:43:44+00:00
 categories:
   - Microprocessor
-  - 'SoC & IP design'
-
+  - SoC
+  - IP design
 ---
 주말에 시간이 좀 있어서 오랫만에 미뤄둔 MPR(Microprocessor report; 이전에 이 블로그의 주요 소재가 되어주었던 report인데… 요즘에 읽어도 별로 글을 안써서.. 여하튼 잡설은 끝내고..)을 읽고 있는 중인데…몇 가지 재미있는 부분이 있어서 오랫만에 글을 쓰게 되었습니다..  MPR에 있는 내용의 순서와는 약간 차이가 있네요. 실질적인 내용은 fact를 제외하면 내 의견입니다.
 

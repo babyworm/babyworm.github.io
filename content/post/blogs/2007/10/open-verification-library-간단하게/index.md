@@ -5,7 +5,6 @@ type: post
 date: 2007-10-18T03:36:54+00:00
 categories:
   - verification
-
 ---
 OVL(Open Verification Library)은 상당히 오래전부터 보아왔던 assertion library인데요. 제 기억이 맞다면 거의 최초의 {{< wikipedia ABV >}}({{< wikipedia assertion >}}-based verification)쪽 라이브러리가 아닌가 기억됩니다. Foster라는 분이 박사 논문으로 작성한 것이, 발전을 거듭해서 ABV라는 것까지 발전한 것으로 기억되는데, 정확한 사실인지는 찾아보지 않고 기억에 의존한 것이라 틀릴 수도 있습니다. 여하튼 OVL의 출발은 상당히 오래된 거죠 ^^;
 

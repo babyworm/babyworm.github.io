@@ -5,7 +5,6 @@ type: post
 date: 2017-12-14T15:01:24+00:00
 categories:
   - 개인적인
-
 ---
 테스트용으로 wordpress.com을 통해서 babyworm.net으로 posting이 되는지 확인차 올립니다.
 

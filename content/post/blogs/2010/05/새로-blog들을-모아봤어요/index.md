@@ -4,8 +4,8 @@ author: babyworm
 type: post
 date: 2010-05-20T06:56:00+00:00
 categories:
-  - 'SoC & IP design'
-
+  - SoC
+  - IP design
 ---
 예전에 칩쟁이들의 모임이라는 것이 있었는데, 없어지면서 서로 블로그들의 이야기를 살펴보기 쉽지 않았어요.
 

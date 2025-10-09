@@ -5,7 +5,6 @@ type: post
 date: 2011-09-07T14:21:08+00:00
 categories:
   - 책이야기
-
 ---
 <img decoding="async" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788959522200.jpg" width= 300>
 

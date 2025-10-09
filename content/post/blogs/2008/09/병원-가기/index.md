@@ -5,7 +5,6 @@ type: post
 date: 2008-09-17T13:57:30+00:00
 categories:
   - 아빠되기
-
 ---
 민혜는 혈관종 때문에 병원에 다니고 있습니다. 종로에 있는 <A title="[http://www.allskin.co.kr/]로 이동합니다." href="http://www.allskin.co.kr/" target=_blank>S&U 피부과</A>이지요. <A title="[http://cafe.daum.net/hollosuky]로 이동합니다." href="http://cafe.daum.net/hollosuky" target=_blank>혈관 질환 관련 다음 카페</A>에서 가장 많이 추천을 받고 있는 곳이지요.<br>
 벌써 대략 6~7번째 치료를 받았고, 이번주 주말에 또 예약이 되어 있지요.이 사진들은 8월 30일날 치료때 사진입니다.<br>

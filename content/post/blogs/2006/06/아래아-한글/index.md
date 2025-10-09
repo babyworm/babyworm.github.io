@@ -5,7 +5,6 @@ type: post
 date: 2006-06-13T01:21:43+00:00
 categories:
   - 개인적인
-
 ---
 
 <img src="featured_hann_v2.png" width=400>

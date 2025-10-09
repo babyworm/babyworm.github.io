@@ -5,7 +5,6 @@ type: post
 date: 2011-07-06T17:05:08+00:00
 categories:
   - 책이야기
-
 ---
 <img decoding="async" src="https://image.aladin.co.kr/product/100/18/cover/8972754013_1.jpg" width=300 data-recalc-dims="1" />
 

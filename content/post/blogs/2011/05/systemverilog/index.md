@@ -5,7 +5,6 @@ type: post
 date: 2011-05-18T15:02:02+00:00
 categories:
   - verification
-
 ---
 IT-SoC 센터에서 SystemVerilog Verification을 한다기에 들어왔습니다. 
 몇년째 책을 보고 예제 몇 개 끄적이다가 잊고.. DPI오~ 예제 몇 개 끄적여보다 잊고.. OVM사용해보고.. 예제 몇 개 끄적여보다 잊고.. UVM 오~~ 예제 몇 개 끄적여보다 잊고를 반복하고 있어서, 이번에는 제대로 듣고 업무에 적용을 해 봐야겠다는 생각이 있습니다. 

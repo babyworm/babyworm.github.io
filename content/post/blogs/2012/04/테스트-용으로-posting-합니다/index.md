@@ -6,7 +6,6 @@ date: 2012-04-13T19:48:36+00:00
 categories:
   - Uncategorized
   - 개인적인
-
 ---
 wordpress를 처음 써보는 것이라서.. 한번 posting해 봅니다.
 

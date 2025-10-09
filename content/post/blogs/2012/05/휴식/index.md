@@ -5,7 +5,6 @@ type: post
 date: 2012-05-20T09:00:36+00:00
 categories:
   - 개인적인
-
 ---
 지금 번역하고 있는 건 Making Things Talks라는 책입니다.<br>
 Arduino쪽에서는 상당히 유명한 책이라 하더군요. (Reference된 책도 상당히 많죠)

@@ -7,7 +7,6 @@ ao_post_optimize:
   - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 categories:
   - 개인적인
-
 ---
 제가 대학에 들어가던 92년도에 가장 중요한 언어는 C 언어였습니다. 사실 지금 생각해보면, embedded programming에 더 가까웠지.. 싶은 것이 뭔가 해보려면, video buffer에 접근하고, 몇 번지에 있는 latch를 건드려야 하고, 그 다음엔 무슨 값을 쓰는 절차를 알아야 화면에 뭔가 표현할 수 있는 프로그램을 만들 수 있었습니다. DOS에서 TurboC로 프로그램을 짜던 시기니까요. 
 

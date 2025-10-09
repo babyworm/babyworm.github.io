@@ -6,7 +6,6 @@ date: 2015-05-22T12:45:34+00:00
 categories:
   - SoC
   - IP design
-
 ---
 대학원 이후 처음 접하는 Matlab.
 

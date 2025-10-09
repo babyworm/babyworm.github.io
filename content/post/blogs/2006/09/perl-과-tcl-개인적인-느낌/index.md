@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-09-12T10:15:53+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - PERL
   - tcl

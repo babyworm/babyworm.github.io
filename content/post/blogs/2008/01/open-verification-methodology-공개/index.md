@@ -5,7 +5,6 @@ type: post
 date: 2008-01-11T08:27:04+00:00
 categories:
   - verification
-
 ---
 VMM에 맞은 편에 존재하던 mentor의 AVM이 있었습니다만, 무게감이 떨어지는 듯 했었지요.
 

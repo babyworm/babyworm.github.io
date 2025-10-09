@@ -5,7 +5,6 @@ type: post
 date: 2021-03-06T16:07:52+00:00
 categories:
   - 개인적인
-
 ---
 
 ## Wordpress 복구

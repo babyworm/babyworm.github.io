@@ -5,7 +5,6 @@ type: post
 date: 2008-06-01T09:08:38+00:00
 categories:
   - 개인적인
-
 ---
 합성 스크립트에서 constraint 잘못된 부분 수정하고, 잘못된 넷리스트 따라가고 밤을 새웠습니다.<br>
 합성하고, PrimeTime 돌리고 constraint 확인하고..<br>

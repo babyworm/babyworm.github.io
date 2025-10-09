@@ -4,8 +4,8 @@ author: babyworm
 type: post
 date: 2008-04-22T04:29:35+00:00
 categories:
-  - 'SoC & IP design'
-
+  - SoC
+  - IP design
 ---
 [지난 글][1]에 대하여 방명록에 문의를 주신 분이 계셔서 간단히 적어봅니다.
 

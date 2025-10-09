@@ -4,8 +4,8 @@ author: babyworm
 type: post
 date: 2008-10-08T10:55:17+00:00
 categories:
-  - 'SoC & IP design'
-
+  - SoC
+  - IP design
 ---
 한 2주전쯤에 google 크롬으로 작성한 글인데, 줄 띄어쓰기가 엉망이 되어서 이제서야 주섬 주섬 편집해서 올리네요..<br>
   

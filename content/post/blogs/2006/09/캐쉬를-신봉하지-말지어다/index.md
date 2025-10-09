@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-09-26T14:42:00+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - 마이크로 프로세서
   - 캐쉬

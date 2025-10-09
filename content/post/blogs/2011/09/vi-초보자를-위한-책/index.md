@@ -5,7 +5,6 @@ type: post
 date: 2011-09-23T20:55:21+00:00
 categories:
   - 책이야기
-
 ---
 
 ## 손에 잡히는 Vim

@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-09-16T16:10:17+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - 비메모리 반도체
   - 프로세서

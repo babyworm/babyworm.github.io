@@ -13,7 +13,6 @@ bfa_virtual_template:
   - hierarchy
 categories:
   - 개인적인
-
 ---
 2014년입니다.  새해 복 많이 받으세요.
 

@@ -7,7 +7,6 @@ ao_post_optimize:
   - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 categories:
   - 개인적인
-
 ---
 10년전에 이 슬라이드의 영문판을 Linkedin에 공유했었는데, 왠지 올해도 공유해야 할 것 같습니다. 🙂 (여러가지 이유가 있습니다만..)<br>
   

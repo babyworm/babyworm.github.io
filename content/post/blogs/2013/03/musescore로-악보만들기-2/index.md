@@ -7,7 +7,6 @@ bfa_virtual_template:
   - hierarchy
 categories:
   - 음악이야기
-
 ---
 [지난 주의 글][1]에 이어서 MuseScore로 악보만들기의 내용을 좀 더 적습니다.
 

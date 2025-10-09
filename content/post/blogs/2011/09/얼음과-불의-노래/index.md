@@ -5,7 +5,6 @@ type: post
 date: 2011-09-09T07:43:55+00:00
 categories:
   - 책이야기
-
 ---
 
 책을 먼저 본 것이 아니라 HBO 드라마 Song of Ice and fire: The Game of Thrones(<http://www.hbo.com/game-of-thrones/index.html>)을 보고 나서 원작이 있다는 말에 본 책입니다. 

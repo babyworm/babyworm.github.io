@@ -4,8 +4,8 @@ author: babyworm
 type: post
 date: 2008-06-26T08:04:00+00:00
 categories:
-  - 'SoC & IP design'
-
+  - SoC
+  - IP design
 ---
 저에게 가끔 메일 혹은 방명록을 이용하여 문의해 주시는 분들이 계십니다.
 

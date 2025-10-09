@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-09-13T15:17:14+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - reg
   - RMM

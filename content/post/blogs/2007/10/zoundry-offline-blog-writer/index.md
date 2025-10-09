@@ -5,7 +5,6 @@ type: post
 date: 2007-10-16T00:06:50+00:00
 categories:
   - 개인적인
-
 ---
 가끔 blog에 글을 쓸때 문제가 되는 것이 tatter의 editor의 반응 속도가 맘에 들지 않는 다는 점이었습니다. (제 PC의 속도가 느리기도 하거니와, 여러가지 plug-in의 문제겠지요) 그래서, 그 전에는 [microsoft의 Live Writer](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!174.entry)를 사용했었는데 가끔 한/영 전환이 안되는 문제.. category를 제대로 설정할 수 없는 문제들이 있어서 초안 작성시에만 사용했습니다.
 

@@ -5,7 +5,6 @@ type: post
 date: 2008-08-08T01:26:49+00:00
 categories:
   - Microprocessor
-
 ---
 오랫만에 올블을 보다보니, VIA nano와 Intel ATOM간의 벤치 마크 결과 VIA가 앞섰다는 이야기가 있어서 좀 찾아봤습니다.
 

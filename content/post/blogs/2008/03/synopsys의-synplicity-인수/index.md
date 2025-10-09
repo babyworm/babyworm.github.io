@@ -5,7 +5,6 @@ type: post
 date: 2008-03-21T02:47:42+00:00
 categories:
   - 'News on SoC & IP design'
-
 ---
 [EDA Design Line 오늘자 기사][1]를 보니 ASIC 합성분 야에서 압도적인 market share를 확보하고 있는 Synopsys가 FPGA 분야에서 가장 유명한 합성툴인 Synplify를 가지고 있는 Synplicity를 인수했군요. 현금으로 주당 $8으로 인수한 것이고 시장가 대비 약 50% 프리미엄을 주고 인수한 것이랍니다.
 

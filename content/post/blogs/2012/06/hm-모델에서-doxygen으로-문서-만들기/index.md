@@ -4,9 +4,9 @@ author: babyworm
 type: post
 date: 2012-06-26T13:47:13+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
   - verification
-
 ---
 이거 사실 어려운 거 아닌데, 생각보다 모르시는 분들이 많으시네요..
 

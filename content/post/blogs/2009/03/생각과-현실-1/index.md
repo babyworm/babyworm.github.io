@@ -5,7 +5,6 @@ type: post
 date: 2009-03-10T02:34:38+00:00
 categories:
   - 개인적인
-
 ---
 ## Insperation
 

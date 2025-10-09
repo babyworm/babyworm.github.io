@@ -5,7 +5,6 @@ type: post
 date: 2006-10-14T04:59:46+00:00
 categories:
   - 책이야기
-
 ---
 예전에 1판 시절에 읽었단 “writing testbenches: functional verification of HDL models”라는 책을 다시 읽고 있습니다.
 

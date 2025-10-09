@@ -6,7 +6,6 @@ date: 2007-10-28T08:50:41+00:00
 categories:
   - SoC
   - IP design
-
 ---
 IT-SoC Fair 2007 행사의 일환으로 IT-SoC 융합 conference 2007이 열렸었는데(혹은 그 반대인지도), 여기에 참석하고 왔습니다.
 

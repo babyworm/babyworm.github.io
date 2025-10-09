@@ -5,7 +5,6 @@ type: post
 date: 2010-07-17T19:11:31+00:00
 categories:
   - 개인적인
-
 ---
 ## 특강
 회사 사내 교육 만들어주는 업체에서 시골의사 <a href="http://www.hunet.co.kr/Goldclass/Special/View2.aspx?noteNum=114" target="_blank">박경철 원장의 강의</a>가 있다기에 낼롬 신청해서 갔다왔습니다.

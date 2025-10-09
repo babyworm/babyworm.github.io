@@ -5,7 +5,6 @@ type: post
 date: 2009-03-30T00:08:50+00:00
 categories:
   - 아빠되기
-
 ---
 <img loading="lazy" decoding="async" src="090329-MOTION.gif">
 주말에 바람도 쐴 겸 집근처 수원 화성에 갔습니다.

@@ -5,7 +5,6 @@ type: post
 date: 2009-01-13T10:09:56+00:00
 categories:
   - 'SoC & IP design : For beginners'
-
 ---
 간단한 것이지만, 포맷 할 때마다 까먹는 내용이라서..
 

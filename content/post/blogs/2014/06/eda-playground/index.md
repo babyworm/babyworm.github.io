@@ -36,7 +36,8 @@ al2fb_facebook_error_time:
   - 2014-06-20T07:58:09+00:00
 categories:
   - CAD tools
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - EDA
   - EDA playground

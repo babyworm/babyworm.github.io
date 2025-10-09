@@ -8,7 +8,6 @@ ao_post_optimize:
 categories:
   - Microprocessor
   - 개인적인
-
 ---
 아시는 분들도 많을텐데, computer society 중에 ACM(Association for Computing Machinery)이 있습니다. 프로그래밍 좋아하시는 분들께는 ACM-ICPC (국제 대학생 프로그래밍 대회)로 조금 더 알려져 있을 수 있겠습니다. (참고로 <a rel="noreferrer noopener" href="http://icpckorea.org/" target="_blank">한국 사이트</a>도 있네요.)
 

@@ -5,7 +5,6 @@ type: post
 date: 2015-05-04T03:00:49+00:00
 categories:
   - 개인적인
-
 ---
 한참 동안 WordPress blog에서 Jetpack으로도 연결이 안되고, 심지어 RSS가 Feedburnner로 연결도 안되는 문제로 고생했었습니다.
 

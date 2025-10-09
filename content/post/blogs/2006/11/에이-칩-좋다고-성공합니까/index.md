@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-11-24T05:42:18+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - ASIC
   - FPGA

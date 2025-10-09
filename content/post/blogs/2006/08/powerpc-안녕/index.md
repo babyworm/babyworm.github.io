@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-08-23T15:59:30+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - power architecture
   - 마이크로 프로세서

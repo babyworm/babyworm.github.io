@@ -5,7 +5,6 @@ type: post
 date: 2010-09-28T18:11:24+00:00
 categories:
   - Microprocessor
-
 ---
 사실 최근에 나온 Intel의 Sandy Bridge를 제대로 살펴본 적이 없었고, 그냥 mega trend인 GPU 통합 정도만 생각했었는데, 생각보다 변한 것이 많은 architecture군요.
 

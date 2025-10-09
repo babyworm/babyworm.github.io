@@ -5,7 +5,6 @@ type: post
 date: 2010-04-11T07:45:02+00:00
 categories:
   - 개인적인
-
 ---
 <a href="http://babyworm.net/tatter/314" target="_blank">예전에 이야기했던 번역</a>을 끝냈습니다.<br>
 에고.. 실감하지 못했는데 거의 반년동안 번역했습니다. 

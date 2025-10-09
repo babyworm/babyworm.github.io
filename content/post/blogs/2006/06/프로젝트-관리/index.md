@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-06-20T14:00:04+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - 프로젝트
 

@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-09-28T11:30:00+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - debugging
   - 검증

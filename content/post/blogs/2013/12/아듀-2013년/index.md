@@ -13,7 +13,6 @@ al2fb_facebook_link_picture:
   - media=http://babyworm.net/wordpress/?al2fb_image=1
 categories:
   - 개인적인
-
 ---
 사실 한해 한해 다르다고 하지만, 이번 2013년은 그동안 경험해 보지 못한 새로운 한해였습니다.
 

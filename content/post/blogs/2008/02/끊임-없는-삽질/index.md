@@ -5,7 +5,6 @@ type: post
 date: 2008-02-20T08:47:49+00:00
 categories:
   - verification
-
 ---
 약간 정신이 없는 상태에서 일을 했더니만 결국은 삽질로 빠지는 경우가 많습니다.
 

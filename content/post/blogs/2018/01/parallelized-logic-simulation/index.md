@@ -5,9 +5,9 @@ type: post
 date: 2018-01-09T17:22:51+00:00
 categories:
   - CAD tools
-  - 'SoC & IP design'
+  - SoC
+  - IP design
   - verification
-
 ---
 얼마전부터 parallel simulation이 큰 이슈가 되었습니다. 몇몇 기사에서는 3세대 simulation 기법이라고 이야기하더군요.
 

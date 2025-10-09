@@ -5,7 +5,6 @@ type: post
 date: 2020-11-14T15:38:56+00:00
 categories:
   - 개인적인
-
 ---
 Cafe24를 통해서 hosting을 하고 있는데.. PHP 버전이 너무 낮아서 blog에서 사용하는 많은 plug-in 들이 동작하지 않는 지경에 이르렀습니다. 뭐 WordPress는 그냥 버전을 유지하고 있지만..
 

@@ -7,7 +7,6 @@ bfa_virtual_template:
   - hierarchy
 categories:
   - 아빠되기
-
 ---
 딸래미가 어느날인지 부터 게임제작자가 되고 싶다고 하면서 프로그래밍을 알려달라고 해서, 이것 저것 알아본 것이 [scratch][1] 와 [kodu game lab][2] 입니다.
 

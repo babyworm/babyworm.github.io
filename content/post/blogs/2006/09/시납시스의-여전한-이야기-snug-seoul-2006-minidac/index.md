@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-09-14T13:08:16+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - SNUG
   - synopsys

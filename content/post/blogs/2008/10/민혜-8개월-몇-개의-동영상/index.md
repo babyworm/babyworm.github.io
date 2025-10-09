@@ -5,7 +5,6 @@ type: post
 date: 2008-10-23T15:09:32+00:00
 categories:
   - 아빠되기
-
 ---
 <DIV style="TEXT-ALIGN: left" align=center>민혜가 8개월 되었습니다. 정확히는 8개월하고 9일되었지요.
 

@@ -13,7 +13,6 @@ categories:
   -  Specialized Systems은 응용 분야에 특화된 이종 시스템이 나올 거라는데, 이건 저도 하고 있는 일이지요.
   -  Social Software and Social Networking는 글쎄요. 일단 돈은 되겠지만 약간 퇴조하는 느낌이 있는지라..
   -  Unified Communications은 major player로 몰릴것이라는 이야기인 듯 하고, Business Intelligence이건 의사결정 지원 시스템으로 보이고, Green IT 어찌 보면 지속적인 대세
-
 - <a href="http://www.ibm.com/developerworks/kr/library/au-threadingpython" class="blog-margarin-link">파이썬을 사용한 실전 스레드 프로그래밍</a>
   - 파이썬이 GUI 만들기 편하다는 이유로 PLI에서 TCP 서버를 만들고 다중쓰레드 처리를 간혹 하는데, 가끔 OS에 따라 다른 동작을 보일때가 있지요. 도움이 될지도..
 - <a href="http://www.ibm.com/developerworks/kr/library/l-threading.html" class="blog-margarin-link">리눅스 스레드 모델 비교: LinuxThreads와 NPTL</a>

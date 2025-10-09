@@ -5,9 +5,9 @@ type: post
 date: 2012-09-22T17:40:51+00:00
 categories:
   - CAD tools
-  - 'SoC & IP design'
+  - SoC
+  - IP design
   - verification
-
 ---
 예전에 simulator를 만들때 cross platform에서 GUI를 만드는 것이 참 어려웠던 기억이 있습니다.
 

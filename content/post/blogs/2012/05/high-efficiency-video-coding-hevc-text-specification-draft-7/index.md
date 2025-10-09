@@ -4,8 +4,8 @@ author: babyworm
 type: post
 date: 2012-05-20T13:02:25+00:00
 categories:
-  - 'SoC & IP design'
-
+  - SoC
+  - IP design
 ---
 이젠 거의 정리된 듯..
 

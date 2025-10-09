@@ -5,7 +5,6 @@ type: post
 date: 2011-02-28T16:39:20+00:00
 categories:
   - verification
-
 ---
 
 Functional Simulation를 주력 tool로 삼고 있는 Cadence와 Mentor에서는 각각 functional verification method와 다양한 라이브러리, 그리고 양질의 자료를 주고 있는데요.

@@ -13,7 +13,6 @@ al2fb_facebook_link_picture:
   - post=http://babyworm.net/wordpress/?al2fb_image=1
 categories:
   - 책이야기
-
 ---
 벌써 3월 1일이군요. 책 로그를 한 달에 한번 쓰려고 해도 잘 기억이 안나네요. 어디 메모라도 해둬야지 이거야 원, 어찌 기억력이 한달도 못갈까요.. 쩝..
 

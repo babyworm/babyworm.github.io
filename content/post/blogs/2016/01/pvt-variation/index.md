@@ -6,7 +6,6 @@ date: 2016-01-11T16:22:10+00:00
 categories:
   - SoC
   - 'IP design'
-
 ---
 오늘 회사에서 이런 저런 이야기하다가, TSMC28HPC 공정에서 junction temp =0 보다 125에서 합성 속도가 빠르더라..는 이야기를 들었습니다.
 

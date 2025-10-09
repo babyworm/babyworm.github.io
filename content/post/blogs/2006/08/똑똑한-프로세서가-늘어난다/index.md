@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-08-10T13:04:30+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - arm
   - EISC

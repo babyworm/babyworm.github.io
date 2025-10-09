@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-05-29T14:36:17+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - PLI
   - verilog HDL

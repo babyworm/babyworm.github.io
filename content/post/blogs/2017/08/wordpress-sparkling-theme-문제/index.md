@@ -5,7 +5,6 @@ type: post
 date: 2017-08-22T11:10:31+00:00
 categories:
   - 개인적인
-
 ---
 몇일전에 아무 생각없이 theme update를 했는데, 오늘보니 blog가 죽어있더군요. 테마가 2.3.5 버전으로 update 되면서 뭐가
 문제가 있는지 `T_PAAMAYIM_NEKUDOTAYIM` 라는 에러를 띄우더군요.

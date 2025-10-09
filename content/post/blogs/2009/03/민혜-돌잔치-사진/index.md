@@ -5,7 +5,6 @@ type: post
 date: 2009-03-01T14:11:13+00:00
 categories:
   - 아빠되기
-
 ---
 아직 작가님으로부터 사진을 받지는 못했습니다. 작가님 홈페이지에 민혜 사진이 올라왔더군요. 민혜 사진이 미리 민혜 돌 사진이 보시고 싶으신 분은 <A href="http://www.photobebe.com/bbs/view.php?id=gallery&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&&select\_arrange=headnum&desc=asc&no=677" target=\_blank>[여기]를 클릭</A>하세요 (주소정보:  <http://www.photobebe.com/bbs/view.php?id=gallery&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&&select_arrange=headnum&desc=asc&no=677>)
 

@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-10-28T12:27:48+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - GeSHi
   - Syntax highlighting

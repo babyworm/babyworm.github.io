@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-06-06T13:05:13+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - 아키텍트
   - 저전력

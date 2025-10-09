@@ -7,7 +7,6 @@ categories:
   - SoC
   - 'IP design'
   - verification
-
 ---
 DVCON2016(<https://dvcon.org/>) 에 다녀왔습니다.
 

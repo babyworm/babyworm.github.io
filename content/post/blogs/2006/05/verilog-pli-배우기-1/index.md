@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-05-18T13:30:28+00:00
 categories:
-  - 'SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - PLI
   - SoC

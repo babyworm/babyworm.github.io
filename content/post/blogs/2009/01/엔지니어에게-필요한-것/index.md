@@ -5,7 +5,6 @@ type: post
 date: 2009-01-21T23:41:51+00:00
 categories:
   - 개인적인
-
 ---
 결국은 동기(Motivation)를 자기 자신에게 부여하는 능력 아닐까요.
 

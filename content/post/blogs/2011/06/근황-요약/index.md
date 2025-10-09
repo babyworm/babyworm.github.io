@@ -6,7 +6,6 @@ date: 2011-06-30T13:55:44+00:00
 categories:
   - 개인적인
   - 책이야기
-
 ---
 
 ## Make: Electronics

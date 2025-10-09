@@ -8,7 +8,6 @@ switch_like_status:
 categories:
   - 개인적인
   - 아빠되기
-
 ---
 _어제 밤에 적은 글인데, DB를 날려서 다시 작성합니다.  _
 

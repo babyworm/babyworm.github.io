@@ -5,7 +5,6 @@ type: post
 date: 2008-07-04T08:40:38+00:00
 categories:
   - 개인적인
-
 ---
 T/O이 코앞으로 다가와서 한참 바쁩니다만, [Microprocessor Forum Japan 2008][^1]에 갔다오기로 결정했습니다.
 
