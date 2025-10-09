@@ -1,7 +1,7 @@
 ---
-title: SDD라는 것
+title: Blog 이전 완료
 description: ""
-date: 2025-10-09T17:42:00.575Z
+date: 2025-10-09T17:42:00+09:00
 preview: ""
 tags:
 categories:
