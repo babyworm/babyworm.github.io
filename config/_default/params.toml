@@ -18,6 +18,7 @@ enableCodeCopy = true
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
+googleAnalytics = "G-5K5SXHWR3B"
 
 # Missing global parameters
 # enableA11y = false

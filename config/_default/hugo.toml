@@ -17,11 +17,10 @@ hasCJKLanguage = true
 summaryLength = 150
 rssLimit = 20
 
+googleAnalytics = "G-5K5SXHWR3B"
+
 [permalinks]
   post = "/post/blogs/:year/:month/:slug/"
-
-
-googleAnalytics = "G-5K5SXHWR3B"
 
 [minify]
   minifyOutput = true
