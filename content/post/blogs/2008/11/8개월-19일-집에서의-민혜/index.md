@@ -26,11 +26,9 @@ categories:
 <a href="http://babyworm.net/wordpress/wp-content/uploads/1/q2Awdb0GlaI$" http://cfs3.flvs.daum.net/files/50/12/61/56/15069059/thumb.jpg />q2Awdb0GlaI$</a>
 
 요즘에는 밥 먹는 걸 아주 아주 좋아합니다. 이유식이나 죽은 싫어하면서, 쌀밥은 아주 좋아하지요. 오늘은 희안하게 자기손으로 먹곘다고 달려들어서 애 먹었습니다. ^^; 온 얼굴에 밥풀을 붙히며 맛나게 먹지요. (11월 2일 동영상)</p> 
-  
-  <p>
+
     <a href="http://babyworm.net/wordpress/wp-content/uploads/1/ARZL_gv1q3I$" http://cfs3.flvs.daum.net/files/33/55/27/32/15068520/thumb.jpg />ARZL_gv1q3I$</a>
-  </p>
-  
+
   <div>
     요즘에 많이 드는 생각입니다만, 아이를 키우는 것이 아니고 아이가 저를 키우고 있는 느낌입니다.
 

@@ -71,7 +71,7 @@ blocking assignment와 non-blocking assignment를 혼동하시는 분들이 생�
 그런데, 밑의 nonblocking 예에서는 “값을 할당하자”라는 것은 현 시점에서, 값이 갱신되는 것은 delta delay이후에 이루어지게 됩니다. 왜냐하면, 값이 할당되든 안되든 값을 할당하겠다는 3개의 문장을 모두 보고나서 delta delay이후에 값이 갱신되기 때문이죠. 
 
 <div style="border-right: #cccccc 1px dotted; padding-right: 10px; border-top: #cccccc 1px dotted; padding-left: 10px; padding-bottom: 10px; border-left: #cccccc 1px dotted; padding-top: 10px; border-bottom: #cccccc 1px dotted; background-color: #e7e7e7">
-  [CODE]b = a;<br /> c = b;<br /> d = c;<br /> —<br /> b <= a;<br /> c <= b;<br /> d <= c;[/CODE]
+  [CODE]b = a;<br> c = b;<br> d = c;<br> —<br> b <= a;<br> c <= b;<br> d <= c;[/CODE]
 </div>
 
 이해 되시려나요?

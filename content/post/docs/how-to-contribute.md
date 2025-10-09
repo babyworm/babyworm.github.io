@@ -24,7 +24,6 @@ menu:
 
 There are many ways to contribute to the Jane theme: submitting pull requests, reporting issues, providing new translations, and creating suggestions.
 
-
 ## Build and Run
 
 If you want to understand how Jane works, you'll want to get the source, build it, and run locally.
@@ -45,13 +44,11 @@ We recommend that you use VSCode. And if you edit `.html` files, recommend you i
 npm install -g prettier prettier-plugin-go-template
 ```
 
-
 ### Watch example Site
 
 ```bash
 hugo server --contentDir='./exampleSite/content' --config='dev-config.toml'
 ```
-
 
 ## Directory Structure
 

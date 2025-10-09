@@ -9,7 +9,6 @@ categories:
 ---
 <img decoding="async" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788959522200.jpg" width= 300>
 
-
 그냥 보기에는 게임인 듯 한 제목이지만.. 엄연히 책이다.
 한번 읽어보았는데, 주인공이 게임에 나오는 짐 레이너나 타이커스라는 점을 제외하면 그다지 눈에 뜨일 것도 없는 책이다. 
 중간에 약간 긴장감이 있는 듯한 부분이 있는데.. 마지막이 막장.

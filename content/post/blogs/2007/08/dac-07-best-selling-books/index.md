@@ -53,7 +53,6 @@ tags:
 >
 > 20. Vijayraghavan,  A Practical Guide for SystemVerilog Assertions,2005, ISBN 978-0-387-26049-5
 
-
 SystemVerilog의 인기는 여전하구요.. DAC이다보니 CAD alogrithm 관련 책들도 눈에 뜨입니다.
 
 하지만, 뭐니 뭐니 해도 가장 강세는 Low Power 관련 책입니다.

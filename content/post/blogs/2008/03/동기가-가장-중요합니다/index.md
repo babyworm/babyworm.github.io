@@ -33,9 +33,9 @@ categories:
 
 <div class="speaker-mute footnotes_reference_container">
   <div class="footnote_container_prepare">
-    <p>
+
       <span role="button" tabindex="0" class="footnote_reference_container_label pointer" onclick="footnote_expand_collapse_reference_container_457_253();">Notes & References</span><span role="button" tabindex="0" class="footnote_reference_container_collapse_button" style="display: none;" onclick="footnote_expand_collapse_reference_container_457_253();">[<a id="footnote_reference_container_collapse_button_457_253">+</a>]</span>
-    </p>
+
   </div>
   
   <div id="footnote_references_container_457_253" style="">

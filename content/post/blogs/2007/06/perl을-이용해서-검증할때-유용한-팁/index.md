@@ -30,7 +30,6 @@ do_intest(serin);
 do_extest(serin);
 ```
 
-
 2. 해당 함수를 perl에서 subroutine으로 만들어갑니다.
 뭐, subroutine을 만드는 방법은 쉽죠?
 

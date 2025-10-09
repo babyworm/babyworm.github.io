@@ -51,7 +51,7 @@ DC에 익숙한 엔지니어가 워낙 많아서 이것도 비교적 많이 사�
 하지만, 워낙에 ASIC flow상에서 강하니까, script상에 별 변경없이 FPGA를 만들수 있다는 건 큰 장점이겠지요.<br>
 
 <DIV style="TEXT-ALIGN: center">
-  <IMG alt=Compiler hspace=0 src="https://i0.wp.com/www.synopsys.com/news/pubs/compiler/images/art3_dcfpga-fig1.jpg?w=625" border=0 data-recalc-dims="1"><br />[image source: <A href="http://www.synopsys.com/news/pubs/compiler/art2_dcfpga-may04.html?NLC-insight&Link=May04_Issue_Art2">http://www.synopsys.com/news/pubs/compiler/art2_dcfpga-may04.html?NLC-insight&Link=May04_Issue_Art2</A>]
+  <IMG alt=Compiler hspace=0 src="https://i0.wp.com/www.synopsys.com/news/pubs/compiler/images/art3_dcfpga-fig1.jpg?w=625" border=0 data-recalc-dims="1"><br>[image source: <A href="http://www.synopsys.com/news/pubs/compiler/art2_dcfpga-may04.html?NLC-insight&Link=May04_Issue_Art2">http://www.synopsys.com/news/pubs/compiler/art2_dcfpga-may04.html?NLC-insight&Link=May04_Issue_Art2</A>]
 </DIV>
 
 세번째는 이글을 쓰게된 직접적인 계기인 mentor의 <A href="http://www.mentor.com/products/fpga\_pld/synthesis/" target=\_blank>precision</A>이라는 합성도구 입니다.<br>
@@ -59,7 +59,7 @@ DC에 익숙한 엔지니어가 워낙 많아서 이것도 비교적 많이 사�
 그런데, <A href="http://www.edadesignline.com/193700445?cid=RSSfeed\_EDAdesignline\_edadlALL" target=_blank>EETimes의 기사</A>를 보니 아직도 건재하고, 많은 기능이 추가된 것 같습니다. DesignWare의 지원이나 Clock Gating지원, DSP/Memory macrocell inference기능들을 지원한다는 것으로 보아 상당한 수준으로 올라왔군요..
 
 <DIV style="TEXT-ALIGN: center">
-  <IMG id=||CPIMAGE:626305| height=326 alt="Precision Physical" hspace=0 src="https://i0.wp.com/www.mentor.com/products/fpga_pld/synthesis/precision_synthesis/images/physical_image1.jpg?resize=428%2C326" width=428 border=0 data-recalc-dims="1"><br />[image source: mentor homepage]
+  <IMG id=||CPIMAGE:626305| height=326 alt="Precision Physical" hspace=0 src="https://i0.wp.com/www.mentor.com/products/fpga_pld/synthesis/precision_synthesis/images/physical_image1.jpg?resize=428%2C326" width=428 border=0 data-recalc-dims="1"><br>[image source: mentor homepage]
 </DIV>
 
 ASIC logic합성쪽은 DesignComiler가 압도적인 우위를 점하고 있는 가운데.. BuildGates, Synplify ASIC같은 것들이 도전하는 형국이고..

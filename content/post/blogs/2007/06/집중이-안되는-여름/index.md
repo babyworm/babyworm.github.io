@@ -42,13 +42,13 @@ C++에 익숙하시고, PLI를 공부중인 분들은 상당히 도움을 받으
 2) 아래와 같이 고칩니다. (필요에 따라 더 고치셔도 됩니다.)<br>
 
 <DIV style="BORDER-RIGHT: #90e0ff 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #90e0ff 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #90e0ff 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #90e0ff 1px dotted; BACKGROUND-COLOR: #d2f2ff">
-  <FONT face="'courier new',courier,monospace">ARCH_LIB_OPT = -L/cygdrive/c/Modeltech_6.0/win32 -lmtipli<br />ARCH_SHARED_SUFFIX = dll <br />SYS_ARCH_CC = g++<br /></FONT>              
+  ARCH_LIB_OPT = -L/cygdrive/c/Modeltech_6.0/win32 -lmtipli<br>ARCH_SHARED_SUFFIX = dll <br>SYS_ARCH_CC = g++<br>              
 </DIV>
 
 3) Makefile을 수정합니다. 
 
 <DIV style="BORDER-RIGHT: #90e0ff 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #90e0ff 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #90e0ff 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #90e0ff 1px dotted; BACKGROUND-COLOR: #d2f2ff">
-  <FONT face="'courier new',courier,monospace">SIMULATOR_HOME = /cygdrive/c/Modeltech_6.0<br />ARCH    = Windows<br />SIM     = mti_2_0<br /></FONT><br />
+  SIMULATOR_HOME = /cygdrive/c/Modeltech_6.0<br>ARCH    = Windows<br>SIM     = mti_2_0<br><br>
 </DIV>
 
 대략적인 힌트만 드렸습니다만, 이 정도면 필요한 부분을 추가적으로 수정하셔서 verification_top()함수를 작성하신 다음에 linking하시는데 문제 없을듯 합니다.

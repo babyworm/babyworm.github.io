@@ -19,19 +19,15 @@ perl을 주된 언어가 아닌 스크립팅 언어로 사용하는 엔지니어
 
 <img decoding="async" src="https://image.aladdin.co.kr/coveretc/book/coversum/8979140266_1.jpg" >
 
-
 이 책은 가장 기본적인 책입니다. 그리고, 가장 잘 설명된 책입니다.
 <br>
 하지만, 인간적으로 너무 두껍습니다. ^^;
 <br>
 즉, perl에 대해서 깊이 있게 보실분들께는 좋습니다만 저와 같이 간략한 스크립팅 언어로 사용하는 사람에게는 좀 무리가 있죠.. 재미삼아 읽기엔 말이죠.  펄에 대해서 제대로 아시고 싶으시다면 이책을 선택하십시요.
 
-
-
 ## PERL 제대로 배우기
 
 <img decoding="async" src="https://image.aladdin.co.kr/coveretc/book/coversum/8979140460_1.jpg" >
-
 
 이책은 위 책의 좀 간략본이랄까요? 그런 책입니다.
 <br>
@@ -42,11 +38,9 @@ perl을 주된 언어가 아닌 스크립팅 언어로 사용하는 엔지니어
 웹페이지들에서 기본적인 perl문법은 익혔고, 가끔 문법 사항을 (빠르게) 볼일이 있다면 이책을 추천합니다.
 그러나, 일반적인 목적으로는 추천하지 않는 책입니다.
 
-
 ## Perl Cookbook
 
 <img decoding="async" src="https://image.aladdin.co.kr/coveretc/book/coversum/8979140819_1.jpg" >
-
 
 펄 계의 이단자.. 산양 머리 책입니다. ^^;
 <br>

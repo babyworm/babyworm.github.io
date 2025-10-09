@@ -60,7 +60,6 @@ typedef struct tagWHATTHE {
 
 참고로 EISC 상에서 disassemble 해보니 다음과 같이 접근합니다.  (변수명은 tt, typedef는 test로 했고, malloc은 걍 100 했습니다.) 어떻게 나올지 짐작하는데 대충 도움이 될 것 같아서 올립니다.
 
-
 ```
           test* tt = (test*)malloc(sizeof(test)+100);
           c0000046:       70 a8           ldi     0x70    %R8

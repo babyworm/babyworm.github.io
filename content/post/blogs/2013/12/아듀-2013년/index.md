@@ -54,18 +54,10 @@ categories:
 [pe2-image src=”http://lh5.ggpht.com/-SsEnEhu5oNM/Ur75GDRGYUI/AAAAAAAAaJc/ojFtb0UVWpg/s144-c-o/2013-MOVIE.m4v.png” href=”https://picasaweb.google.com/106565945659655093387/2013122802#5962476839036674370″ caption=”구글에서 보내준 2013년..” type=”video” alt=”2013-MOVIE.m4v” ]
 
 <p class="clear">
-  <p>
-     
-  </p>
   
-  <p>
-     
-  </p>
   
-  <p>
-     
-  </p>
   
-  <p>
-     
-  </p>
+  
+  
+  
+  

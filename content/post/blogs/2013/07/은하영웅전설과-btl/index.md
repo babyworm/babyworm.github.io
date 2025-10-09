@@ -24,7 +24,6 @@ categories:
 
 이전에 읽어보지 못했던 외전은 자잘한 이야기를 채워준다는 점도 즐거웠다.
 
-
 ## 테크니컬 리더 : 혁신, 동기부여, 조직화를 통한 문제 해결 리더십
 
 <img loading="lazy" decoding="async" class="alignnone" alt="" src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966260652.jpg" width="300" data-recalc-dims="1" />

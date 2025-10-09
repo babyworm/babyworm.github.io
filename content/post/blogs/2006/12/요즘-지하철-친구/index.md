@@ -21,23 +21,23 @@ tags:
 요즘에 갑자기 책 한권을 골라서 읽게 되었는데, 온갖 스릴러 소설로 유명한 스티븐 킹이 쓴 on writing이란 책입니다. 국내 제목은 “유혹하는 글쓰기”이구요..
 
 <DIV style="TEXT-ALIGN: center">
-  <br /> 
+  <br> 
   
   <TABLE>
-    <br /> <br /> 
+    <br> <br> 
     
     <TR>
-      <br /> 
+      <br> 
       
       <TD>
         <A href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8934908858&ttbkey=ttbbabyworm2309002©Paper=1"><IMG alt="" src="https://i0.wp.com/image.aladdin.co.kr/coveretc/book/coversum/8934908858_1.jpg?w=625" border=0 data-recalc-dims="1"></A>
       </TD>
     </TR>
     
-    <br /> 
+    <br> 
     
     <TR>
-      <br /> <TD style="VERTICAL-ALIGN: top" align=middle><A class=aladdin_title href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8934908858&ttbkey=ttbbabyworm2309002©Paper=1"><FONT color=#000000>유혹하는 글쓰기</FONT></A></TD>
+      <br> <TD style="VERTICAL-ALIGN: top" align=middle><A class=aladdin_title href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8934908858&ttbkey=ttbbabyworm2309002©Paper=1">유혹하는 글쓰기</A></TD>
     </TR>
   </TABLE>
 </DIV>

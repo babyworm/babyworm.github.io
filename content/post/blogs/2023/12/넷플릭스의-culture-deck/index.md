@@ -26,14 +26,8 @@ categories:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/omGgpCjjTtPqai" width="610" height="515"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/update-180721/106871638" title="update-180721" target="_blank">update-180721</a></strong>from <strong><a href="https://www.slideshare.net/watchncompass" target="_blank">Doran Hwang</a></strong></div>
 
-
-
-
-
 10년전에 링크한 원본은 다음과 같습니다. 
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/vAdYqTSGuIDFig" width="610" height="515"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/culture-1798664/1798664" title="culture-1798664" target="_blank">culture-1798664</a></strong>from <strong><a href="https://www.slideshare.net/reed2001" target="_blank">Reed Hastings</a></strong></div>
-
-
 
 참고로.. 넷플릭스 문화가 실제로 좋은지 어떤지는 모르겠습니다. 다만, 적어도 뛰어나기 위해서 노력하는 모습이나 자신감 자체는 항상 보기 좋더군요.

@@ -13,8 +13,6 @@ categories:
 
 민혜가 생각보다 겁이 좀 많아요 🙂
 
-
-
   <img src="DSC_5117.webp" >
 
   <img src="DSC_5124.webp" >
@@ -30,8 +28,6 @@ categories:
   <img src="DSC_5142.webp" >
 
   <img src="DSC_5153.webp" >
-
-
 
 종이가 날릴때 좋은데.. 무섭기도 하고.. 🙂
 <br>

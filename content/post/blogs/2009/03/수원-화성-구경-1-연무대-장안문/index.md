@@ -18,8 +18,6 @@ categories:
 일단 연무대 주차장 뒤에 있는 동장대에 갔습니다. 앞에는 국궁 체험장이 있지요.
 민혜가 입메 물고 있는건 맥도날드 포테토.. 흠.. 처음 준건데, 무지 좋아하네요. 그래도 담부터는 자제를..
 
-
-
 <img loading="lazy" decoding="async" src="090329_2-MOTION.gif">
 
 그야 말로 신났습니다. 이리 저리 둘러보고 있습니다. 이렇게 좋아하는데, 너무 안다닌 것 같아서 미안한 마음입니다.
@@ -32,7 +30,6 @@ categories:
 
 <img loading="lazy" decoding="async" src="090329_2-MOTION.gif">
 
-
 요즘 민혜가 아주 좋아하는 동물이 두 가지 있는데, 짹짹새와 멍멍이입니다. 가려고 하는데 새가 날아 오르니까 신이 났습니다.
 
 <img decoding="async" src="DSC_3440.JPG">
@@ -43,7 +40,6 @@ categories:
 
 엄마 아빠 메롱~
 
-
 <img loading="lazy" decoding="async" src="DSC_3524.JPG">
 
 화홍문에 왔습니다. 경치가 좋더군요. 앞의 한국식 연못과 방화수류정도 이쁘구요.
@@ -53,13 +49,9 @@ categories:
 
 흐르는 물을 보면서 생각에 잠겨 있는 민혜.. 무슨 생각을 하는 걸까요.. 철없는 엄마 아빠를 어떻게 달래야 하는지 생각중인지도..
 
-
-
 <img loading="lazy" decoding="async" src="DSC_3549-MOTION.gif">
 
 <img loading="lazy" decoding="async" src="090329_4-MOTION.gif">
-
-
 
 장안문에서 한컷. 옆에 비둘기가 있었는데, 비둘기를 보고 안아주고 싶었는지 달려오면서 안아주는 모습을 합니다. 계속 비둘기를 따라 다녔어요.
 

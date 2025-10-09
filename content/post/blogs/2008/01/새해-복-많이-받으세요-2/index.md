@@ -17,10 +17,10 @@ tags:
 
 제 누추하고, 요즘엔 거의 정보를 보내드리지 못하는 누추한 블로그에 찾아주시는 많은 분들께도 새해에는 열정에 맞는 결과가 있으시길 바랍니다.
 
-**<FONT size=3>새해 복 많이 받으세요!!</FONT>**
+**새해 복 많이 받으세요!!**
 
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile9.uf.156C4B564D6A7AEB26FFC8.jpg?resize=308%2C412" class="aligncenter" width="308" height="412" alt="사용자 삽입 이미지" data-recalc-dims="1" /><br>
 
 <DIV style="TEXT-ALIGN: center">
-  [그림 출처:  <B><A href="http://j-bros.com/log/?p=160" target=_top><FONT color=#551a8b>j-bros.com</FONT></A>]</B>
+  [그림 출처:  <B><A href="http://j-bros.com/log/?p=160" target=_top>j-bros.com</A>]</B>
 </DIV>

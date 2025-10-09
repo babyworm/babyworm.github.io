@@ -52,8 +52,6 @@ Youtube에서는 AV1을 Youtube living room certification의 필수조건(2021�
   <img src="codec_market_share.png">
   <figcaption>출처: Xilinx forum; video codec market share [1]</figcaption>
 </figure>
-</p>
-
 
 이후에 다시 예전처럼 다양한 코덱 표준이 난립할 것이냐.. 하면 그건 또 아닐 것 같습니다. 대략 1) ISO/ITU-T 국제 표준 표준인 H.26x/MPEG 계통, 2) AOM의 AVx 계통, 3) 중국의 TV표준으로 사용되는 AVS 계통 정도가 남아서 역할을 할 것이라 생각되며, 방송, 산업 분야는 국제 표준 쪽이, streaming 부분은 AOM 계통이 가져갈 것으로 생각합니다.
 
@@ -73,6 +71,5 @@ MCIF에서 나온 씁씁한 소식과… 내일 연차라 오랫만에 너무 �
 [^10]: https://a7dce6fd-e8f0-45f7-b0b0-255c5c9a28e1.filesusr.com/ugd/0c1418_a055f01edeba4e0abe7a1c0482debab7.pdf
 [^11]: https://arxiv.org/ftp/arxiv/papers/2012/2012.02832.pdf.
 [^12]: 이 표는 xilinx forum에서 가져왔는데.. 음 link를 못찾겠네요
-
 
  [1]: https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/2021/01/image.png

@@ -42,11 +42,9 @@ summit design은 2000년도에 이미 시스템 디자인을 위한 virtual CPU�
 <br>
 Visual Elite for HDL.. 대부분의 툴이 visual HDL과 같군요.
 
-
 딴 이야기로 흘렀군요..
 
 맨토에서 summit design을 얼마에 인수했는지 알려지지는 않았습니다만, System Level design쪽에서 GUI 기반의 툴이 상당히 창궐하는 분위기에 적절하게 mentor에서 summit을 인수해서 이런 분위기가 더 힘을 받을 것이라 생각되는 군요.
 
 맨토가 과연 시스템 수준 설게에서 어떤 결과를 낼지 궁금하군요..
-
 

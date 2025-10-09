@@ -21,6 +21,5 @@ categories:
 
 영어 공부는 정말 중요합니다. 그런데, 어떤 일을 하기 위해서 영어를 익혀서 더 넓은 지식을 습득하기 위해서 중요한 것이지 그 자체가 중요하진 않아요. 그렇지 않나요?
 
-
  [1]: http://clien.career.co.kr/
  [2]: http://www.koreaembassy.org/han_koreaus/learn_eng/lecture_index.asphttp://www.koreaembassy.org/han_koreaus/learn_eng/lecture_index.asp

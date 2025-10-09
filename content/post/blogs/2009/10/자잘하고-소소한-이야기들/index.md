@@ -13,7 +13,7 @@ tags:
 
 <span class="Apple-style-span" style="background-color: rgb(255, 255, 255);">개인 블로그라고 해도 일기장도 아니고 🙂</span>
 
-<span class="Apple-style-span" style="background-color: rgb(255, 255, 255);"><br /></span>
+<span class="Apple-style-span" style="background-color: rgb(255, 255, 255);"><br></span>
 
 1.
 

@@ -31,7 +31,6 @@ verilog HDL의 장점은 말 그대로, 간단히 설계할 수 있다는 점 �
 <br>
 verilog HDL은 verilog 2001이라는 새로운 표준에서 검증을 위한 다양한 기능과 좀더 편한 설계를 위하여 보강하고 있으며 (이 부분에 대해서는 예전 posting인 verilog HDL 2001을 보세요~), 좀더 강력한 기능으로 system verilog를 정의하였습니다.
 
-
 ## SystemVerilog
 system verilog는 강력한 assetion과 더불어 데이터 구조의 지원등으로 설계쪽 보다는 검증의 편의성을 노린 흔적이 역력합니다.
 이는 최근에 역시 IEEE표준으로 지정된 검증계의 기린아 ‘e’ 언어를 노리고 있는 것이 거의 확실한듯 합니다.

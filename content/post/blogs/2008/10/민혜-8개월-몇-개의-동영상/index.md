@@ -20,12 +20,8 @@ categories:
 <DIV style="TEXT-ALIGN: left">
   그동안 캠코더에 있는 걸 옮기질 않았더군요. 곧 정리해서 몇편 올리겠습니다. </p>
 
-  <p>
-    </DIV></DIV><br /> <DIV align=center><a href="http://babyworm.net/wordpress/wp-content/uploads/1/mI1R9CUwXXk$" http://cfs3.flvs.daum.net/files/6/21/73/36/14831418/thumb.jpg />mI1R9CUwXXk$</a><br />10월 5일에 촬영한 동영상입니다.
-  </p>
+    </DIV></DIV><br> <DIV align=center><a href="http://babyworm.net/wordpress/wp-content/uploads/1/mI1R9CUwXXk$" http://cfs3.flvs.daum.net/files/6/21/73/36/14831418/thumb.jpg />mI1R9CUwXXk$</a><br>10월 5일에 촬영한 동영상입니다.
 
-  <p>
     <DIV style="TEXT-ALIGN: left">
       이날 따라 놀고 싶었는지 계속 ‘아빠 아빠’를 했습니다. 놀고 싶음 ‘아빠’ 배고프면 ‘엄마’니까요. (우리 귀에만 그렇게 들리는 걸지도.. ^^;)
     </DIV></DIV>
-  </p>

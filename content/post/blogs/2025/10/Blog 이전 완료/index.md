@@ -10,7 +10,6 @@ categories:
 
 그간 미루고 미뤄왔던 blog 이전을 완료했습니다.
 
-
 ## 도메인 이전
 제가 가진 도메인이 hostway을 통해서 진행되었는데, 몇년전 개인용 도메인을 지원하지 않게 되면서 콘솔도 사라지고 오로지 email로만 지원되는 상황..
 
@@ -18,8 +17,6 @@ categories:
 게다가, https를 지원하지 않아서 수시로 막히기도 하고..
 
 그래서 https 처리를 같이 할 수 있는 cloudflare로 도메인을 이동하기로 결정하고, 몇 가지 절차를 거쳐서 cloudflare로 이동했습니다. (무려 2주에 걸쳐)
-
-
 
 ## Blowfish
 그간 github.io를 두고 Hugo + Jane으로 구성해 놓고 content를 옮겨서 테스트 중이었습니다.
@@ -52,7 +49,6 @@ Blowfish에서 다양한 설정을 제공해서 문서 읽고, 이것 저것 바
   - wikipedia, expand 등등
 
 Deploy도 새로 추가했는데, cloudflare를 사용하는 김에 cloudflare page를 main deploy로 변경했습니다. Netify는 지울까 싶기는 한데, 나중에 visual editor를 추가할 가능성이 있을수 있어서 남겨두고 있습니다.
-
 
 ## TODO
 그간 만든 article에서 내용 깨지는 것들 고치고, jetpack에 걸려있는 사진 옮기고, 링크 깨진것 복구하는 것들을 해야 할 것 같습니다.

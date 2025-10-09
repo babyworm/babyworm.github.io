@@ -45,13 +45,13 @@ HDL을 가지고 예술을 하는 것이 아니라면, 최종적으로 구현에
 이 옵션에서는 대상을 선택하기 위한 3가지 옵션이 있습니다. 
 
 <div style="border-right: #cccccc 1px solid; padding-right: 10px; border-top: #cccccc 1px solid; padding-left: 10px; padding-bottom: 10px; border-left: #cccccc 1px solid; padding-top: 10px; border-bottom: #cccccc 1px solid; background-color: #e7e7e7">
-  [CODE]-feedthrough : feedthrough에 대하여 fix<br /> -outputs : mutipleoutput에 대한 fix<br /> -all : 두 가지 모두 [/CODE]
+  [CODE]-feedthrough : feedthrough에 대하여 fix<br> -outputs : mutipleoutput에 대한 fix<br> -all : 두 가지 모두 [/CODE]
 </div>
 
 그리고, 어떤 방식으로 해결할 것인지 정하는 2가지 옵션이 있습니다. 
 
 <div style="border-right: #cccccc 1px solid; padding-right: 10px; border-top: #cccccc 1px solid; padding-left: 10px; padding-bottom: 10px; border-left: #cccccc 1px solid; padding-top: 10px; border-bottom: #cccccc 1px solid; background-color: #e7e7e7">
-  [CODE]-constants : 필요한 경우 logic을 duplicate<br /> -buffer_constants : buffer의 삽입[/CODE]
+  [CODE]-constants : 필요한 경우 logic을 duplicate<br> -buffer_constants : buffer의 삽입[/CODE]
 </div>
 
 따라서 일반적으로는 아래와 같은 명령을 준다면, feedthrough에 대한 문제를 synopsys에서 대부분 해결해 주게되니, 합성 스크립트상에 반드시 추가시킬것을 권장합니다. 

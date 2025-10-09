@@ -28,8 +28,6 @@ Intel이 x86 기반으로 데스크 탑과 서버 시장을 장악하고 있다�
 <br>
 게다가 [이전에 썼듯이][3] ARM의 Cortex-A9의 경우 기존의 A8과 비교하여 여전히 energy-efficient할 것인지 의문입니다. (물론, 2-way까지는 Instruction Level Parallelism 가 충분하므로 어느 정도 까지는 문제가 없겠지요 ^^;)
 
-
-
 ### Intel의 새로운 GPU; [<SPAN style="COLOR: blue; TEXT-DECORATION: underline">Larrabee</SPAN>][4]
 
 - https://pages.cs.wisc.edu/~markhill/restricted/siggraph08_larrabee.pdf
@@ -61,7 +59,6 @@ GPGPU를 하느니 첨부터 vector-array processing을 해서 programmability�
 <img src="Larrabee_slide_block_diagram.jpg">
 
 <img src="Larrabee_block_diagram.png">
-
 
 각 코어의 scalar/vector processing datapath의 그림은 위와 같구요. 위의 두 그림을 보고 알 수 있는 것은 dedicated L1의 형태를 지닌 vector 프로세서를 NoC(interprocessor ring network) 기반으로 array 형태로 배치한 것을 알 수 있습니다. 첫 그림을 보면 shared 형태의 L2처럼 보이는데, 실은 coherent L2 cache입니다. 코어의 수가 늘어나면 다수의 NoC를 배치한다고 하네요. 그래픽(visual computing)을 타켓으로 하다보니 dedicated accelerator와 몇몇 블록들이 존재 하구요.
 

@@ -26,7 +26,7 @@ tags:
     </td>
 
     <td style="vertical-align: top" align="left">
-      <a class="aladdin_title" href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8991268072&ttbkey=ttbbabyworm2309002©Paper=1"><font color="#000000">실용주의 프로그래머</font></a><br /> 앤드류 헌트 외 지음, 김창준 외 옮김/인사이트
+      <a class="aladdin_title" href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8991268072&ttbkey=ttbbabyworm2309002©Paper=1">실용주의 프로그래머</a><br> 앤드류 헌트 외 지음, 김창준 외 옮김/인사이트
     </td>
   </tr>
 </table>
@@ -47,7 +47,7 @@ tags:
     </td>
 
     <td style="vertical-align: top" align="left">
-      <a class="aladdin_title" href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8991268013&ttbkey=ttbbabyworm2309002©Paper=1"><font color="#000000">소프트웨어 프로젝트에서의 리스크 관리</font></a><br /> 톰 디마르코 외 지음, 김준식 옮김/인사이트
+      <a class="aladdin_title" href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8991268013&ttbkey=ttbbabyworm2309002©Paper=1">소프트웨어 프로젝트에서의 리스크 관리</a><br> 톰 디마르코 외 지음, 김준식 옮김/인사이트
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ tags:
     </td>
 
     <td style="vertical-align: top" align="left">
-      <a class="aladdin_title" href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8958621060&ttbkey=ttbbabyworm2309002©Paper=1"><font color="#000000">삼인삼색 미학 오디세이 세트 – 전3권</font></a><br /> 진중권 원작, 이우일.현태준.김태권 글.그림/휴머니스트
+      <a class="aladdin_title" href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8958621060&ttbkey=ttbbabyworm2309002©Paper=1">삼인삼색 미학 오디세이 세트 – 전3권</a><br> 진중권 원작, 이우일.현태준.김태권 글.그림/휴머니스트
     </td>
   </tr>
 </table>

@@ -19,7 +19,7 @@ tags:
 이번에 회사에서 Microprocessor Report를 구독하기로 결정해서, 무려 900불에 육박하는 돈을 내고 구독을 신청했다. 프로세서하는 사람들에게 MPR은 아주 신속한 기술적 정보를 전해준다는 장점이 있다.
 예전에 학교에서 구독했을때는, 괜찮은 기사가 나오면 바로 세미나 모드여서.. 그리 반갑지만은 않았지만..^^;
 
-지난 주에 <font face="Arial, Helvetica, sans-serif" size="-1">AMD Round II 라는 기사가 실렸는데, <font face="Arial, Helvetica, sans-serif" size="-1">The Processor Wars Heat Up</font>이라는 기사와 더불어 인텔과 AMD의 치열한 전쟁에 대해서 다루고 있다.</p>
+지난 주에 AMD Round II 라는 기사가 실렸는데, <font face="Arial, Helvetica, sans-serif" size="-1">The Processor Wars Heat Up이라는 기사와 더불어 인텔과 AMD의 치열한 전쟁에 대해서 다루고 있다.</p>
 
 뭐, 기본적으로 프로세서 마이크로 아키텍쳐가 더 좋은 AMD를 좋아하지만, 이번 인텔의  “마케팅적인 요소가 가득했던” net-burst 마이크로 아키텍쳐를 버리고(어떤 면에서는 전력 소모의 측면이나 공정기술의 한계상 어쩔 수 없었겠지만), brainanic적인 core 마이크로 아키텍쳐로 이전한 것도 즐거운 변화이다.
 
@@ -33,4 +33,4 @@ MPR에 보면 인텔의 유리한점에 대해서 “삽질을 몇번 정도 해
 
 어짜피 브랜드 파워는 인텔이 압도적이고, 마케팅에 부을수 있는 돈도 몇배, 연구 인력도 몇배.. 몇팀을 동시에 꾸리면서 2년마다 획기적인 마이크로 아키텍쳐를 발표할 수 있을 정도…
 
-그래도, AMD가 Athlon에서와 같이 극적인 한판 뒤집기, 뭐 이런것이 기대되는 건 어쩔수 없다.<br /> </font>
+그래도, AMD가 Athlon에서와 같이 극적인 한판 뒤집기, 뭐 이런것이 기대되는 건 어쩔수 없다.<br> </font>

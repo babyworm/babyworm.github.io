@@ -14,7 +14,7 @@ categories:
   
   <p class="wp-caption-text">
     연구실 막내 은경이가 안고 있습니다. 안사람과 이름이 같지요.
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -22,7 +22,7 @@ categories:
   
   <p class="wp-caption-text">
     아직은 뭔가 어색하죠?
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -30,7 +30,7 @@ categories:
   
   <p class="wp-caption-text">
     멀리 중국에서부터 유학온 융로. 선배 잘못둬서 고생이에요
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -38,7 +38,7 @@ categories:
   
   <p class="wp-caption-text">
     까칠한 시어머니 영이.. 우와.. 까칠
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -46,7 +46,7 @@ categories:
   
   <p class="wp-caption-text">
     신났어요
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -54,7 +54,7 @@ categories:
   
   <p class="wp-caption-text">
     아롱이 라이더 권형이.. 요즘 프로젝트가 잘 안되어서 기가 많이 죽어있습니다.
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -62,7 +62,7 @@ categories:
   
   <p class="wp-caption-text">
     ^^
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -70,5 +70,5 @@ categories:
   
   <p class="wp-caption-text">
     이눔들아 공부 열심히 해라~!
-  </p>
+
 </div>

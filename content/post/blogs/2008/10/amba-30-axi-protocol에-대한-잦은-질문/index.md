@@ -25,7 +25,6 @@ ARM에서 university program을 운영하고 있는데, 거기에 AXI 관련 RTL
 
 AXI 강좌를 할 때 많이 받는 질문들을 좀 정리해보겠습니다.
 
-
 > AXI의 channel이란 무엇이며, 장점이 뭔가요?
 
 AXI에서 channel은 기존의 protocol에서 양 방향으로 많은 신호가 흐르면서 복잡도가 증가하던 것을 ready 신호 이외의 신호는 한방향(driver-> target)으로 흐르게 해서 전반적인 설계 복잡도를 줄인 것이지요. (신호 자체가 bidirectional이었다는 건 아니니 오해마시길..)
@@ -33,7 +32,6 @@ AXI에서 channel은 기존의 protocol에서 양 방향으로 많은 신호가 
 Channel을 채용하여 transaction뿐만 아니라 channel간의 의존성(dependency)도 줄어 들었다는 점이 첫 번째 장점이고, 위의 설계 복잡도를 줄일 수 있었다는 것이 두번째 장점이고, 가장 중요한 장점은 channel에서 valid-ready를 사용하고 있으니, 요청에 대해서 즉시 응답해야 하는 부분이 사라져서 register slicing이 쉬워졌다는 점도 장점이 되죠.
 
 또한 channel-base transaction을 만들면서 multiple outstanding transaction을 잘 활용할 수 있게 되었다는 것이 중요한 부분이 되겠습니다.
-
 
 > AXI 에서 multiple outstanding transaction의 장점이 뭔가요?
 
@@ -50,7 +48,6 @@ ID가 다른 경우 서로 다른 master(상호 의존성이 없는 혹은 inter
 <br>
 보통 interconnect는 내부적으로 ID를 붙이는 rule을 가지고 ID를 확장해가면서 slave에서 master로 어떻게 response를 돌려보낼지 결정합니다. 개인적으로 ID가 존재하므로 AXI는 다양한 형태의 interconnection network을 쉽게 형성할 수 있다고 생각됩니다. (만들기 쉽다는 건 아니구요.)
 
-
 > AMBA 3.0 = AXI 인가요?
 
 AMBA 3.0에서 AXI가 도입된 건 맞는데, AMBA 3.0은 AXI, AHB lite, APB 3.0을 포괄합니다. AXI의 경우 대역폭을 많이 제공해 줄 수 있는 다양한 형태의 interconnection network (crossbar / bus matrix 형태를 주로 사용하죠..) 에서 상당히 괜찮은 결과를 보여줄 수 있어요. (뒤에 AXI-lite도 추가되었고, AXI에 low-power interface도 포함되어 있죠.)
@@ -64,8 +61,6 @@ AMBA 3.0에서 AXI가 도입된 건 맞는데, AMBA 3.0은 AXI, AHB lite, APB 3.
 위의 script를 쓰면.. 의 의미는 일종의 generator를 만들면 어렵지 않다는 의미입니다. 예전에 이 글을 쓸 당시도 perl로 스크립트를 만들어서 설계했고요.. 다만, interconnect의 형태가 다양해졌으니, interface component를 잘 설계하는 것이 쉽지 않겠죠. (설계 자체는 AHB에 귀찮은 기능들이 있어서 사실 설계가 조금 짜증나고, AXI는 성능을 위해서 잘 만들려면 쉽지는 않겠죠. )
 <br>
 인터커넥트를 만들때는 고려해야 할 부분들이 많기는 합니다. cyclic dependency라던지 interconnect가 ensure해야하는 부분들 역시 고려해야 합니다.
-
-
 
 p.s.<br>
 자주 실수 잘하시는 것들 몇개 더.. AXI는 당연히도 input과 output간의 combinatorial feedback이 있으면 안됩니다.

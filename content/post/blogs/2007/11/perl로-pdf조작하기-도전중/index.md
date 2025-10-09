@@ -13,7 +13,6 @@ categories:
 
 그래서,그나마 익숙한 tk를 활용하고자 perl-tk 관련 자료를 둘러보다, 간단한 창 하나 띄우고 또 딴짓 중입니다.
 
-
 * <http://www.perl.or.kr/> : 대표적인 perl site. 요즘에 너무 움직임이 뜸하다.
 * <http://perlmania.or.kr/> : 역시 대표적인 perl site ^^
 * <http://mwultong.blogspot.com/>: Perl에 대한 많은 예제를 담고 있습니다.
@@ -22,7 +21,6 @@ categories:
 PDF를 생성하는 것도 같이 보고 있는데.
 * PDF Processing with Perl: <A href="http://www.perl.com/pub/a/2007/09/20/pdf-processing-with-perl.html">http://www.perl.com/pub/a/2007/09/20/pdf-processing-with-perl.html</A>
 * PDF-Reuse Turorials: <A href="http://search.cpan.org/~larslund/PDF-Reuse-Tutorial-0.11/Tutorial.pm">http://search.cpan.org/~larslund/PDF-Reuse-Tutorial-0.11/Tutorial.pm</A>
-
 
 최근 acrobat을 사용하지 않습니다만 pdf생성은 자주하죠.
 <br>

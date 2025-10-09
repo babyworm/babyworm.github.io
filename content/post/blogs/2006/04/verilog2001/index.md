@@ -15,7 +15,7 @@ tags:
 
 우선 책 정보<br>
 ———————————–<br>
-[<span class="srTitle"><strong><font color="#003399">Verilog 2001: A Guide to the New Features of the VERILOG Hardware Description Language (The International Series in Engineering and Computer Science)</font></strong></span>][1] by Stuart Sutherland (<span class="binding"><strong>Hardcover</strong></span> – Jan 15, 2002)<br>
+[<span class="srTitle"><strong>Verilog 2001: A Guide to the New Features of the VERILOG Hardware Description Language (The International Series in Engineering and Computer Science)</strong></span>][1] by Stuart Sutherland (<span class="binding"><strong>Hardcover</strong></span> – Jan 15, 2002)<br>
 ———————————–
 
 아쉽게도 책 표지는 아마존에도 없어서 빼 놓고 이야기 할란다.
@@ -30,7 +30,7 @@ Synopsys User Group(SNUG)의 conference의 단골이기도 한 sutherland 씨의
 
 verilog 2001에서 강화된 부분에 대하여 알아보고, 쉽게 쓰고 싶다면 절대 추천해드리고 싶은 책!<br>
 단, 깊이있는 내용은 1g도 없으니까…  한번 소설 보는 느낌으로 보고 더 이상은 바라지 말아야 할 책.<br>
-amazon에서 직접 사기는 아깝고(실제 유효한 페이지수도 100 페이지도 안되는데 **<font color="#990000">$43.77</font>** 이나 하니까..), 주변 사람으로부터 빌려서 복사해 보기는 아주 괜찮은 책.. (저도 사실 복사했어요.. 불쌍한 엔지니어라..)
+amazon에서 직접 사기는 아깝고(실제 유효한 페이지수도 100 페이지도 안되는데 **$43.77** 이나 하니까..), 주변 사람으로부터 빌려서 복사해 보기는 아주 괜찮은 책.. (저도 사실 복사했어요.. 불쌍한 엔지니어라..)
 
 이정도로 정리하면 되겠다. 
 

@@ -47,7 +47,6 @@ SystemC가 설계에는 힘을 못쓰고, 대신 검증 쪽에서는 나쁘지 �
 
 ## Bio-Inspired Technologies for the Hardware of Adaptive System
 
-
 …재미 있는 책이 하나 나왔네요.. [Bio-Inspired Technologies for the Hardware of Adaptive Systems: Real-World Implementations and Applications][^3] 라는 책인데요. 사실은 adaptive system에 대한 이야기라고 보아도 되지요. 내용이 상당히 흥미롭긴 한데.. 아직 초입 부분만 읽은지라.. 뭐라 말씀드리긴 어렵지만 다 읽게 되면 소감을 적지요. (요즘의 책 읽는 패턴으로 보아, 읽다가 재미 없어지면 재미 있을 만한 부분만 훓어보고 때려칠 가능성도 있습니다만..)
 
  [^1]: http://www.scribd.com/doc/11456331/Hardware-Software-CoDesign-of-a-Multimedia-SOC-Platform

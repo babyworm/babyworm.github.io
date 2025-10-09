@@ -53,7 +53,7 @@ Synopsys의 기본적인 합성 방법이 이해되시나요?
 그래서, TNS를 좀더 빡~시게 고려할 수 있는데.. 이것이 바로 오늘 이야기 하려하는 critical_range에 대한  이야기입니다. 우선 문법.
 
 <div style="BORDER-RIGHT: #e38fbc 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #e38fbc 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #e38fbc 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #e38fbc 1px solid; BACKGROUND-COLOR: #ffe4f4">
-  <textarea name="code" class="c++"><br /> set_critical_range value [design_name]<br /> eg) set_critial_range 0.5 *<br /> </textarea>
+  <textarea name="code" class="c++"><br> set_critical_range value [design_name]<br> eg) set_critial_range 0.5 *<br> </textarea>
 </div>
 
 이 명령은 WNS에서 critical range로 지정된 값 이내의 path에 대해서도 같이 optimization을 수행하도록 합니다.<br>
@@ -89,5 +89,5 @@ over-constraint와 더불어 좋은 방법이 바로 TNS를 줄여서 전달하�
   
   <p class="wp-caption-text">
     역시 뭐든 타이밍을 잘 맞춰야 합니다.
-  </p>
+
 </div>

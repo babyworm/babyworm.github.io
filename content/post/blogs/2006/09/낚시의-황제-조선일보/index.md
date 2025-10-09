@@ -13,7 +13,7 @@ tags:
 가끔 자극적인 제목에 끌려서 클릭해보면 조선일보이거나 인터넷 신문인 경우가 많습니다.
 
 오늘 제가 낚인 기사는<br>
-**<span style="font-size: large;"><br /> “노대통령 ‘고이즈미 대화제의 거부’ 해프닝”<!--e_article_title--></span>**
+**<span style="font-size: large;"><br> “노대통령 ‘고이즈미 대화제의 거부’ 해프닝”<!--e_article_title--></span>**
 
 <http://www.chosun.com/politics/news/200609/200609090195.html>
 
@@ -34,5 +34,5 @@ tags:
 <div class="imageblock center" style="clear: both; text-align: center;">
   <p class="cap1" style="margin-top: 8px;">
     친노/반노… 이런걸 떠나서, 그냥 글을 제대로 읽어주는 것이 그렇게도 어려운 일일까?
-  </p>
+
 </div>

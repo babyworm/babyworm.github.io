@@ -32,7 +32,7 @@ ISSCC의 발표에 의하면 65nm 공정에서 4GHz라고 하더니만, 어제 [
   
   <p class="wp-caption-text">
     OpenSparc 프로세서
-  </p>
+
 </div>
 
 찬란하게 떠오르다 사멸한 Alpha아키텍쳐는 그 면면이 AMD의 Hammer 아키텍쳐로 연결되었고, 주변의 여러 아키텍쳐에 영향을 주었고…<br>

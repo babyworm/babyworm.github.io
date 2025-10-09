@@ -14,7 +14,7 @@ categories:
   
   <p class="wp-caption-text">
     처음 보는 아저씨들에 신기해 하고 있습니다.
-  </p>
+
 </div>
 
 <div style="width: 733px" class="wp-caption aligncenter">
@@ -22,7 +22,7 @@ categories:
   
   <p class="wp-caption-text">
     파파존스님의 둘째 아이 가온이. 눈이 동그라니 아주 이쁘더군요. 남자아이라 묵직~해요
-  </p>
+
 </div>
 
 <img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/hk250000000001.JPG?w=625"  data-recalc-dims="1" /> 민혜는 요즘 이유식중입니다. 수박이나 바나나에 비하면 그다지 좋아하지는 않는데, 가끔은 엄청 싫은 티를 내요. 

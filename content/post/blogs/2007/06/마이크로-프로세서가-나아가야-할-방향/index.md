@@ -13,9 +13,9 @@ tags:
 요즘 <A href="http://babyworm.net/tatter/179" target=_blank>프로세서 로드맵 작성중</A>이라는 말씀을 드렸는데, <A href="http://babyworm.net/tatter/180" target=_blank>회사에 중대한 일</A>이 생겨서 전면적으로 홀드 상태입니다. 가용 자원이나 target이 약간 수정되어야 하니 말입니다.<br>
 그래도, 마이크로 프로세서가 나아가야 할 방향성은 크게 달라지지 않겠지요. 단지, 현재 상황에서는 targeting하기 어려울 것이라 생각했던 목표를 추가적으로 설정할 수 있게 되었다는 것이 중요하겠지요.
 
-**<FONT size=1><br>
+**<br>
 
-### ****<FONT size=3>Energy Efficient</FONT>**</H7>**</FONT>**현재 microprocessor 개발에 있어서 ({{< wikipedia "EISC" >}}나 {{< wikipedia "ARM" >}}같은 embedded microprocessor에 한정하지 않더라도) 가장 중요한 목표가 무엇이겠습니까?
+### ****<FONT size=3>Energy Efficient**</H7>**</FONT>**현재 microprocessor 개발에 있어서 ({{< wikipedia "EISC" >}}나 {{< wikipedia "ARM" >}}같은 embedded microprocessor에 한정하지 않더라도) 가장 중요한 목표가 무엇이겠습니까?
 
 아마도 energy-efficient 가 아닐까 생각합니다.<br>
 생각보다 많은 분들이 저전력 (low power)프로세서와 에너지 효율이 높은(energy-efficient) 프로세서를 혼용하여 사용하시는데, 사실은 약간 차이가 있습니다. 
@@ -41,8 +41,8 @@ Energy 단위의 중요성은 “동일한 일”을 수행하는데 얼마나 �
 또 다른 관점에서…<br>
 Enenry-Efficient는 Hardware만의 문제가 아니라 Software도 같이 노력해야 하는 문제입니다. (물론, 저전력도 그렇습니다만) Energy란 “어떤 일”을 수행하는데 소모되는 시간이기 때문에, “어떤 일”을 빠르게 수행할 수 있도록 더 효율적인 코드를 만드는 책임이 소프트웨어에게 있는 것이지요. 
 
-<FONT size=3>**프로그래머의 관점에서**<br>
-</FONT><br>
+**프로그래머의 관점에서**<br>
+<br>
 프로세서를 사용하는 프로그래머에게는 약간 다른 관점이 있는데, 프로그래밍이 쉬워야 한다는 측면입니다.<br>
 프로세서 아키텍쳐는 벌써 dual core, quad core로 발전하고 있으며, GPU들도 programmable shader를 가지고 있으므로, 아키텍쳐적인 형태로 보았을 때는 heterogeneous multiprocessor의 형태를 이미 취하고 있다고 보셔도 됩니다.<br>
 문제는 프로그래머들은 아직 multiprocessor를 사용할 준비가 되어 있지 않다는 것입니다. Multiprocessor를 지원하는 OS와 compiler, library의 등장으로 물론 점점 multiprocessor를 효과적으로 사용해 나가는 상황이 되어가고 있는 것은 맞습니다만, 아직 프로그래머들이 multiprocessor가 제공하는 기능을 충분히 활용하고 있는 상태는 아닙니다.  <br>

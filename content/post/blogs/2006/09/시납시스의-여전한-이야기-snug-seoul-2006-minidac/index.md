@@ -54,7 +54,7 @@ SCV를 필두로 cadence의 영향력이 systemC에 커지는 것이 별로 보�
 
   <p class="wp-caption-text">
     시납시스에서 준 타거스 가방
-  </p>
+
 </div>
 
 가끔은 이맛에 EDA vendor쇼에 갑니다.

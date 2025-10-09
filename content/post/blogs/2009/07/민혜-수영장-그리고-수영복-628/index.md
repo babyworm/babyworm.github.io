@@ -27,8 +27,6 @@ categories:
 
 <img decoding="async" src="DSC_5183.webp" >
 
-
-
 <img decoding="async" src="DSC_5184.webp" >
 
 <img decoding="async" src="DSC_5187.webp" >
@@ -37,9 +35,7 @@ categories:
 
 <img decoding="async" src="DSC_5191.webp" >
 
-
 <img decoding="async" src="DSC_5196.webp" >
-
 
 <img decoding="async" src="DSC_5226.webp" >
 

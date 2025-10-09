@@ -28,7 +28,6 @@ description: 피아노스쿨 체험단의 세 번째 후기! 앱 사용 경험�
 
 {{< figure src="/images/wp/Screenshot_20180102-211827.png" >}}
 
-
 위에서와 같이 강의를 진행하다가, “타건모드에서 연습하고 오겠습니다.” 하면 아래처럼 타건모드 화면이 나오고 그때부터 타건을 하면서 연습을 할 수 있습니다.
 
 {{< figure src="/images/wp/Screenshot_20180102-211839.png" >}}

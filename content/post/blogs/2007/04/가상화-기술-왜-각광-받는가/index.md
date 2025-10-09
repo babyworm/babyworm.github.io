@@ -11,7 +11,7 @@ tags:
 
 ---
 <DIV style="BORDER-RIGHT: #fff200 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #fff200 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #fff200 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #fff200 1px dotted; BACKGROUND-COLOR: #ffffcc">
-  이 글은 MPR의 “gHOST in the machine”이라는 3주간의 연재 기사를 읽고 이를 토대로 “제 기억 남은 내용과 그 간의 어설픈 지식을 버무려” 쓴 글입니다. 관심 있으신 분은 microprocessor report를 보시는 것이 더 좋은 글을 읽으실 수 있습니다. <br />
+  이 글은 MPR의 “gHOST in the machine”이라는 3주간의 연재 기사를 읽고 이를 토대로 “제 기억 남은 내용과 그 간의 어설픈 지식을 버무려” 쓴 글입니다. 관심 있으신 분은 microprocessor report를 보시는 것이 더 좋은 글을 읽으실 수 있습니다. <br>
 </DIV>
 
 요즘 마이크로 프로세서에서는 “가상화(virtualization)”라는 기술이 각광받고 있습니다.<br>

@@ -82,8 +82,6 @@ void (*vlog_startup_routines[])() = {cosim_register_hello, 0}
 
 ```
 
-
-
 별 내용은 없고, 그냥 verilog code에서 cosim_hello()를 호출하면 loop돌면서 값을 출력하는 예제입니다.
 
  
@@ -101,14 +99,11 @@ $ld -shared -o cosim.so cosim_hello.o
 
 NCVerilog Compile & Elaboration
 
-
-
 ```bash
 $ ncvlog -work worklib test_hello.v
 $ ncelab worklib.test_hello -loadvpi ./cosim:cosim_register_hello
 $ ncsim worklib.test_hello
 ```
-
 
 이런 식으로 사용하면 되는데, 위의 패킷을 받아줄 서버는 간단히 perl로 짜주면 됩니다. Perl-TK로 GUI를 작성하는 것도 가능하구요.
 

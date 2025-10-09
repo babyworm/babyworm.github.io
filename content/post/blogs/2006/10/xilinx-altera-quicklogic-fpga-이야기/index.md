@@ -46,18 +46,9 @@ FPGA는 로직간의 연결을 제어하는 방식에 따라 여러가지 칩이
 
 <fieldset style="padding-right: 5px; padding-left: 5px; padding-bottom: 5px; margin: 10px; width: 90%; padding-top: 5px">
   <legend>Real XILINX FPGA World 8.1  </legend> 
-  
-  <p>
-    <a href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8982300929©Paper=1&ttbkey=ttbbabyworm2309001" target="_blank"><img decoding="async" style="margin: 0px 5px 5px 0px" alt="" src="https://i0.wp.com/image.aladdin.co.kr/coveretc/book/coversum/8982300929_1.jpg?w=75" align="left" border="0" data-recalc-dims="1" /></a>김혁 지음<br /> </fieldset> 
-    
-    <p>
-       
-    </p>
-    
-    <p>
+
+    <a href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8982300929©Paper=1&ttbkey=ttbbabyworm2309001" target="_blank"><img decoding="async" style="margin: 0px 5px 5px 0px" alt="" src="https://i0.wp.com/image.aladdin.co.kr/coveretc/book/coversum/8982300929_1.jpg?w=75" align="left" border="0" data-recalc-dims="1" /></a>김혁 지음<br> </fieldset> 
+
       예전(99년이던가 기억이 가물)에 verilog HDL synthesis라는 Bhasker 책을 랩에서 번역 작업을 한적이 있었습니다. 모든 예제를 synopsys로 합성해서 합성 결과를 같이 보여주려고 했었지요.. 헌데..아마도 국내에서 이 편역본을 출간했으면 망하지 않았을까 생각도 합니다. ^^; 사실 학교에선 강의시간에 synopsys를 사용하는 분들도 없을테고.. 기껏해야 몇몇 대학원생들만 사서 보셨을텐데(엔지니어 분들에게는 너무 쉬운책이니..) 채산성이 안 맞죠..^^;
-    </p>
-    
-    <p>
+
       음.. 그러고보니.. 글의 제목이 FPGA 이야기 였네요.. -_-;
-    </p>

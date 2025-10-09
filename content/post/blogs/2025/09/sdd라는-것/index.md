@@ -21,7 +21,6 @@ categories:
 - 이상한 짓을 하려고 하면, 빠르게 ESC를 누르고 그런짓을 하면 안된다고 알려줘야 합니다.
 - Claude Code의 경우 ctrl-T를 누르면 TODO list 볼 수 있습니다. 제가 해보니 항상 띄워두고 쓰는 게 좋더군요. (뭔짓을 하려는지 볼 수 있으니까요)
 
-
 그런데, Claude Code와 Gemini에게 작업에 대해서 설명하다가 느낀건.. 내가 spec으로 design을 하고 있는 듯 한 느낌이 들었다는 겁니다.
 
 <img src="featured_vive_coding.png">
@@ -41,10 +40,4 @@ Github에서 Spec Kit (https://github.com/github/spec-kit)을 발표하면서, S
 
 AI가 너무 빠르게 바뀌고 있습니다. 정말 새 버전이 나올 때 마다 그 성능 향상에 놀라곤 합니다.
 이제는 대부분의 기술회사에서 "전향적으로 검토해 봐야 할 때"가 되지 않았나 싶습니다.
-
-
-
-
-
-
 

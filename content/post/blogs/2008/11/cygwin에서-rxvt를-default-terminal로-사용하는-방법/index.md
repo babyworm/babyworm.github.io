@@ -15,7 +15,6 @@ tags:
 -     cygwin 설치시 rxvt를 같이 설치합니다. (뭐, 나중에 setup 에서 추가 설치해도 관계 없습니다.
 -     cygwin.bat을 수정한다.
 
-
 ```bat
 @echo off
 C:
@@ -32,7 +31,6 @@ rxvt를 현재 디렉토리에서 다시 띄우는 경우에는 .bash_profile에
 ```
 alias rxvt=’rxvt -bg black -fg white -fn *바탕체-*-16-* -mcc -ls -g 100×55 -e bash -i’
 ```
-
 
 뭐, 위와 같이 별다를 것 없다.
 

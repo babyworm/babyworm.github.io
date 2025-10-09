@@ -16,12 +16,10 @@ tags:
 
 개인적으로 보는 건 힘들겠고, 도서 구입비가 남아있는 관련 기관/랩에서는 관심가져 볼만 하겠습니다. 🙂
 
-
-
 >Dear Colleague:</p>
 >
 >      <p>
->        During this time of economic strife, I would like to extend a special<br />offer to all of our >Processor Watch subscribers.  From now until April<br />30, 2009, you will receive a $200 off of a >one-year web-only<br />subscription to Microprocessor Report by simply contacting me at<br />>480-483-4441 or at <a href="mailto:epotter@reedbusiness.com" style="color: rgb(33, 88, 148); >">epotter@reedbusiness.com</a>.<br />This offer is for new subscriber only.
+>        During this time of economic strife, I would like to extend a special<br>offer to all of our >Processor Watch subscribers.  From now until April<br>30, 2009, you will receive a $200 off of a >one-year web-only<br>subscription to Microprocessor Report by simply contacting me at<br>>480-483-4441 or at <a href="mailto:epotter@reedbusiness.com" style="color: rgb(33, 88, 148); >">epotter@reedbusiness.com</a>.<br>This offer is for new subscriber only.
 >      </p>
 >
 >      <p>
@@ -33,5 +31,5 @@ tags:
 >      </p>
 >
 >      <p>
->        Elaine<br /><font color="#888888"><br />Elaine Potter<br />480-483-4441<br /><href="mailto:epotter@reedbusiness.com" style="color: rgb(33, 88, 148); ">epotter@reedbusiness.com</href=>a></font></span></div>
+>        Elaine<br><br>Elaine Potter<br>480-483-4441<br><href="mailto:epotter@reedbusiness.com" style="color: rgb(33, 88, 148); ">epotter@reedbusiness.com</href=>a></span></div>
 >

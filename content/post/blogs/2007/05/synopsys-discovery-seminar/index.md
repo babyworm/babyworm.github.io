@@ -13,7 +13,7 @@ tags:
 
 ---
 <DIV style="BORDER-RIGHT: #fff200 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #fff200 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #fff200 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #fff200 1px solid; BACKGROUND-COLOR: #ffffcc">
-  5월 11일에 Discovery seminar가 COEX에서 있습니다. <br />개인적으로는 요즘 최대의 관심 분야가 저전력과 functional verification인데, VMM에 대해서 집중적으로 다룰 예정이라 아주 구미를 자극하고 있습니다.  대략 90%는 참석할 예정입니다. (10%는 회사의 사고에 대비해서..^^;)<br /> 
+  5월 11일에 Discovery seminar가 COEX에서 있습니다. <br>개인적으로는 요즘 최대의 관심 분야가 저전력과 functional verification인데, VMM에 대해서 집중적으로 다룰 예정이라 아주 구미를 자극하고 있습니다.  대략 90%는 참석할 예정입니다. (10%는 회사의 사고에 대비해서..^^;)<br> 
   
   <P>
     참석하고 나서, 대충 요약해서 올리도록 하지요.

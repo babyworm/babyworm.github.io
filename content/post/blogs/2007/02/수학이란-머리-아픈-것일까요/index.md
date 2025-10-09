@@ -31,7 +31,7 @@ tags:
 사실 수학이란 퀴즈를 좋아하는 사람에게 가장 큰 지적 호기심을 제공하는 것인데, 문제를 명확하고, 단순하게 표현하기 위한 수식에 압도되어 문제 자체의 즐거움을 놓치게 되는 경우가 많은데, 이 책은 그런 수식의 위압감보다는 수식의 아름다움을 잘 설명하고 있습니다.<br>
 
 <FIELDSET style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 10px; WIDTH: 90%; PADDING-TOP: 5px">
-  <LEGEND>  리만 가설 – 베른하르트 리만과 소수의 비밀  </LEGEND><A href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8988907884©Paper=1&ttbkey=ttbbabyworm2309001" target=_blank><IMG style="MARGIN: 0px 5px 5px 0px" src="https://i0.wp.com/image.aladdin.co.kr/coveretc/book/coversum/8988907884_1.jpg?w=85" align=left border=0 data-recalc-dims="1"></A>존 더비셔 지음, 박병철 옮김<br />전문 수학자들이 가장 많은 관심을 갖고 있는 미해결 문제. ‘제타 함수의 자명하지 않은 모든 근들은 실수부가 1/2’이라는 리만 가설이 나오게 된 역사적 배경과 관련 인물들을 소개했다.
+  <LEGEND>  리만 가설 – 베른하르트 리만과 소수의 비밀  </LEGEND><A href="http://www.aladdin.co.kr/shop/wproduct.aspx?ISBN=8988907884©Paper=1&ttbkey=ttbbabyworm2309001" target=_blank><IMG style="MARGIN: 0px 5px 5px 0px" src="https://i0.wp.com/image.aladdin.co.kr/coveretc/book/coversum/8988907884_1.jpg?w=85" align=left border=0 data-recalc-dims="1"></A>존 더비셔 지음, 박병철 옮김<br>전문 수학자들이 가장 많은 관심을 갖고 있는 미해결 문제. ‘제타 함수의 자명하지 않은 모든 근들은 실수부가 1/2’이라는 리만 가설이 나오게 된 역사적 배경과 관련 인물들을 소개했다.
 </FIELDSET>
 
 이 책의 많은 수식은 이미 여러 책을 통해서 눈에 익은 수식이 많습니다.<br>

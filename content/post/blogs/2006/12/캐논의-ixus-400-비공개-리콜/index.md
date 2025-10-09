@@ -41,8 +41,6 @@ A/S센터 직원분께서 한번 쓰윽 살펴보시고 증상을 보시더니�
 2006년 12월 22일 추가—————-
 
 <DIV style="BORDER-RIGHT: #80b888 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #80b888 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #80b888 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #80b888 1px solid; BACKGROUND-COLOR: #caeece">
-  캐논 A/S센터에서 수리가 끝났다는 이야기를 듣고, 몇시까지 영업하는지 찾다가 Cannon A/S 홈페이지를 찾게 되었습니다. 여기에 보면, LG-캐논에서 운영하는 홈페이지상에서는 위의 버그에 대한 언급이 없었습니다만, Cannon A/S 홈페이지의 4월 6일자 공지사항에는 위의 내용이 명시되어 있습니다. <br />(참고: Cannon A/S 홈페이지 <A href="http://support.canon-ci.co.kr/">http://support.canon-ci.co.kr/</A>)</p> 
-  
-  <p>
-    위의 증상은 IXY-400, Powershot-S400에서 발생할 수 있다고하니, 확인해보시고 수리 받으세요.. <br /></DIV>
-  </p>
+  캐논 A/S센터에서 수리가 끝났다는 이야기를 듣고, 몇시까지 영업하는지 찾다가 Cannon A/S 홈페이지를 찾게 되었습니다. 여기에 보면, LG-캐논에서 운영하는 홈페이지상에서는 위의 버그에 대한 언급이 없었습니다만, Cannon A/S 홈페이지의 4월 6일자 공지사항에는 위의 내용이 명시되어 있습니다. <br>(참고: Cannon A/S 홈페이지 <A href="http://support.canon-ci.co.kr/">http://support.canon-ci.co.kr/</A>)</p> 
+
+    위의 증상은 IXY-400, Powershot-S400에서 발생할 수 있다고하니, 확인해보시고 수리 받으세요.. <br></DIV>

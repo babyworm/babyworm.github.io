@@ -18,9 +18,7 @@ categories:
 <a href="http://www.amazon.com/Make-Electronics-Discovery-Charles-Platt/dp/0596153740/ref=sr_1_1?ie=UTF8&qid=1309441240&sr=8-1" target="_blank">Make:Electronics</a> 라는 책인데요..
 작업하는 동안에 <a href="http://www.make.co.kr/" target="_blank">Make:Korea</a>가 창간되는 경사(?)도 있었습니다.
 
-
 <img decoding="async" src="https://i0.wp.com/ecx.images-amazon.com/images/I/51Bmzqec6ZL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg?w=625" data-recalc-dims="1" />
-
 
 Make 시리즈가 O’RELLY의 Mook같은 건데요.. 이 중에 주요 프로젝트나 관련 지식들이 위와 같은 형식으로 Make:Electronics, Make:Things talk와 같이 따로 책으로 나오는 거죠.
 
@@ -32,9 +30,8 @@ Make 시리즈가 O’RELLY의 Mook같은 건데요.. 이 중에 주요 프로�
 
 지금 하는 마무리 작업은 부품목록을 정리하는 건데.. 음.. 음.. 음.. 귀찮군요.. 
 
-
 ## EISC single computer
-작년에 번역한 CODE는 재인쇄에 들어간다는 기쁜 소식도..<br /> 하지만, 여름(?) 감기에 걸려 고생중이고.. 아.. 목아프다..
+작년에 번역한 CODE는 재인쇄에 들어간다는 기쁜 소식도..<br> 하지만, 여름(?) 감기에 걸려 고생중이고.. 아.. 목아프다..
 
 잘 끝나면 예전에 만든 프로세서가 내장된 CANTUS라는 MCU를 하나 받아와서 취미삼아 이런 저런 것을 해 볼 요량인데.. 역시 일단은 이 책부터 마무리를 잘 내고..
 

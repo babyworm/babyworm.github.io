@@ -34,14 +34,14 @@ Synopsys가 design compiler라는 툴로, 이 logic synthesis를 잡아버리면
 새로 구입한 Design Compiler 2006.x 버젼은 실행시키면 바로 XG,TCL모드로 뜨는데, 일부러 db_mode로 띄워서 쓸 정도니까요..
 
 그런데, 얼마전에 DFT compiler 교육에 교양삼아 참가했었는데, XG모드 이야기가 나오더군요..<br>
-뭐, 여러가지 “XG 좋네~ 쓰세요~” 이런류의 이야기 말미에.. “<font size="3"><strong>2007년부터 DB 모드는 없어집니다</strong></font>.” 
+뭐, 여러가지 “XG 좋네~ 쓰세요~” 이런류의 이야기 말미에.. “<strong>2007년부터 DB 모드는 없어집니다</strong>.” 
 
 <div style="width: 452px" class="wp-caption aligncenter">
   <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile7.uf.205C144F4D6A7AA4310AB1.jpg?resize=442%2C331" width="442" height="331" alt="" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
     캬아악~! DB모드가 없어진다구? orz
-  </p>
+
 </div>
 
 1993년 1월호 마이크로 소프트웨어 커버 기사의 이름이 생각납니다. 
@@ -59,7 +59,7 @@ Synopsys는 꽤 오랜 시간 XG모드로의 전이에 공을 드려왔습니다
   
   <p class="wp-caption-text">
     XG 모드로 이전하기 위한 모든 정보가 있는 곳.
-  </p>
+
 </div>][1]
 
 자.. 이제 변화에 순응합시다..

@@ -13,7 +13,6 @@ tags:
 
 ---
 
-
 ## VMM / OVM
 
 얼마 전에(워낙에 요즘에 업데이트를 안하고 있어서 좀 그렇지요?) VMM과 OVM의 interoperation kit이 나왔지요. Accellera에서 추가적인 자료가 나왔다고도 하지요 ([여기][1]).

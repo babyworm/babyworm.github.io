@@ -18,11 +18,9 @@ categories:
 
 {{< youtube "rdq0iC7XEkE" >}}
 
-
 <img loading="lazy" decoding="async" src="195E58444D7E50A7029A05.jpg" alt="" height="15851" width="620" style="cursor: pointer" />
 
 <img loading="lazy" decoding="async" src="155E58444D7E50B103739B.jpg" alt="" height="10384" width="620" style="cursor: pointer" />
-
 
 신뢰라는 것이 기반이 되지 않은 사회는 얼마나 많은 비용을 치뤄야 하는 걸까요?
 

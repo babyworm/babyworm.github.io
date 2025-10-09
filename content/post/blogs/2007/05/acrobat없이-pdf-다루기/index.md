@@ -32,7 +32,7 @@ Hyperlink가 그리 큰 문제가 되지 않는 파워포인트나, 엑셀의 �
 다음 예는 위의 페이지에서 가지고 온 예제로써, 1.pdf, 2.pdf, 3.pdf를 순서대로 합쳐서 Merged.pdf를 만드는 예입니다. 
 
 <DIV style="BORDER-RIGHT: #90e0ff 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: #90e0ff 1px dotted; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #90e0ff 1px dotted; PADDING-TOP: 10px; BORDER-BOTTOM: #90e0ff 1px dotted; BACKGROUND-COLOR: #d2f2ff">
-  <FONT face=Courier size=2>gswin32 -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=Merged.pdf -dBATCH 1.pdf 2.pdf 3.pdf</FONT><br />
+  gswin32 -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=Merged.pdf -dBATCH 1.pdf 2.pdf 3.pdf<br>
 </DIV>
 
 Acrobat이 점점 멀어지는 군요..<br>

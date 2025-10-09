@@ -20,7 +20,7 @@ categories:
   
   <p class="wp-caption-text">
     들어오자 마자 남들 다 찍는다는 곳에서 사진 한장
-  </p>
+
 </div>
 
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/48df8d5f502d86L.JPG?resize=625%2C424" class="aligncenter" width="625" height="424" alt="" filename="DSC_1337.JPG" filemime="" data-recalc-dims="1" /> 
@@ -30,7 +30,7 @@ categories:
   
   <p class="wp-caption-text">
     에버랜드에서 처음 가보는 에버랜드에 관련한 이야기가 있는 곳..
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -38,7 +38,7 @@ categories:
   
   <p class="wp-caption-text">
     다음에 어딜가야 할지 고민중입니다.
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption aligncenter">
@@ -46,7 +46,7 @@ categories:
   
   <p class="wp-caption-text">
     다음에 어딜갈까 고민중입니다.
-  </p>
+
 </div>
 
 결국 고민하다가, 정원쪽을 들러서 보고 집에 오기로 했지요.
@@ -65,7 +65,7 @@ categories:
   
   <p class="wp-caption-text">
     앙~ 하고 울어서 엄마가 업어주었습니다.
-  </p>
+
 </div>
 
 <div style="width: 710px" class="wp-caption alignleft">
@@ -73,7 +73,7 @@ categories:
   
   <p class="wp-caption-text">
     아직도 아빠한테 서운한 마음이 안풀렸어요..
-  </p>
+
 </div>
 
 하지만 곧 풀려요.. 

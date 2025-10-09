@@ -15,9 +15,9 @@ categories:
 
 소파에서 떨어지고, 욕조에서 넘어지고, 책상 모서리에 찍히고…아..정말 몇 번째인지 모르겠습니다. 저한테 큰 문제가 있는 것 같습니다. 주의력 부족일까요? 
 
-<img decoding="async" src="DSC_5356.webp" data-recalc-dims="1" /><br /> 이날은 7월 17일. 민혜가 처음으로 혼자 신을 신은 날.. 
+<img decoding="async" src="DSC_5356.webp" data-recalc-dims="1" /><br> 이날은 7월 17일. 민혜가 처음으로 혼자 신을 신은 날.. 
 
-<img decoding="async" src="DSC_5358.webp" data-recalc-dims="1" /><br /> 신을 꺼꾸로 신었어도 만세~
+<img decoding="async" src="DSC_5358.webp" data-recalc-dims="1" /><br> 신을 꺼꾸로 신었어도 만세~
 <details>
 <summary>8월 15일 민혜는</summary>
 
