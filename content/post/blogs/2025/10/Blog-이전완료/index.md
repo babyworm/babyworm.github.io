@@ -25,7 +25,7 @@ categories:
 
 그리고 선택한 것이 blowfish 로 바꿨습니다.
 
-<img src="featured_blowfish_logo_transparent.png">
+<img src="featured_blowfish_logo_transparent.png" width=400>
 
 - https://blowfish.page/
 
