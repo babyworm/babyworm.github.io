@@ -4,12 +4,12 @@ author: babyworm
 type: post
 date: 2012-05-20T13:02:25+00:00
 categories:
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
 
 ---
 이젠 거의 정리된 듯..
 
-특히 제가 봐야하는 entropy coding 관련해서는 말이죠.  
+특히 제가 봐야하는 entropy coding 관련해서는 말이죠.<br>
 그동안 관련 proposal만 살짝 살짝보다가 Draft 6부터 훓어보기 시작했는데, 이제는 좀 더 자세히 읽어볼 때가 되었군요.
 
 [http://phenix.int-evry.fr/jct/doc\_end\_user/documents/9_Geneva/wg11/JCTVC-I1003-v2.zip ][1]

@@ -36,7 +36,7 @@ al2fb_facebook_error_time:
   - 2014-06-20T07:58:09+00:00
 categories:
   - CAD tools
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
 tags:
   - EDA
   - EDA playground
@@ -51,7 +51,7 @@ tags:
 
 <http://www.edaplayground.com/home>
 
-&nbsp;
+ 
 
 그 동안 UVM이니 뭐니 이야기를 많이 했는데, 직장인 분들은 회사 밖에서는 뭔가를 할 수 없는 환경이라서 집에서는 간단한 공부하기도 쉽지 않았을 것입니다. (물론 능력 되시는 분들께서는 좋은 시뮬레이터를 사용하실 수 있으시겠지만 말이죠..)
 
@@ -63,7 +63,7 @@ tags:
 
 제 생각에는 학부 수업 정도까지는 cover 하는데 별 문제가 없을 것으로 보이네요.
 
-&nbsp;
+ 
 
 또하나, EDAplayground에 보면  이런 저런 예제들과 간단한 Verilog tutorial을 가지고 있으니, 초보자 분들께도 도움이 될 것으로 보입니다. (로그인도 Facebook 혹은 Google 계정으로 가능하고..)
 

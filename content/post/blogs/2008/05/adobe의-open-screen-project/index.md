@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2008-05-01T13:51:29+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 
 ---
 <A href="http://www.adobe.com/openscreenproject/" target=_blank>Adobe의 Open Screen Project</A>라는 것이 발표되었습니다.

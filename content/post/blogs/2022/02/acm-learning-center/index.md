@@ -16,6 +16,6 @@ categories:
 
 사실 ACM DL과 <a href="https://www.computer.org/csdl/home" target="_blank" rel="noreferrer noopener">IEEE Computer Society DL</a>, CAS (Circuit & System) DL 정도만 구독하면, 제가 관심분야 논문은 거의 얻을 수 있습니다. 
 
-여하튼, 작년쯤부터 <a href="https://learning.acm.org/" target="_blank" rel="noreferrer noopener">ACM learning center</a>라는 것이 있다는 것을 인지하고 사용하고 있는데요. 매우 매우 강력히 추천해 드리고 싶습니다. ACM learning center를 통해서 [O&#8217;RELLY learning center][1]를 사용할 수 있고요(이게 연간 구독료가 $199죠), SkillSoft도 사용할 수 있습니다. 작년까지만 해도 Elsevier의 science direct까지 지원했으니 정말 좋았습니다. (아쉽게 올해부터는 제외되었습니다.) 만일 O&#8217;RELLY learning center에 관심이 있으시다면, 차라리 ACM+DL 옵션으로 가입하셔서 사용하시는게 훨씬 더 좋겠습니다. 🙂
+여하튼, 작년쯤부터 <a href="https://learning.acm.org/" target="_blank" rel="noreferrer noopener">ACM learning center</a>라는 것이 있다는 것을 인지하고 사용하고 있는데요. 매우 매우 강력히 추천해 드리고 싶습니다. ACM learning center를 통해서 [O’RELLY learning center][1]를 사용할 수 있고요(이게 연간 구독료가 $199죠), SkillSoft도 사용할 수 있습니다. 작년까지만 해도 Elsevier의 science direct까지 지원했으니 정말 좋았습니다. (아쉽게 올해부터는 제외되었습니다.) 만일 O’RELLY learning center에 관심이 있으시다면, 차라리 ACM+DL 옵션으로 가입하셔서 사용하시는게 훨씬 더 좋겠습니다. 🙂
 
  [1]: https://learning.oreilly.com/home/

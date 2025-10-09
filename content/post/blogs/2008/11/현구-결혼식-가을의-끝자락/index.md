@@ -7,11 +7,11 @@ categories:
   - 아빠되기
 
 ---
-가을의 끝자락인 11월 9일..  
+가을의 끝자락인 11월 9일..<br>
 회사의 이현구 전임 결혼식이라 성균관대학교 명륜관을 찾았습니다. 
 
-<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6be6043bCN.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1633.JPG" filemime="" data-recalc-dims="1" />  
-전통 혼례는 처음 보는 것이라 재미있는 구경이었습니다. (아쉽게 비가 와서 실내에서 진행되었습니다만&#8230;)
+<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6be6043bCN.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1633.JPG" filemime="" data-recalc-dims="1" /><br>
+전통 혼례는 처음 보는 것이라 재미있는 구경이었습니다. (아쉽게 비가 와서 실내에서 진행되었습니다만…)
 
 <div style="width: 710px" class="wp-caption aligncenter">
   <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6be777bbCB.JPG?resize=625%2C418" width="625" height="418" alt="" filename="4917b6be777bbCB.JPG" filemime="" data-recalc-dims="1" />
@@ -53,7 +53,7 @@ categories:
   </p>
 </div>
 
-<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6c09cc0cCU.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1734.JPG" filemime="" data-recalc-dims="1" /><img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6c0b782dC0.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1740.JPG" filemime="" data-recalc-dims="1" /><img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6c0d93dbCT.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1747.JPG" filemime="" data-recalc-dims="1" />  
+<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6c09cc0cCU.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1734.JPG" filemime="" data-recalc-dims="1" /><img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6c0b782dC0.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1740.JPG" filemime="" data-recalc-dims="1" /><img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6c0d93dbCT.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1747.JPG" filemime="" data-recalc-dims="1" /><br>
 <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/4917b6c10056cCI.JPG?resize=625%2C418" class="aligncenter" width="625" height="418" alt="" filename="DSC_1749.JPG" filemime="" data-recalc-dims="1" /> 
 
 가을과 이쁘게 단풍이 들은 은행 앞에서 재미있게 놀다왔습니다. 
@@ -66,7 +66,7 @@ categories:
   </p>
 </div>
 
-[#M_더보기|접기|민혜 얼굴을 보면 이것이 생각난다.  
+[#M_더보기|접기|민혜 얼굴을 보면 이것이 생각난다.<br>
 [http://www.zinagan.com/files/attach/images/192/5111/아폴로.jpg][1]_M#]
 
  [1]: http://www.zinagan.com/files/attach/images/192/5111/%EC%95%84%ED%8F%B4%EB%A1%9C.jpg

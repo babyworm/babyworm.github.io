@@ -43,7 +43,7 @@ Youtube에서는 AV1을 Youtube living room certification의 필수조건(2021�
 
 특별히 상황이 극적으로 바뀌지 않는 이상 video codec(특히 internet traffic 관점에서)에서 매우 큰 시장인 streaming의 경우 이후로도 VVC로 갈 것 같지는 않으며, AV1를 지나 AV2로 가지 않을까 싶습니다.
 
-사실 VVC의 경우 이전 표준과는 다르게 decoder complexity 역시 &#8216;상당히&#8217; 높기 때문에[^11] 몇몇 실험에 의하면 AV1보다 높습니다. AV1이 그간 dav1d 와 같은 implementation을 통해서 많이 최적화되기도 했고요. 최적화까지 아직은 시간이 좀 필요할 것으로 보이며, 하드웨어 지원까지는 몇년 걸리곘죠. 다만, VVC enabled 장치가 많아진다고 해서 content도 많을 것이라 예상되지는 않네요.
+사실 VVC의 경우 이전 표준과는 다르게 decoder complexity 역시 ‘상당히’ 높기 때문에[^11] 몇몇 실험에 의하면 AV1보다 높습니다. AV1이 그간 dav1d 와 같은 implementation을 통해서 많이 최적화되기도 했고요. 최적화까지 아직은 시간이 좀 필요할 것으로 보이며, 하드웨어 지원까지는 몇년 걸리곘죠. 다만, VVC enabled 장치가 많아진다고 해서 content도 많을 것이라 예상되지는 않네요.
 
 아래 차트[^12]에 완전히 동의하는 건 아닙니다만(표도 좀 어설프고..), 대략 VP9의 비중이 더 줄고 H.264의 비중이 여전히 어느 정도 유지될 것이라는 부분을 제외하면 비슷하게 생각합니다. 사실 해상도가 낮을때는 크게 차이가 나지 않기 때문에, H.264가 유지될 확률이 높아보입니다.)
 
@@ -59,7 +59,7 @@ Youtube에서는 AV1을 Youtube living room certification의 필수조건(2021�
 
 이외에는 LCEVC 같이 base codec 위에 scaler나 super-resolution + residual을 이용하는 형태의 부가 코덱의 형식이 추가될 가능성은 있겠습니다만.. 대세가 될 것 같지는 않으며, 일부 분야에서 제한적으로 사용될 것으로 보입니다.
 
-MCIF에서 나온 씁씁한 소식과&#8230; 내일 연차라 오랫만에 너무 긴 글을 썼네요. 🙂
+MCIF에서 나온 씁씁한 소식과… 내일 연차라 오랫만에 너무 긴 글을 썼네요. 🙂
 
 [^footnote1]: 물론, NNVC(Neural Network based video codec) 기반으로 version2 혹은 차기 버전이 될 수 있는 내용을 JVET에서 실험 중이긴 하지만, 항상 version 1이 제일 중요하니까요.
 [^footnote2]: 거의 20년이 지난 지금까지도 거의 압도적인 점유율 1위죠 (https://go.bitmovin.com/video-developer-report-2020 참조 )

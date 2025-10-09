@@ -41,4 +41,4 @@ categories:
   </p>
 </div>
 
-<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/ik270000000000.JPG?resize=625%2C424" class="aligncenter" width="625" height="424" alt="사용자 삽입 이미지" data-recalc-dims="1" /> 지난번에는 혈관종 주변 위주로 레이저 치료를 받았는데, 이번에는 혈관종 위치 위주로 약간 강하게 쐬였습니다. 많이 줄었어요..&nbsp;
+<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/ik270000000000.JPG?resize=625%2C424" class="aligncenter" width="625" height="424" alt="사용자 삽입 이미지" data-recalc-dims="1" /> 지난번에는 혈관종 주변 위주로 레이저 치료를 받았는데, 이번에는 혈관종 위치 위주로 약간 강하게 쐬였습니다. 많이 줄었어요.. 

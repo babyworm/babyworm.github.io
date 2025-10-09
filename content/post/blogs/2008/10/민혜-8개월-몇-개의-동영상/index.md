@@ -10,7 +10,7 @@ categories:
 <DIV style="TEXT-ALIGN: left" align=center>민혜가 8개월 되었습니다. 정확히는 8개월하고 9일되었지요.
 
 이제 소파를 잡고 일어나고 이런 저런 소리를 냅니다. </DIV>
-<DIV align=center>&nbsp;</DIV>
+<DIV align=center> </DIV>
 <DIV align=center>
 <a href="http://babyworm.net/wordpress/wp-content/uploads/1/Oqs6W-UIqhQ$" http://cfs3.flvs.daum.net/files/76/24/84/51/14831227/thumb.jpg />Oqs6W-UIqhQ$</a>
 
@@ -26,6 +26,6 @@ categories:
 
   <p>
     <DIV style="TEXT-ALIGN: left">
-      이날 따라 놀고 싶었는지 계속 &#8216;아빠 아빠&#8217;를 했습니다. 놀고 싶음 &#8216;아빠&#8217; 배고프면 &#8216;엄마&#8217;니까요. (우리 귀에만 그렇게 들리는 걸지도.. ^^;)
+      이날 따라 놀고 싶었는지 계속 ‘아빠 아빠’를 했습니다. 놀고 싶음 ‘아빠’ 배고프면 ‘엄마’니까요. (우리 귀에만 그렇게 들리는 걸지도.. ^^;)
     </DIV></DIV>
   </p>

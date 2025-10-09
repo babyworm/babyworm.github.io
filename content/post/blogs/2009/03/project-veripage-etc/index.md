@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2009-03-09T05:14:33+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - SystemVerilog
   - Verification
@@ -40,10 +40,10 @@ SystemVerilog를 써 보신 분들은 보신 적이 있으실 streaming concaten
 여하튼, 그래서 답이 어떻게 될까요? ㅎㅎ
 
 ## Veripool Books
-Veripage를 오랫만에 가보니 검증 관련 책 추천이 새롭게 많이 되어 있더군요. <http://www.project-veripage.com/books.php>&nbsp;참고해보세요.
+Veripage를 오랫만에 가보니 검증 관련 책 추천이 새롭게 많이 되어 있더군요. <http://www.project-veripage.com/books.php> 참고해보세요.
 
 ## Quiz2
-구독하고 있는 blog중에 art.oriented 님의 <A href="http://minjang.egloos.com/2254472" target=_blank>블로그에 올라온 글</A>입니다. (지난번에 alt.oriented 라고 잘못 적는&nbsp; 우를 범했습니다. 다시 한번 죄송합니다. newgroup인줄 알았는지 ^^;)
+구독하고 있는 blog중에 art.oriented 님의 <A href="http://minjang.egloos.com/2254472" target=_blank>블로그에 올라온 글</A>입니다. (지난번에 alt.oriented 라고 잘못 적는  우를 범했습니다. 다시 한번 죄송합니다. newgroup인줄 알았는지 ^^;)
 
 ```C
 typedef struct tagWHATTHE {
@@ -56,9 +56,9 @@ typedef struct tagWHATTHE {
 여기서 char data[1]의 의미는 무엇일까요?
 정답은 위의 글을 참조하시고..
 
-저도 simulator를 만들때 위와 비슷한 동작이 필요한 경우가 종종(이라고 쓰고 &#8216;많이&#8217;라고 읽는) 있는데, 유용한 테크닉이군요.
+저도 simulator를 만들때 위와 비슷한 동작이 필요한 경우가 종종(이라고 쓰고 ‘많이’라고 읽는) 있는데, 유용한 테크닉이군요.
 
-참고로 EISC 상에서 disassemble 해보니 다음과 같이 접근합니다.&nbsp; (변수명은 tt, typedef는 test로 했고, malloc은 걍 100 했습니다.) 어떻게 나올지 짐작하는데 대충 도움이 될 것 같아서 올립니다.
+참고로 EISC 상에서 disassemble 해보니 다음과 같이 접근합니다.  (변수명은 tt, typedef는 test로 했고, malloc은 걍 100 했습니다.) 어떻게 나올지 짐작하는데 대충 도움이 될 것 같아서 올립니다.
 
 
 ```
@@ -83,7 +83,7 @@ typedef struct tagWHATTHE {
           c000005a:       08 30           stb     %R0     , ( %R8  + 0x0 )
 ```
 
-ldi은 load immediate, jal 은 call과 동일하고, st는 store, lea는 레지스터간의 move, addq는 add immediate입니다.&nbsp; (stb는 store byte이구요)
+ldi은 load immediate, jal 은 call과 동일하고, st는 store, lea는 레지스터간의 move, addq는 add immediate입니다.  (stb는 store byte이구요)
 <br>
 본문에 나왔듯이 캐시 효율로 봐도 이넘이 더 좋을 듯..
 

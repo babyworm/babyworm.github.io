@@ -14,7 +14,7 @@ tags:
 
 [<img loading="lazy" decoding="async" class="alignnone" title="Design-For-Test For Digital IC's and Embedded Core Systems [Paperback]" src="https://i0.wp.com/ecx.images-amazon.com/images/I/51K5QBX84EL._SL500_AA300_.jpg?resize=300%2C300" alt="" width="300" height="300" data-recalc-dims="1" />][1]
 
-요즘에 반도체 설계에 있어서 가장 중요시되는 것중에 하나는 &#8220;테스트를 고려한 설계(DFT)&#8221;, &#8220;검증을 고려한 설계(DFV: design for verification)&#8221;, &#8220;생산을 고려한 설계(DFM)&#8221;입니다.
+요즘에 반도체 설계에 있어서 가장 중요시되는 것중에 하나는 “테스트를 고려한 설계(DFT)”, “검증을 고려한 설계(DFV: design for verification)”, “생산을 고려한 설계(DFM)”입니다.
 
 DFV는 저 같은 front-end까지를 담당하는 엔지니어에게 중요한 요소입니다.
 원하는 바대로 설계가 되었는지, 그 검증은 얼마나 편하게 되도록 고려되었는지.. 이를 위한 조작들(assertion과 같은)이 수행되었는지..
@@ -41,8 +41,8 @@ Mourad/Zorian이 쓴 "Principles of Testing Electronic Systems"이라는 책이�
 
 이 책은 그림이나 내용에 오타가 너무 많습니다. 특히 그림에서 몇몇 wire가 사라져 있어서 한참 봐야 할때가 있었습니다. 중요한 그림에의 오류는 참기 어렵습니다. (예를 들어 boundary scan cell을 설명하면서 serial-in, serial-out을 연결하는 wire가 없다던지..)
 
-사실 전반적인 내용은 어떨지 모르겠습니다. 저의 얄팍한 인내심으로는 책을 덮어야 했으니까요..(반성&#8230;)
+사실 전반적인 내용은 어떨지 모르겠습니다. 저의 얄팍한 인내심으로는 책을 덮어야 했으니까요..(반성…)
 
-&nbsp;
+ 
 
  [1]: http://www.amazon.com/Design-For-Test-Digital-Embedded-Core-Systems/dp/0130848271/ref=sr_1_3?s=books&ie=UTF8&qid=1334505012&sr=1-3

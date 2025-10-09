@@ -10,11 +10,11 @@ tags:
   - 마이크로 프로세서
 
 ---
-ISSCC&#8217;07에서 Intel에서 80개의&nbsp; core를 집적한 Tera-FLOPS급 프로세서를 발표했었지요. 이번 HOT Chips 19에서는 Tilera라는 회사에서 TILE64 프로세서를 발표한 것이 화제가 되었습니다. 약간 비스므리한 과제를 기획하고 있어서 관심있게 몇 가지 프로젝트를 지켜보고 있었는데, TILE64는 사실 제가 알고 있던 프로세서는 아니었지요.
+ISSCC’07에서 Intel에서 80개의  core를 집적한 Tera-FLOPS급 프로세서를 발표했었지요. 이번 HOT Chips 19에서는 Tilera라는 회사에서 TILE64 프로세서를 발표한 것이 화제가 되었습니다. 약간 비스므리한 과제를 기획하고 있어서 관심있게 몇 가지 프로젝트를 지켜보고 있었는데, TILE64는 사실 제가 알고 있던 프로세서는 아니었지요.
 
 이는 NoC(Network-on-a-Chip)에 기반을 두고, 다수의 프로세서를 묶은 형태로 볼 수도 있겠는데요 (이런 프로세서가 처음은 아니지요. 기존의 intel의 network processor들이 이런 형태를 가져간 적이 있습니다). 사용하려는 application의 task parallelism이 상당한 경우에 유용한 형태라 볼 수 있습니다. 
 
-<IMG src="https://i0.wp.com/journal.mycom.co.jp/articles/2007/09/09/hotchips1/images/005.gif?w=625" data-recalc-dims="1" /> &nbsp;
+<IMG src="https://i0.wp.com/journal.mycom.co.jp/articles/2007/09/09/hotchips1/images/005.gif?w=625" data-recalc-dims="1" />  
 
 [TILE64의 구조; 일본 MYCOM에서 Tilera의 것을 인용한 것을 재인용합니다.]
 

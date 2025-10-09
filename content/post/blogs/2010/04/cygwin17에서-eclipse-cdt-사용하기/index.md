@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2010-04-10T10:34:45+00:00
 categories:
-  - 'SoC &amp; IP design : For beginners'
+  - 'SoC & IP design : For beginners'
 tags:
   - cdt
   - cygwin
@@ -13,13 +13,13 @@ tags:
 ---
 요즘 뭐 좀 할일이 있어서 깔아 쓰고 있는데요.. 
 
-예전에 eclipse CDT를 사용했을 때는 eclipse따로 CDT를 따로 설치해야 했고, CDT도 멋지기는 했어도 아주 매력적인 툴은 아니었는데, 새로 깔아본 CDT는 그때보다 더 멋진 툴이 되어 있군요.  
-그런데, 문제는 CDT가 cygwin 1.7버전(요즘 배포되는 windows7 호환 버전이죠.)을 사용하면서 cygwin gcc를 정상적으로 인식하지 못한다는 점입니다.  
+예전에 eclipse CDT를 사용했을 때는 eclipse따로 CDT를 따로 설치해야 했고, CDT도 멋지기는 했어도 아주 매력적인 툴은 아니었는데, 새로 깔아본 CDT는 그때보다 더 멋진 툴이 되어 있군요.<br>
+그런데, 문제는 CDT가 cygwin 1.7버전(요즘 배포되는 windows7 호환 버전이죠.)을 사용하면서 cygwin gcc를 정상적으로 인식하지 못한다는 점입니다.<br>
 gcc를 인식하더라도, gdb와 연동에 문제가 생긴다거나 하는 문제도 약간씩 있구요.
 
-지금 공식 배포되고 있는 Eclipse Galileo 버전에 붙는 CDT 6.x 버전은 cygwin 1.7 버전과 여러 가지 문제가 있다는 거죠.&nbsp; </p> 
+지금 공식 배포되고 있는 Eclipse Galileo 버전에 붙는 CDT 6.x 버전은 cygwin 1.7 버전과 여러 가지 문제가 있다는 거죠.  </p> 
 
-이 문제의 해결 방법(?)을 결론적으로 말씀 드리자면,  
+이 문제의 해결 방법(?)을 결론적으로 말씀 드리자면,<br>
 이 문제는 CDT의 다음버전인 7.x대 버전, 즉 Eclipse Helios버전에 들어가는 CDT에서 해결되어 정상적으로 동작할 것입니다. (아.. 이거 무슨 허무개그도 아니고..) 
 
 여하튼, Helios는 6월에 공개를 목표로 한창 작업이 진행중이죠. 지금 받아 볼 수 있는 버전은 milestone 6 버전(Eclipse Helios M6)입니다. (물론, nightly build도 받을 수 있지만 testing에 문제가 있을 수 있으니 아무래도 milestone 버전을 받는 것이 안전하겠죠) </p> 
@@ -57,7 +57,7 @@ Cygwin1.7이 깔려 있는 것을 가정하고 말씀 드리죠.
 수행을 위한 방법
   1. 위와 마찬가지로 RSE를 설치하시고 windows에서 eclipse를 수행시키세요. 끝. 가끔(많이?) 디버깅이 안되고 thread가 죽을 때가 있습니다. (저만 그런지도.. )
   2. cygwin상에서 eclipse를 수행시키세요. compile과 debugging이 쉽게 이루어지는데, 중간 중간 귀찮은 일이 생깁니다. 
-  1. cygwin상의 directory와 윈도우의 directory 이름이 달라서 디버깅시에 소스를 찾을 수 없는 경우가 있는데, windows->preference->C/C++->Debug->Common Source Lookup Path에 가서 Add Path Mapping에서 /cygdrive/c/ &#8230; 이렇게 되어 있는 것을 c:\라고 주시면 됩니다. 
+  1. cygwin상의 directory와 윈도우의 directory 이름이 달라서 디버깅시에 소스를 찾을 수 없는 경우가 있는데, windows->preference->C/C++->Debug->Common Source Lookup Path에 가서 Add Path Mapping에서 /cygdrive/c/ … 이렇게 되어 있는 것을 c:\라고 주시면 됩니다. 
   2. clean이 정상적으로 동작하지 않는데, makefile을 확인해보시면 del로 설정되어 있어서 그렇습니다. 별로 큰 일은 아니니
   3. 가끔 잘 안 될때는 그냥 cygwin console에서 직접 해당 디렉토리에 가서 make해 주면 간단하게 해결되는 경우도 많습니다. 
 

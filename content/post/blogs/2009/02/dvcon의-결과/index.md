@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2009-02-15T23:06:05+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - DVCON
   - SystemVerilog
@@ -13,7 +13,7 @@ tags:
 ---
 질문 게시판의 내용이지만, 답변은 여기에 ^^;
 
-<http://theasicguy.com/2009/01/27/dvcon-survey-results-what-do-they-mean/>&nbsp;에 DVCon Survey 결과가 있었습니다. DVCon은 가끔 언급했지만, verification 부분에서 가장 큰 행사 중의 하나이지요. <A href="http://www.deepchip.com/" target=_blank>ESNUG</A>에서도 곧 여러가지 설문 결과나 행사 기간동안 가장 많이 팔린 책들에 대한 언급이 있을 텐데요.. 올 한해 책 지름의 기반이 되겠지요.
+<http://theasicguy.com/2009/01/27/dvcon-survey-results-what-do-they-mean/> 에 DVCon Survey 결과가 있었습니다. DVCon은 가끔 언급했지만, verification 부분에서 가장 큰 행사 중의 하나이지요. <A href="http://www.deepchip.com/" target=_blank>ESNUG</A>에서도 곧 여러가지 설문 결과나 행사 기간동안 가장 많이 팔린 책들에 대한 언급이 있을 텐데요.. 올 한해 책 지름의 기반이 되겠지요.
 
 여하튼, 설문의 결과는 예상대로.. 라고 말씀드릴 수 있습니다.
 
@@ -35,10 +35,10 @@ SystemVerilog가 검증 언어로서 각광 받는 이유는 verilog로 부터 �
 매년 나온 Survey Result를 생각하면 나중에 좀더 다양한 아이템에 대한 Survey 결과가 나올 것이라고 봅니다만, 설계나 검증에 종사하시고자 하시는 많은 분들께 verilog HDL을 권할 수 있겟습니다.
 
 (추가)
-근데, 더 흥미로운 설문은 (아직 샘플의 수가 너무 적어서 뭐라 말씀드리기 힘듭니다만..), 어떤 Verification methodology를 사용할 예정이냐.. (<http://www.doodle.com/participation.html?pollId=u5ust5s73h8y9r62>&nbsp;)는 설문이네요.
+근데, 더 흥미로운 설문은 (아직 샘플의 수가 너무 적어서 뭐라 말씀드리기 힘듭니다만..), 어떤 Verification methodology를 사용할 예정이냐.. (<http://www.doodle.com/participation.html?pollId=u5ust5s73h8y9r62> )는 설문이네요.
 
 제 개인적으로 VMM은 좀 툴에 대해서 까다로워서 원래 좀 그랬고, Teal/Truss는 PC에서 돌리기 힘들어서 확산은 힘들것 같았고..(게다가 PLI/DPI 기반이라는 건 컴파일 할때 험난한 여정을 의미하죠..뭐 SystemC도 마찬가지지요.. 이런 C/C++ 기반의 방법들은 gcc 버전에 민감하게 만들어지면 고생길이 열립니다..특히 C++과의 연결은.. ).. <br>
-여하튼 생각보다 OVM이 지지를 많이 받고 있군요.. 시뮬레이션에 많이 사용되는 cadence와 mentor의 연합이니 그럴 수 있겠다는 생각이 (반면에 약간 툴 버젼을 가리는 것은 아깝습니다. &#8211; 물론 지원되는 system verilog 문법 때문에 어쩔 수 없겠습니다만..)
+여하튼 생각보다 OVM이 지지를 많이 받고 있군요.. 시뮬레이션에 많이 사용되는 cadence와 mentor의 연합이니 그럴 수 있겠다는 생각이 (반면에 약간 툴 버젼을 가리는 것은 아깝습니다. – 물론 지원되는 system verilog 문법 때문에 어쩔 수 없겠습니다만..)
 
 p.s.
 2월 들어 첫 딸 돌잔치 준비를 열심히 하느라 집에서 블로그에 들어올 시간이 없었습니다. ^^;

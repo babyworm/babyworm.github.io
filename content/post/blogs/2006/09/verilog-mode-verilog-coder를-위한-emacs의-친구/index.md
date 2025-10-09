@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2006-09-19T23:55:00+00:00
 categories:
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
 tags:
   - emacs
   - verilog-mode
@@ -51,7 +51,7 @@ verilog-mode에 유용한 자료로서, 저자가 SNUG에서 발표한 verilog-m
   * [http://www.veripool.org/papers/verilog-mode\_veritedium\_20090925.pdf][1]
 
 이걸 보시면, verilog-mode가 어떤것인지 아주 쉽게 이해가 되실것입니다.
-.. 여담이지만, 외국 SNUG에서는 이런 좋은 발표가 많은데&#8230; 유독 SUNG korea의 경우는 좀 약한 면이 없잖아 있어서 아쉽습니다.
+.. 여담이지만, 외국 SNUG에서는 이런 좋은 발표가 많은데… 유독 SUNG korea의 경우는 좀 약한 면이 없잖아 있어서 아쉽습니다.
 
 verilog mode에 대한 자세한 사항은 <http://www.verilog.com/> 혹은 [http://www.veripool.com/][2] 에서 해당 자료를 얻을 수 있습니다.
 

@@ -17,8 +17,8 @@ tags:
 
 십진 연산만을 생각하자면, {{< wikipedia "IBM" >}}에서는 정수 연산에 대하여 예전부터 {{< wikipedia "BCD" >}} 연산({{< wikipedia "binary-coded decima" >}})으로 10진 연산을 적용했었기 때문에 별로 특별한 내용은 아니었습니다. (게다가 예전 {{< wikipedia "ENIAC" >}}시절부터 10진 연산은 사용되었죠) 따라서, 뭔가 새로운 기법이 나온것은 같은데 실체가 상당히 궁금했습니다.
 
-여러 웹사이트와 논문을 뒤적인 결과 드디어 실체를 찾을수 있었는데요, 이번에 적용된 10진 연산은 {{< wikipedia "floating point" >}} 연산에 대한 이야기입니다. 이는 2003년의 ARITH16에 발표된 &#8220;[Decimal Floating-Point: Algoritm for Computers][3]&#8220;라는 논문을 기반으로 하고 있으며, 이에 대한 전반적인 내용은 IBM [웹페이지][4]에 잘 나와 있습니다.  
-이는 10진수 기반의 Floating point연산(이후 DFP) 방법에 대한 내용인데, 대략적으로 살펴보니 mantisa(부동 소수점에서 지수 부분이 아닌, 유효숫자를 표시하는 부분) 부분을 binary가 아닌 compressed BCD로 표현하는 방법과 연산에 대해서 기술하고 있는 것 같습니다.  
+여러 웹사이트와 논문을 뒤적인 결과 드디어 실체를 찾을수 있었는데요, 이번에 적용된 10진 연산은 {{< wikipedia "floating point" >}} 연산에 대한 이야기입니다. 이는 2003년의 ARITH16에 발표된 “[Decimal Floating-Point: Algoritm for Computers][3]“라는 논문을 기반으로 하고 있으며, 이에 대한 전반적인 내용은 IBM [웹페이지][4]에 잘 나와 있습니다.<br>
+이는 10진수 기반의 Floating point연산(이후 DFP) 방법에 대한 내용인데, 대략적으로 살펴보니 mantisa(부동 소수점에서 지수 부분이 아닌, 유효숫자를 표시하는 부분) 부분을 binary가 아닌 compressed BCD로 표현하는 방법과 연산에 대해서 기술하고 있는 것 같습니다.<br>
 (컴퓨터에서 floating point 연산은 모두 {{< wikipedia "IEEE-754" >}}라는 복잡한 표준을 따르고 있는데, 이 표준에 대하여 decimal mode를 추가하는 IEEE-754 revision(이후 {{< wikipedia "IEEE 754r" >}}) 작업이 진행중이라고 합니다. 사실 IEEE 754 표준은 그 자체가 복잡해서 많은 연구자들의 머리를 아프게 합니다. 저도 마찬가지였구요. 특히 복잡한 라운딩 모드들 ^^;)
 
 논문에 따르면 DFP 기법은 아주 새로운 것은 아니고, 754표준을 따를 필요성이 적은 휴대용 전자 계산기 종류에서는 (최근들어) 대부분 DFP를 따르고 있다고 하네요. 하지만, 위의 IBM 웹페이지를 따르면 프로세서에 적용되는건 아마도 Power6가 최초인가 봅니다.

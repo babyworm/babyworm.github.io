@@ -20,7 +20,7 @@ console로 접속해서, 현재 theme 디렉토리(sparkling)를 백업하시고
 mv sparkling sparkling-2.3.5
 ```
 
-svn을 쓸 줄 아시면 현재 디렉토리에서 아래 repository에서 checkout 받으시고&#8230;
+svn을 쓸 줄 아시면 현재 디렉토리에서 아래 repository에서 checkout 받으시고…
 
 ```
 svn co https://themes.svn.wordpress.org/sparkling/2.3.2/

@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2007-10-05T14:17:01+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - GPU
   - Mobile3D

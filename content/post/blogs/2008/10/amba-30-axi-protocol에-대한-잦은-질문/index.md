@@ -39,7 +39,7 @@ Channel을 채용하여 transaction뿐만 아니라 channel간의 의존성(depe
 
 AXI의 가장 큰 장점은 slave에서 자신의 상황에 맞게 처리 순서를 바꾸어 줄 수 있다는 것이 되겠습니다. 즉, 필요에 따라 out-of-order를 할 수 있다는 거죠. 그런데, 이런 처리는 다수의 transaction에 대한 정보가 있어야 하는데요, 이러한 다수의 transaction 정보를 slave로 전달하는 것이 바로 multiple outstanding transaction이라는 보시면 되겠습니다. 다수의 트랜젝션 정보를 미리 보낼 수 있으니 slave가 이 중의 하나를 선택적으로 먼저 처리할 수 있는 거죠.. OK?
 
-물론, 같은 ID를 가지고 multiple outstanding transaction을 만든 경우에는 in-order로 처리하겠다는 의미이니, response 없이 command를 먼저 보내두는 것에 의미를 두어야 합니다. &#8211; memory에 대한 read와 같이 이전에 open된 page, 혹은 이전에 어떤 동작을 했는지에 따라 latency가 바뀌는 장치들에게는 매우 중요합니다.
+물론, 같은 ID를 가지고 multiple outstanding transaction을 만든 경우에는 in-order로 처리하겠다는 의미이니, response 없이 command를 먼저 보내두는 것에 의미를 두어야 합니다. – memory에 대한 read와 같이 이전에 open된 page, 혹은 이전에 어떤 동작을 했는지에 따라 latency가 바뀌는 장치들에게는 매우 중요합니다.
 
 > ID는 왜 사용하나요?
 

@@ -13,7 +13,7 @@ categories:
 
 까꿍 놀이는 민혜가 좋아하는 놀이들 중의 하나입니다. 엄마 아빠와 까꿍하길 좋아하죠.(10/26일 동영상)<a href="http://babyworm.net/wordpress/wp-content/uploads/1/sM15sy2Fmdk$" http://cfs3.flvs.daum.net/files/82/17/90/97/15068482/thumb.jpg />sM15sy2Fmdk$</a>
 
-민혜가 비디오 카메라 녹화때 나오는 &#8220;띵~&#8221;하는 소리만 들으면, 비디오 찍는 줄 알고 달려옵니다. (10/26)
+민혜가 비디오 카메라 녹화때 나오는 “띵~”하는 소리만 들으면, 비디오 찍는 줄 알고 달려옵니다. (10/26)
 
 <a href="http://babyworm.net/wordpress/wp-content/uploads/1/phrN9i4OLbI$" http://cfs3.flvs.daum.net/files/16/85/41/38/15068938/thumb.jpg />phrN9i4OLbI$</a>
 

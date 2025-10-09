@@ -17,7 +17,7 @@ JTAG을 이용한 디버거를 만들고, PC상에서 테스트 하는데 소프
 
 그래서, 어쩔수 없이 giveio라는 범용 device driver를 하나 올리고, 이걸 통해서 cygwin에서 제어하는 방법을 사용했습니다.
 <br>
-항상 그렇지만, 중요한 부분(말하자면, 제가 기억하고 있어야 하는 부분 ^^)은 cygwin에서 windows 라이브러리(windows API)를 포함시켜서, 다른 것에서와 거의 동일하게 windows용 device driver를 연결하면 된다는 것이지요..&nbsp; 그 부분은 아래와 같습니다.
+항상 그렇지만, 중요한 부분(말하자면, 제가 기억하고 있어야 하는 부분 ^^)은 cygwin에서 windows 라이브러리(windows API)를 포함시켜서, 다른 것에서와 거의 동일하게 windows용 device driver를 연결하면 된다는 것이지요..  그 부분은 아래와 같습니다.
 
 ```c++
 
@@ -38,14 +38,14 @@ int main (int argc, char *argv[])
 {
   int fd;
 
-  printf (&#8220;testing program\n&#8221;);
+  printf (“testing program\n”);
 
   OSVERSIONINFO osvs;
   osvs.dwOSVersionInfoSize = sizeof(OSVERSIONINFO);
   GetVersionEx(&osvs);
 
   if (osvs.dwPlatformId == VER_PLATFORM_WIN32_NT) {
-    printf(&#8220;win 32\n&#8221;);
+    printf(“win 32\n”);
     HANDLE handle;
 
     handle = CreateFile("\\\\.\\giveio", GENERIC_READ, 0, NULL, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL);

@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2006-08-23T15:59:30+00:00
 categories:
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
 tags:
   - power architecture
   - 마이크로 프로세서
@@ -27,7 +27,7 @@ PowerPC는 IBM이 RS/6600 미니 컴퓨터를 만든 기술을 기반으로 모�
 <img loading="lazy" decoding="async" class="alignright" src="power_logo.jpg">
 
 MPR에서도 IBM, freescale, 그리고 power architecture를 사용하는 마케팅 부서에서 좋아할 거라고 전한다.
-엠블럼은 뭬비우스의 띄를 이용하여 &#8220;P&#8221;를 나타낸거라네..
+엠블럼은 뭬비우스의 띄를 이용하여 “P”를 나타낸거라네..
 
 그림도 바꾼김에 (^^;) 새롭게  power architecture ISA가 2.03으로 업데이트 되었으며,
 예전 powerPC의 장점인 폭넓은 호환성과 확장성은 유지하면서 새롭게 정의되었다고 한다.

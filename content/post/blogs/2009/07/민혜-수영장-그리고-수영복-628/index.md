@@ -21,7 +21,7 @@ categories:
 
 <img decoding="async" src="DSC_5174.webp" >
 
-민혜도 맘에 드는 듯합니다.&nbsp;
+민혜도 맘에 드는 듯합니다. 
 
 <img decoding="async" src="DSC_5181.webp" >
 

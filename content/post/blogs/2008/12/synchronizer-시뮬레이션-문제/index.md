@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2008-12-29T02:07:29+00:00
 categories:
-  - 'SoC &amp; IP design : For beginners'
+  - 'SoC & IP design : For beginners'
 tags:
   - meta stable
   - Modelsim

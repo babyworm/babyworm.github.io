@@ -13,7 +13,7 @@ wordpress가 자동 업데이트 하면서 footnotes plugin과 충돌(!!!)이 �
 
 wordpress의 경우 plugin은 아래 디렉토리에 존재합니다.
 
-<pre class="wp-block-code"><code>&lt;HOME&gt;/wordpress/wp-content/plugins/</code></pre>
+<pre class="wp-block-code"><code><HOME>/wordpress/wp-content/plugins/</code></pre>
 
 문제가 되는 plugin을 선택하셔서 폴더 이름을 mv로 바꿔두시면 일단 뜨기는 뜹니다. (뭐 지우셔도 됩니다만..)
 현재 버전에 맞는 새 버전의 plugin이 나왔다면 설치하시면 되고, 그렇지 않은 경우에는 그냥 없는 상태로 몇일 살아야겠죠. (다행히 footnotes plugin은 바로 업데이트 되어 있더군요.)

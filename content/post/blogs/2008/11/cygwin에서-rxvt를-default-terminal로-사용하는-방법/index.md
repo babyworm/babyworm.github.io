@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2008-11-25T07:17:26+00:00
 categories:
-  - 'SoC &amp; IP design : For beginners'
+  - 'SoC & IP design : For beginners'
 tags:
   - cygwin
   - RXVT
@@ -25,7 +25,7 @@ set CYGWIN=tty
 C:\cygwin\bin\rxvt.exe -bg black -fg white -fn *바탕체-*-16-* -mcc -ls -g 100x55 -e bash --login -is
 ```
 
--    위의 부분에서 핵심은 &#8211;login 을 사용한다는 것. 폰트는 편한거 골라쓰세요.
+-    위의 부분에서 핵심은 –login 을 사용한다는 것. 폰트는 편한거 골라쓰세요.
 
 rxvt를 현재 디렉토리에서 다시 띄우는 경우에는 .bash_profile에서 다음과 같이 설정하면 된다.
 

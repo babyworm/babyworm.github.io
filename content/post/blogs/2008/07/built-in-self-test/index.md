@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2008-07-04T08:22:33+00:00
 categories:
-  - 'SoC &amp; IP design : For beginners'
+  - 'SoC & IP design : For beginners'
 
 ---
 질문 게시판에 질문해 주신 분이 계셔서 적습니다.

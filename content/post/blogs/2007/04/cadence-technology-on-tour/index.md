@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2007-04-12T09:32:42+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - Cadence
   - 세미나
@@ -65,27 +65,27 @@ tags:
           </P>
           
           <br /> <P class=T0><FONT color=#ff9900>Digital IC design</FONT></P><br /> <P class=T2><B><FONT color=#ff9900>[Cadence Low power solution]</FONT></B></P><br /> <P>
-            Improve productivity, reduce risk, and achieve optimal trade-offs among timing, power, and area with the Cadence Low-Power Solution. See the industry&#8217;s first complete low-power solution, integrating design, verification, and implementation – enabled by Si2 Common Power Format (CPF).
+            Improve productivity, reduce risk, and achieve optimal trade-offs among timing, power, and area with the Cadence Low-Power Solution. See the industry’s first complete low-power solution, integrating design, verification, and implementation – enabled by Si2 Common Power Format (CPF).
           </P>
           
           <br /> <P class=T2><B><FONT color=#ff9900>[Encounter Conformal Constraint Designer]</FONT></B></P><br /> <P>
-            See how CCD&#8217;s constraint check and exception generation integrated seamlessly in SOC Encounter environment.
+            See how CCD’s constraint check and exception generation integrated seamlessly in SOC Encounter environment.
           </P>
           
           <br /> <P class=T2><B><FONT color=#ff9900>[DFY flow]</FONT></B></P><br /> <P>
-            See an overview of SoC Encounter GXL differentiated features &#8211; focused on high-end digital design at 65nm/45nm technology, and how these features address OCV, process defect challenges for fast design closure and minimum yield risk.
+            See an overview of SoC Encounter GXL differentiated features – focused on high-end digital design at 65nm/45nm technology, and how these features address OCV, process defect challenges for fast design closure and minimum yield risk.
           </P>
           
-          <br /> <P class=T0></P><br /> <P class=T0><FONT color=#669900>Custom IC design</FONT></P><br /> <P class=T2><B><FONT color=#669900>[ IC 6.1 &#8211; Design environment / Simulation / &nbsp;constraint flow ]</FONT></B></P><br /> <P>
+          <br /> <P class=T0></P><br /> <P class=T0><FONT color=#669900>Custom IC design</FONT></P><br /> <P class=T2><B><FONT color=#669900>[ IC 6.1 – Design environment / Simulation /  constraint flow ]</FONT></B></P><br /> <P>
             This demo focuses on the Virtuoso Schematic Editor and the Virtuoso Analog Design Environment. You will discover some of the new features and functionality that are available, focusing on the enhanced productivity that designers enjoy with the introduction of assistance. You will also learn about the constraint management system that can be used to pass information the schematic through to layout.
           </P>
           
-          <br /> <P class=T2><B><FONT color=#669900>[IC 6.1 &#8211; Layout suite / Constraint flow ]</FONT></B></P><br /> <P>
+          <br /> <P class=T2><B><FONT color=#669900>[IC 6.1 – Layout suite / Constraint flow ]</FONT></B></P><br /> <P>
             Discover the new, common cockpit that integrates all the products designers can access at any time during the design. Learn how to quickly perform area estimation on a piece of data, obtain the information, and plug it into a floor planning technology. Alo see simple editing to correct violations, the use of pin placement technology, and design optimization.
           </P>
           
-          <br /> <P class=T2><B><FONT color=#669900>[AMS/RF Kit &#8211; Building out wireless]</FONT></B></P><br /> <P>
-            The Cadence® AMS Methodology Kit addresses analog/mixed-signal design challenges across some of today&#8217;s most competitive markets, including wireless, wired networking, and personal entertainment electronics. The Kit delivers a verified methodology, enabling IP, and consulting, all of which is demonstrated on an end-to-end mixed-signal design example. <br />The Cadence RF Design Methodology Kit helps shorten product development cycle time by increasing silicon predictability and enabling greater RF design productivity.
+          <br /> <P class=T2><B><FONT color=#669900>[AMS/RF Kit – Building out wireless]</FONT></B></P><br /> <P>
+            The Cadence® AMS Methodology Kit addresses analog/mixed-signal design challenges across some of today’s most competitive markets, including wireless, wired networking, and personal entertainment electronics. The Kit delivers a verified methodology, enabling IP, and consulting, all of which is demonstrated on an end-to-end mixed-signal design example. <br />The Cadence RF Design Methodology Kit helps shorten product development cycle time by increasing silicon predictability and enabling greater RF design productivity.
           </P>
           
           <br /> <P>
@@ -111,9 +111,9 @@ tags:
           </P>
           
           <br /> <P class=T2><B>Keynote abstract</B></P><br /> <P>
-            As designs increase in complexity and the impact of shrinking geometries on logic design grows, front-end design teams face an increasing number of challenges, many of which can put already tight schedules at risk. These challenges include the critical nature of power, a growing design/verification gap, logical physical effects, and others, and have up until today been tackled in a serial, ad-hoc and highly iterative manner. Together this all results in a schedule predictability crisis as the actual product development time can be twice as large, or more, as the expected schedule. As a result, logic design teams need a new method to effectively design, verify and implement their RTL block and chip-level designs-one that replaces today&#8217;s methods with a concurrent and highly predictable flow, without destabilizing existing design and verification processes. In this presentation we&#8217;ll provide a framework for addressing these problems
+            As designs increase in complexity and the impact of shrinking geometries on logic design grows, front-end design teams face an increasing number of challenges, many of which can put already tight schedules at risk. These challenges include the critical nature of power, a growing design/verification gap, logical physical effects, and others, and have up until today been tackled in a serial, ad-hoc and highly iterative manner. Together this all results in a schedule predictability crisis as the actual product development time can be twice as large, or more, as the expected schedule. As a result, logic design teams need a new method to effectively design, verify and implement their RTL block and chip-level designs-one that replaces today’s methods with a concurrent and highly predictable flow, without destabilizing existing design and verification processes. In this presentation we’ll provide a framework for addressing these problems
           </P>
           
           <br /> <P>
             <br />
-          </P>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+          </P>———————————-</p>

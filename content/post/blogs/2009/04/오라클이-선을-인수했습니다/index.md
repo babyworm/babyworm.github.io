@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2009-04-20T15:22:56+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - SUN
 

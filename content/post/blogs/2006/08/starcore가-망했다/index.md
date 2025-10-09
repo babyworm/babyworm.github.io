@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2006-08-22T14:25:09+00:00
 categories:
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
 tags:
   - DSP
   - embedded microprocessor

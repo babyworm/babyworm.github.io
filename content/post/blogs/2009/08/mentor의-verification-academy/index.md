@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2009-08-04T00:22:37+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - ABV
   - Assertion

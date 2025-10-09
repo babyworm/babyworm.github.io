@@ -19,6 +19,6 @@ categories:
 
 계획을 모두 지킬수는 없더라도 즐겁고 행복한 올 한 해가 되시길 바랍니다.
 
-<img loading="lazy" decoding="async" src="https://i0.wp.com/cdn.pixabay.com/photo/2018/03/07/17/15/balloon-3206530_960_720.jpg?resize=625%2C489&#038;ssl=1" alt="" width="625" height="489" data-recalc-dims="1" /> 
+<img loading="lazy" decoding="async" src="https://i0.wp.com/cdn.pixabay.com/photo/2018/03/07/17/15/balloon-3206530_960_720.jpg?resize=625%2C489&ssl=1" alt="" width="625" height="489" data-recalc-dims="1" /> 
 
 [image from pixabay.com]

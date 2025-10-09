@@ -14,7 +14,7 @@ categories:
 ## ATOM
 MPFJ 2008에서 Belli Kuttanna의 발표를 보면 다음과 같은 내용이 있지요.
 
-- 이 이야기를 하면서, &#8216;baseline core에 비하여 성능이 떨어지더라도, 전력 소모를 줄이는 것이 목표이며, 이를 위해서 처음부터 다시 개발했다(developed from scratch)&#8217; 라는 이야기를 같이 했었지요. 그만큼 저전력 마켓에 대한 의지가 강력하다는 의미로 받아들일 수 있겠습니다.
+- 이 이야기를 하면서, ‘baseline core에 비하여 성능이 떨어지더라도, 전력 소모를 줄이는 것이 목표이며, 이를 위해서 처음부터 다시 개발했다(developed from scratch)’ 라는 이야기를 같이 했었지요. 그만큼 저전력 마켓에 대한 의지가 강력하다는 의미로 받아들일 수 있겠습니다.
 - 문제는 in-order issue의 경우 out-of-order에 비하여 여러 면에서 성능 차이가 발생하게 되는데, 이를 해결하기 위한 intel의 방법입니다.
   - ATOM에서는 2개의 thread를 지원하는 SMT 구조를 채용하고, 프로세서의 입장에서는 약간 특이한 OF(RF)-AG-DC1-DC2-EX-WB 형태의 backend pipeline을 구성하여 x86 native(macro) instruction에 최적화 시킨듯한 느낌입니다.
   - 이 경우 분기 예측의 중요성이 매우 커지게 되는데, 이를 보완하기 위해서 branch trace buffer, GShare predictor와 Return stack buffer등을 채용해서 분기 쪽은 비교적 aggressive하게 만든 거죠.

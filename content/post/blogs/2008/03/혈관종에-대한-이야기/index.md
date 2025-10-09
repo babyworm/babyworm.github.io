@@ -9,15 +9,15 @@ categories:
 ---
 우리 민혜가 아빠가 자기를 못 알아볼까봐 볼에 연지를 찍고 태어났는데요..
 
-&nbsp;
+ 
 
-실제적으로는 혈관종이라는 일종의 양성 혈관 종양입니다. (정확히는 <a href="http://home.megapass.co.kr/~faldo/diseases/hamangiomastrawberry.html" target="_blank">딸기형 혈관종</a>)  
+실제적으로는 혈관종이라는 일종의 양성 혈관 종양입니다. (정확히는 <a href="http://home.megapass.co.kr/~faldo/diseases/hamangiomastrawberry.html" target="_blank">딸기형 혈관종</a>)<br>
 많은 분들이 걱정해 주시는데, 형관종은 신생아의 1%정도에 발병하며 돐때 까지는 커지는 경우도 있다고 해요. 그리고, 대부분 1~2년 내에 사라지고 약 95%가 7~10살 이전에 사라진다고 합니다.
 
-&nbsp;
+ 
 
 민혜의 경우 더 이상 커지지 않는다면, 2~3살 되기 전까지 기다려 볼 예정이구요.. 조금 더 지나서까지 없어지지 않는다면 레이저 치료를 받을 예정이에요 ^^;
 
 걱정하지 말아주세요..
 
-&nbsp;
+ 

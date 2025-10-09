@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2006-11-16T11:38:27+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - Accellera
   - SystemVerilog
@@ -25,6 +25,6 @@ tags:
 
 또 다른 주목할 만한 부분은 IP 보호 기능입니다. 사실 이 기능의 경우 verilog에서는 cadence verilog-XL 시절 부터 있었던 기능이지만, tool dependent하기 때문에 약간 문제이기는 했습니다.(verilog simulation에 있어서 verilog-XL이나, NC-verilog와 같은 툴이 거의 표준처럼 사용되고 있는 상황이니 큰 문제는 없겠습니다만..(ESNUG참조))
 
-과연 점점 사용자 계층이 엷어져가는 VHDL이 이번 표준으로 얼마나 사용자를 되 찾아올지 의문입니다.  
-왜냐하면, Verilog에서는 기본적으로 강력한 구조적 설계 기능에 검증 기능을 더하는 방향으로 확장되고 있는 반면, VHDL은 기본적으로 behavioral design/verification에 (verilog에 비해)적합한 형태였기 때문이지요.  
+과연 점점 사용자 계층이 엷어져가는 VHDL이 이번 표준으로 얼마나 사용자를 되 찾아올지 의문입니다.<br>
+왜냐하면, Verilog에서는 기본적으로 강력한 구조적 설계 기능에 검증 기능을 더하는 방향으로 확장되고 있는 반면, VHDL은 기본적으로 behavioral design/verification에 (verilog에 비해)적합한 형태였기 때문이지요.<br>
 즉, 설계 부분의 편의성에 있어서는 그리 향상된 것이 없어보인다는 것이 좀 아쉽네요..

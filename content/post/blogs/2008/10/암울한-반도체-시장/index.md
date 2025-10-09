@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2008-10-30T10:03:40+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - ASIC
   - 반도체

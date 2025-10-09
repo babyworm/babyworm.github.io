@@ -5,7 +5,7 @@ type: post
 date: 2018-01-09T17:22:51+00:00
 categories:
   - CAD tools
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
   - verification
 
 ---
@@ -21,9 +21,9 @@ Verilog-XL 처럼 interpreter 형태를 1세대로, 2 세대를 finesim, VCS, NC
 
 Xcelium의 경우 GPU기반에서 출발해서 Multi-core 형태로 발전한 상태였고, 배경에는 simulation의 경우 단순한 연산보다 복잡한 연산이 많아서 GPU보다 processor core를 병렬적으로 사용하는게 좋더라.. 는 담당 엔지니어의 설명이 있었습니다.
 
-사실 VCS FGP에 대해서는 비교적 잘 모르던 상태에서 들었는데, VCS 사용자의 경우 &#8220;무료&#8221;로 사용할 수 있을 것이고 곧 사용할 수 있을 것이다. 라는 부분이 흥미를 끌었죠. 내부적으로 VCS만 사용하고 있어서 말입니다.
+사실 VCS FGP에 대해서는 비교적 잘 모르던 상태에서 들었는데, VCS 사용자의 경우 “무료”로 사용할 수 있을 것이고 곧 사용할 수 있을 것이다. 라는 부분이 흥미를 끌었죠. 내부적으로 VCS만 사용하고 있어서 말입니다.
 
-다만, 두 툴 모두 RTL sim 보다는 Gate level sim에서 성능 향상이 크며, RTL sim의 경우는 설계에 따라 큰 차이가 있다&#8230; 를 깔고 들어갔고, Xcelium의 경우 3~4배까지는 된다고 이야기했던 반면, 당시 VCS FGP는 설계에 따라 2배 정도는 된다는 이야기를 해서 아주 큰 기대는 하지 않고 있었습니다. 보통 이렇게 이야기하면 생각보다 훨씬 안좋은 경우가 많으니까요.
+다만, 두 툴 모두 RTL sim 보다는 Gate level sim에서 성능 향상이 크며, RTL sim의 경우는 설계에 따라 큰 차이가 있다… 를 깔고 들어갔고, Xcelium의 경우 3~4배까지는 된다고 이야기했던 반면, 당시 VCS FGP는 설계에 따라 2배 정도는 된다는 이야기를 해서 아주 큰 기대는 하지 않고 있었습니다. 보통 이렇게 이야기하면 생각보다 훨씬 안좋은 경우가 많으니까요.
 
 결론적으로 말하자면, Parallel Simulation 쓰라는 이야기를 하고 싶습니다. 설계에 따라 다를테니 뭐가 좋다고 이야기하기 쉽지 않겠지만, core를 3~4개 정도를 사용하는 수준은 분명히 좋아집니다.
 
@@ -38,47 +38,47 @@ Xcelium의 경우 GPU기반에서 출발해서 Multi-core 형태로 발전한 �
     <td>
     </td>
     
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;rel. perf. &quot;}">
+    <td data-sheets-value="{"1":2,"2":"rel. perf. "}">
       rel. perf.
     </td>
   </tr>
   
   <tr>
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;i7-3770K &quot;}">
+    <td data-sheets-value="{"1":2,"2":"i7-3770K "}">
       i7-3770K
     </td>
     
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-numberformat="[null,3,&quot;0%&quot;,1]">
+    <td data-sheets-value="{"1":3,"3":1}" data-sheets-numberformat="[null,3,"0%",1]">
       100%
     </td>
   </tr>
   
   <tr>
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ryzen 1950X &quot;}">
+    <td data-sheets-value="{"1":2,"2":"Ryzen 1950X "}">
       Ryzen 1950X
     </td>
     
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.85}" data-sheets-numberformat="[null,3,&quot;0%&quot;,1]">
+    <td data-sheets-value="{"1":3,"3":0.85}" data-sheets-numberformat="[null,3,"0%",1]">
       85%
     </td>
   </tr>
   
   <tr>
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;i5-8400 &quot;}">
+    <td data-sheets-value="{"1":2,"2":"i5-8400 "}">
       i5-8400
     </td>
     
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.68}" data-sheets-numberformat="[null,3,&quot;0%&quot;,1]">
+    <td data-sheets-value="{"1":3,"3":0.68}" data-sheets-numberformat="[null,3,"0%",1]">
       68%
     </td>
   </tr>
   
   <tr>
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;i7-8700K&quot;}">
+    <td data-sheets-value="{"1":2,"2":"i7-8700K"}">
       i7-8700K
     </td>
     
-    <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.52}" data-sheets-numberformat="[null,3,&quot;0%&quot;,1]">
+    <td data-sheets-value="{"1":3,"3":0.52}" data-sheets-numberformat="[null,3,"0%",1]">
       52%
     </td>
   </tr>

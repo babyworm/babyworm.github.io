@@ -5,7 +5,7 @@ type: post
 date: 2012-09-22T17:40:51+00:00
 categories:
   - CAD tools
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
   - verification
 
 ---

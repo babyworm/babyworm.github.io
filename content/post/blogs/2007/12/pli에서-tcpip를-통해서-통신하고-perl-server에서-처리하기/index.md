@@ -86,13 +86,13 @@ void (*vlog_startup_routines[])() = {cosim_register_hello, 0}
 
 별 내용은 없고, 그냥 verilog code에서 cosim_hello()를 호출하면 loop돌면서 값을 출력하는 예제입니다.
 
-&nbsp;
+ 
 
-이 코드 틀은 다이나릿의 기안도 박사님 IDEC 강좌 자료에 있는 &#8220;HW/SW 동시 협조 시뮬레이션&#8221;이란 강좌의 첫번째 PLI 예제에서 따왔으며, 저는 이 함수에 TCP/IP 전송이 가능하도록 수정하였습니다.
+이 코드 틀은 다이나릿의 기안도 박사님 IDEC 강좌 자료에 있는 “HW/SW 동시 협조 시뮬레이션”이란 강좌의 첫번째 PLI 예제에서 따왔으며, 저는 이 함수에 TCP/IP 전송이 가능하도록 수정하였습니다.
 
 컴파일은 다음과 같이 일반적인 NCVerilog 컴파일과 다르지 않지요. (Windows에서 Modelsim 사용하시는 분은 gcc보다는 visual c++의 cl 을 사용하시는 것이 속 편합니다. MingW 버전의 gcc가 되기는 하는데, Modelsim에서 버전을 상당히 심하게 탔던 것으로 기억됩니다. 요즘 버전은 어떨지 모르겠습니다만. )
 
-&nbsp;
+ 
 
 ```bash
 $gcc -I$CDS_HOME/tools/inca/include -c cosim_hello.c
@@ -156,6 +156,6 @@ while(1) {
         }
 ```
 
-&nbsp;
+ 
 
 요런 식이라는 것이지요. 중간 중간에 엄청 생략되어 있음은 유의하세요..

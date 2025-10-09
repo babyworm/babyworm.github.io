@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2012-06-26T13:47:13+00:00
 categories:
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
   - verification
 
 ---

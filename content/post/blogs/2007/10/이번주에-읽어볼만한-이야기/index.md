@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2007-10-15T23:54:09+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 
 ---
 이번주에도 여지없이 읽어볼만한 기사들과 이야기가 많았습니다.
@@ -19,7 +19,7 @@ categories:
   * [ADCs for DSPs, part 1](https://www.eetimes.com/mobile-weekly-reader-volume-12/)
     * DSP를 위한이라고 되어 있는데, 실제적으로는 디지털 설계자가 한번 읽어 볼만한 개론적인 이야기입니다.
   * [1080/60p를 보장하는 범용 SoC][7]
-    [Horizon Semiconductors][8]사는 업계 최초로 차세대 미디어 플레이어/기록기를 위해 2채널의 1080/60p 디코딩을 가능하게 하는 범용 SoC 솔루션을 발표했다&#8230;. (신선한 내용은 아니지만, 기술 속도를 보기에는 괜찮아 보입니다.)
+    [Horizon Semiconductors][8]사는 업계 최초로 차세대 미디어 플레이어/기록기를 위해 2채널의 1080/60p 디코딩을 가능하게 하는 범용 SoC 솔루션을 발표했다…. (신선한 내용은 아니지만, 기술 속도를 보기에는 괜찮아 보입니다.)
   * [Fundamentals of embedded video, part 2](https://www.edn.com/fundamentals-of-embedded-video-part-2/):
     역시 교양에 해당하는 내용입니다.
 

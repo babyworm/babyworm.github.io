@@ -56,14 +56,14 @@ UVM의 경우 작년에 IEEE-1800.2로 표준화되면서 몇가지 변화가 �
   - https://blogs.mentor.com/verificationhorizons/blog/2017/01/03/conclusion-the-2016-wilson-research-group-functional-verification-study/
 
 - 슬라이드가 벌써 올라와 있네요. https://dvcon.org/sites/dvcon.org/files/files/2017/50_1.pptx
-- Keynote: Tomorrow&#8217;s Verification Today
+- Keynote: Tomorrow’s Verification Today
   - 각 단계 별로 유효한 검증 방법을 설명했습니다. 예를 들어 IP 검증의 경우 앞으로 어떤 형태에서 검증될지 모르기 때문에 다양햔 configuration에서 검증해야 하며, 비교적 크기가 작아서 formal 먼저 하는게 좋답니다.
   - 여기서 나온 이야기가 아니라 formal 부분을 이야기하는 세션에서 나온 이야기입니다만, 겸사 겸사.. formal의 경우 속도 문제로 30K 이하에서는 pure formal을 사용하지만, 그 이상에서는 constraint에 대해서 회로를 풀어가는 방법(bug hunting)을 사용한답니다. 이때 constraint를 적절하게 적어주지 못하면 Corn of Influence가 너무 제한적이라서 검증이 안되는 부분이 생길 수 있는데 요걸 줄이기 위한 방법이 많이 이야기 되었습니다.
   - <img decoding="async" src="030517_1613_DVCON20173.png" alt="" data-recalc-dims="1" >
 
   - 반면에 SoC 검증에는 parallel simulation이나, emulation으로 다양한 시나리오를 검증하는 것이, Software bringup 단계에서는 emulation, FPGA prototyping이 중요하다는 이야기였죠.
   - 아마 검증도 deep learning을 사용하게 될 것이다 (verification hole을 찾고 coverage를 높이는 벡터를 만들기 위해서).. 라는 이야기를 했는데.. 요 내용이 이번 conference에서 나옵니다.
-  - https://dvcon.org/sites/dvcon.org/files/files/2017/DVCon%202017%20keynote%20final2%2016&#215;9.pdf
+  - https://dvcon.org/sites/dvcon.org/files/files/2017/DVCon%202017%20keynote%20final2%2016×9.pdf
 - Panel: SystemVerilog Jinxed Half My Career: Where Do We Go From Here?
   - 제목자체가 재미있는데요 (공감도 되고..) Verilog를 만든 Mooby를 비롯한 이쪽 분야의 Guru들이 모여서 이후에는 어떻게 될까 라는 주제로 이야기를 나누었습니다. Panel 중 한명이었던 Dave Rich(Verification Academy 포럼의 moderator이자 로봇이 아닐까 의심이 될 정도로 빠르게 답변을 달아주는 걸로도 유명하죠)의 글이 패널 토론의 앞부분 내용과 상당히 겹칩니다.
   - https://blogs.mentor.com/verificationhorizons/blog/2017/02/24/the-walking-lrm/
@@ -72,7 +72,7 @@ UVM의 경우 작년에 IEEE-1800.2로 표준화되면서 몇가지 변화가 �
   - 첫 번째 내용이 일정 단위로 시뮬레이션 check point를 잡고(시뮬레이터 기능이죠), 일정 단위동안 coverage가 올라가지 않으면 저장한 check point로 되돌아가 seed를 바꾼 후 다시 검증을 진행하고, 요걸 반복한다는 내용이었습니다. 이렇게 하면 하드웨어가 바뀐 경우(즉, coverage 측정을 다시해야 하는 경우) 짧은 시뮬레이션 타임으로 높은 coverage를 얻을 수 있다는 거죠. Seed를 바꾸는 건 누구나 하는 건데, 시뮬레이션 런을 다시 돌리는 게 아니라 checkpoint를 잡고 바꾸는 것이 특이하죠. 요 paper가 best paper 2등을 했습니다.
   - 두 번째는 조금 더 재미있는데, coverage를 찾아가는 것에 machine learning을 사용하자는 거죠. (앞의 formal 세션이나 keynote, 튜토리얼에서 이야기된 거죠.) regression을 반복하면서 분석해보면 테스트의 양(volume)과 이 테스트가 건드리는 bin들의 양(여기서는 breadth라 표기했습니다.), 그리고 특정 테스트에 의해서만 건드려지지는 bin들의 수(rarity)로 구분한 다음 요걸 Machine learning을 통해서 clustering으로 구분하는 거죠. 이렇게 되면, 서로 다른 test더라도 같은 그룹에 있는 테스트는 굳이 regression에 포함시킬 필요가 없어서 더 적은 테스트 벡터로 더 좋은 효과를 얻을 수 있다는 것입니다. 이 논문이 이번의 best paper였습니다.
 
-아.. 잊을뻔 했는데, parallel simulation에 대해 Cadence(Rocketsim 기반의 Xcelium)와 Synopsys(VCS parallel)에 대해 서로 은근하게 까는 것도 재미있었는데요. 강도로 봤을 때 Xcelium이 조금 더 빠르지 않을까.. 하는 느낌이 들었습니다만, 느낌일 뿐이죠(근거 없습니다.). 서로 발표한 자료에 나온 speedup이 워낙 설계에 따라 달라서요.  DVCON 참가자들 사이에서도 &#8216;벤치마크 수치 서로 공개하지 못하게 하고 있는데, 그냥 Accellera에서 주도해서 공정하게 테스트하고 open하면 안되냐.. &#8216;라는 이야기도 나왔죠. (Parallel simulation 이야기하다가 나온건 아니지만요..)
+아.. 잊을뻔 했는데, parallel simulation에 대해 Cadence(Rocketsim 기반의 Xcelium)와 Synopsys(VCS parallel)에 대해 서로 은근하게 까는 것도 재미있었는데요. 강도로 봤을 때 Xcelium이 조금 더 빠르지 않을까.. 하는 느낌이 들었습니다만, 느낌일 뿐이죠(근거 없습니다.). 서로 발표한 자료에 나온 speedup이 워낙 설계에 따라 달라서요.  DVCON 참가자들 사이에서도 ‘벤치마크 수치 서로 공개하지 못하게 하고 있는데, 그냥 Accellera에서 주도해서 공정하게 테스트하고 open하면 안되냐.. ‘라는 이야기도 나왔죠. (Parallel simulation 이야기하다가 나온건 아니지만요..)
 
 그러고보니, 희안하게 PSS에 대한 이야기는 활발한 반면 HLS를 위한 SystemC에 대한 이야기는 별로 못들었습니다. 어찌된 일인지 모르겠는데요.. 제가 해당 세션에 들어가지 않아서 그런지도 모르겠네요. (그쪽에 들어간 분께 나중에 물어봐야 할 것 같습니다.)
 

@@ -7,7 +7,7 @@ categories:
   - bookmark
 
 ---
-- <a href="http://www.govtech.com/gt/421371?id=421371&#038;topic=290174&#038;full=1&#038;story_pg=1" class="blog-margarin-link"><font class="blog-margarin-link-text">Gartner: Top 10 Strategic Technologies for 2009</font></a>
+- <a href="http://www.govtech.com/gt/421371?id=421371&topic=290174&full=1&story_pg=1" class="blog-margarin-link"><font class="blog-margarin-link-text">Gartner: Top 10 Strategic Technologies for 2009</font></a>
   -  특별한 것은 없지만, 의미가 있기는 합니다.
   -  Virtualization과 Cloud Computing은 당연하고, Servers-Beyond Blades는 특화되고 있는 경향이니 그럴듯 하고, Web-Oriented Architectures와 Enterprise Mashups은 전문 분야가 아니지만, personal computing 영역에서 충분히 검증되었으니 enterprise 영역으로 갈때가 되었고..
   -  Specialized Systems은 응용 분야에 특화된 이종 시스템이 나올 거라는데, 이건 저도 하고 있는 일이지요.

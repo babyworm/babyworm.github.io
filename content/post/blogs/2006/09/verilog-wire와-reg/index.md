@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2006-09-13T15:17:14+00:00
 categories:
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
 tags:
   - reg
   - RMM
@@ -26,7 +26,7 @@ tags:
 > **_The wire and tri nets connect elements._** The net types wire and tri shall be identical in their syntax and functions; two names are provided so that the name of a net can indicate the purpose of the net in that model.** _A wire net can be used for nets that are driven by a single gate or continuous assignment._** The tri net type can be used where multiple drivers drive a net.
 
 위에서는 wire와 tri를 기술하고 있는데, 우리의 주된 관심은 wire이므로 이쪽만 살펴보죠.. (사실 tri는 tri-state wire를 기술하고 있는 것으로 속성상 wire와 같습니다. 단, multiple-driver가 허용된다는 것만 다르죠. 혹시 driver가 신호를 보내주는 요소, 즉 게이트 출력, tr의 출력 같은 넘이라는 건 다 아시죠?)
-wire는 기본적으로 &#8220;연결&#8221;을 위한 요소입니다. 그리고, 이것은 단일 게이트 혹은 continuous assignment의 출력을 연결하기 위한 목적으로 사용됩니다.
+wire는 기본적으로 “연결”을 위한 요소입니다. 그리고, 이것은 단일 게이트 혹은 continuous assignment의 출력을 연결하기 위한 목적으로 사용됩니다.
 continous assignment로 대표적인 것이 assign문이므로 다음과 같이 여러분이 일상적으로 쓰는 구문이 가능한 것입니다.
 
 ```verilog
@@ -40,7 +40,7 @@ wire out;
 assign out = a & b & c & d
 ```
 
-보통 이런식의 문장에서 wire가 가능한 것입니다. wire는 개념적으로 &#8220;<span style="color: #ff0000;">선을 연결한다</span>&#8220;라고 생각하십시요.
+보통 이런식의 문장에서 wire가 가능한 것입니다. wire는 개념적으로 “<span style="color: #ff0000;">선을 연결한다</span>“라고 생각하십시요.
 출력포트에 어떤 표현식의 출력을 <span style="color: #ff0000;">연결</span>할때 사용되는 것 처럼요..
 
 이제 reg에 대해 알아봅시다. 역시 표준 문서의 정의를 먼저 보겠습니다.
@@ -49,7 +49,7 @@ assign out = a & b & c & d
 
 위의 정의에 따르면, reg는 procedural assignment(절차적 assignment는 소위 always begin.. end, initial begin.. end사이에 사용되는 모든 표현식으로 생각하십시요..)에 의하여 assign되는 요소입니다. 또한, assign사이에 값을 저장할 수 있습니다. <span style="color: #ff0000;"><strong>이런 속성을 이용해서 flip-flop이나 latch를 만들수 있다고 되어 있습니다</strong></span>. 많은 초보자분들이 헷깔리시는 부분이 바로 이 속성때문일 것입니다. 보통 플립플롭 즉, 순차 회로를 만들때 reg문을 많이 사용하다보니, 많은 분들이 reg문을 사용하면 register(즉 플립플롭)이 생성될 것이라는 생각을 가지고 있습니다.
 하지만, 표준의 마지막 문장에서 이건 절대 아니라고 명시하고 있으며, 실제로도 그렇습니다.
-그래서, &#8216;reg는 register가 나오는 것이다&#8217;라고 생각하시는 많은 분들이 &#8216;reg이면 register가 나와야 하는건데.. 왜 안나오지? 그럼 wire랑 뭐가 다른거야?&#8217; 라는 궁금증을 가지십니다.
+그래서, ‘reg는 register가 나오는 것이다’라고 생각하시는 많은 분들이 ‘reg이면 register가 나와야 하는건데.. 왜 안나오지? 그럼 wire랑 뭐가 다른거야?’ 라는 궁금증을 가지십니다.
 
 이제부터 차근 차근 설명 드리지요..
 
@@ -87,7 +87,7 @@ always @(posedge clk or negedge rst_x)  begin
 end
 ```
 
-이 코드는 언듯 입력에 대한 모든 경우가 표시된 것 같습니다만.. always문에서 clk의 상승엣지 혹은 rst_x의 하강엣지까지 &#8220;기다려&#8221;라고 선언했기 때문에 입력에 따른 변화값이 &#8220;기억되어야 합니다&#8221;. 그래서 기억할 필요성으로 인하여 저장장치(플립플롭)로 구현됩니다.
+이 코드는 언듯 입력에 대한 모든 경우가 표시된 것 같습니다만.. always문에서 clk의 상승엣지 혹은 rst_x의 하강엣지까지 “기다려”라고 선언했기 때문에 입력에 따른 변화값이 “기억되어야 합니다”. 그래서 기억할 필요성으로 인하여 저장장치(플립플롭)로 구현됩니다.
 
 요약하자면,
 1) reg가 과거값을 알아야 할 경우가 생긴다면(입력에 의한 출력이 모두 기술되지 않거나, 특정 입력을 기다려야 하는 경우), reg는 storage element로 구현된다.
@@ -107,7 +107,7 @@ p.s.
 ASIC으로 밥먹고 사는 저도 verilog에 대해 속속들이 다알고 쓰는것은 아닙니다. 권장할 만한 사항도 아니구요(필요한 정도만 속속들이 알아야죠..).. 어짜피 verilog 자체로 ART를 하는 것도 아니고, 최종적으로 회로가 나와야 하는데, 일정 수준 이상의 문법은 CAD툴에서 안전하지 못하거든요..
 
 그래서, verlog HDL에서는 coding style이라는 guide line이 있습니다.
-말하자면, 이런 경우에는 이렇게 쓰면 좋다. 이런 문장은 왠만하면 쓰지 말아라.. 뭐 이런 지침 같은 것입니다. 가장 유명한 책이 바로 아래의 RMM이라는 책인데, 이쪽 계통을 지망하시는 분께는 아마도 &#8220;필독서&#8221;가 아닐까 생각합니다. 개인적으로 공부삼아 번역도 좀 해본적이 있고.. (실제로는 귀찮아서 번역은 하다 말았고, 정독한번 잘했다~ 정도로 생각하고 있습니다.)
+말하자면, 이런 경우에는 이렇게 쓰면 좋다. 이런 문장은 왠만하면 쓰지 말아라.. 뭐 이런 지침 같은 것입니다. 가장 유명한 책이 바로 아래의 RMM이라는 책인데, 이쪽 계통을 지망하시는 분께는 아마도 “필독서”가 아닐까 생각합니다. 개인적으로 공부삼아 번역도 좀 해본적이 있고.. (실제로는 귀찮아서 번역은 하다 말았고, 정독한번 잘했다~ 정도로 생각하고 있습니다.)
 
 [<img loading="lazy" decoding="async" class="alignnone" title="Reuse Methodology Manual for System-on-a-Chip Designs" src="https://ecx.images-amazon.com/images/I/41JE3t%2BAoLL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" width="300">][1]
 

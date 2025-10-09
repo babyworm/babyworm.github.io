@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2006-10-10T14:02:45+00:00
 categories:
-  - 'SoC &amp; IP design'
+  - 'SoC & IP design'
 tags:
   - API
   - GPU

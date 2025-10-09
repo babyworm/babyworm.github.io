@@ -15,7 +15,7 @@ tags:
 뭐, TCL을 사용하시는 분들이면 다들 생각하실 만한 것이라 팁이라고 할 것 까지야 없겠습니다만, 처음 접하시는 분들에게는 도움이 될 것 같아서 올립니다.
 
 
-보통 ncverilog로 시뮬레이션 할때 (다른 것도 마찬가지지만&#8230;), .f 파일로 불리는 파일리스트를 만들어서 사용하는데, 합성할때 이걸 왠만하면 사용할 수 있습니다.
+보통 ncverilog로 시뮬레이션 할때 (다른 것도 마찬가지지만…), .f 파일로 불리는 파일리스트를 만들어서 사용하는데, 합성할때 이걸 왠만하면 사용할 수 있습니다.
 
 ```
 set LIST_FILE "../../vlist.f"
@@ -25,7 +25,7 @@ if [ catch { open $LIST_FILE r } fileID ] {
       puts stderr "Can not open file ${LIST_FILE}"
       quit
   } else {
-   while { [gets $fileID lbuffer] &gt;= 0 } {
+   while { [gets $fileID lbuffer] >= 0 } {
       if {[ regexp {(^/{2})} $lbuffer test1 ]} { continue }
       if {$lbuffer == ""} { continue }
       lappend RTL_FILES $lbuffer

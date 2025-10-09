@@ -17,9 +17,9 @@ tags:
 >
 > 2. Chaing, Design for Manufacturability and Yield for Nano-Scale CMOS, July 2007, ISBN 978-1-4020-5187-6
 >
-> 3. Srivastava,&nbsp; Statistical Analysis and Optimization for VLSI Timing and Power, 2005,&nbsp; ISBN 978-0-387-25738-9
+> 3. Srivastava,  Statistical Analysis and Optimization for VLSI Timing and Power, 2005,  ISBN 978-0-387-25738-9
 >
-> 4. Sansen,&nbsp; Analog Design Essentials, 2006, ISBN 978-0-387-25746-4
+> 4. Sansen,  Analog Design Essentials, 2006, ISBN 978-0-387-25746-4
 >
 > 5. Sutherland, Verilog and System Verilog Gotchas: 101 Common Coding Errors and How to Avoid Them, 2007, ISBN 978-0-387-71714-2
 >
@@ -45,19 +45,19 @@ tags:
 >
 > 16. Lee, CMOS Biotechnology, 2007, ISBN 978-0-387-36836-8
 >
-> 17. Chinnery and Keutzer,&nbsp; ASIC and Custom: Tools and Techniques for Low Power Design, August 2007, ISBN 978-0-387-25763-1
+> 17. Chinnery and Keutzer,  ASIC and Custom: Tools and Techniques for Low Power Design, August 2007, ISBN 978-0-387-25763-1
 >
-> 18. Narendra,&nbsp; Leakage in Nanometer CMOS Technologies,&nbsp; 2006, ISBN 978-0-387-25737-2
+> 18. Narendra,  Leakage in Nanometer CMOS Technologies,  2006, ISBN 978-0-387-25737-2
 >
 > 19. Otis, Ultra-Low Power Wireless Technologies for Sensor Networks, 2007, ISBN 978-0-387-30930-9
 >
-> 20. Vijayraghavan,&nbsp; A Practical Guide for SystemVerilog Assertions,2005, ISBN 978-0-387-26049-5
+> 20. Vijayraghavan,  A Practical Guide for SystemVerilog Assertions,2005, ISBN 978-0-387-26049-5
 
 
 SystemVerilog의 인기는 여전하구요.. DAC이다보니 CAD alogrithm 관련 책들도 눈에 뜨입니다.
 
 하지만, 뭐니 뭐니 해도 가장 강세는 Low Power 관련 책입니다.
-이런 경향을 잘 반영하듯이 RMM의 저자 였던 Keating은 Low power methodology manual(1)을 썼고, 한때 열심히 보던,&nbsp; Chinnery & Keutzer도 ASIC and Custom:Tools and Techniques for Low Power Design이란 책으로 돌아왔습니다.
+이런 경향을 잘 반영하듯이 RMM의 저자 였던 Keating은 Low power methodology manual(1)을 썼고, 한때 열심히 보던,  Chinnery & Keutzer도 ASIC and Custom:Tools and Techniques for Low Power Design이란 책으로 돌아왔습니다.
 각각 기존의 책에 저전력 부분을 대폭 보강하였을 것이라 미루어 짐작해봅니다.
 
 또 한가지는 DAC인지 DVCon인지 구분이 안 갈 정도로 많은 검증 관련 책이 쏟아져 나왔다는 것입니다. 대부분의 검증이 System Verilog을 기반으로 하고 있다는 것도 주목할 만한 일입니다.

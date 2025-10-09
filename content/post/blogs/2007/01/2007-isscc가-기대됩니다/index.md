@@ -4,7 +4,7 @@ author: babyworm
 type: post
 date: 2007-01-04T14:06:51+00:00
 categories:
-  - 'News on SoC &amp; IP design'
+  - 'News on SoC & IP design'
 tags:
   - ISSCC
   - Microprocessor

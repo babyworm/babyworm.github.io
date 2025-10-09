@@ -32,12 +32,12 @@ HPM/HPC는 다음 자료에서 볼 수 있는 것처럼, Mobile용도로 만들�
 
 HPC+의 freq.가 HPM보다 좋게 나온 reporting이 존재하는데.. 일단은 목적상 HPM이 더 좋은 합성 주파수가 나와줘야 할 것 같네요. (혹은 비슷한 정도라도..)
 
-&nbsp;
+ 
 
 글과 관계없는 잡설인데..
 
 오랫만에 blog에 들어왔더니,  DAC2015 글을 일부만 써 놓고 publish를 안했네요. 아.. 쩝.. 이거 어쩌지.. 글은 대충 있으니 사진 첨부해서 올해가기 전에 Publish하는 걸로.. (이미 늦을대로 늦었지만..) ㅎ
 
-&nbsp;
+ 
 
  [1]: http://community.cadence.com/cadence_blogs_8/b/ii/archive/2015/04/12/tsmc-symposium-new-16ffc-and-28hpc-processes-target-mainstream-designers-and-internet-of-things-iot

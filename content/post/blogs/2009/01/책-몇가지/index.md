@@ -15,7 +15,7 @@ tags:
 ---
 ASIC/processor 관련 책을 많이 보시라는 이야기를 해 드리고 있습니다만, 책이 워낙에 비싸죠. <br />모모 사이트와 당나귀를 적절히 이용하면 왠만한 책은 pdf로 구할 수도 있습니다만..
 
-클리앙에서 <a href="http://www.scribd.com/">http://www.scribd.com/</a>&nbsp;라는 곳에 대한 소개가 있어서 가 봤는데, 괜찮은 책이 많군요. Google 검색을 통해서 갔을때는 그냥 단순히 리포트같은거 모아둔 사이트라고 생각했는데..
+클리앙에서 <a href="http://www.scribd.com/">http://www.scribd.com/</a> 라는 곳에 대한 소개가 있어서 가 봤는데, 괜찮은 책이 많군요. Google 검색을 통해서 갔을때는 그냥 단순히 리포트같은거 모아둔 사이트라고 생각했는데..
 
 잠깐 검색해서 보이는 책 몇권 소개해 드릴께요.
 
@@ -25,7 +25,7 @@ ASIC/processor 관련 책을 많이 보시라는 이야기를 해 드리고 있�
 
 시납시스 툴을 이용하여 합성하고 STA 하는 방법에 대하여 나와있는 책이죠. 예전에 본 책입니다만, 아직도 유효한 부분이 많고, 처음 ASIC flow를 사용해 보시는 분은 한번 읽어두면 좋습니다. 간단한 예제 스크립트도 쓸만하구요.
 
-물론, Synopsys Tool에 있어서 가장 좋은 책은 Manual이에요.. 워낙에 잘쓰여져 있으니까요. 이 책은 메뉴얼 보기에 시간이 없을 때 보시면 좋습니다. 분량도 적고&#8230;
+물론, Synopsys Tool에 있어서 가장 좋은 책은 Manual이에요.. 워낙에 잘쓰여져 있으니까요. 이 책은 메뉴얼 보기에 시간이 없을 때 보시면 좋습니다. 분량도 적고…
 
 ## HDL Chip Design
 - http://www.scribd.com/doc/6888130/Dougles-Smith-Synthesis
@@ -40,7 +40,7 @@ Assertion based verification에 대하여 관심을 가지시는 분들이 반�
 ## ARM System Developers Guide-Designing and Optimizing System Software
 - http://www.scribd.com/doc/6654432/ARM-System-Developers-GuideDesigning-and-Optimizing-System-Software
 
-상당히 유명한 책이죠. 제가 본 느낌으로는 약간은 Application note의 집합과 같다는 생각이 들었습니다만, ARM 프로세서를 &#8216;사용하시는 분께&#8217; 아주 유용한 책이라는 느낌입니다. 사용하시는 분이라는 점을 강조한 이유는 최적화 프로그래밍 방법에 방점이 찍혀 있는 책이기 때문입니다. 국내에 번역서도 제 생각으로는 괜찮은 수준으로 번역되어 있습니다. (몇몇 눈에 띄는 부분이 있습니다만, 그래도 몇몇 번역서에 비하면 아~주 잘한 번역입니다.)
+상당히 유명한 책이죠. 제가 본 느낌으로는 약간은 Application note의 집합과 같다는 생각이 들었습니다만, ARM 프로세서를 ‘사용하시는 분께’ 아주 유용한 책이라는 느낌입니다. 사용하시는 분이라는 점을 강조한 이유는 최적화 프로그래밍 방법에 방점이 찍혀 있는 책이기 때문입니다. 국내에 번역서도 제 생각으로는 괜찮은 수준으로 번역되어 있습니다. (몇몇 눈에 띄는 부분이 있습니다만, 그래도 몇몇 번역서에 비하면 아~주 잘한 번역입니다.)
 
 
 ## Etc.
