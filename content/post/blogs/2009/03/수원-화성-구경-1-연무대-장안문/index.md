@@ -1,5 +1,5 @@
 ---
-title: '수원 화성 구경 #1 (연무대-장안문)'
+title: '수원 화성 구경 1 (연무대-장안문)'
 author: babyworm
 type: post
 date: 2009-03-30T00:08:50+00:00
