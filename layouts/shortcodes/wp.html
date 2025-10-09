@@ -1,0 +1,4 @@
+{{- $term := .Get 0 -}}
+{{- $displayText := .Get 1 | default $term -}}
+{{- $term_with_underscores := replace $term " " "_" -}}
+<a href="https://en.wikipedia.org/wiki/{{ $term_with_underscores | urlize }}" target="_blank" rel="noopener">{{ $displayText }}</a>
