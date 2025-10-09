@@ -1,5 +1,5 @@
 ---
-title: '광고 #1.. 달려라 달려 달달달.. 씨큐스틱, hitch'
+title: '광고 1.. 달려라 달려 달달달.. 씨큐스틱, hitch'
 author: babyworm
 type: post
 date: 2006-12-16T04:13:33+00:00
