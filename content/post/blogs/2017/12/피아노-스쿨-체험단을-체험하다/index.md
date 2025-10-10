@@ -18,9 +18,7 @@ tags:
 Facebook에서 누군가가 공유해둔 피아노 스쿨의 체험단 링크를 보고, 별 생각없이 응모했는데 생각보다 본격적인 체험단이네요.<br>
 블로그 posting에 대한 가이드라인도 있고, 오리엔테이션도 있고 말이죠. 이런 리뷰에는 왠지 아래와 같은 라인 캐릭터 아이콘이 있어야 할 것 같은 느낌이 들죠.
 
-피아노 스쿨 페이지가 Naver 블로그이기도 하고 말이죠 ([http://blog.naver.com/pianoschool365) ][1](아.. 페이스북도 있다네요. https://www.facebook.com/PianoSchool365/ )
-
-<img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/2017/12/121317_1232_1.png?w=625" alt="" data-recalc-dims="1" /> 
+피아노 스쿨 페이지가 Naver 블로그이기도 하고 말이죠 [http://blog.naver.com/pianoschool365](http://blog.naver.com/pianoschool365). 아.. 페이스북도 있다네요. https://www.facebook.com/PianoSchool365/
 
 그간 몇가지 체험 이벤트 같은 것에 당첨된 적이 있었지만, 이 정도로 자세한 가이드 라인을 주는 건 처음이라 제목이 “체험단을 체험하는” 것으로 이 글을 시작하도록 하죠. 이후로도 3번정도 글을 더 써야 하니 덕분에 살짝(이라고 쓰고 “많이”라고 읽는) 침체되어 있던 블로그에 글을 쓰는 계기가 되겠군요.
 
@@ -30,18 +28,12 @@ Facebook에서 누군가가 공유해둔 피아노 스쿨의 체험단 링크를
 
 일단 앱의 첫인상부터 이야기해야 할 것 같네요. 쓰다보니 좋지 않은 부분부터 적게 되네요.
 
-<ul style="margin-left: 38pt;">
-  <li>
-    조금 전에 이야기한 것처럼 핸드폰에서는 가독성이 “극악”입니다. 핸드폰에서 수행될 것은 전혀 생각하지 않았다고 봅니다. 강좌 중에 동영상 강좌는 핸드폰으로 미리 보는 것도 가능할 것 같은데 말이죠. (실제로는 미디 인터페이스를 연결하지 않으면 실제로 앱에서 악보를 볼 수 없으니, 미리 학습을 하는 건 불가능하겠네요)
-  </li>
-  <li>
-    교습강좌 메뉴에서는 내가 어디까지 진행했는지에 대해서 파악하기 어렵습니다. 이미 진행한 강좌는 shading 처리를 해서 구분이 되면 더 좋을 것 같습니다. 다만, 최근 연주곡 메뉴를 통해서 찾아갈 수는 있습니다.
-  </li>
-</ul>
+-    조금 전에 이야기한 것처럼 핸드폰에서는 가독성이 “극악”입니다. 핸드폰에서 수행될 것은 전혀 생각하지 않았다고 봅니다. 강좌 중에 동영상 강좌는 핸드폰으로 미리 보는 것도 가능할 것 같은데 말이죠. (실제로는 미디 인터페이스를 연결하지 않으면 실제로 앱에서 악보를 볼 수 없으니, 미리 학습을 하는 건 불가능하겠네요)
+-    교습강좌 메뉴에서는 내가 어디까지 진행했는지에 대해서 파악하기 어렵습니다. 이미 진행한 강좌는 shading 처리를 해서 구분이 되면 더 좋을 것 같습니다. 다만, 최근 연주곡 메뉴를 통해서 찾아갈 수는 있습니다.
 
 일단 한번 써보죠.. 이제 미디 케이블을 이용해서 디지털 피아노와 패드를 연결합니다. 디지털 피아노에 있는 MIDI 혹은 USB 케이블을 연결하면 OTB 소켓을 통해서 패드에 연결하면 되는데, MIDI interface를 사용해야 하는 경우에는 아래와 같은 MIDI-USB interface를 이용하면 되겠죠. 집에 있는 디지털 피아노는 USB가 바로 연결되는거라.. 쓸모는 없었지만 말이죠.
 
-<img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/2017/12/121317_1232_2.jpg?w=625" alt="" data-recalc-dims="1" /> 
+<img decoding="async" src="121317_1232_2.jpg" width=400>
 
 여하튼, 앱을 설치하고 USB를 이용해서 디지털 피아노를 연결하고 나면, 미디 인터페이스를 “디지털 스쿨” 앱으로 열 것인지가 나옵니다. (당연히 열어야죠.)<br>
 폰에서 screen capture를 이용해서 썰을 풀어보려했는데, 아무래도 악보 앱이라 그런지 캡처가 안되네요. ㅠㅠ;<br>
@@ -52,20 +44,12 @@ Facebook에서 누군가가 공유해둔 피아노 스쿨의 체험단 링크를
 또 다른 장점은 연주 옵션을 했을 때 마치 리듬게임하듯이 연주를 “시도”할 수 있다는 점입니다. 시도.. 라고 적은 이유는 제 실력이 “연주”가 가능한 상태가 아니라 그렇습니다.<br>
 참고로 피아노 연주가 가능한 딸래미는 정말 리듬 게임 하듯이 연주하더군요.
 
-<img decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/2017/12/121317_1232_3.jpg?w=625" alt="" data-recalc-dims="1" /> 
+<img decoding="async" src="featured_121317_1232_3.jpg" width=600>
 
 일단 가장 간단한 곡이라도 연주하는 게 목표이니, 한달동안 열심히 써보도록 하죠.
 
 아래 문구는 가이드라인에서 “반드시 적어 달라”는 이야기가 있어서.. (나름 양심적이구나 싶어요. ㅎㅎ) 음 .. 붙여달라는 태그도 많네요. 일단 성실하게 🙂
 
-<div>
-  <table style="border-collapse: collapse; height: 80px;" border="0" width="771">
-    <colgroup> <col style="width: 623px;" /></colgroup> <tr>
-      <td style="padding-left: 7px; padding-right: 7px; border: solid 0.5pt;">
-        <span style="font-family: 맑은 고딕;">본 체험 후기는 피아노스쿨 체험단에 선정되어 작성한 무료로 체험한 솔직한 후기입니다</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
- [1]: http://blog.naver.com/pianoschool365
+{{< notice tip >}}
+본 체험 후기는 피아노스쿨 체험단에 선정되어 작성한 무료로 체험한 솔직한 후기입니다
+{{< /notice >}}

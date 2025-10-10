@@ -79,9 +79,9 @@ tags:
 
 [체험단 공고 보러가기][3]
 
- 
-
-> ‘본 체험 후기는 피아노스쿨 체험단에 선정되어 작성한 무료로 체험한 솔직한 후기입니다’
+{{< notice tip >}}
+본 체험 후기는 피아노스쿨 체험단에 선정되어 작성한 무료로 체험한 솔직한 후기입니다
+{{< /notice >}}
 
  [1]: https://play.google.com/store/apps/details?id=com.tailwind.pianoschool&hl=ko
  [2]: https://www.youtube.com/channel/UCYj5-EOvgQytaY_N4eqCJ5w

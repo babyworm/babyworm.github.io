@@ -9,3 +9,61 @@
 .article-content.max-w-prose {
   max-width: 80ch !important;
 }
+
+/* Notice shortcode styles */
+.notice {
+  border: 1px solid #ddd;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
+
+.notice-title {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.notice-info {
+  background: #f4f8ff;
+  border-color: #cfe2ff;
+}
+
+.notice-warning {
+  background: #fff4e5;
+  border-color: #ffd8a8;
+}
+
+.notice-tip {
+  background: #f3fff4;
+  border-color: #c3f0ca;
+}
+
+.notice-note {
+  background: #f7f7f7;
+  border-color: #e5e5e5;
+}
+
+/* Dark mode support for notice */
+.dark .notice {
+  border-color: #4a5568;
+}
+
+.dark .notice-info {
+  background: #1e3a5f;
+  border-color: #2563eb;
+}
+
+.dark .notice-warning {
+  background: #5c3d1e;
+  border-color: #d97706;
+}
+
+.dark .notice-tip {
+  background: #1e4620;
+  border-color: #16a34a;
+}
+
+.dark .notice-note {
+  background: #2d3748;
+  border-color: #4a5568;
+}
