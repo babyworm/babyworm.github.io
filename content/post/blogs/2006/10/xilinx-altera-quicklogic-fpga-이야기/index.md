@@ -4,7 +4,9 @@ author: babyworm
 type: post
 date: 2006-10-21T12:16:24+00:00
 categories:
-  - 'SoC & IP design : For beginners'
+  - SoC
+  - IP design
+  - For Beginners
 tags:
   - Altera
   - FPGA

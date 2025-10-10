@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2007-06-08T03:48:09+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - arm
   - MIPS

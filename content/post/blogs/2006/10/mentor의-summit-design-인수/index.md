@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-10-25T11:42:05+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - Mentor Graphics
   - Summit Design

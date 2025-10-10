@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2010-02-28T20:00:18+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - arm
   - ATOM

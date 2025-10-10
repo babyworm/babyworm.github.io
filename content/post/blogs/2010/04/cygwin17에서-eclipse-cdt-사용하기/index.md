@@ -4,7 +4,9 @@ author: babyworm
 type: post
 date: 2010-04-10T10:34:45+00:00
 categories:
-  - 'SoC & IP design : For beginners'
+  - SoC
+  - IP design
+  - For Beginners
 tags:
   - cdt
   - cygwin

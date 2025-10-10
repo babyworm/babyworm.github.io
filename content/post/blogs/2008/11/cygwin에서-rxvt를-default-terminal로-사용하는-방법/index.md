@@ -4,7 +4,9 @@ author: babyworm
 type: post
 date: 2008-11-25T07:17:26+00:00
 categories:
-  - 'SoC & IP design : For beginners'
+  - SoC
+  - IP design
+  - For Beginners
 tags:
   - cygwin
   - RXVT

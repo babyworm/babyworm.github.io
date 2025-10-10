@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2007-04-28T16:04:15+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - Cadence
   - Debussy

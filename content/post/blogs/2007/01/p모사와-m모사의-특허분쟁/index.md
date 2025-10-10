@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2007-01-04T13:32:19+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - 비메모리 반도체
   - 상생 협력

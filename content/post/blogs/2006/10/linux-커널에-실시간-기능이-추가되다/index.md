@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-10-13T12:56:03+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - Kernel 2.6.18
   - Linux

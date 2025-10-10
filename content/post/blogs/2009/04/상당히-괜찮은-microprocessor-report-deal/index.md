@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2009-04-08T04:27:44+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - microprocessor report
   - 마이크로 프로세서

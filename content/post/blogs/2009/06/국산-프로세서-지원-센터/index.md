@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2009-06-18T23:46:08+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - 국산 프로세서 지원센터
   - 마이크로 프로세서

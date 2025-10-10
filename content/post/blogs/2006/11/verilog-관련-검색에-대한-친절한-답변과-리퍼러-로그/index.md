@@ -4,7 +4,9 @@ author: babyworm
 type: post
 date: 2006-11-10T08:26:03+00:00
 categories:
-  - 'SoC & IP design : For beginners'
+  - SoC
+  - IP design
+  - For Beginners
 tags:
   - AMD
   - arm

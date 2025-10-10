@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2007-02-25T15:02:03+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - synopsys
 

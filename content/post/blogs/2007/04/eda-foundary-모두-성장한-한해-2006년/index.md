@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2007-04-24T14:10:41+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - Cadence
   - EDA

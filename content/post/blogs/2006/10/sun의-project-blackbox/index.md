@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-10-19T00:21:50+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - Project Blackbox
   - SUN

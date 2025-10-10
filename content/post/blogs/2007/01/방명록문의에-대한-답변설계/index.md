@@ -4,7 +4,9 @@ author: babyworm
 type: post
 date: 2007-01-16T05:03:28+00:00
 categories:
-  - 'SoC & IP design : For beginners'
+  - SoC
+  - IP design
+  - For Beginners
 tags:
   - synopsys
   - Synthesis

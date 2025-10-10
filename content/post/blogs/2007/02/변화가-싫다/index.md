@@ -4,7 +4,9 @@ author: babyworm
 type: post
 date: 2007-02-19T13:54:15+00:00
 categories:
-  - 'SoC & IP design : For beginners'
+  - SoC
+  - IP design
+  - For Beginners
 tags:
   - 버그 트래킹
   - 버젼 관리

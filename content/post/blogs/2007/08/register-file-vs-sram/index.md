@@ -4,7 +4,9 @@ author: babyworm
 type: post
 date: 2007-08-29T06:35:11+00:00
 categories:
-  - 'SoC & IP design : For beginners'
+  - SoC
+  - IP design
+  - For Beginners
 tags:
   - Memory Compiler
   - Register File

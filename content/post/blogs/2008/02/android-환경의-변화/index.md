@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2008-02-14T04:39:06+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 ---
 Google에서 발표한 Linux 기반의 Opensource Handset Platform인 <A href="http://code.google.com/android/" target=_blank>Android</A>를 이용한 첫번째 휴대폰의 prototype이 나왔다고 합니다. [<A href="http://www.engadget.com/photos/google-attacks-android-at-mobile-world-congress-1/" target=_blank>http://www.engadget.com/photos/google-attacks-android-at-mobile-world-congress-1/</A>]
 

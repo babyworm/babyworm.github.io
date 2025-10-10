@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-10-18T11:03:47+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - 삼성
   - 인텔

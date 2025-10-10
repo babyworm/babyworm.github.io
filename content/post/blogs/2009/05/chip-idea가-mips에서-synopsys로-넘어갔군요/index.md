@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2009-05-16T17:26:59+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - chipidea
   - MIPS

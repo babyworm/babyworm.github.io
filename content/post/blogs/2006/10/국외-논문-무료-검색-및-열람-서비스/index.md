@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-10-24T14:47:52+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - ACM
   - IEEE

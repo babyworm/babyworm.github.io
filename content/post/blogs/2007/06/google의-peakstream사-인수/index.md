@@ -6,7 +6,8 @@ date: 2007-06-12T01:13:29+00:00
 bfa_virtual_template:
   - hierarchy
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - AMD
   - ATi

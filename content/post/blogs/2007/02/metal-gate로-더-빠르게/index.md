@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2007-02-03T12:58:11+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - AMD
   - Intel

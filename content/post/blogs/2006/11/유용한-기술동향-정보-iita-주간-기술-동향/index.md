@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2006-11-23T06:55:42+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - itfind
   - 과학 기술 정책 개발원

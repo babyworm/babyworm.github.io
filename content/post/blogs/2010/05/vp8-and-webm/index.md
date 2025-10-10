@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2010-05-21T15:14:00+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - CODEC
   - VP6

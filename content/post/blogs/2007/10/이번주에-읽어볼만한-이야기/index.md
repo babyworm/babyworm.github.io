@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2007-10-15T23:54:09+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 ---
 이번주에도 여지없이 읽어볼만한 기사들과 이야기가 많았습니다.
 

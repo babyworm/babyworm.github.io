@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2010-03-16T16:22:04+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - AMBA 4.0
   - AXI 4.0

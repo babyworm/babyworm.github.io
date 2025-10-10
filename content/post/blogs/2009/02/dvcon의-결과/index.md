@@ -4,7 +4,8 @@ author: babyworm
 type: post
 date: 2009-02-15T23:06:05+00:00
 categories:
-  - 'News on SoC & IP design'
+  - SoC
+  - IP design
 tags:
   - DVCON
   - SystemVerilog
