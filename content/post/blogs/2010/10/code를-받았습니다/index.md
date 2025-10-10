@@ -11,6 +11,8 @@ tags:
 ---
 오늘 출판사에서 증정본으로 <a href="http://www.yes24.com/24/goods/4216805" target="_blank">CODE</a>를 받았습니다.
 
+<img src="featured_code1.jpg" width=300>
+
 편집자님의 말처럼 사진으로 보던 표지보다는 훨씬 볼만하더군요. 사실 사진으로는 (엥?) 싶은 표지였는데, 받아보고 “오~” 싶더군요.<br>
 사실 양장본이라 속에 있는 은박이 🙂
 

@@ -9,13 +9,15 @@ tags:
   - 그남자 작곡 그여자 작사
 
 ---
-<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile7.uf.191532494D6A7ADD32612B.jpg?resize=400%2C600" class="aligncenter" width="400" height="600" alt="사용자 삽입 이미지" data-recalc-dims="1" /><br>
+<img loading="lazy" decoding="async" src="featured_music_lyrics.jpg"><br>
 회사에 있는 친구가 이야기해 주어서, 찾아보게 된 영화입니다. “휴 그랜트, 드류 베리모어 주연”이라는 말만 들어도 이 영화의 장르를 판단할 수 있지요? ^^;
 
 로맨틱 코미디의 장르상 보는 내내 ‘실실 웃으며’ 영화를 보았습니다. 뭐랄까 마음이 좀 착해지는 느낌이랄까요..^^;<br>
 이 영화에서는 음악이란 부분을 앞으로 내세우고 있지만, 장르상 요식 행위이긴 해요..그럼에도 불구하고, 음악의 힘이란 것이 쉽사리 무시하긴 어렵죠. 하나의 곡을 완성해 나가듯이 사랑도 완성해 나간다는 식이니까요..
 
-YouTube에서 검색한 OST입니다. 
+YouTube에서 검색한 OST입니다.
+
+{{< youtube xVkU8dDSC9w >}}
 
 이 영화에 휴 그랜트가 1980년대의 전설적인 (가상)2인조 그룹인 POP! 이라는 그룹의 멤버로 나오는데요.<br>
 처음 내용에 보면, 팀 해체후 한명은 대성공을 거두었는데, 한명은 뭐하는지도 모르는 상태가 되죠. (그게 휴 그랜트인데요..)

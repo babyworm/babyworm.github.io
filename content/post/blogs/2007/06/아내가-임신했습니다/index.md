@@ -6,7 +6,7 @@ date: 2007-06-23T04:46:30+00:00
 categories:
   - 아빠되기
 ---
-<img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/ck0.JPG?resize=500%2C375" class="aligncenter" width="500" height="375" alt="사용자 삽입 이미지" data-recalc-dims="1" /><br>
+<img loading="lazy" decoding="async" src="featured_ck0.JPG"><br>
 6월 9일날 알았습니다.<br>
 무슨 말이 필요하겠습니까 🙂
 
