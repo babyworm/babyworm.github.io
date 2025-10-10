@@ -71,13 +71,12 @@ ADChips Inc.
 
 Domain information
 <ul>
-  <li> <http://babyworm.net>: 개인 도메인. </li>
-  <li> <https://babyworm.github.io> 작업중인 blog인데, 아마도 위의 주소가 이쪽을 지정하게 될 듯. </li>
+  <li> <a href="http://babyworm.net">http://babyworm.net</a>: 개인 도메인. </li>
+  <li> github repository에서 Github/Cloudflare로 deply하는 형태입니다. </li>
 </ul>
 
 Page information
 <ul>
-  <li> Cloudflare page로 deploy하고 있습니다.</li>
   <li> Domain Due (babyworm.net): 2030-04-24 ; <a href="ttps://www.cloudflare.com/ko-kr/">cloudflare</a> </li>
   <li> hosting due: 2025.11.04 ; <a href="https://www.cafe24.com/ecommerce/hosting/">cafe24</a> </li>
 
