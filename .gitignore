@@ -5,6 +5,7 @@
 public/
 resources/
 node_modules/
+backup/
 
 .hugo_build.lock
 hugo_stats.json
