@@ -27,9 +27,15 @@ menu:
 ### 1. Notice (알림 박스)
 정보, 경고, 팁 등의 알림 박스를 표시합니다.
 
-```markdown
-{{</* notice info */>}}정보 메시지{{</* /notice */>}}
-{{</* notice type="warning" title="주의" */>}}경고 메시지{{</* /notice */>}}
+-`notice`
+  - info
+  - warning
+  - tip
+  - note
+- `/notice`
+
+```
+notice param title
 ```
 
 **파라미터:**
