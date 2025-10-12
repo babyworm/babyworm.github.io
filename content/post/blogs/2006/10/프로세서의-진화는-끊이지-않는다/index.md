@@ -28,8 +28,8 @@ ISSCC의 발표에 의하면 65nm 공정에서 4GHz라고 하더니만, 어제 [
 또한가지 Sun의 재미있는 실험은 Niagra에 사용된 UltraSPARC T1  Core가 GPL에 의거해서 open되었다는 점입니다. OpenSPARC이란 이름으로 말이죠. <http://www.opensparc.net/> 에서 {{< wikipedia "OpenSparcT1" >}}의 모든 소스코드와 합성 스크립트를 얻으실 수 있습니다. 저도 몇달전에 받아서 합성 스크립트 만드는데 (감동과 ^^;) 도움을 받고 있습니다. 적어도 open source processor보다는 잘 만들어야한다는 막중한 중압감에 눌리는 중입니다. -_-;
 
 <div style="width: 250px" class="wp-caption aligncenter">
-  <img loading="lazy" decoding="async" src="https://i0.wp.com/babyworm.net/wordpress/wp-content/uploads/1/cfile4.uf.2067384F4D6A7A921BA466.jpg?resize=240%2C241" alt="" width="240" height="241" data-recalc-dims="1" />
-  
+  <img loading="lazy" decoding="async" src="featured_opensparc.jpg">
+
   <p class="wp-caption-text">
     OpenSparc 프로세서
 
