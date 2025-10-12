@@ -26,7 +26,7 @@ Cortex-R4F 프로세서는 F(fault-Tolerant)라는 약자에서 알수 있듯, �
 사실 cortex-R4F에 내장된 프로세서 자체는 fault-tolerant embedded microprocessor라기에는 좀 기능이 약하죠.. 물론 ECC같은 처리 기능을 processor pipeline안에 내장했다는 것은 추가적인 시간 지연을 적게 요구하니까 좋은 생각입니다만,Cortex의 processor core 자체의 falat를 교정하는 방법보다는 인터페이스 과정(메모리든, I/O든..)에서의 오류에 중심을 둔것으로 보입니다.<br>
 하긴, 범용 마이크로 프로세서에서 항공우주쪽의 application을 위하여 개발된 프로세서와 같이 reduncency를 이용한 fault-tolerant이 적용된 프로세서를 채용하기는 무리가 있겠지요.
 
-Cortex-R4F는 합성 옵션이 있는 부동소수점 처리장치(FPU: Floating-Point Unit)를 제공한다는데, 아마도 configurable FPU 겠지요. {{< wikipedia "Mathwork >}} ({{< wp Matlab >}}을 만든회사)와의 공동 작업도 있고하니, 편의성은 아주 좋겠습니다.
+Cortex-R4F는 합성 옵션이 있는 부동소수점 처리장치(FPU: Floating-Point Unit)를 제공한다는데, 아마도 configurable FPU 겠지요. {{< wikipedia Mathwork >}} ({{< wp Matlab >}}을 만든회사)와의 공동 작업도 있고하니, 편의성은 아주 좋겠습니다.
 
 제일 부러운점은 ARM이 인수한 phyciscal library 제작사인 {{< wikipedia "Artisan" >}}의 Advantage 라이브러리를 ARM에 최적화해서 제공해 준다는것…. (개인적으로는 ARM의 Artisan 인수에 좌절이었습니다. 같은 RTL에서 더 좋은 합성 결과를 보장해 주는 마법이니까요..)
 
