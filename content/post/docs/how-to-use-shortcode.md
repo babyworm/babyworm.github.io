@@ -17,8 +17,11 @@ menu:
     weight: 99
 ---
 
+{{< notice info "이 글은" >}}
+이 페이지는 babyworm이 글을 쓸때마다 잊어버려서 적은 글입니다.
+{{< /notice >}}
 
-이 블로그는 Hugo shortcode를 통해 다양한 콘텐츠 요소를 삽입할 수 있습니다.
+
 
 ## Custom Shortcodes
 
@@ -27,15 +30,10 @@ menu:
 ### 1. Notice (알림 박스)
 정보, 경고, 팁 등의 알림 박스를 표시합니다.
 
--`notice`
-  - info
-  - warning
-  - tip
-  - note
-- `/notice`
-
-```
-notice param title
+```markdown
+{{</* notice info title */>}}
+Notice 내용
+{{</* /notice */>}}
 ```
 
 **파라미터:**
