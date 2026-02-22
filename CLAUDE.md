@@ -26,11 +26,45 @@ hugo server -D --disableFastRender --bind 0.0.0.0 --baseURL http://localhost:131
 ```
 
 ### Content Management
-```bash
-# Create a new post (uses archetype from archetypes/default.md)
-hugo new content/post/blogs/my-new-post.md
 
-# Create a new doc
+**블로그 포스트 생성 (Page Bundle 구조)**
+
+이 블로그는 `연도/월/slug/index.md` 형태의 Page Bundle 구조를 사용합니다:
+
+```bash
+# 1. 폴더 생성 (연도/월/slug 구조)
+mkdir -p content/post/blogs/$(date +%Y)/$(date +%m)/my-post-slug
+
+# 2. index.md 파일 생성
+cat > content/post/blogs/$(date +%Y)/$(date +%m)/my-post-slug/index.md << 'EOF'
+---
+title: "포스트 제목"
+description: "포스트 설명"
+date: $(date +%Y-%m-%dT%H:%M:%S%:z)
+draft: true
+tags: ["태그1", "태그2"]
+categories: ["Technology"]
+showComments: true
+---
+
+## 들어가며
+
+내용을 작성하세요.
+EOF
+```
+
+**예시 경로**:
+- `content/post/blogs/2026/01/llm-ai-coding-agents/index.md`
+- `content/post/blogs/2024/03/semiconductor-design-tips/index.md`
+
+**Page Bundle의 장점**:
+- 같은 폴더에 이미지 등 리소스를 함께 저장 가능
+- 포스트별 리소스 관리가 용이함
+
+**참고**: `hugo new` 명령어는 이 구조를 자동 생성하지 않으므로 수동으로 폴더를 만들어야 합니다.
+
+```bash
+# Create a new doc (단일 파일 구조)
 hugo new content/post/docs/my-new-doc.md
 ```
 
@@ -60,11 +94,18 @@ content/
 ├── about.md              # About page
 ├── books.md              # Book list/reviews
 └── post/
-    ├── blogs/            # Main blog posts (100+ technical articles)
+    ├── blogs/            # Main blog posts (Page Bundle 구조)
+    │   └── 연도/
+    │       └── 월/
+    │           └── post-slug/
+    │               ├── index.md      # 포스트 본문
+    │               └── image.png     # (선택) 포스트 이미지
     ├── docs/             # Documentation posts
     ├── demo/             # Demo/example posts
     └── other/            # Miscellaneous content
 ```
+
+**블로그 포스트 경로 예시**: `content/post/blogs/2026/01/my-post/index.md`
 
 ### Layouts and Customization
 Custom layouts are in `layouts/`:
