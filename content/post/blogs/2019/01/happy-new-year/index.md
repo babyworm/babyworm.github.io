@@ -3,6 +3,8 @@ title: Happy New Year!
 author: babyworm
 type: post
 date: 2018-12-31T16:18:38+00:00
+aliases:
+  - /archives/2113
 categories:
   - 개인적인
 ---

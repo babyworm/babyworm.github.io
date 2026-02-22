@@ -3,6 +3,8 @@ title: 뽀득이 업데이트
 author: babyworm
 type: post
 date: 2017-05-08T10:16:50+00:00
+aliases:
+  - /archives/1972
 categories:
   - 개인적인
 ---

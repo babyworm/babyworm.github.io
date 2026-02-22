@@ -3,6 +3,8 @@ title: DVCON 2017 간략 리뷰
 author: babyworm
 type: post
 date: 2017-03-05T16:15:57+00:00
+aliases:
+  - /archives/1944
 categories:
   - CAD tools
   - News
