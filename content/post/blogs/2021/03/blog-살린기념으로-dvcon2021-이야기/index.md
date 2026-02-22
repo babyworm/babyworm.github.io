@@ -3,6 +3,8 @@ title: Blog 살린기념으로 DVCON2021 이야기
 author: babyworm
 type: post
 date: 2021-03-06T16:07:52+00:00
+aliases:
+  - /archives/2248
 categories:
   - 개인적인
 ---

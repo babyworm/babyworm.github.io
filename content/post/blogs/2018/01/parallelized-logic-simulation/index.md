@@ -3,6 +3,8 @@ title: Parallelized Logic Simulation
 author: babyworm
 type: post
 date: 2018-01-09T17:22:51+00:00
+aliases:
+  - /archives/2051
 categories:
   - CAD tools
   - SoC

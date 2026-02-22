@@ -1,8 +1,9 @@
 ---
 title: "요즘 사용하고 있는 LLM/AI coding agent들"
+author: babyworm
+type: post
 description: "Coding Agent와 Native AI"
 date: 2026-02-22T13:27:58+09:00
-draft: true
 tags: ["AI", "Claude", "개발도구"]
 categories: ["Technology"]
 showComments: true

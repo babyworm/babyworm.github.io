@@ -3,6 +3,8 @@ title: 'DVCON US  2020 virtual conference'
 author: babyworm
 type: post
 date: 2020-12-17T06:28:29+00:00
+aliases:
+  - /archives/2205
 categories:
   - SoC
   - IP design

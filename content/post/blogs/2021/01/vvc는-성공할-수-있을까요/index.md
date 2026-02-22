@@ -3,6 +3,8 @@ title: VVC는 성공할 수 있을까요?
 author: babyworm
 type: post
 date: 2021-01-28T18:25:38+00:00
+aliases:
+  - /archives/2231
 categories:
   - Video Codec
 tags:
